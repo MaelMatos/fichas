@@ -2,15 +2,15 @@ Nome: ryuma
 Clã: ?
 Shin: 0
 Pv: 0/0
-Pm: 26/26
+Pm: 13/35
 
 Atributos(15)
 Força: 0
-Habilidade: 8
+Habilidade: 12
 Resistência: 0
 Poder de fogo: 0
-Vontade: 3
-Nnus: 4
+Vontade: 4
+Nnus: 5
 
 Caminho(8)
 Nnus: 2
