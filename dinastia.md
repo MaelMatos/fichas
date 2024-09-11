@@ -29,7 +29,7 @@ Desvantagens:
 
 Itens
 - lamina tola
-  - dano 20 | equipamento digno | vorpal | aparencia inofensiva | deflexão | reflexão | ataque oportuno | retornavel
+  - dano 26 | equipamento digno | vorpal | aparencia inofensiva | deflexão | reflexão | ataque oportuno | retornavel
 
 Tecnicas:
 - reversão: morto
