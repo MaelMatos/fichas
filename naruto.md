@@ -1,4 +1,4 @@
-Nome: luke ~~hellsing~~ /n
+Nome: luke ~~hellsing~~
 Clã: hellsing
 Status Ninja  - 
 Ryo 5800
