@@ -13,9 +13,9 @@ Vontade: 4
 Nnus: 5
 
 Caminho(8)
-Nnus: 2
+kai: 2
 Marcial: 4
-Nnus ilusório: 2 
+mugen ilusório: 2 
 
 Vantagens:
 - equipamento
