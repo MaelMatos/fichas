@@ -5,7 +5,7 @@ Ryo 5800
 Sensei - 
 PV | 40/680+0/107+81/81
 escudo | 38/38
-Chakra | 106/106+16/55+20/20
+Chakra | 106/106+16/55+5/20
 controle de chackra | 0/106 + 0/55 + 0/20
 13/turno
 8 ck
