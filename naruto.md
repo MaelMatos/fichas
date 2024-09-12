@@ -9,11 +9,10 @@ Chakra | 106/106+16/55+20/20
 controle de chackra | 0/106 + 0/55 + 0/20
 13/turno
 8 ck
-8
 
 Atributos(10+30)
 Força: 1+4+2
-Habilidade: 12+6+2
+Habilidade: 13+6+2
 Resistencia:  26+4+2(+2)
 Poder de Fogo:  1+4+2 -> 7
 Vontade: 9+5+2-> 20
@@ -74,7 +73,7 @@ Comunicador de curto alcance
 1 granada de fumaça lvl 2
 mapa hellsing
 colote bege: +5 defesa +2 resistencia +5 de redução de dano(perfuração)
-casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->708,desabilita regen)|emudecimento|paralisia|espiritual|(8/8)
+casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->708,desabilita regen)|emudecimento|paralisia|espiritual| arma-escudo | vorpal | (7/8)
 ~~sopro divino: 28 dano|paralisia|sangramento~~
 ~~kit de costura(0/3)~~
 
@@ -88,6 +87,7 @@ Vantagens(1+29)
 - recuperação de energia(4)
 - interpor(3)
 - ataque multiplo(2)
+- combo(2)
 - area de batalha(4)
 - energia vital
 - vigoroso
