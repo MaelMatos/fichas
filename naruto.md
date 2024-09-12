@@ -9,6 +9,7 @@ Chakra | 106/106+16/55+20/20
 controle de chackra | 0/106 + 0/55 + 0/20
 13/turno
 8 ck
+8
 
 Atributos(10+30)
 Força: 1+4+2
@@ -34,6 +35,7 @@ Kawarimi - 1/1 p/ Dia
 Kinobori
 Henge
 Bushin - 5 de chakra
+Bushin de água(pode usar jutsu de agua) - 25 de chakra(define ck e hp)
 cintilação corporal - 15 chackra
 - estilo água: Técnica de Ocultação na Névoa
   - custo: 5 
