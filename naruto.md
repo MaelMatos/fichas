@@ -3,17 +3,17 @@ Clã: hellsing
 Status Ninja  - 
 Ryo 5800
 Sensei - 
-PV | 40/680+0/107+81/81
-escudo | 38/38
-Chakra | 106/106+16/55+5/20
-controle de chackra | 0/106 + 0/55 + 0/20
+PV | 0/680+0/107+0/81
+escudo | 0/38
+Chakra | 0/106+53/55+0/20
+controle de chackra | 106/106 + 55/55 + 0/20
 13/turno
 8 ck
 
 Atributos(10+30)
 Força: 1+4+2
 Habilidade: 13+6+2
-Resistencia:  26+4+2(+2)
+Resistencia:  26+4+2
 Poder de Fogo:  1+4+2 -> 7
 Vontade: 9+5+2-> 20
 Chakra: 7+3+2-> 11
@@ -62,18 +62,18 @@ Kit Ninja:
 10/10 Kunai (a cada 3 +1 de dano)
 15/15 Shuriken (a cada 3 +2 de dano)
 10/10 Senbon (a cada 5 +2 de dano) + paralisia
-2/2 papel bomba
+0/2 papel bomba
 1/1 selo de luz
 1/1 granada de fumaça
 1/1 linha ninja
 Comunicador de curto alcance
 2/2 pilulas de chakra lvl 1 (+10)
-2/2 pilulas de hp lvl 1 (+10)
-1 óleo 
+1/2 pilulas de hp lvl 1 (+10)
+~~1 óleo ~~
 1 granada de fumaça lvl 2
 mapa hellsing
 colote bege: +5 defesa +2 resistencia +5 de redução de dano(perfuração)
-casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->708,desabilita regen)|emudecimento|paralisia|espiritual| arma-escudo | vorpal | (7/8)
+casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->708,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (5/8)
 ~~sopro divino: 28 dano|paralisia|sangramento~~
 ~~kit de costura(0/3)~~
 
