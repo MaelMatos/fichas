@@ -26,6 +26,7 @@ uraugan R4
  - roubo de vida por sangramento
  - permite dreno de vida em tecnicas
  - ver emoções
+marca da maldição lvl 1(+2 em todas estatisticas)
 akumaton
 bukijutsu
 
@@ -136,5 +137,5 @@ anotações:
 - sangue perde pra agua e raio
 - falar com o chunim hellsing
 - akumaton tem 3 fraquezas-> luz+2 kekkei genkai
-- bobmbas não precisam acertar o alvo
+- bombas não precisam acertar o alvo
 - colocar dano gigante em minhas ults
