@@ -39,17 +39,17 @@ cintilação corporal - 15 chackra
 - estilo água: Técnica de Ocultação na Névoa
   - custo: 5 
 - estilo fogo: grande bola de fogo
- - custo: 5 | dano 10
+ - custo: 18 | dano 35
 - bukijutsu: guarda-chuva de senbon
-  - custo 10  |dano 15 | dano em area | paralisia
+  - custo 23  |dano 40 | dano em area | paralisia
 - kenjutsu: rotação divina
-  - custo 15 | dano 20 | escalonavel(5 por novo alvo,até 5x) | alvo multiplo
+  - custo 28 | dano 45 | escalonavel(5 por novo alvo,até 5x) | alvo multiplo
 - estilo água: espiral d'água
-  - custo: 23 | dano 40 | amplificador 
+  - custo: 36 | dano 65 | amplificador 
 - bukkijutsu: marionetagem
-  - custo 30 | dano 50 | paralisia II 
+  - custo 43 | dano 75 | paralisia II 
 - akumaton: punho enraizador
-  - custo 38 | dano 75 | enfraquecer | dreno de vida | reciclavel
+  - custo 51 | dano 100 | enfraquecer | dreno de vida | reciclavel
 - akumaton: sombra com instinto assassino infinito
  - custo: 75 | 4 rodadas | ligação natural | dreno em arêa
 - tecnica de invocação secreta hellsing: o cão de baskeville
@@ -108,6 +108,7 @@ Desvantagens (1)
 - Dreno de chakra->8/turno
 - Fúria a partir dos 5% de chakra->5
 - Ambiente especial: o sol os odeia.
+- procurado
 
 
 Caminho Shinobi (3+4)
