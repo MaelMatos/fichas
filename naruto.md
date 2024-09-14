@@ -3,10 +3,10 @@ Clã: hellsing
 Status Ninja  - 
 Ryo 5800
 Sensei - 
-PV | 0/680+0/107+0/81
+PV | 1/680+0/107+0/81
 escudo | 0/38
-Chakra | 0/106+53/55+0/20
-controle de chackra | 106/106 + 55/55 + 0/20
+Chakra | 1/106+0/55+0/20
+controle de chackra | 0/106 + 0/55 + 0/20
 13/turno
 8 ck
 
