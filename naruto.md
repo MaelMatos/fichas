@@ -3,20 +3,19 @@ Clã: hellsing
 Status Ninja  - 
 Ryo 5800
 Sensei - 
-PV | 1/680+0/107+0/81
+PV | 1/1150+0/107+0/81
 escudo | 0/38
 Chakra | 1/106+0/55+0/20
 controle de chackra | 0/106 + 0/55 + 0/20
 13/turno
 8 ck
-25
 
 Atributos(10+30)
 Força: 1+4+2
-Habilidade: 14+6+2
+Habilidade: 19+6+2
 Resistencia:  26+4+2
 Poder de Fogo:  1+4+2 -> 7
-Vontade: 9+5+2-> 20
+Vontade: 11+5+2-> 20
 Chakra: 7+3+2-> 11
 
 uraugan R4
@@ -36,7 +35,14 @@ Kinobori
 Henge
 Bushin - 5 de chakra
 Bushin de água(pode usar jutsu de agua) - 25 de chakra(define ck e hp)(25+dano)
+bushin de akumaton - ? hp de custo(define vida e chackra)(usa jutsu)
 cintilação corporal - 15 chackra
+**munições especiais(+50 hp custo):**
+akumaton: munição viva(rouba 40 de hp e ck/rodada)
+bukkijutsu: munição anti-blindagem
+bukkijutsu: munição oca
+bukkijutsu: munição incendiaria
+bukkijutsu: munição mercurio
 - estilo água: Técnica de Ocultação na Névoa
   - custo: 5 
 - estilo fogo: grande bola de fogo
@@ -46,7 +52,7 @@ cintilação corporal - 15 chackra
 - kenjutsu: rotação divina
   - custo 28 | dano 45 | escalonavel(5 por novo alvo,até 5x) | alvo multiplo
 - akumaton: baforada diabólica
-  - custo 25 | dano 50 | vorpal | dreno de vida
+  - custo 25 | dano 50 | vorpal | dreno de vida | arma-escudo
 - estilo água: espiral d'água
   - custo: 36 | dano 65 | amplificador 
 - bukkijutsu: marionetagem
