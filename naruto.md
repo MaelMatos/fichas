@@ -9,6 +9,7 @@ Chakra | 1/106+0/55+0/20
 controle de chackra | 0/106 + 0/55 + 0/20
 13/turno
 8 ck
+25
 
 Atributos(10+30)
 Força: 1+4+2
@@ -34,7 +35,7 @@ Kawarimi - 1/1 p/ Dia
 Kinobori
 Henge
 Bushin - 5 de chakra
-Bushin de água(pode usar jutsu de agua) - 25 de chakra(define ck e hp)
+Bushin de água(pode usar jutsu de agua) - 25 de chakra(define ck e hp)(25+dano)
 cintilação corporal - 15 chackra
 - estilo água: Técnica de Ocultação na Névoa
   - custo: 5 
@@ -44,18 +45,22 @@ cintilação corporal - 15 chackra
   - custo 23  |dano 40 | dano em area | paralisia
 - kenjutsu: rotação divina
   - custo 28 | dano 45 | escalonavel(5 por novo alvo,até 5x) | alvo multiplo
+- akumaton: baforada diabólica
+  - custo 25 | dano 50 | vorpal | dreno de vida
 - estilo água: espiral d'água
   - custo: 36 | dano 65 | amplificador 
 - bukkijutsu: marionetagem
   - custo 43 | dano 75 | paralisia II 
 - akumaton: punho enraizador
   - custo 51 | dano 100 | enfraquecer | dreno de vida | reciclavel
+- estilo fogo: seta do turbilhão flamejante
+  - custo 93 | dano  160 | dano gigante | em area | irrefreavel | vorpal | ataque carrregado
 - akumaton: sombra com instinto assassino infinito
  - custo: 75 | 4 rodadas | ligação natural | dreno em arêa
 - tecnica de invocação secreta hellsing: o cão de baskeville
   - custo 161 CK MAX + 393 HP | desabilita regen | permite usar tecnicas mesmo em furia | 1200 hp
 - ataque combinado: esfera destruidora de corpos e mentes
-  - custo 75 HP | dano 75 | sangramento | sufocamento | paralisia | dano em area | dreno de vida 
+  - custo 100 HP | dano 100 | sangramento | sufocamento | paralisia | dano em area | dreno de vida 
 
 Inventário(+6)
 Kit Ninja:
