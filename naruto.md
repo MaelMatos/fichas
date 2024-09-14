@@ -84,7 +84,7 @@ Comunicador de curto alcance
 1 granada de fumaça lvl 2
 mapa hellsing
 colote bege: +5 defesa +2 resistencia +5 de redução de dano(perfuração)
-casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->708,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (5/8)
+casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (5/8)
 ~~sopro divino: 28 dano|paralisia|sangramento~~
 ~~kit de costura(0/3)~~
 
