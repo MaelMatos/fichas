@@ -12,7 +12,7 @@ controle de chackra | 106/106 + 55/55 + 0/20
 
 Atributos(10+30)
 Força: 1+4+2
-Habilidade: 13+6+2
+Habilidade: 14+6+2
 Resistencia:  26+4+2
 Poder de Fogo:  1+4+2 -> 7
 Vontade: 9+5+2-> 20
@@ -49,7 +49,7 @@ cintilação corporal - 15 chackra
 - bukkijutsu: marionetagem
   - custo 30 | dano 50 | paralisia II 
 - akumaton: punho enraizador
-  - custo 38 | dano 75 | enfraquecer | dreno de vida
+  - custo 38 | dano 75 | enfraquecer | dreno de vida | reciclavel
 - akumaton: sombra com instinto assassino infinito
  - custo: 75 | 4 rodadas | ligação natural | dreno em arêa
 - tecnica de invocação secreta hellsing: o cão de baskeville
