@@ -10,7 +10,7 @@ controle de chackra | 0/106 + 0/55 + 0/20
 13/turno
 8 ck
 
-Atributos(10+30)
+Atributos(10+65)
 Força: 1+4+2
 Habilidade: 19+6+2
 Resistencia:  36+4+2
@@ -29,7 +29,7 @@ uraugan R4
 akumaton
 bukijutsu
 
-Tecnicas(2+1)
+Tecnicas
 Kawarimi - 1/1 p/ Dia
 Kinobori
 Henge
@@ -68,7 +68,7 @@ bukkijutsu: munição mercurio
 - ataque combinado: esfera destruidora de corpos e mentes
   - custo 100 HP | dano 100 | sangramento | sufocamento | paralisia | dano em area | dreno de vida 
 
-Inventário(+6)
+Inventário(+9)
 Kit Ninja:
 10/10 Kunai (a cada 3 +1 de dano)
 15/15 Shuriken (a cada 3 +2 de dano)
@@ -88,7 +88,7 @@ casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita
 ~~sopro divino: 28 dano|paralisia|sangramento~~
 ~~kit de costura(0/3)~~
 
-Vantagens(1+29)
+Vantagens(1+48)
 - adaptador(3)
 - superação(4)
 - vitalidade(4)
