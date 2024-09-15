@@ -1,5 +1,5 @@
 # Status
-Nome: Lucius Gaunt
+Nome: Lucius Gaunt  
 Classificação: Meio Bruxo
 Casa:
 ![[Pasted image 20240915182321.png]]
