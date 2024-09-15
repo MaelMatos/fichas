@@ -1,5 +1,5 @@
 # Status
-Nome:
+Nome: Lucius Riddle
 Classificação: Meio Bruxo
 Casa:
 Vida:
