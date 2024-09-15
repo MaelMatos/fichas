@@ -21,6 +21,8 @@ Mana:
 Força:   
 Magia:  
 
+# Magias
+- Reparus
 # inventario  
 - varinha de bétula  
 
@@ -31,4 +33,3 @@ esse trauma tornou Lucius em outro alguém, ele já não era mais a criança gen
 desde então Lucius viveu 2 anos sozinho, isso até ser convidado para a escola de magia hogwarts, no caminho ele ganho a coruja **Solid**  
 
 # Anotação
-- Reparus
