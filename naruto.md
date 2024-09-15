@@ -7,9 +7,9 @@ PV | 441/1170+0/107+0/81
 escudo | 0/38
 Chakra | 37/106+/55+0/20
 controle de chakra | 0/106 + 0/55 + 0/20
-[[custo uraugan]]
-fúria
-regen
+[[#^a861ee|dreno de chakra: 13]]
+[[#^15efc3|fúria: 8]]  
+[[#^b97c9d|regen: 56]]
 
 # Atributos(10+65)
 Força: 1+4+2
@@ -110,7 +110,7 @@ casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita
 - poder oculto
 - equipamento: mapa hellsing
 - parceria: ryuji
-- regeneração III: 56/rodada
+- regeneração III: 56/rodada ^b97c9d
   - criar membros menores
   - imunidade a veneno
   - "imunidade" a sangramento
@@ -121,8 +121,8 @@ casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita
 - devoção: buscar as origens do clã
 - protegido indefeso: Ryuji
 - Má fama.
-- Dreno de chakra->13/turno
-- Fúria a partir dos 5% de chakra->8
+- Dreno de chakra->13/turno ^a861ee
+- Fúria a partir dos 5% de chakra->8 ^15efc3
 - Ambiente especial: o sol os odeia.
 - procurado
 
