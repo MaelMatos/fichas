@@ -8,17 +8,19 @@ Energia /
 Armadura /   
 
 # Atributos 8
-Força   
-Resistência   
-Habilidade   
-Poder de Fogo   
-Inteligência   
-Vontade   
+Força: 0  
+Resistência: 1  
+Habilidade: 2  
+Poder de Fogo: 1   
+Inteligência: 2  
+Vontade; 2+1   
 
-Inventário ()
+# Inventário ()
 
-Implantes ()
+# Implantes ()
 
-Vantagens 2 
-
-Desvantagens 2
+# Vantagens 2 
+- influencia
+- base de operações
+- equipamento
+# Desvantagens 2
