@@ -1,8 +1,9 @@
+# Status
 Nome: Luke ~~hellsing~~
 Clã: hellsing
-Status Ninja  - 
-Ryo 5800
-Sensei - 
+Status Ninja : ~~Genin~~ Nukenin
+Ryo: 5800
+Sensei: ~~Mirai Ryuki~~ Orochimaru
 PV | 441/1170+0/107+0/81
 escudo | 0/38
 Chakra | 37/106+/55+0/20
@@ -25,9 +26,9 @@ uraugan R4
  - visão noturna
  - visão de longa distancia
  - roubo de vida por sangramento
- - permite dreno de vida em tecnicas
+ - permite dreno de vida em técnicas
  - ver emoções
-marca da maldição lvl 1(+2 em todas estatisticas)
+marca da maldição lvl 1(+2 em todas estatísticas)
 akumaton
 bukijutsu
 
@@ -83,12 +84,12 @@ Kit Ninja:
 1/1 granada de fumaça
 1/1 linha ninja
 Comunicador de curto alcance
-2/2 pilulas de chakra lvl 1 (+10)
-1/2 pilulas de hp lvl 1 (+10)
+2/2 pílulas de chakra lvl 1 (+10)
+1/2 pílulas de hp lvl 1 (+10)
 ~~1 óleo ~~
 1 granada de fumaça lvl 2
 mapa hellsing
-colote bege: +5 defesa +2 resistencia +5 de redução de dano(perfuração)
+colete bege: +5 defesa +2 resistência +5 de redução de dano(perfuração)
 casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (6/8)
 ~~sopro divino: 28 dano|paralisia|sangramento~~
 ~~kit de costura(0/3)~~
