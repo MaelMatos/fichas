@@ -26,5 +26,5 @@ Vontade; 2+1
 - base de operações
 - equipamento
 # Desvantagens 2
-- insano: depressivo
-- 
+- insano: assombrado
+- insano: paranoico
