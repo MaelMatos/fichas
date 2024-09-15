@@ -1,7 +1,7 @@
 # Status
 Nome: Lucius Gaunt  
 Classificação: Meio Bruxo  
-Casa:  
+Casa:  sonserina
 ![[Pasted image 20240915182321.png]]  
 Dinheiro: 130  
 Vida:  
