@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a5e89057d1ce577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "harry_potter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "naruto.md",
+                "file": "harry_potter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "naruto.md",
+                "file": "harry_potter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "naruto.md"
+                "file": "harry_potter.md"
               }
             }
           },
@@ -168,10 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f8eb5881f77c7b5",
+  "active": "6a5e89057d1ce577",
   "lastOpenFiles": [
-    "^d12b6d.md",
     "naruto.md",
+    "harry_potter.md",
+    "Sem título.canvas",
+    "^d12b6d.md",
     "texto.md",
     "custo do uraugan^^d12b6d.md",
     "crusto do uraugan.md",
