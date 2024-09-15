@@ -22,7 +22,7 @@ Força:
 Magia:  
 
 # Magias
-- Reparus
+- Reparo
 # inventario  
 - varinha de bétula  
 
