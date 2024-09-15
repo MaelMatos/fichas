@@ -20,6 +20,7 @@ Mana:
 # Perícias  
 Força:   
 Magia:  
+Magia das Trevas:
 
 # Magias
 - Reparo
