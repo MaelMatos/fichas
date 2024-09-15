@@ -3,12 +3,18 @@ Clã: hellsing
 Status Ninja  - 
 Ryo 5800
 Sensei - 
-PV | 1/1170+0/107+0/81
+PV | 1128/1170+0/107+0/81
 escudo | 0/38
-Chakra | 1/106+0/55+0/20
+Chakra | 47/106+0/55+0/20
 controle de chackra | 0/106 + 0/55 + 0/20
 13/turno
 8 ck
+clone A 25/25 hp 25/25 ck
+clone B 25/25 hp 25/25 ck
+clone C 25/25 hp 25/25 ck
+clone D 30/30 hp 30/30 ck
+clone E 30/30 hp 30/30 ck
+clone F 30/30 hp 30/30 ck
 
 Atributos(10+65)
 Força: 1+4+2
@@ -85,7 +91,7 @@ Comunicador de curto alcance
 1 granada de fumaça lvl 2
 mapa hellsing
 colote bege: +5 defesa +2 resistencia +5 de redução de dano(perfuração)
-casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (5/8)
+casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (8/8)
 ~~sopro divino: 28 dano|paralisia|sangramento~~
 ~~kit de costura(0/3)~~
 
