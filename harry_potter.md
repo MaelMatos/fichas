@@ -26,6 +26,7 @@ Magia das Trevas: 4
 - Reparo
 # inventario  
 - varinha de bétula  
+- amuleto de coruja
 
 # História
 nascido de pai buxo e mãe trouxa, Lucius perdeu seus pais muito cedo, seu pai aos 3 anos e sua mãe aos 14  
