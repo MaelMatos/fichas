@@ -1,5 +1,5 @@
 # Status
-Nome: Lucius Riddle
+Nome: Lucius Gaunt
 Classificação: Meio Bruxo
 Casa:
 Vida:
