@@ -1,22 +1,17 @@
-Nome: luke ~~hellsing~~
+Nome: Luke ~~hellsing~~
 Clã: hellsing
 Status Ninja  - 
 Ryo 5800
 Sensei - 
-PV | 1128/1170+0/107+0/81
+PV | 441/1170+0/107+0/81
 escudo | 0/38
-Chakra | 47/106+0/55+0/20
-controle de chackra | 0/106 + 0/55 + 0/20
-13/turno
-8 ck
-clone A 25/25 hp 25/25 ck
-clone B 25/25 hp 25/25 ck
-clone C 25/25 hp 25/25 ck
-clone D 30/30 hp 30/30 ck
-clone E 30/30 hp 30/30 ck
-clone F 30/30 hp 30/30 ck
+Chakra | 37/106+/55+0/20
+controle de chakra | 0/106 + 0/55 + 0/20
+[[custo uraugan]]
+fúria
+regen
 
-Atributos(10+65)
+# Atributos(10+65)
 Força: 1+4+2
 Habilidade: 19+6+2
 Resistencia:  36+4+2
@@ -36,20 +31,23 @@ marca da maldição lvl 1(+2 em todas estatisticas)
 akumaton
 bukijutsu
 
-Tecnicas
-Kawarimi - 1/1 p/ Dia
-Kinobori
-Henge
-Bushin - 5 de chakra
-Bushin de água(pode usar jutsu de agua) - 25 de chakra(define ck e hp)(25+dano)
-bushin de akumaton - ? hp de custo(define vida e chackra)(usa jutsu)
-cintilação corporal - 15 chackra
-**munições especiais(+50 hp custo):**
-akumaton: munição viva(rouba 40 de hp e ck/rodada)
-bukkijutsu: munição anti-blindagem
-bukkijutsu: munição oca
-bukkijutsu: munição incendiaria
-bukkijutsu: munição mercurio
+# Técnicas
+- Kawarimi - 1/1 p/ Dia
+- Kinobori
+- Henge
+- Bushin - 5 de chakra
+- Bushin de água
+ - 25 de chakra(define ck e hp) | 25+dano | pode usar jutsu de agua
+- bushin de akumaton
+ - ? hp de custo(define vida e chackra)(usa jutsu)
+- cintilação corporal 
+ - 15 chackra
+- munições especiais(+50 hp custo):
+ - akumaton: munição viva(rouba 40 de hp e ck/rodada)
+ - bukkijutsu: munição anti-blindagem
+ - bukkijutsu: munição oca
+ - bukkijutsu: munição incendiaria
+ - bukkijutsu: munição mercurio
 - estilo água: Técnica de Ocultação na Névoa
   - custo: 5 
 - estilo fogo: grande bola de fogo
@@ -75,7 +73,7 @@ bukkijutsu: munição mercurio
 - ataque combinado: esfera destruidora de corpos e mentes
   - custo 100 HP | dano 100 | sangramento | sufocamento | paralisia | dano em area | dreno de vida 
 
-Inventário(+9)
+# Inventário(+9)
 Kit Ninja:
 10/10 Kunai (a cada 3 +1 de dano)
 15/15 Shuriken (a cada 3 +2 de dano)
@@ -91,11 +89,11 @@ Comunicador de curto alcance
 1 granada de fumaça lvl 2
 mapa hellsing
 colote bege: +5 defesa +2 resistencia +5 de redução de dano(perfuração)
-casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (8/8)
+casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (6/8)
 ~~sopro divino: 28 dano|paralisia|sangramento~~
 ~~kit de costura(0/3)~~
 
-Vantagens(1+48)
+# Vantagens(1+48)
 - adaptador(3)
 - superação(4)
 - vitalidade(4)
@@ -118,26 +116,26 @@ Vantagens(1+48)
   - "imunidade" a sangramento
   - resistencia a sufocamento
 
-Desvantagens (1)
+# Desvantagens (1)
 - não formado
 - devoção: buscar as origens do clã
-- protegido indefeso: ryuji
+- protegido indefeso: Ryuji
 - Má fama.
-- Dreno de chakra->8/turno
-- Fúria a partir dos 5% de chakra->5
+- Dreno de chakra->13/turno
+- Fúria a partir dos 5% de chakra->8
 - Ambiente especial: o sol os odeia.
 - procurado
 
 
-Caminho Shinobi (3+4)
+# Caminho Shinobi (3+4)
 Taijutsu: 4
 Ninjutsu: 2 -> 7
 Genjutsu: 1 -> 8
 
-história
-quando era muito novo foi abandonado na frente de uma casa de uma familia uchiha,junto a um pergaminho misterioso,coincidentmente esses uchihas haviam ouvido os boatos sobre o clã maldito de monstros devoradores,e apesar disso,resolveram adotar e cuidar da criança,que foi impedida de ir a academia para evitar sua morte,durante o massacre uchiha ele foi um dos poupados por ser confundido com uma criança uchiha
+# história
+quando era muito novo foi abandonado na frente de uma casa de uma familia uchiha,junto a um pergaminho misterioso, coincidentmente esses uchihas haviam ouvido os boatos sobre o clã maldito de monstros devoradores,e apesar disso,resolveram adotar e cuidar da criança,que foi impedida de ir a academia para evitar sua morte,durante o massacre uchiha ele foi um dos poupados por ser confundido com uma criança uchiha
 
-anotações:
+# anotações:
 - academia do corpo e da juventude
 - clã de mercenarios clã akachiza(caçava hellsings)
 - sangue perde pra agua e raio
