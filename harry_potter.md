@@ -7,20 +7,20 @@ Dinheiro: 130
 Vida:  
 Energia:  
 
-
 # Atributos  
-Resistência:    
-Habilidade:   
-Agilidade:   
-Carisma:    
-Inteligência:   
-Poder:   
-Mana:   
+Resistência: 2+2    
+Habilidade: 2+2  
+Agilidade: 2  
+Carisma:  0-3  
+Inteligência: 2  
+Poder: 5+3  
+Mana: 3  
+
 
 # Perícias  
-Força:   
-Magia:  
-Magia das Trevas:
+Força: 1  
+Magia: 4 
+Magia das Trevas: 4  
 
 # Magias
 - Reparo
