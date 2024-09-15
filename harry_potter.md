@@ -21,6 +21,9 @@ Mana:
 Força: 
 Magia:
 
+# inventario
+- varinha de bétula
+
 # História
 nascido de pai buxo e mãe trouxa, Lucius perdeu seus pais muito cedo, seu pai aos 3 anos e sua mãe aos 14
 seu pai morreu em um combate feroz e sua mãe morreu por problemas de saúde causados por clima, esforço excessivo e depressão
