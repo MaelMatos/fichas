@@ -4,23 +4,23 @@ Classificação: Meio Bruxo
 Casa:  sonserina
 ![[Pasted image 20240915182321.png]]  
 Dinheiro: 130  
-Vida: 26/26 
-Energia: 23/23 
+Vida: 
+Energia:  
 
 # Atributos  
-Resistência: 2+2    
+Resistência: 0+2    
 Habilidade: 3+2  
 Agilidade: 1  
 Carisma:  0-3  
 Inteligência: 3  
-Poder: 5+3  
-Mana: 4  
+Poder: 7+3  
+Mana: 2  
 
 
 # Perícias  
 Força: 1  
-Magia: 3 
-Magia das Trevas: 3  
+Magia: 4 
+Magia das Trevas: 4  
 
 # Magias
 - Reparo
