@@ -1,7 +1,8 @@
 # Status
 Nome: Gyro Rogers  
 Codinome: Coin  
-Classe: Baixo-Corpe   
+Classe: Baixo-Corpe  
+Edinhos: 10.000  
 HP /   
 RAM /   
 Energia /   
@@ -16,6 +17,7 @@ Inteligência: 2
 Vontade; 2+1   
 
 # Inventário ()
+- dispositivo de comunicação
 
 # Implantes ()
 
@@ -24,3 +26,4 @@ Vontade; 2+1
 - base de operações
 - equipamento
 # Desvantagens 2
+- 
