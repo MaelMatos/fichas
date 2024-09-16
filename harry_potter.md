@@ -38,4 +38,5 @@ desde então Lucius viveu 2 anos sozinho, isso até ser convidado para a escola 
 
 # Anotação
 - poção aromática
- - 5 pétalas verdes, 1 chifre de dragão glacial moído, 1 perna de ave de pedra e 5 pétalas rosas
+ - 5 pétalas verdes, 1 chifre de dragão glacial, 1 perna de ave de pedra e 5 pétalas rosas
+ - 2 pétalas de cada no caldeirão, misturar com liquido amarelo, moer o chifre, jogar junto com o que restou das pétalas, misturar no caldeirão junto com o liquido azul usando a perna de águia, deixando-a cair, aguarda dissolver enquanto mistura com uma colher de pau
