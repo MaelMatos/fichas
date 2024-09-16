@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "harry_potter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88298fbc708f0e38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cyberpunk.md",
+                "file": "naruto.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "harry_potter.md",
+                "file": "naruto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "harry_potter.md",
+                "file": "naruto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "harry_potter.md"
+                "file": "naruto.md"
               }
             }
           },
@@ -182,10 +170,10 @@
   },
   "active": "6a5e89057d1ce577",
   "lastOpenFiles": [
-    "rafael.md",
-    "naruto.md",
     "harry_potter.md",
     "cyberpunk.md",
+    "rafael.md",
+    "naruto.md",
     "imagens",
     "imagens/Pasted image 20240915182321.png",
     "Sem título.canvas",
