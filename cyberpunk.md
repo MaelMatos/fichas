@@ -3,10 +3,10 @@ Nome: Gyro Rogers
 Codinome: Coin  
 Classe: Baixo-Corpe  
 Edinhos: 40.000  
-HP /   
-RAM /   
-Energia /   
-Armadura /   
+HP 6/6   
+RAM 12/12   
+Energia 6/6   
+Armadura 0/0   
 
 # Atributos 8
 Força: 0  
