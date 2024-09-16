@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "703c6bcedcb697e1",
+        "id": "33dd829577c9b86a",
         "type": "tabs",
         "children": [
           {
-            "id": "f9ef0eaa54f59282",
+            "id": "03fb6fdfb022110c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "naruto.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "naruto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "naruto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "naruto.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,11 +160,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9ef0eaa54f59282",
+  "active": "03fb6fdfb022110c",
   "lastOpenFiles": [
+    "naruto.md",
     "Sem título.md",
     "2024-09-16.md",
-    "naruto.md",
     "harry_potter.md",
     "cyberpunk.md",
     "rafael.md",
