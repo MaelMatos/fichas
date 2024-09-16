@@ -13,12 +13,12 @@ controle de chakra | 0/106 + 0/55 + 0/20
 [[#^b97c9d|regen: 56]]
 
 # Atributos(10+65)
-Força: 1+4+2
-Habilidade: 19+6+2
-Resistencia:  36+4+2
-Poder de Fogo:  1+4+2 -> 7
-Vontade: 11+5+2-> 20
-Chakra: 7+3+2-> 11
+Força: 1+4+2  
+Habilidade: 19+6+2  
+Resistencia:  36+4+2  
+Poder de Fogo:  1+4+2 -> 7  
+Vontade: 11+5+2-> 20  
+Chakra: 7+3+2-> 11  
 
 uraugan R4
  - +4 FOR +6 HAB +4 RES +4 PDF +5 VONT +3 CK
