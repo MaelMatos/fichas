@@ -39,7 +39,7 @@ bukijutsu
 - Bushin - 5 de chakra
 - Bushin de água
  - 25 de chakra(define ck e hp) | 25+dano | pode usar jutsu de agua
-- bushin de akumaton
+- Bushin de akumaton
  - ? hp de custo(define vida e chackra)(usa jutsu)
 - cintilação corporal 
  - 15 chackra
@@ -69,7 +69,7 @@ bukijutsu
   - custo 93 | dano  160 | dano gigante | em area | irrefreavel | vorpal | ataque carrregado
 - akumaton: sombra com instinto assassino infinito
  - custo: 75 | 4 rodadas | ligação natural | dreno em arêa
-- tecnica de invocação secreta hellsing: o cão de baskeville
+- técnica de invocação secreta hellsing: o cão de baskeville
   - custo 161 CK MAX + 393 HP | desabilita regen | permite usar tecnicas mesmo em furia | 1200 hp
 - ataque combinado: esfera destruidora de corpos e mentes
   - custo 100 HP | dano 100 | sangramento | sufocamento | paralisia | dano em area | dreno de vida 
@@ -92,7 +92,7 @@ bukijutsu
  - 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (6/8)
 - ~~colete bege~~
  - +5 defesa +2 resistência +5 de redução de dano(perfuração)
-- ~~sopro divino: 28 dano|paralisia|sangramento~~
+- ~~sopro divino: 28 dano | paralisia | sangramento~~
 - ~~kit de costura(0/3)~~
 - ~~1 óleo ~~
 
