@@ -144,3 +144,6 @@ quando era muito novo foi abandonado na frente de uma casa de uma familia uchiha
 - akumaton tem 3 fraquezas-> luz+2 kekkei genkai
 - bombas não precisam acertar o alvo
 - colocar dano gigante em minhas ults
+
+# Anotações II
+- 
