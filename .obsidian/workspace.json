@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b0b60e4e22b0b0b",
+        "id": "703c6bcedcb697e1",
         "type": "tabs",
         "children": [
           {
-            "id": "61c74a2322bcb1a0",
+            "id": "f9ef0eaa54f59282",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem título.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sem título.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +160,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61c74a2322bcb1a0",
+  "active": "f9ef0eaa54f59282",
   "lastOpenFiles": [
     "Sem título.md",
     "2024-09-16.md",
