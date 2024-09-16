@@ -1,13 +1,13 @@
 # Status
-Nome: Luke ~~hellsing~~
-Clã: hellsing
-Status Ninja : ~~Genin~~ Nukenin
-Ryo: 5800
-Sensei: ~~Mirai Ryuki~~ Orochimaru
-PV | 441/1170+0/107+0/81
-escudo | 0/38
-Chakra | 37/106+/55+0/20
-controle de chakra | 0/106 + 0/55 + 0/20
+Nome: Luke ~~hellsing~~  
+Clã: hellsing  
+Status Ninja : ~~Genin~~ Nukenin  
+Ryo: 5800  
+Sensei: ~~Mirai Ryuki~~ Orochimaru  
+PV | 441/1170+0/107+0/81  
+escudo | 0/38  
+Chakra | 37/106+/55+0/20  
+controle de chakra | 0/106 + 0/55 + 0/20  
 [[#^a861ee|dreno de chakra: 13]]
 [[#^15efc3|fúria: 8]]  
 [[#^b97c9d|regen: 56]]
