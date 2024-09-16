@@ -37,3 +37,5 @@ esse trauma tornou Lucius em outro alguém, ele já não era mais a criança gen
 desde então Lucius viveu 2 anos sozinho, isso até ser convidado para a escola de magia hogwarts, no caminho ele ganho a coruja **Solid**  
 
 # Anotação
+- poção aromática
+ - 5 pétalas verdes, 1 chifre de dragão glacial moído, 1 perna de ave de pedra e 5 pétalas rosas
