@@ -30,6 +30,7 @@ Magia das Trevas: 4
 - amuleto de coruja
 - livro: a arte da magia das trevas  
 - poção aromática
+- fraco de agonia liquida  (30ml)
 
 # História
 nascido de pai buxo e mãe trouxa, Lucius perdeu seus pais muito cedo, seu pai aos 3 anos e sua mãe aos 14  
