@@ -27,6 +27,7 @@ Vontade; 3
 - influencia
 - base de operações
 - riqueza
+- inventor(1)
 # Desvantagens 2
 - insano: assombrado
 - insano: paranoico
