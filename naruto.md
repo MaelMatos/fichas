@@ -146,4 +146,5 @@ quando era muito novo foi abandonado na frente de uma casa de uma familia uchiha
 - colocar dano gigante em minhas ults
 
 # Anotações II
-- 
+- selo dos 5 elementos
+- jutsus com preparado
