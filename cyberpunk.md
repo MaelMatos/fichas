@@ -2,7 +2,7 @@
 Nome: Gyro Rogers  
 Codinome: Coin  
 Classe: Baixo-Corpe  
-Edinhos: 10.000  
+Edinhos: 40.000  
 HP /   
 RAM /   
 Energia /   
@@ -24,7 +24,7 @@ Vontade; 2+1
 # Vantagens 2 
 - influencia
 - base de operações
-- equipamento
+- riqueza
 # Desvantagens 2
 - insano: assombrado
 - insano: paranoico
