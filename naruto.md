@@ -38,9 +38,9 @@ bukijutsu
 - Henge
 - Bushin - 5 de chakra
 - Bushin de água
- - 25 de chakra(define ck e hp) | 25+dano | pode usar jutsu de agua
+ - 25 de chakra(define ck e hp) | 25+dano | pode usar jutsu de agua | requer umidade
 - Bushin de akumaton
- - ? hp de custo(define vida e chackra)(usa jutsu)
+ - ? hp de custo(define vida e chakra)  | usa jutsu  | pode ser coletado como resíduo para adquirir suas experencias e recursos
 - cintilação corporal 
  - 15 chackra
 - munições especiais(+50 hp custo):
@@ -149,4 +149,5 @@ quando era muito novo foi abandonado na frente de uma casa de uma familia uchiha
 
 # Anotações II
 - selo dos 5 elementos
-- jutsus com preparado
+- jutsu com preparado para suporte da seta de turbilhão flamejante
+- escalavel 2 no kenjutsu
