@@ -75,24 +75,26 @@ bukijutsu
   - custo 100 HP | dano 100 | sangramento | sufocamento | paralisia | dano em area | dreno de vida 
 
 # Inventário(+9)
-Kit Ninja:
-10/10 Kunai (a cada 3 +1 de dano)
-15/15 Shuriken (a cada 3 +2 de dano)
-10/10 Senbon (a cada 5 +2 de dano) + paralisia
-0/2 papel bomba
-1/1 selo de luz
-1/1 granada de fumaça
-1/1 linha ninja
-Comunicador de curto alcance
-2/2 pílulas de chakra lvl 1 (+10)
-1/2 pílulas de hp lvl 1 (+10)
-~~1 óleo ~~
-1 granada de fumaça lvl 2
-mapa hellsing
-colete bege: +5 defesa +2 resistência +5 de redução de dano(perfuração)
-casull: 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (6/8)
-~~sopro divino: 28 dano|paralisia|sangramento~~
-~~kit de costura(0/3)~~
+- Kit Ninja:
+ - 10/10 Kunai (a cada 3 +1 de dano)
+ - 15/15 Shuriken (a cada 3 +2 de dano)
+ - 10/10 Senbon (a cada 5 +2 de dano) + paralisia
+ - 0/2 papel bomba
+ - 1/1 selo de luz
+ - 1/1 granada de fumaça
+ - 1/1 linha ninja
+ - Comunicador de curto alcance
+ - 2/2 pílulas de chakra lvl 1 (+10)
+ - 1/2 pílulas de hp lvl 1 (+10)
+- 1 granada de fumaça lvl 2
+- mapa hellsing
+- casull
+ - 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (6/8)
+- ~~colete bege~~
+ - +5 defesa +2 resistência +5 de redução de dano(perfuração)
+- ~~sopro divino: 28 dano|paralisia|sangramento~~
+- ~~kit de costura(0/3)~~
+- ~~1 óleo ~~
 
 # Vantagens(1+48)
 - adaptador(3)
