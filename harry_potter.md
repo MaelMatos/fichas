@@ -24,6 +24,7 @@ Magia das Trevas: 4
 
 # Magias
 - Reparo
+ - custo 10
 # inventario  
 - varinha de bétula  
 - amuleto de coruja
