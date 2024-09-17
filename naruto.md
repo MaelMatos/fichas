@@ -11,6 +11,7 @@ controle de chakra | 0/106 + 0/55 + 0/20
 [[#^a861ee|dreno de chakra: 13]]
 [[#^15efc3|fúria: 8]]  
 [[#^b97c9d|regen: 72]]
+(6d6)++18++70++25 -> casull
 
 # Atributos(10+65)
 Força: 1+4+2  
