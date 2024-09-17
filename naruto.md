@@ -101,13 +101,13 @@ bukijutsu
 - superação(4)
 - vitalidade(4)
 - controle de energia II(4+13)
-- equilibrio de energia(5)
+- equilíbrio de energia(5)
 - energia extra(4)
 - recuperação de energia(4)
 - interpor(3)
-- ataque multiplo(2)
-- combo(2)
-- area de batalha(4)
+- ataque múltiplo(2)
+- ataque oportuno(2)
+- área de batalha(4)
 - energia vital
 - vigoroso
 - poder oculto
