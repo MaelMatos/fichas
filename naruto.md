@@ -39,9 +39,9 @@ bukijutsu
 - Kinobori
 - Henge
 - Bushin - 5 de chakra
-- Bushin de água
+- Mizu bushin
  - 25 de chakra(define ck e hp) | 25+dano | pode usar jutsu de agua | requer umidade
-- Bushin de akumaton
+- Akuma bushin
  - ? hp de custo(define vida e chakra)  | usa jutsu  | pode ser coletado como resíduo para adquirir suas experencias e recursos
 - cintilação corporal 
  - 15 chackra
