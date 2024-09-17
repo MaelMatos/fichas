@@ -11,8 +11,8 @@ controle de chakra | 0/106 + 0/55 + 0/20
 [[#^a861ee|dreno de chakra: 13]]
 [[#^15efc3|fúria: 8]]  
 [[#^b97c9d|regen: 72]]
-(6d6)++18++70++25 -> casull
-(4d6)++80++42++27++25++4 -> foice + punho
+(9d6)++18++70++25 -> casull
+(4d6)++80++42++27++25++4 -> foice
 
 # Atributos(10+65)
 Força: 1+4+2  
@@ -43,6 +43,8 @@ bukijutsu
  - 25 de chakra(define ck e hp) | 25+dano | pode usar jutsu de agua | requer umidade
 - Akuma bushin
  - ? hp de custo(define vida e chakra)  | usa jutsu  | pode ser coletado como resíduo para adquirir suas experencias e recursos
+- Kage bushin
+  - ? hp de custo(define vida e chakra)  | usa jutsu
 - cintilação corporal 
  - 15 chackra
 - munições especiais(+50 hp custo):
