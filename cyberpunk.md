@@ -20,6 +20,7 @@ Vontade; 3
 
 # Inventário ()
 - dispositivo de comunicação
+- fusca
 
 # Implantes ()
 
