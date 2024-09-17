@@ -68,7 +68,7 @@ bukijutsu
 - estilo fogo: seta do turbilhão flamejante
   - custo 93 | dano  160 | dano gigante | em area | irrefreavel | vorpal | ataque carrregado
 - akumaton: sombra com instinto assassino infinito
- - custo: 75 | 4 rodadas | ligação natural | dreno em arêa
+ - custo: 75 | 7 rodadas | 25+ dano no ataque basico
 - técnica de invocação secreta hellsing: o cão de baskeville
   - custo 161 CK MAX + 393 HP | desabilita regen | permite usar tecnicas mesmo em furia | 1200 hp
 - ataque combinado: esfera destruidora de corpos e mentes
