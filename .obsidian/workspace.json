@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyberpunk.md",
+                "file": "naruto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyberpunk.md",
+                "file": "naruto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyberpunk.md",
+                "file": "naruto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyberpunk.md"
+                "file": "naruto.md"
               }
             }
           },
@@ -170,11 +170,12 @@
   },
   "active": "03fb6fdfb022110c",
   "lastOpenFiles": [
+    "kauan.md",
+    "cyberpunk.md",
     "naruto.md",
     "Sem título.md",
     "2024-09-16.md",
     "harry_potter.md",
-    "cyberpunk.md",
     "rafael.md",
     "imagens",
     "imagens/Pasted image 20240915182321.png",
@@ -185,7 +186,6 @@
     "crusto do uraugan.md",
     "custo uraugan.md",
     "one_piece.md",
-    "kauan.md",
     "alucard.md"
   ]
 }
