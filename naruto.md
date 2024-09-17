@@ -148,7 +148,3 @@ quando era muito novo foi abandonado na frente de uma casa de uma familia uchiha
 - colocar dano gigante em minhas ults
 
 # Anotações II
-- selo dos 5 elementos
-- jutsu com preparado para suporte da seta de turbilhão flamejante
-- escalavel 2 no kenjutsu
-- dreno de vida x2
