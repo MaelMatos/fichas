@@ -64,8 +64,9 @@ bukijutsu
 - bukkijutsu: marionetagem
   - custo 43 | dano 75 | paralisia II 
 - akumaton: punho enraizador
-  - custo 51 | dano 100 | enfraquecer | dreno de vida | reciclavel
+  - custo 51 | dano 100 | enfraquecer | dreno de vida | reciclável
 - estilo raio: mil pássaros
+ - custo 60 | dano 120 | dano gigante | irrefreável | paralisia
 - estilo fogo: seta do turbilhão flamejante
   - custo 93 | dano  160 | dano gigante | em area | irrefreavel | vorpal | ataque carrregado
 - akumaton: sombra com instinto assassino infinito
