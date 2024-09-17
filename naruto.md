@@ -12,6 +12,7 @@ controle de chakra | 0/106 + 0/55 + 0/20
 [[#^15efc3|fúria: 8]]  
 [[#^b97c9d|regen: 72]]
 (6d6)++18++70++25 -> casull
+(4d6)++80++42++27++25++4 -> foice + punho
 
 # Atributos(10+65)
 Força: 1+4+2  
