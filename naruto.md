@@ -10,7 +10,7 @@ Chakra | 37/106+/55+0/20
 controle de chakra | 0/106 + 0/55 + 0/20  
 [[#^a861ee|dreno de chakra: 13]]
 [[#^15efc3|fúria: 8]]  
-[[#^b97c9d|regen: 56]]
+[[#^b97c9d|regen: 72]]
 
 # Atributos(10+65)
 Força: 1+4+2  
@@ -89,7 +89,7 @@ bukijutsu
 - 1 granada de fumaça lvl 2
 - mapa hellsing
 - casull
- - 52 dano|custo 52 hp|equipamento digno|energia vital(90%->1223,desabilita regen) | emudecimento|paralisia | espiritual| arma-escudo | vorpal | (6/8)
+ - 70 dano | custo 70 hp | equipamento digno | energia vital(90%->1223,desabilita regen) | emudecimento | paralisia | espiritual| arma-escudo | vorpal | (6/8)
 - ~~colete bege~~
  - +5 defesa +2 resistência +5 de redução de dano(perfuração)
 - ~~sopro divino: 28 dano | paralisia | sangramento~~
@@ -113,7 +113,7 @@ bukijutsu
 - poder oculto
 - equipamento: mapa hellsing
 - parceria: ryuji
-- regeneração III: 56/rodada ^b97c9d
+- regeneração III: 72/rodada ^b97c9d
   - criar membros menores
   - imunidade a veneno
   - "imunidade" a sangramento
