@@ -51,3 +51,6 @@
 	- kauan usa adaptador para fazer uma técnica de custo 155(310 de dano)
 	- os clones criam de 50(100)
 	- todas de água
+	- estevan copia o jutsu de kauan
+		- nd = 3 teste dele = [3]23
+	- estevan ativa preconição para trocar o elemento de sua técnica para terra
