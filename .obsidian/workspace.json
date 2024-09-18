@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "naruto.md",
+                "file": "pvp naruto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "naruto.md",
+                "file": "pvp naruto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "naruto.md"
+                "file": "pvp naruto.md"
               }
             }
           },
@@ -192,11 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03fb6fdfb022110c",
+  "active": "c14f86d2388cde6e",
   "lastOpenFiles": [
+    "naruto.md",
     "rafael_naruto.md",
     "pvp naruto.md",
-    "naruto.md",
     "kauan.md",
     "cyberpunk.md",
     "2024-09-16.md",

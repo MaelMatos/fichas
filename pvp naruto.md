@@ -12,5 +12,9 @@
 	-  kauan contra ataca com seus clones usando enterro glorioso da arvore
 	- rafael paralisado
 - kauan faz outro moku bushin e 3 bushin
+	- os 3 bushin atacam separadamente
+	- rafael sai da paalisia no primeiro ataque,perde a vantagem riqueza e contra ataca com um ataque em área, destuindo todos os bushins e e ativando a vitalidade de kauan
+	- kauan usa energia extra
+- rafael usa aceleração II para se curar duas vezes e usa adaptador para atacar,mas dessa vez com dreno de chakra
 
 
