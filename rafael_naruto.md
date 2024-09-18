@@ -77,11 +77,8 @@ Bushin - 5 de chakra
  - Custo 5 | Cura 55 
 - Ordem de defesa Refletir  (Rank B)
  - Custo 20 | Defende 40
-
- 3  vantagens + 3
-Briga de inseto
-
-Dano 20 + ninjutsu + poder de fogo + habilidade 
+- Briga de inseto
+ - Dano 20 + ninjutsu + poder de fogo + habilidade 
 Custo 8
 
 Ataque em área
