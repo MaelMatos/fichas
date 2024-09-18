@@ -54,3 +54,5 @@
 	- estevan copia o jutsu de kauan
 		- nd = 3 teste dele = [3]23
 	- estevan ativa preconição para trocar o elemento de sua técnica para terra
+	- clone de madeira morreu
+- kauan carrega chakra
