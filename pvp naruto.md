@@ -61,4 +61,4 @@
 - kauan se move para direita
 	- uasa uma tecnica com adaptador de custo 50 do elemento vento 
 	- a fumaça é dissipada
-	- estevan usa ataque oportuno
+	- estevan usa ataque oportuno com 10 senbons
