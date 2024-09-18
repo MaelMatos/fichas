@@ -32,6 +32,6 @@
 	- carrega chakra com seus outros clones
 - rafael prepara um selo de luz
 - kauan joga um papel-bomba com a mão e se explode
-- 
+- rafael joga um selo de luz na fumaça
 
 
