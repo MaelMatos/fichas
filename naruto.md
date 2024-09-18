@@ -6,13 +6,16 @@ Ryo: 5800
 Sensei: ~~Mirai Ryuki~~ Orochimaru  
 PV | 441/1170+0/107+0/81  
 escudo | 0/38  
-Chakra | 37/106+/55+0/20  
+Chakra | 37/106+55/55+0/20  
 controle de chakra | 0/106 + 0/55 + 0/20  
 [[#^a861ee|dreno de chakra: 13]]
 [[#^15efc3|fúria: 8]]  
 [[#^b97c9d|regen: 72]]
 (9d6)++18++70++25 -> casull
-(4d6)++80++42++27++25++4 -> foice
+(4d6)++80++42++27++100++2++49 -> foice+punho(custa 100 hp,reciclavel -49)
+custo clone de akumaton 900
+custo clone da sombras 30
+
 
 # Atributos(10+65)
 Força: 1+4+2  
@@ -67,7 +70,7 @@ bukijutsu
 - Akuma bushin
  - ? hp de custo(define vida e chakra)  | usa jutsu  | pode ser coletado como resíduo para adquirir suas experencias e recursos
 - Kage bushin
-  - ? hp de custo(define vida e chakra)  | usa jutsu
+  - ? CK de custo(define vida e chakra)  | usa jutsu
 - cintilação corporal 
  - 15 chackra
 - munições especiais(+50 hp custo):
