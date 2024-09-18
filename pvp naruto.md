@@ -60,3 +60,5 @@
 	- se move
 - kauan se move para direita
 	- uasa uma tecnica com adaptador de custo 50 do elemento vento 
+	- a fumaça é dissipada
+	- estevan usa ataque oportuno
