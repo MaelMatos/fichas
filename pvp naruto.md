@@ -56,3 +56,4 @@
 	- estevan ativa preconição para trocar o elemento de sua técnica para terra
 	- clone de madeira morreu
 - kauan carrega chakra
+- estevan 
