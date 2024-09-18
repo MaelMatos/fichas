@@ -14,7 +14,7 @@ controle de chakra | 0/106 + 0/55 + 0/20
 (9d6)++18++70++25 -> casull
 (4d6)++80++42++27++100++2++49 -> foice+punho(custa 100 hp,reciclavel -49)
 
-custo clone de akumaton 900 hp
+custo clone de akumaton 180 hp
 custo clone da sombras 3 ck
 custo demais clones 90
 

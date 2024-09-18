@@ -63,4 +63,5 @@
 	- a fumaça é dissipada
 	- estevan usa ataque oportuno com 10 senbons
 - estevan faz 3 bushin que se espalham
-	- 
+	- ele usa o genjutsu rank S
+	- kauan falha MISERAVELMENTE 
