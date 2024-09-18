@@ -65,3 +65,6 @@
 - estevan faz 3 bushin que se espalham
 	- ele usa o genjutsu rank S
 	- kauan falha MISERAVELMENTE 
+	- kauan falha no teste de resistir a enxaqueca
+	- kauan ativa vitalidade e energia vital
+	
