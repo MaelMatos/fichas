@@ -56,4 +56,7 @@
 	- estevan ativa preconição para trocar o elemento de sua técnica para terra
 	- clone de madeira morreu
 - kauan carrega chakra
-- estevan 
+- estevan usa uma grana de fumaça lvl 2
+	- se move
+- kauan se move para direita
+	- uasa uma tecnica com adaptador de custo 50 do elemento vento 
