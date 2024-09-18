@@ -34,5 +34,6 @@
 - kauan joga um papel-bomba com a mão e se explode
 - rafael joga um selo de luz na fumaça
 - kauan usa uma técnica de vento para dissipar a fumaça
+- rafael usa adpatador II...em área
 
 
