@@ -67,4 +67,4 @@
 	- kauan falha MISERAVELMENTE 
 	- kauan falha no teste de resistir a enxaqueca
 	- kauan ativa vitalidade e energia vital
-	
+- estevan cria uma tecnica de custo 250 com dano gigante,assim executando kauan
