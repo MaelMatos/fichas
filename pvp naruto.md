@@ -38,6 +38,7 @@
 -  ambos tiveram desempenho questionavel,uma vez que não aplicaram conhecimento de sessões prévias(usar selo de luz na fumaça ou não usar kunai para guiar papel-bomba)
 - kauan reagiu bem ao focar em dissipar a fumaça,que o impedia de agir,entretanto esqueceu de usar suas ferramentas do kit 2
 - rafael não possue muitas ferramentas para distribuir dano,dependendo de suas invocações,assim deixando-o desmotivado, novamente se esquecendo de seu kit ninja
+- kauan ficou com 196 de hp após o combate
 
 
 # 2° combate estevan vs kauan
@@ -68,3 +69,4 @@
 	- kauan falha no teste de resistir a enxaqueca
 	- kauan ativa vitalidade e energia vital
 - estevan cria uma tecnica de custo 250 com dano gigante,assim executando kauan
+
