@@ -34,10 +34,10 @@
 - kauan usa uma técnica de vento para dissipar a fumaça
 - rafael usa adpatador II...em área
 	- kauan contra ataca com seus clones, usando uma técnica técnica de adaptador somado com o enterro de seus clones, assim finalizando o combate
-- **anotações relevantes**
-	- ambos tiveram desempenho questionavel,uma vez que não aplicaram conhecimento de sessões prévias(usar selo de luz na fumaça ou não usar kunai para guiar papel-bomba)
-	- kauan reagiu bem ao focar em dissipar a fumaça,que o impedia de agir,entretanto esqueceu de usar suas ferramentas do kit 2
-	- rafael não possue muitas ferramentas para distribuir dano,dependendo de suas invocações,assim deixando-o desmotivado, novamente se esquecendo de seu kit ninja
+## anotações relevantes
+-  ambos tiveram desempenho questionavel,uma vez que não aplicaram conhecimento de sessões prévias(usar selo de luz na fumaça ou não usar kunai para guiar papel-bomba)
+- kauan reagiu bem ao focar em dissipar a fumaça,que o impedia de agir,entretanto esqueceu de usar suas ferramentas do kit 2
+- rafael não possue muitas ferramentas para distribuir dano,dependendo de suas invocações,assim deixando-o desmotivado, novamente se esquecendo de seu kit ninja
 
 
 # 2° combate estevan vs kauan
