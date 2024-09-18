@@ -7,6 +7,7 @@
 - kauan começa(34x16)
  - usa aceleração e faz 2 moku bushin
  - carregou chakra
-- rafael usa adptador
+- rafael usa adaptador II para misturar suas técnicas e adicional a vantagem em area
+ - kauan contra ataca com seus clones
 
 
