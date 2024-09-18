@@ -4,6 +4,7 @@
 
 
 # 1° combate: kauan vs rafael
-
+- kauan começa(34x16)
+ - usa aceleração e faz 2 moku bushin 
 
 
