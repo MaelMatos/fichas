@@ -33,17 +33,9 @@ Genjutsu 12
 - Vigoroso(5)
 - Controle de Chakra(5)
 - superação(4)
-
-
-
-
 # Desvantagens (1)
 Aliado indefeso(-2)
-
-
-
 # inventario
-
 - Martelo Meteoro
  - 25 de dano contundente
  - Retornável
@@ -60,16 +52,12 @@ Aliado indefeso(-2)
  - 2/2 pílulas de HP lvl 1 (+10)
  - 0/3 pílulas de chakra lvl 2 (+25)
  - 3/3 pílulas  de HP lvl 2 (+25)
-
-
-
-
-# Técnicas()
+# Técnicas
 Kawarimi - 1/1x p/ Dia
 Kinobori 
 Henge 
 Bushin - 5 de chakra
-- Estilo Terra-Parede de terra
+- Estilo Terra: Parede de terra
  - Custo 10 | Defesa 20
 - Granada de Abelha(Rank A)
  - Custo 35 | Dano 45 | Veneno | Sufocamento | Alvo múltiplo | Perigoso | Poderoso
