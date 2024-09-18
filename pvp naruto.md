@@ -69,4 +69,8 @@
 	- kauan falha no teste de resistir a enxaqueca
 	- kauan ativa vitalidade e energia vital
 - estevan cria uma tecnica de custo 250 com dano gigante,assim executando kauan
+## anotações relevantes
+- estevan não recebeu dano
+- estevan abusou da fraqueza de seu inimigo ao usar a granada de fumaça
+- estevan usou bushin como salvaguarda para uma possivel paralisia no caso de kauan decidir ataca-lo com paralisia ao invés de resistir ao genjutsu
 
