@@ -34,6 +34,29 @@ marca da maldição lvl 1(+2 em todas estatísticas)
 akumaton
 bukijutsu
 
+# Vantagens(1+48)
+- adaptador(3)
+- superação(4)
+- vitalidade(4)
+- controle de energia II(4+13)
+- equilíbrio de energia(5)
+- energia extra(4)
+- recuperação de energia(4)
+- interpor(3)
+- ataque múltiplo(2)
+- ataque oportuno(2)
+- área de batalha(4)
+- energia vital
+- vigoroso
+- poder oculto
+- equipamento: mapa hellsing
+- parceria: ryuji
+- regeneração III: 72/rodada ^b97c9d
+  - criar membros menores
+  - imunidade a veneno
+  - "imunidade" a sangramento
+  - resistencia a sufocamento
+
 # Técnicas
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
@@ -102,28 +125,6 @@ bukijutsu
 - ~~kit de costura(0/3)~~
 - ~~1 óleo ~~
 
-# Vantagens(1+48)
-- adaptador(3)
-- superação(4)
-- vitalidade(4)
-- controle de energia II(4+13)
-- equilíbrio de energia(5)
-- energia extra(4)
-- recuperação de energia(4)
-- interpor(3)
-- ataque múltiplo(2)
-- ataque oportuno(2)
-- área de batalha(4)
-- energia vital
-- vigoroso
-- poder oculto
-- equipamento: mapa hellsing
-- parceria: ryuji
-- regeneração III: 72/rodada ^b97c9d
-  - criar membros menores
-  - imunidade a veneno
-  - "imunidade" a sangramento
-  - resistencia a sufocamento
 
 # Desvantagens (1)
 - não formado
