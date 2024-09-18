@@ -163,7 +163,3 @@ quando era muito novo foi abandonado na frente de uma casa de uma familia uchiha
 - colocar dano gigante em minhas ults
 
 # Anotações II
-- o dano dos clone é somado em um contra ataque
-- combro breaker funciona para aceleração
-- superação dobra o dano do adaptador
-- tecnicas de esquiva
