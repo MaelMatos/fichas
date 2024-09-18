@@ -31,6 +31,7 @@
 - kauan faz moku bushin e prepara 1 papel bomba com seu clone de madeira
 	- carrega chakra com seus outros clones
 - rafael prepara um selo de luz
-- kauan 
+- kauan joga um papel-bomba com a mão e se explode
+- 
 
 
