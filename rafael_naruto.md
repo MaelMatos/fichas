@@ -1,4 +1,4 @@
-
+# Status
 Nome: Hoeru Kabutomushi Seetle
 Clã - Aburame
 Status Ninja  - 

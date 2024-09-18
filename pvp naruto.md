@@ -23,5 +23,13 @@
 - Rafael usa adaptador II para misturar suas técnicas e adicional a vantagem vorpal
 	- kauan e o clone desvia
 	- rafael carrega chakra
+- kauan fez um moku bushin
+	- carregou chakra
+- rafael jogou uma bomba de fumaça
+	- se movimentou
+	- kauan se movimentou
+- kauan faz moku bushin e prepara 1 papel bomba com seu clone de madeira
+	- carrega chakra com seus outros clones
+- 
 
 

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03fb6fdfb022110c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "naruto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c14f86d2388cde6e",
             "type": "leaf",
             "state": {
@@ -37,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "naruto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b705e7bc196cd67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "rafael_naruto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,9 +194,9 @@
   },
   "active": "c14f86d2388cde6e",
   "lastOpenFiles": [
+    "rafael_naruto.md",
     "naruto.md",
     "pvp naruto.md",
-    "rafael_naruto.md",
     "kauan.md",
     "cyberpunk.md",
     "2024-09-16.md",
