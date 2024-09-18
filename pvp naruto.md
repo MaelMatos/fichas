@@ -48,4 +48,6 @@
 	- usa aceleração para fazer 2 moku bushin
 	- carrega o chakra com os clones
 - Estevan usa adaptador II para fazer uma técnica de custo 250(500 de dano)(dragão infernal) com em área
-	- kauan usa adaptador para fazer 
+	- kauan usa adaptador para fazer uma técnica de custo 155(310 de dano)
+	- os clones criam de 50(100)
+	- todas de água
