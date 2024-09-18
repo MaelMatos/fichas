@@ -41,3 +41,10 @@
 
 
 # 2° combate estevan vs kauan
+- Estevan começa(22x32)
+	- ativa o sharingan
+	- usa pré-cognição
+- kauan ativa manto de biju
+	- usa aceleração para fazer 2 moku bushin
+	- carrega o chakra com os clones
+- Estevan usa adaptador II para fazer uma técnica de custo 250(500 de dano)(dragão infernal) com em área
