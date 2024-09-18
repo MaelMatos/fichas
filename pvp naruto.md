@@ -62,3 +62,5 @@
 	- uasa uma tecnica com adaptador de custo 50 do elemento vento 
 	- a fumaça é dissipada
 	- estevan usa ataque oportuno com 10 senbons
+- estevan faz 3 bushin que se espalham
+	- 
