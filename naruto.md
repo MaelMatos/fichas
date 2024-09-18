@@ -103,7 +103,7 @@ bukijutsu
 - akumaton: sombra com instinto assassino infinito
  - custo: 75 | 7 rodadas | 25+ dano no ataque basico
 - técnica de invocação secreta hellsing: o cão de baskeville
-  - custo 161 CK MAX + 393 HP | desabilita regen | permite usar tecnicas mesmo em furia | 1200 hp
+  - custo 161 CK MAX + 639 HP | desabilita regen | permite usar tecnicas mesmo em furia | 1200 hp
 - técnica de invocação secreta hellsing: Behemoth
  - Moto gigante capaz de carregar você é seu time, invocação que não ataca
 - ataque combinado: esfera destruidora de corpos e mentes

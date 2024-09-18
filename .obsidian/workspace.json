@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "493543b9273a5d83",
+        "id": "5c8e770d4d767a77",
         "type": "tabs",
         "children": [
           {
-            "id": "498eb3b49bd861fb",
+            "id": "845f925dcfbf1059",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -169,16 +169,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "498eb3b49bd861fb",
+  "active": "845f925dcfbf1059",
   "lastOpenFiles": [
-    "rafael_naruto.md",
-    "naruto.md",
     "pvp naruto.md",
+    "rafael.md",
+    "naruto.md",
+    "rafael_naruto.md",
     "cyberpunk.md",
     "kauan.md",
     "2024-09-16.md",
     "harry_potter.md",
-    "rafael.md",
     "imagens",
     "imagens/Pasted image 20240915182321.png",
     "Sem título.canvas",
