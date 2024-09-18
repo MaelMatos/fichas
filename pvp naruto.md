@@ -60,7 +60,7 @@
 - estevan usa uma grana de fumaça lvl 2
 	- se move
 - kauan se move para direita
-	- uasa uma tecnica com adaptador de custo 50 do elemento vento 
+	- usa uma tecnica com adaptador de custo 50 do elemento vento 
 	- a fumaça é dissipada
 	- estevan usa ataque oportuno com 10 senbons
 - estevan faz 3 bushin que se espalham
@@ -73,4 +73,5 @@
 - estevan não recebeu dano
 - estevan abusou da fraqueza de seu inimigo ao usar a granada de fumaça
 - estevan usou bushin como salvaguarda para uma possivel paralisia no caso de kauan decidir ataca-lo com paralisia ao invés de resistir ao genjutsu
+- Estevan copiou um jutsu novo
 
