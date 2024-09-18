@@ -69,32 +69,16 @@ Kawarimi - 1/1x p/ Dia
 Kinobori 
 Henge 
 Bushin - 5 de chakra
+- Estilo Terra-Parede de terra
+ - Custo 10 | Defesa 20
+- Granada de Abelha(Rank A)
+ - Dano 45 | Custo 35 | Veneno | Sufocamento | Alvo múltiplo | Perigoso | Poderoso
+- Ordem de cura Alvo múltiplo
+ - Custo 5 | Cura 55 
+- Ordem de defesa Refletir  (Rank B)
+ - Custo 20 | Defende 40
 
-Estilo Terra-Parede de terra
-Custo 10
-Defesa 20
-
-Granada de Abelha
-Rank A +5 vantagens
-Dano 45
-Custo 35
-
-Veneno
-Infestação(Sufocamento)
-Alvo múltiplo
-Perigoso
-Poderoso
-
-
-Ordem de cura Alvo múltiplo
-Custo 5 
-Cura 55 de vida + resis + ninjutsu + vontade 
-
-Ordem de defesa Refletir  
-Custo 20
-Defende 40 + resis + vontade + ninjutsu
-
-(Rank B) 3  vantagens + 3
+ 3  vantagens + 3
 Briga de inseto
 
 Dano 20 + ninjutsu + poder de fogo + habilidade 
