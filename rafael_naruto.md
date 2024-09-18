@@ -72,67 +72,26 @@ Bushin - 5 de chakra
 - Estilo Terra-Parede de terra
  - Custo 10 | Defesa 20
 - Granada de Abelha(Rank A)
- - Dano 45 | Custo 35 | Veneno | Sufocamento | Alvo múltiplo | Perigoso | Poderoso
-- Ordem de cura Alvo múltiplo
- - Custo 5 | Cura 55 
-- Ordem de defesa Refletir  (Rank B)
- - Custo 20 | Defende 40
-- Briga de inseto
- - Dano 20 + ninjutsu + poder de fogo + habilidade 
-Custo 8
-
-Ataque em área
-
-Reduz poder de fogo em 5 se tiver sucesso
-
- (Rank B+)
-Afundo
-
-Dano 40
-Custo 15
-
-Reduz força em 5 se tiver sucesso
-
-70 (Rank A) 5 vantagens 
-
-Formiga bala
-Dano 60
-Custo 23
-
-Sangramento
-
-Alvo múltiplo
-
-100 (Rank A+) 5 vantagens 
-
-
-Zumbido de inseto 
-
-Dano 80 + ninjutsu + vontade + habilidade 
-
-Custo 25
-
-Vorpal 
-Irrefreável
-Perigoso
-Poderoso
-
-Ordem de cura Alvo múltiplo
-Custo 5 
-Cura 55 de vida + resis + ninjutsu + vontade 
-
-Ordem de defesa Refletir  
-Custo 20
-Defende 40 + resis + vontade + ninjutsu
-
-Brave custo 25%
-
-Transformação:https://docs.google.com/spreadsheets/d/1taP-Av1b3vG4y3csCCk8UTlqt_Qtr2qW4TQUEFJaNuE/edit?gid=0#gid=0
-
-Gigante 50%
-Besouro custo 15
-Nome: Seetle
-Arma + 30 de dano contundente, perfurante ou cortante 1d6 + força + habilidade + dano + taijutsu
+ - Custo 35 | Dano 45 | Veneno | Sufocamento | Alvo múltiplo | Perigoso | Poderoso
+- Ordem de cura
+ - Custo 5 | Cura 55 | Alvo múltiplo
+- Ordem de defesa(Rank B)
+ - Custo 20 | Defende 40 | Refletir
+- Briga de inseto (Rank B+)
+ - Custo 8 | Dano 20 | em área | enfraquecimento(Reduz poder de fogo em 5)
+- Afundo
+ - Custo 15 | Dano 40 | enfraquecimento(Reduz força em 5)
+- Formiga bala(Rank A)
+ - Custo 23 | Dano 60 | Sangramento | Alvo múltiplo
+- Zumbido de inseto(Rank A+)
+ - Custo 25 | Dano 80 | Vorpal | Irrefreável | Perigoso | Poderoso
+- invocação: Brave
+ - custo 25% CK
+- Transformação:https://docs.google.com/spreadsheets/d/1taP-Av1b3vG4y3csCCk8UTlqt_Qtr2qW4TQUEFJaNuE/edit?gid=0#gid=0
+- invocação Gigante
+ - custo 50% CK
+- Besouro
+ - custo 15 | 30 de dano contundente, perfurante ou cortante
 # Anotações
 Brave
 Ryuuji(--o--)
