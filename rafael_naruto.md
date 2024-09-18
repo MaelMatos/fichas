@@ -1,10 +1,9 @@
 # Status
-Nome: Hoeru Kabutomushi Seetle
+Nome: Hoeru Kabutomushi Seetle Aburame
 Clã - Aburame
-Status Ninja  - 
-Gennin
+Status Ninja  - Gennin
 Ryo - 78750 
-Sensei - Ballitas Seetle
+Sensei - Mirai Ryuki
 PV | 413/413
 Chakra | 429/429
 
