@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33dd829577c9b86a",
+        "id": "493543b9273a5d83",
         "type": "tabs",
         "children": [
           {
-            "id": "65709ba70f1cbba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pvp naruto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d551bdce9234e78",
+            "id": "498eb3b49bd861fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "naruto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48a636a022ceffac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rafael_naruto.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pvp naruto.md",
+                "file": "naruto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pvp naruto.md",
+                "file": "naruto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pvp naruto.md"
+                "file": "naruto.md"
               }
             }
           },
@@ -193,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65709ba70f1cbba9",
+  "active": "498eb3b49bd861fb",
   "lastOpenFiles": [
     "rafael_naruto.md",
     "naruto.md",
