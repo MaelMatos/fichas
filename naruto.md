@@ -158,3 +158,4 @@ quando era muito novo foi abandonado na frente de uma casa de uma familia uchiha
 - o dano dos clone é somado em um contra ataque
 - combro breaker funciona para aceleração
 - superação dobra o dano do adaptador
+- tecnicas de esquiva
