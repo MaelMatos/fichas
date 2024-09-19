@@ -20,7 +20,7 @@ custo demais clones 90
 
 # Atributos(10+65)
 Força: 1+4+2  
-Habilidade: 19+6+2  
+Habilidade: 20+6+2  
 Resistencia:  36+4+2  
 Poder de Fogo:  1+4+2 -> 7  
 Vontade: 11+5+2-> 20  
@@ -50,6 +50,7 @@ bukijutsu
 - ataque múltiplo(2)
 - ataque oportuno(2)
 - área de batalha(4)
+- aceleração(3)
 - energia vital
 - vigoroso
 - poder oculto
