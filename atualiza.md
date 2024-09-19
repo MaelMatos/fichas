@@ -19,7 +19,7 @@ bukkijutsu
 
 vantagens
 - regen
-- base de operações(opcional)
+- equipamento: mapa hellsing
 
 desvantagens:
 - má fama

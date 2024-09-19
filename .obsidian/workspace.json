@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "naruto.md",
+                "file": "atualiza.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "naruto.md",
+                "file": "atualiza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "naruto.md",
+                "file": "atualiza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "naruto.md"
+                "file": "atualiza.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "845f925dcfbf1059",
   "lastOpenFiles": [
+    "naruto.md",
     "pvp naruto.md",
     "rafael.md",
-    "naruto.md",
     "rafael_naruto.md",
     "cyberpunk.md",
     "kauan.md",
