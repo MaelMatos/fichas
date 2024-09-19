@@ -6,7 +6,7 @@ Ryo: 5800
 Sensei: ~~Mirai Ryuki~~ Orochimaru  
 PV | 1170/1170+107/107+81/81  
 escudo | 0/38  
-Chakra | 106/106+7/55+20/20  
+Chakra | 106/106+33/55+20/20  
 controle de chakra | 106/106 + 55/55 + 20/20  
 [[#^a861ee|dreno de chakra: 13]]
 [[#^15efc3|fúria: 8]]  
