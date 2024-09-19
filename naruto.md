@@ -4,10 +4,10 @@ Clã: hellsing
 Status Ninja : ~~Genin~~ Nukenin  
 Ryo: 5800  
 Sensei: ~~Mirai Ryuki~~ Orochimaru  
-PV | 441/1170+0/107+0/81  
+PV | 1170/1170+107/107+81/81  
 escudo | 0/38  
-Chakra | 37/106+55/55+0/20  
-controle de chakra | 0/106 + 0/55 + 0/20  
+Chakra | 106/106+7/55+20/20  
+controle de chakra | 106/106 + 55/55 + 20/20  
 [[#^a861ee|dreno de chakra: 13]]
 [[#^15efc3|fúria: 8]]  
 [[#^b97c9d|regen: 72]]
@@ -72,7 +72,7 @@ bukijutsu
 - Akuma bushin
  - ? hp de custo(define vida e chakra)  | usa jutsu  | pode ser coletado como resíduo para adquirir suas experencias e recursos
 - Kage bushin
-  - ? CK de custo(define vida e chakra)  | usa jutsu
+  - ? CK de custo(define vida e chakra)(min 10%)  | usa jutsu
 - cintilação corporal 
  - 15 chackra
 - munições especiais(+50 hp custo):
