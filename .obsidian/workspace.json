@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c8e770d4d767a77",
+        "id": "0f0c0032073b95a3",
         "type": "tabs",
         "children": [
           {
-            "id": "845f925dcfbf1059",
+            "id": "81c62f6cfea9d931",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atualiza.md",
+                "file": "Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atualiza.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atualiza.md",
+                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atualiza.md"
+                "file": "Sem título.md"
               }
             }
           },
@@ -169,10 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "845f925dcfbf1059",
+  "active": "81c62f6cfea9d931",
   "lastOpenFiles": [
+    "Sem título.md",
     "naruto.md",
     "pvp naruto.md",
+    "atualiza.md",
     "rafael.md",
     "rafael_naruto.md",
     "cyberpunk.md",
