@@ -5,7 +5,7 @@ Classe: Baixo-Corpe
 Edinhos: 44.200  
 lvl 2 => 3
 400 xp
-HP 0/6   
+HP 1/6   
 RAM 21/21   
 Energia 6/6   
 Armadura 0/0   
