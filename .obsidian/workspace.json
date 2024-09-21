@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "naruto.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "naruto.md",
+                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "naruto.md"
+                "file": "Sem título.md"
               }
             }
           },
@@ -181,10 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18ec125ebba11d61",
+  "active": "e86ffd3b7aa49c95",
   "lastOpenFiles": [
-    "Sem título.md",
     "naruto.md",
+    "Sem título.md",
     "Sem título 1.md",
     "cyberpunk.md",
     "pvp naruto.md",
