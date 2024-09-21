@@ -5,7 +5,7 @@ Status Ninja : ~~Genin~~ Nukenin
 Ryo: 5800  
 Sensei: ~~Mirai Ryuki~~ Orochimaru  
 PV | 1058/1170+0/107+81/81 
-Chakra | 54/106+0/55+20/20  
+Chakra | 72/106+0/55+20/20  
 controle de chakra | 106/106 + 55/55 + 20/20  
 [[#^a861ee|dreno de chakra: 13]]
 [[#^15efc3|fúria: 8]]  
@@ -13,7 +13,7 @@ controle de chakra | 106/106 + 55/55 + 20/20
 (9d6)++18++70++25 -> casull
 (4d6)++80++42++27++100++2++49 -> foice+punho(custa 100 hp,reciclavel -49)
 custo clone de akumaton 360 hp
-custo clone da sombras 3 ck
+custo clone da sombras 48 ck
 custo demais clones 90
 mizu bushin A hp 25/25 ck 25/25 (6/8)
 mizu bushin B hp 25/25 ck 25/25 (6/8)
@@ -21,6 +21,9 @@ mizu bushin C hp 25/25 ck 25/25 (6/8)
 akuma bushin A hp 120/120 ck 95/120 88
 akuma bushin B hp 120/120 ck 95/120 92
 akuma bushin C hp 120/120 ck 95/120 91
+kage bushin A hp 16/16 ck 16/16 
+kage bushin B hp 16/16 ck 16/16 
+kage bushin C hp 16/16 ck 16/16 
 # Atributos(10+65)
 Força: 1+4+2  
 Habilidade: 20+6+2  
