@@ -2,10 +2,10 @@
 Nome: Gyro Rogers  
 Codinome: Coin  
 Classe: Baixo-Corpe  
-Edinhos: 34.200  
+Edinhos: 31.400  
 lvl 2 => 3
 400 xp
-HP 1/6   
+HP 6/6   
 RAM 21/21   
 Energia 6/6   
 Armadura 17/17   
