@@ -15,9 +15,9 @@ controle de chakra | 106/106 + 55/55 + 20/20
 custo clone de akumaton 360 hp
 custo clone da sombras 3 ck
 custo demais clones 90
-mizu bushin A hp 25/25 ck 25/25 (7/8)
-mizu bushin B hp 25/25 ck 25/25 (7/8)
-mizu bushin C hp 25/25 ck 25/25 (7/8)
+mizu bushin A hp 25/25 ck 25/25 (6/8)
+mizu bushin B hp 25/25 ck 25/25 (6/8)
+mizu bushin C hp 25/25 ck 25/25 (6/8)
 akuma bushin A hp 120/120 ck 120/120
 akuma bushin B hp 120/120 ck 120/120
 akuma bushin C hp 120/120 ck 120/120
