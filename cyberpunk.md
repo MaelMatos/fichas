@@ -2,13 +2,13 @@
 Nome: Gyro Rogers  
 Codinome: Coin  
 Classe: Baixo-Corpe  
-Edinhos: 44.200  
+Edinhos: 34.200  
 lvl 2 => 3
 400 xp
 HP 1/6   
 RAM 21/21   
 Energia 6/6   
-Armadura 0/0   
+Armadura 17/17   
 
 # Atributos 8+2
 Força: 0  
@@ -27,6 +27,11 @@ Vontade; 3
  - 6 de dano | 12 balas por rajada | 16 balas por pente(14/16)
 
 # Implantes 
+## Pele
+- armadura subdermal 1
+	- 17 armor
+- indutor de dor
+	- 25% do dano por 4 rodadas
 
 # Vantagens 2 
 - influencia
