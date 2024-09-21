@@ -2,7 +2,7 @@
 Nome: Gyro Rogers  
 Codinome: Coin  
 Classe: Baixo-Corpe  
-Edinhos: 21.900 
+Edinhos: 21.700 
 lvl 2 => 3
 400 xp
 HP 6/6   
@@ -21,6 +21,7 @@ Vontade; 3
 # Inventário
 - dispositivo de comunicação
 - ~~fusca~~
+- sobretudo preto
 - pistola Constitutional Arms Unity
 	- dano 17 | 15/15 | .45 ACP
 	- mira: -
