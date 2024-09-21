@@ -125,7 +125,7 @@ bukijutsu
 - 1 granada de fumaça lvl 2
 - mapa hellsing
 - casull
- - 70 dano | custo 70 hp | equipamento digno | energia vital(90%->1223,desabilita regen) | emudecimento | paralisia | espiritual| arma-escudo | vorpal | (6/8)
+ - 70 dano | custo 70 hp | equipamento digno | energia vital(90%->1223,desabilita regen) | emudecimento | paralisia | espiritual| arma-escudo | vorpal | (8/8)
 - Duelista do Fim
   - dano 100 | custo 100 hp | alvo múltiplo | teleguiado | irrefreável | tiro carregado | equipamento digno | curtíssimo alcance | poder oculto | (4/4)
 - ~~colete bege~~
