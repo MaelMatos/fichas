@@ -19,9 +19,9 @@ custo demais clones 90
 Força: 1+4+2  
 Habilidade: 20+6+2  
 Resistencia:  36+4+2  
-Poder de Fogo:  1+4+2 -> 7  
-Vontade: 11+5+2-> 20  
-Chakra: 7+3+2-> 11  
+Poder de Fogo:  1+4+2 -> 10+7  
+Vontade: 11+5+2-> 36+5+2  
+Chakra: 7+3+2-> 30+2
 
 uraugan R4
  - +4 FOR +6 HAB +4 RES +4 PDF +5 VONT +3 CK
@@ -145,8 +145,8 @@ bukijutsu
 
 # Caminho Shinobi (3+4)
 Taijutsu: 4
-Ninjutsu: 2 -> 7
-Genjutsu: 1 -> 8
+Ninjutsu: 2 -> 10  
+Genjutsu: 1 -> 10  
 
 # história
 quando era muito novo foi abandonado na frente de uma casa de uma familia uchiha,junto a um pergaminho misterioso, coincidentmente esses uchihas haviam ouvido os boatos sobre o clã maldito de monstros devoradores,e apesar disso,resolveram adotar e cuidar da criança,que foi impedida de ir a academia para evitar sua morte,durante o massacre uchiha ele foi um dos poupados por ser confundido com uma criança uchiha
