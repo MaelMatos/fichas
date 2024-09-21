@@ -24,7 +24,7 @@ Vontade; 3
 - D5 copper head
  - 8 de dano | 25 no pente e mais um pente extra (18 balas restantes) 
 - Double uzi
- - 6 de dano | 12 balas por rajada | 16 balas por pente
+ - 6 de dano | 12 balas por rajada | 16 balas por pente(14/16)
 
 # Implantes 
 
