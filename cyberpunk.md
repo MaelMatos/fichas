@@ -23,7 +23,7 @@ Vontade; 3
 - ~~fusca~~
 - sobretudo preto
 - pistola Constitutional Arms Unity
-	- dano 17 | 15/15 | .45 ACP
+	- dano 17 | 14/15 | .45 ACP
 	- mira: -
 	- boca: -
 - Constitutional Arms M2067 denfender
