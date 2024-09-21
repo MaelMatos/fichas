@@ -26,7 +26,7 @@ Vontade; 3
 - Double uzi
  - 6 de dano | 12 balas por rajada | 16 balas por pente
 
-# Implantes ()
+# Implantes 
 
 # Vantagens 2 
 - influencia
