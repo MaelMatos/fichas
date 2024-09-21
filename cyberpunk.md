@@ -2,7 +2,7 @@
 Nome: Gyro Rogers  
 Codinome: Coin  
 Classe: Baixo-Corpe  
-Edinhos: 31.400  
+Edinhos: 21.900 
 lvl 2 => 3
 400 xp
 HP 6/6   
@@ -20,11 +20,13 @@ Vontade; 3
 
 # Inventário
 - dispositivo de comunicação
-- fusca
-- D5 copper head
- - 8 de dano | 25 no pente e mais um pente extra (18 balas restantes) 
-- Double uzi
- - 6 de dano | 12 balas por rajada | 16 balas por pente(14/16)
+- ~~fusca~~
+- pistola Constitutional Arms Unity
+	- dano 17 | 15/15 | .45 ACP
+	- mira: -
+	- boca: -
+- Constitutional Arms M2067 denfender
+- dano 7 | rajada de 25 | 75/75 | .50
 
 # Implantes 
 ## Pele
