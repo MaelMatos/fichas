@@ -5,10 +5,10 @@ Classe: Baixo-Corpe
 Edinhos: 21.700 
 lvl 2 => 3
 400 xp
-HP 6/6   
+HP 0/6   
 RAM 21/21   
 Energia 6/6   
-Armadura 17/17   
+Armadura 0/17   
 
 # Atributos 8+2
 Força: 0  
