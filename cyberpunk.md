@@ -4,7 +4,7 @@ Codinome: Coin
 Classe: Baixo-Corpe  
 Edinhos: 39.500  
 lvl 2 => 3
-300 xp
+400 xp
 HP 6/6   
 RAM 21/21   
 Energia 6/6   
