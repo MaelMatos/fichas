@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título 1.md",
+                "file": "Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título 1.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título 1.md",
+                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título 1.md"
+                "file": "Sem título.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "18ec125ebba11d61",
   "lastOpenFiles": [
-    "cyberpunk.md",
     "Sem título 1.md",
+    "cyberpunk.md",
     "Sem título.md",
     "naruto.md",
     "pvp naruto.md",
