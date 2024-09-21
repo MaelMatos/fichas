@@ -18,7 +18,7 @@ Poder de Fogo: 1
 Inteligência: 3  
 Vontade; 3   
 
-# Inventário ()
+# Inventário
 - dispositivo de comunicação
 - fusca
 - D5 copper head
