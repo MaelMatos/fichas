@@ -18,9 +18,9 @@ custo demais clones 90
 mizu bushin A hp 25/25 ck 25/25 (6/8)
 mizu bushin B hp 25/25 ck 25/25 (6/8)
 mizu bushin C hp 25/25 ck 25/25 (6/8)
-akuma bushin A hp 120/120 ck 95/120
-akuma bushin B hp 120/120 ck 95/120
-akuma bushin C hp 120/120 ck 95/120
+akuma bushin A hp 120/120 ck 95/120 88
+akuma bushin B hp 120/120 ck 95/120 92
+akuma bushin C hp 120/120 ck 95/120 91
 # Atributos(10+65)
 Força: 1+4+2  
 Habilidade: 20+6+2  
