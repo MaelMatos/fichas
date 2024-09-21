@@ -164,3 +164,15 @@ quando era muito novo foi abandonado na frente de uma casa de uma familia uchiha
 - colocar dano gigante em minhas ults
 
 # Anotações II
+akuma bushin A hp 120/120 ck 120/120
+akuma bushin B hp 120/120 ck 120/120
+akuma bushin C hp 120/120 ck 120/120
+mizu bushin A hp 25/25 ck 25/25
+mizu bushin B hp 25/25 ck 25/25
+mizu bushin C hp 25/25 ck 25/25
+kage bushin A hp 16/16 ck 16/16 
+kage bushin B hp 16/16 ck 16/16 
+kage bushin C hp 16/16 ck 16/16 
+bushin A
+bushin B
+bushin C

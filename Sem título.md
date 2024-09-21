@@ -4,8 +4,8 @@ Clã: hellsing
 Status Ninja : ~~Genin~~ Nukenin  
 Ryo: 5800  
 Sensei: ~~Mirai Ryuki~~ Orochimaru  
-PV | 810/1170+12/107+81/81 
-Chakra | 100/106+0/55+20/20  
+PV | 1170/1170+32/107+81/81 
+Chakra | 106/106+42/55+20/20  
 controle de chakra | 106/106 + 55/55 + 20/20  
 [[#^a861ee|dreno de chakra: 13]]
 [[#^15efc3|fúria: 8]]  
@@ -13,21 +13,8 @@ controle de chakra | 106/106 + 55/55 + 20/20
 (9d6)++18++70++25 -> casull
 (4d6)++80++42++27++100++2++49 -> foice+punho(custa 100 hp,reciclavel -49)
 custo clone de akumaton 360 hp
-custo clone da sombras 48 ck
+custo clone da sombras 3 ck
 custo demais clones 90
-akuma bushin A hp 120/120 ck 120/120
-akuma bushin B hp 120/120 ck 120/120
-akuma bushin C hp 120/120 ck 120/120
-mizu bushin A hp 25/25 ck 25/25
-mizu bushin B hp 25/25 ck 25/25
-mizu bushin C hp 25/25 ck 25/25
-kage bushin A hp 16/16 ck 16/16 
-kage bushin B hp 16/16 ck 16/16 
-kage bushin C hp 16/16 ck 16/16 
-bushin A
-bushin B
-bushin C
-
 # Atributos(10+65)
 Força: 1+4+2  
 Habilidade: 20+6+2  
