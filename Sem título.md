@@ -24,9 +24,9 @@ akuma bushin C hp 120/120 ck 95/120 91 (7/8)
 kage bushin A hp 16/16 ck 16/16 (7/8)
 kage bushin B hp 16/16 ck 16/16 (7/8)
 kage bushin C hp 16/16 ck 16/16  (7/8)
-bushin A
-bushin B
-bushin C
+bushin A (7/8)
+bushin B (7/8)
+bushin C (7/8)
 # Atributos(10+65)
 Força: 1+4+2  
 Habilidade: 20+6+2  
