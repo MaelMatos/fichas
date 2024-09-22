@@ -2,7 +2,7 @@
 Nome: Winston brien
 Codinome: Brother  
 Classe: trilha-rede
-Edinhos:
+Edinhos: 0
 lvl 1 => 2
 0 xp
 HP 0/0   
