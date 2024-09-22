@@ -33,7 +33,8 @@ Vontade; 1
 	- custo 3 de ram
 
 # Vantagens 2 
+- 
 
 # Desvantagens 2
 - frágil
-- 
+- compulsão por jogos
