@@ -1,5 +1,5 @@
 # Status
-Nome: Winston brien
+Nome: Winston goldstein
 Codinome: Brother  
 Classe: trilha-rede
 Edinhos: 0
