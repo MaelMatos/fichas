@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "naruto.md",
+                "file": "cyberpunk2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e86ffd3b7aa49c95",
+            "id": "8dfdc21790a97b85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "cyberpunk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título.md",
+                "file": "cyberpunk2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título.md",
+                "file": "cyberpunk2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.md"
+                "file": "cyberpunk2.md"
               }
             }
           },
@@ -182,12 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e86ffd3b7aa49c95",
+  "active": "18ec125ebba11d61",
   "lastOpenFiles": [
     "naruto.md",
-    "Sem título.md",
-    "Sem título 1.md",
     "cyberpunk.md",
+    "cyberpunk2.md",
+    "Sem título 1.md",
     "pvp naruto.md",
     "atualiza.md",
     "rafael.md",
