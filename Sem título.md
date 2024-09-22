@@ -4,7 +4,7 @@ Clã: hellsing
 Status Ninja : ~~Genin~~ Nukenin  
 Ryo: 5800  
 Sensei: ~~Mirai Ryuki~~ Orochimaru  
-PV | 1058/1170+0/107+81/81 
+PV | 970/1170+0/107+81/81 
 Chakra | 30/106+0/55+20/20  
 controle de chakra | 106/106 + 55/55 + 20/20  
 [[#^a861ee|dreno de chakra: 13]]
@@ -24,6 +24,9 @@ akuma bushin C hp 120/120 ck 95/120 91 (7/8)
 kage bushin A hp 16/16 ck 16/16 (7/8)
 kage bushin B hp 16/16 ck 16/16 (7/8)
 kage bushin C hp 16/16 ck 16/16  (7/8)
+bushin A
+bushin B
+bushin C
 # Atributos(10+65)
 Força: 1+4+2  
 Habilidade: 20+6+2  
