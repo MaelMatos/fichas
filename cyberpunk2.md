@@ -5,9 +5,9 @@ Classe: trilha-rede
 Edinhos:
 lvl 1 => 2
 0 xp
-HP    
-RAM 
-Energia    
+HP 0/0   
+RAM 22/22
+Energia 7/7   
 Armadura    
 
 # Atributos 8+2
