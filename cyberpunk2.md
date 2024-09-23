@@ -19,7 +19,8 @@ Inteligência: 3
 Vontade; 1   
 
 # Inventário
-
+- pistola arasaka jkex2 tenshin
+	- dano 7 | tiro carregado | 14/14 | +4 dano fogo | 
 
 # Implantes 
 ## neural
