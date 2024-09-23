@@ -3,8 +3,8 @@ Nome: Winston goldstein
 Codinome: Brother  
 Classe: trilha-rede
 Edinhos: 0
-lvl 1 => 2
-0 xp
+lvl 2 => 3
+400 xp
 HP 0/0   
 RAM 14/22
 Energia 7/7   
