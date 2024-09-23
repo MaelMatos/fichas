@@ -9,6 +9,7 @@ HP 0/0
 RAM 19/22
 Energia 7/7   
 Armadura    
+![[Pasted image 20240922213221.png]]
 
 # Atributos 8
 Força: 0   
