@@ -10,7 +10,7 @@ RAM 22/22
 Energia 7/7   
 Armadura    
 
-# Atributos 8+2
+# Atributos 8
 Força: 0   
 Resistência: 0  
 Habilidade: 3  
