@@ -6,7 +6,7 @@ Edinhos: 0
 lvl 2 => 3
 400 xp
 HP 0/0   
-RAM 14/22
+RAM 14/32
 Energia 7/7   
 Armadura    
 ![[Pasted image 20240922213221.png|200]]
@@ -14,9 +14,9 @@ Armadura
 # Atributos 8
 Força: 0   
 Resistência: 0  
-Habilidade: 3  
+Habilidade: 4  
 Poder de Fogo: 1   
-Inteligência: 3  
+Inteligência: 4  
 Vontade; 1   
 
 # Inventário
