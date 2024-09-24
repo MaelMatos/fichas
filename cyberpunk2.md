@@ -37,6 +37,7 @@ Vontade; 1
 # Vantagens 2 
 - genialidade
 - aparência inofensiva
+- escolhr depois
 
 # Desvantagens 2
 - frágil
