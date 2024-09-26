@@ -44,3 +44,10 @@ desde então Lucius viveu 2 anos sozinho, isso até ser convidado para a escola 
 - poção aromática
  - 5 pétalas verdes, 1 chifre de dragão glacial, 1 perna de ave de pedra e 5 pétalas rosas
  - 2 pétalas de cada no caldeirão, misturar com liquido amarelo, moer o chifre, jogar junto com o que restou das pétalas, misturar no caldeirão junto com o liquido azul usando a perna de águia, deixando-a cair, aguarda dissolver enquanto mistura com uma colher de pau
+- Poção Sombria
+ - 10 ml de um sentimento negativo | 2 Penas de coruja Asas Negras | 1 Galho retorcido | 1 Varinha roubada do inimigo | 1 gota de sangue dada de bom grado | 1 folha de Menta dos Ventos | 100 ml de água
+ - Agonia: Jogue os 10 ml de sentimento negativo com 1 pena, depois misture com os 100 ml de água por 2 minutos usando o galho. Após isso, adicione a varinha e a outra pena e espere 50 minutos e deixe o galho ser consumido pelo líquido. Adicione a menta e a gota de sangue e espere mais 30 min.
+ - Raiva: Jogue as penas e o sentimento. Deixe até que as penas fiquem da cor vermelha brasa. Após isso, jogue a água aos poucos junto com pedaços da menta e espere por 20 minutos. No final, jogue o sangue, a varinha e o galho. O tempo de espera é de 2 horas.
+ - Medo: Jogue o sentimento, e o deixe fluir por 2 minutos. Após isso, jogue a varinha e o galho quebrados junto com as penas. Coloque seu dedo cortado com o sangue dentro do líquido. Ainda com o dedo dentro do líquido, jogue toda a água lentamente e junto com ela, vá subindo seu dedo até que a água acabe. Retire seu dedo da mistura. Jogue a menta e espere 5 minutos.
+ - Tristeza: Jogue o sentimento com a água e espere ela ficar na cor azul escuro. Após isso, jogue as penas e a varinha. Misture com o galho por 5 minutos. Jogue a gota de sangue, e espere 1 dia inteiro No final, a menta e espere 5 minutos e ela estará pronta.
+ - Vingança: Comece com o sangue, o sentimento e as penas. Use o galho para amassar ingredientes e espere 10 min. Após isso, quebre o galho e adicione os outros ingredientes. O tempo de espera é de 1 hora.
