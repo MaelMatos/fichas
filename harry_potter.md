@@ -31,6 +31,8 @@ Magia das Trevas: 4
 - livro: a arte da magia das trevas  
 - poção aromática
 - fraco de agonia liquida  (30ml)
+- faca de arremesso
+	- dano 6
 
 # História
 nascido de pai buxo e mãe trouxa, Lucius perdeu seus pais muito cedo, seu pai aos 3 anos e sua mãe aos 14  
