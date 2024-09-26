@@ -24,7 +24,9 @@ Magia das Trevas: 4
 
 # Magias
 - Reparo
- - custo 10
+	-  Custo 10
+- Maldição do agonizando (Maledictus morientium)
+	- Custo 10 | Dano 10 | Enfraquecer: Poder em 5
 # inventario  
 - varinha de bétula  
 - amuleto de coruja
