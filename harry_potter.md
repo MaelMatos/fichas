@@ -33,6 +33,7 @@ Magia das Trevas: 4
 - fraco de agonia liquida  (30ml)
 - faca de arremesso
 	- dano 6
+ - poção sombria: agonia x2
 
 # História
 nascido de pai buxo e mãe trouxa, Lucius perdeu seus pais muito cedo, seu pai aos 3 anos e sua mãe aos 14  
