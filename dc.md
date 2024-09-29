@@ -1,18 +1,18 @@
 # Status
 Nome: 
 Alcunha - 
-HP / 
-Energia / 
-Raça - 
-Cidade - 
+HP 3/3 
+Energia 23/23
+Raça Humano 
+Cidade central city
 
 # Atributos (12)
-Força 
-Resistência 
-Habilidade 
-Poder de Fogo 
-Inteligência 
-Vontade
+Força: 0  
+Resistência: 1   
+Habilidade: 3
+Poder de Fogo: 4   
+Inteligência: 3  
+Vontade: 1  
 
 # Inventário  
 
@@ -20,7 +20,7 @@ Vontade
 - adaptador
 
 # Desvantagens 1
-- maldição: 
+- insano: distraido(-1)
 
 # Poderes
 - projeção de corte
