@@ -20,7 +20,7 @@ Vontade
 - adaptador
 
 # Desvantagens 1
-- maldição
+- maldição: 
 
 # Poderes
 - projeção de corte
