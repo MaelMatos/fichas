@@ -1,5 +1,5 @@
 # Status
-Nome: 
+Nome: joel newman
 Alcunha - 
 HP 3/3 
 Energia 23/23
