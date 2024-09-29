@@ -23,3 +23,4 @@ Vontade
 - maldição
 
 # Poderes
+- projeção de corte
