@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cbfae6c6047827b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "naruto.md",
+                "file": "dc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "naruto.md",
+                "file": "dc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "naruto.md"
+                "file": "dc.md"
               }
             }
           },
@@ -169,8 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c4f7447d93fde51",
+  "active": "cbfae6c6047827b7",
   "lastOpenFiles": [
+    "naruto.md",
+    "dc.md",
     "one_piece.md",
     "dragon_ball.md",
     "cyberpunk2.md",
@@ -178,7 +193,6 @@
     "dinastia.md",
     "harry_potter.md",
     "imagens/Pasted image 20240922213221.png",
-    "naruto.md",
     "Sem título 1.md",
     "pvp naruto.md",
     "atualiza.md",
