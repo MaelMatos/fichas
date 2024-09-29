@@ -37,7 +37,7 @@ Vontade; 1
 # Vantagens 2 
 - genialidade
 - aparência inofensiva
-- escolhr depois
+- hack sequencial
 
 # Desvantagens 2
 - frágil

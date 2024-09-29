@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dinastia.md",
+                "file": "cyberpunk2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dinastia.md",
+                "file": "cyberpunk2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dinastia.md",
+                "file": "cyberpunk2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dinastia.md"
+                "file": "cyberpunk2.md"
               }
             }
           },
@@ -171,9 +171,10 @@
   },
   "active": "4c4f7447d93fde51",
   "lastOpenFiles": [
+    "cyberpunk.md",
+    "dinastia.md",
     "harry_potter.md",
     "cyberpunk2.md",
-    "cyberpunk.md",
     "imagens/Pasted image 20240922213221.png",
     "naruto.md",
     "Sem título 1.md",
