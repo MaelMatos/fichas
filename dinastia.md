@@ -5,7 +5,7 @@ Pv: 0/0
 Pm: 28/70
 6
 1
-5
+1
 
 
 Atributos(15)
@@ -26,6 +26,7 @@ Vantagens:
 - adaptador
 - aceleração(4)
 - equilíbrio de energia(5)
+- superação(4)
 
 Desvantagens:
 - frágil
