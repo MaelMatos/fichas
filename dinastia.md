@@ -3,9 +3,7 @@ Clã: ?
 Shin: 0
 Pv: 0/0
 Pm: 28/70
-6
-1
-1
+
 
 
 Atributos(15)
@@ -14,7 +12,7 @@ Habilidade: 12
 Resistência: 0
 Poder de fogo: 0
 Vontade: 5
-Nnus: 5
+Nnus: 11
 
 Caminho(8)
 kai: 2
@@ -27,6 +25,7 @@ Vantagens:
 - aceleração(4)
 - equilíbrio de energia(5)
 - superação(4)
+- sentido especial: sentido de perigo(1)
 
 Desvantagens:
 - frágil
