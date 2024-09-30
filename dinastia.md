@@ -1,5 +1,5 @@
 # Status
-Nome: ryuma
+Nome: ryuma fuuma
 Clã: ?
 Shin: 0
 Pv: 0/0
@@ -32,7 +32,7 @@ mugen ilusório: 2
 
 # Itens
 - lamina tola
-  - dano 26 | equipamento digno | vorpal | aparência inofensiva | deflexão | reflexão | ataque oportuno | retornável
+  - dano 40 | equipamento digno | vorpal | aparência inofensiva | deflexão | reflexão | ataque oportuno | retornável
 
 # Técnicas:
 - reversão: morto
