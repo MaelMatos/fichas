@@ -3,6 +3,10 @@ Clã: ?
 Shin: 0
 Pv: 0/0
 Pm: 28/70
+6
+1
+5
+
 
 Atributos(15)
 Força: 0
