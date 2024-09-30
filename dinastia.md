@@ -2,9 +2,7 @@ Nome: ryuma
 Clã: ?
 Shin: 0
 Pv: 0/0
-Pm: 28/70
-
-
+Pm: 232/232
 
 Atributos(15)
 Força: 0
@@ -23,7 +21,7 @@ Vantagens:
 - equipamento
 - adaptador
 - aceleração(4)
-- equilíbrio de energia(5)
+- equilíbrio de energia II(5)
 - superação(4)
 - sentido especial: sentido de perigo(1)
 
