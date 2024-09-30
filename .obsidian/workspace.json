@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "harry_potter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "747be982f800fac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem título.md",
+                "file": "dinastia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título.md",
+                "file": "dinastia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título.md",
+                "file": "dinastia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.md"
+                "file": "dinastia.md"
               }
             }
           },
@@ -194,10 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "747be982f800fac5",
+  "active": "cbfae6c6047827b7",
   "lastOpenFiles": [
-    "Sem título.md",
     "harry_potter.md",
+    "Sem título.md",
     "dinastia.md",
     "dc.md",
     "naruto.md",

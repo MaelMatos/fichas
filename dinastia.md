@@ -21,15 +21,15 @@ Vantagens:
 - equipamento
 - adaptador
 - aceleração(4)
-- equilibrio de energia(5)
+- equilíbrio de energia(5)
 
 Desvantagens:
-- fragil
+- frágil
 - segredo
 
 Itens
 - lamina tola
-  - dano 26 | equipamento digno | vorpal | aparencia inofensiva | deflexão | reflexão | ataque oportuno | retornavel
+  - dano 26 | equipamento digno | vorpal | aparência inofensiva | deflexão | reflexão | ataque oportuno | retornável
 
 Tecnicas:
 - reversão: morto
