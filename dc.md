@@ -24,3 +24,5 @@ Vontade: 1
 
 # Poderes
 - projeção de corte
+
+# Técnicas
