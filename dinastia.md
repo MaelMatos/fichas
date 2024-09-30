@@ -3,7 +3,7 @@ Nome: ryuma fuuma
 Clã: ?
 Shin: 0
 Pv: 0/0
-Pm: 232/232
+Pm: 227/232
 
 # Atributos(15)
 Força: 0
