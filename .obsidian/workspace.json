@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "747be982f800fac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "harry_potter.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "harry_potter.md",
+                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "harry_potter.md"
+                "file": "Sem título.md"
               }
             }
           },
@@ -182,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbfae6c6047827b7",
+  "active": "747be982f800fac5",
   "lastOpenFiles": [
+    "Sem título.md",
+    "harry_potter.md",
     "dinastia.md",
     "dc.md",
     "naruto.md",
@@ -191,7 +205,6 @@
     "dragon_ball.md",
     "cyberpunk2.md",
     "cyberpunk.md",
-    "harry_potter.md",
     "imagens/Pasted image 20240922213221.png",
     "Sem título 1.md",
     "pvp naruto.md",
