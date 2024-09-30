@@ -36,8 +36,8 @@ mugen ilusório: 2
 
 # Técnicas:
 - reversão: morto
-  - custo 10 | cura: 1 | sucesso automático em teste de morte | automático | dobra o custo toda vez que usado
+  - custo 5 | cura: 1 | sucesso automático em teste de morte | automático | dobra o custo toda vez que usado
 - reversão: danificou
-  - custo 20 | defesa 20
+  - custo 10 | defesa 20
 - reversão: acertou
-  - custo 5 | em area
+  - custo 3 | em área
