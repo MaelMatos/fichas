@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dc.md",
+                "file": "harry_potter.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dc.md",
+                "file": "harry_potter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dc.md",
+                "file": "harry_potter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dc.md"
+                "file": "harry_potter.md"
               }
             }
           },
@@ -184,13 +184,13 @@
   },
   "active": "cbfae6c6047827b7",
   "lastOpenFiles": [
-    "naruto.md",
+    "dinastia.md",
     "dc.md",
+    "naruto.md",
     "one_piece.md",
     "dragon_ball.md",
     "cyberpunk2.md",
     "cyberpunk.md",
-    "dinastia.md",
     "harry_potter.md",
     "imagens/Pasted image 20240922213221.png",
     "Sem título 1.md",

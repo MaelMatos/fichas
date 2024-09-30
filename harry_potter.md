@@ -27,12 +27,14 @@ Magia das Trevas: 7
 	-  Custo 10
 - Maldição do agonizando (Maledictus morientium)
 	- Custo 10 | Dano 10 | Enfraquecer: Poder em 5
+- Rei desmembrado (Desmanbra Rex)
+	- Custo ? | Dano 50 | em área
 # inventario  
 - varinha de bétula  
 - amuleto de coruja
 - livro: a arte da magia das trevas  
 - poção aromática
-- fraco de agonia liquida  (30ml)
+- fraco de agonia liquida  (20ml)
 - faca de arremesso
 	- dano 6
  - poção sombria: agonia x2
