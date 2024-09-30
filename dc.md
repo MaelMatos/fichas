@@ -2,7 +2,7 @@
 Nome: joel newman
 Alcunha - 
 HP 3/3 
-Energia 23/23
+Energia 1/23
 Raça Humano 
 Cidade central city
 
