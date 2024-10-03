@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ee5e0d45ee01abae",
+        "id": "c962a56131cb2b17",
         "type": "tabs",
         "children": [
           {
-            "id": "4c4f7447d93fde51",
+            "id": "147a6ec28785371b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "naruto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbfae6c6047827b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dinastia.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b30cd460ee1db0b6",
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dinastia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dinastia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dinastia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,13 +162,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbfae6c6047827b7",
+  "active": "147a6ec28785371b",
   "lastOpenFiles": [
+    "naruto.md",
+    "dinastia.md",
     "harry_potter.md",
     "Sem título.md",
-    "dinastia.md",
     "dc.md",
-    "naruto.md",
     "one_piece.md",
     "dragon_ball.md",
     "cyberpunk2.md",
