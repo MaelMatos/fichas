@@ -26,7 +26,8 @@ Vontade: 1
 - insano: distraído(-1)
 
 # Poderes
-- projeção de corte
+- projeção de corte(2)
+- precoginição(2)
 
 # Técnicas
 - X-Bullet
