@@ -11,8 +11,12 @@
             "id": "147a6ec28785371b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "naruto.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "naruto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "naruto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "naruto.md"
+              }
             }
           },
           {
@@ -163,6 +171,7 @@
   },
   "active": "147a6ec28785371b",
   "lastOpenFiles": [
+    "pvp naruto.md",
     "naruto.md",
     "dinastia.md",
     "harry_potter.md",
@@ -174,7 +183,6 @@
     "cyberpunk.md",
     "imagens/Pasted image 20240922213221.png",
     "Sem título 1.md",
-    "pvp naruto.md",
     "atualiza.md",
     "rafael.md",
     "rafael_naruto.md",
