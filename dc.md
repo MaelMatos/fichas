@@ -5,7 +5,9 @@ HP 0/3
 Energia 0/29
 Raça Humano 
 Cidade central city
-
+10 ponto
+1 vantagem
+2 poder
 # Atributos (12)
 Força: 0  
 Resistência: 1   
