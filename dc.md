@@ -28,3 +28,5 @@ Vontade: 1
 - projeção de corte
 
 # Técnicas
+- X-bullet
+	- custo 12 | dano 12
