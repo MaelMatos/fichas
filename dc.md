@@ -15,6 +15,8 @@ Inteligência: 4
 Vontade: 1  
 
 # Inventário  
+- faca 
+	- dano 7
 
 # Vantagens 1
 - adaptador
