@@ -1,5 +1,5 @@
 # Status
-Nome: joel newman
+Nome: Joel Newman
 Alcunha - 
 HP 3/3 
 Energia 29/29
@@ -20,7 +20,7 @@ Vontade: 1
 - adaptador
 
 # Desvantagens 1
-- insano: distraido(-1)
+- insano: distraído(-1)
 
 # Poderes
 - projeção de corte
