@@ -1,17 +1,17 @@
 # Status
 Nome: joel newman
 Alcunha - 
-HP 0/3 
-Energia 1/23
+HP 3/3 
+Energia 29/29
 Raça Humano 
 Cidade central city
 
 # Atributos (12)
 Força: 0  
 Resistência: 1   
-Habilidade: 3
+Habilidade: 4
 Poder de Fogo: 4   
-Inteligência: 3  
+Inteligência: 4  
 Vontade: 1  
 
 # Inventário  

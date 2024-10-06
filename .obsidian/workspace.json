@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "naruto.md",
+                "file": "dc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "naruto.md",
+                "file": "dc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "naruto.md",
+                "file": "dc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "naruto.md"
+                "file": "dc.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "147a6ec28785371b",
   "lastOpenFiles": [
-    "pvp naruto.md",
     "naruto.md",
+    "pvp naruto.md",
     "dinastia.md",
     "harry_potter.md",
     "Sem título.md",
