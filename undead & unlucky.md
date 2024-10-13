@@ -1,12 +1,11 @@
 # Status
-Nome: Joel Newman
+Nome: 
 Alcunha - 
-HP 0/10 
-Energia 0/110
+HP  
+Energia 
 Raça Humano 
-Cidade central city
-2 poder
-# Atributos (12)
+
+# Atributos 
 Força:   
 Resistência:    
 Habilidade: 
@@ -16,9 +15,9 @@ Vontade:
 
 # Inventário  
 
-# Vantagens 1
+# Vantagens 
 
-# Desvantagens 1
+# Desvantagens 
 
 # Poderes
 
