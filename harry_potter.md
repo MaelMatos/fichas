@@ -29,6 +29,8 @@ Magia das Trevas: 7
 	- Custo 10 | Dano 10 | Enfraquecer: Poder em 5
 - Rei desmembrado (Desmanbra Rex)
 	- Custo ? | Dano 50 | em área
+## Técnicas
+- Reciclar: Consgue usar uma ação extra para recuperar a munição, a quantidade que você recupera é igual a o seu Poder
 # inventario  
 - varinha de bétula  
 - amuleto de coruja
