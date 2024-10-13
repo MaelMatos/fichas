@@ -1,8 +1,8 @@
 # Status
 Nome: 
-Classe
+Classe: negator/
 HP: 14/14
-Energia 
+Energia: 30/30 
 
 # Atributos(17) 
 Força: 2   
