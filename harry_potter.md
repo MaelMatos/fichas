@@ -59,3 +59,4 @@ desde então Lucius viveu 2 anos sozinho, isso até ser convidado para a escola 
  - Poção da Iluminação
 	 - 1 raiz forte | 1 folha de boldo | 200 ml de água | 3 folhas de camomila
 	 - Ferver ingredientes por 3 minutos
+	 - +2 INT
