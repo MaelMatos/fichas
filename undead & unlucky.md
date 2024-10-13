@@ -1,9 +1,9 @@
 # Status
-Nome: 
-Classe: negator/
+Nome: shibi/yoru
+Classe: negator/uma
 HP: 14/14
 Energia: 30/30 
-
+![[Pasted image 20241013163319.png|200]]![[Pasted image 20241013163331.png|227]]
 # Atributos(17) 
 Força: 2   
 Resistência: 2    
