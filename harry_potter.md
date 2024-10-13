@@ -5,7 +5,7 @@ Casa:  sonserina
 ![[Pasted image 20240915182321.png]]  
 Dinheiro: 130  
 Vida: 8/13  
-Energia: 19/29  
+Energia: 9/29  
 
 # Atributos  
 Resistência: 2    
