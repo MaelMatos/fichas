@@ -1,7 +1,7 @@
 # Status
 Nome: 
 Classe
-HP  
+HP: 14/14
 Energia 
 
 # Atributos(17) 
