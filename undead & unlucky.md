@@ -1,17 +1,18 @@
 # Status
 Nome: 
-Alcunha - 
+Classe
 HP  
 Energia 
-Raça Humano 
 
-# Atributos 
-Força:   
-Resistência:    
-Habilidade: 
-Poder de Fogo:   
-Inteligência:   
-Vontade:   
+# Atributos(17) 
+Força: 2   
+Resistência: 2    
+Habilidade: 2
+Poder de Fogo: 2  
+Inteligência: 2  
+Vontade: 2  
+
+# poder(seu poder/regra ou negar regra)
 
 # Inventário  
 
@@ -19,6 +20,4 @@ Vontade:
 
 # Desvantagens 
 
-# Poderes
-
-# Técnicas
+# Técnicas(técnicas em geral)

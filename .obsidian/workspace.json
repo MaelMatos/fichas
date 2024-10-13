@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "harry_potter.md",
+                "file": "undead & unlucky.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "harry_potter.md",
+                "file": "undead & unlucky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "harry_potter.md",
+                "file": "undead & unlucky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "harry_potter.md"
+                "file": "undead & unlucky.md"
               }
             }
           },
@@ -184,12 +184,12 @@
   },
   "active": "f36d66b43b362615",
   "lastOpenFiles": [
+    "harry_potter.md",
     "undead & unlucky.md",
     "dc.md",
     "naruto.md",
     "pvp naruto.md",
     "dinastia.md",
-    "harry_potter.md",
     "one_piece.md",
     "dragon_ball.md",
     "cyberpunk2.md",
