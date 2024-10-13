@@ -57,5 +57,5 @@ desde então Lucius viveu 2 anos sozinho, isso até ser convidado para a escola 
  - Tristeza: Jogue o sentimento com a água e espere ela ficar na cor azul escuro. Após isso, jogue as penas e a varinha. Misture com o galho por 5 minutos. Jogue a gota de sangue, e espere 1 dia inteiro No final, a menta e espere 5 minutos e ela estará pronta.
  - Vingança: Comece com o sangue, o sentimento e as penas. Use o galho para amassar ingredientes e espere 10 min. Após isso, quebre o galho e adicione os outros ingredientes. O tempo de espera é de 1 hora.
  - Poção da Iluminação
- - 1 raiz forte | 1 folha de boldo | 200 ml de água | 3 folhas de camomila
- - Ferver ingredientes por 3 minutos
+	 - 1 raiz forte | 1 folha de boldo | 200 ml de água | 3 folhas de camomila
+	 - Ferver ingredientes por 3 minutos
