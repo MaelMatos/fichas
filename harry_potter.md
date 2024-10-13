@@ -39,6 +39,10 @@ Magia das Trevas: 7
 - fraco de agonia liquida  (20ml)
 - faca de arremesso
 	- dano 6
+- Dardo
+	- Dano 2 cortante
+	- Ataque em dobro(acerta ambos em um único ataque)
+	- Munição 2
  - poção sombria: agonia x2
 
 # História
