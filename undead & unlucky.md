@@ -33,14 +33,11 @@ Vontade: 5
 
 
 # yoru
-
-
-
 ### Status
 Nome: yoru
 Classe: uma
-HP: 14/14
-Energia: 30/30 
+HP: 10/10
+Energia: 21/21 
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17) 
 Força: 6   
@@ -51,7 +48,6 @@ Inteligência: 2
 Vontade: 3  
 
 ### poder(seu poder/regra ou negar regra)
-##### war
 - representa a guerras e tudo usado nelas, como por exemplo armas
 	- qualquer coisa em sua posse se torna uma arma
 	- especialista no uso de todas as armas e forma de combate
@@ -62,7 +58,7 @@ Vontade: 3
 ### Vantagens
 - poder oculto
 - adaptador
-- 
+- duro de matar
 
 ### Desvantagens 
 - maldição: múltipla personalidade
