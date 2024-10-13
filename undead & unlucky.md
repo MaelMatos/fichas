@@ -3,7 +3,7 @@
 Nome: shibi
 Classe: negator
 HP: 22/22
-Energia: 39/30 
+Energia: 39/39 
 ![[Pasted image 20241013163319.png|200]]
 ### Atributos(17) 
 Força: 0   
@@ -21,11 +21,13 @@ Vontade: 5
 ### Vantagens
 - poder oculto
 - aparência inofensiva
+- genialidade
 
 ### Desvantagens 
 - maldição: múltipla personalidade
 - má fama
 - pacifista
+- segredo
 
 ### Técnicas(técnicas em geral)
 
@@ -39,14 +41,14 @@ Nome: yoru
 Classe: uma
 HP: 14/14
 Energia: 30/30 
-![[Pasted image 20241013163319.png|200]]![[Pasted image 20241013163331.png|227]]
+![[Pasted image 20241013163331.png|227]]
 ### Atributos(17) 
-Força: 2   
+Força: 6   
 Resistência: 2    
 Habilidade: 4
-Poder de Fogo: 2  
-Inteligência: 3  
-Vontade: 4  
+Poder de Fogo: 0  
+Inteligência: 2  
+Vontade: 3  
 
 ### poder(seu poder/regra ou negar regra)
 ##### war
@@ -59,9 +61,13 @@ Vontade: 4
 
 ### Vantagens
 - poder oculto
+- adaptador
+- 
 
 ### Desvantagens 
 - maldição: múltipla personalidade
 - má fama
+- insano: homicida
+- procurado
 
 ### Técnicas(técnicas em geral)
