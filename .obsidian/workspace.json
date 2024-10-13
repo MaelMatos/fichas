@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f36d66b43b362615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "undead & unlucky.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dc.md",
+                "file": "undead & unlucky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dc.md",
+                "file": "undead & unlucky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dc.md"
+                "file": "undead & unlucky.md"
               }
             }
           },
@@ -169,14 +182,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "147a6ec28785371b",
+  "active": "f36d66b43b362615",
   "lastOpenFiles": [
+    "dc.md",
+    "undead & unlucky.md",
     "naruto.md",
     "pvp naruto.md",
     "dinastia.md",
     "harry_potter.md",
-    "Sem título.md",
-    "dc.md",
     "one_piece.md",
     "dragon_ball.md",
     "cyberpunk2.md",
