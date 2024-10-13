@@ -40,13 +40,13 @@ Magia das Trevas: 7
  - poção sombria: agonia x2
 
 # História
-nascido de pai buxo e mãe trouxa, Lucius perdeu seus pais muito cedo, seu pai aos 3 anos e sua mãe aos 14  
+nascido de pai bruxo e mãe trouxa, Lucius perdeu seus pais muito cedo, seu pai aos 3 anos e sua mãe aos 14  
 seu pai morreu em um combate feroz e sua mãe morreu por problemas de saúde causados por clima, esforço excessivo e depressão  
 esse trauma tornou Lucius em outro alguém, ele já não era mais a criança gentil que foi ensinado por sua mãe, afinal, foi essa mesma gentileza que a matou, assim se tornando em alguém extremamente egoísta  
 desde então Lucius viveu 2 anos sozinho, isso até ser convidado para a escola de magia hogwarts, no caminho ele ganho a coruja **Solid**  
 
 # Anotação
-- poção aromática
+- Poção aromática
  - 5 pétalas verdes, 1 chifre de dragão glacial, 1 perna de ave de pedra e 5 pétalas rosas
  - 2 pétalas de cada no caldeirão, misturar com liquido amarelo, moer o chifre, jogar junto com o que restou das pétalas, misturar no caldeirão junto com o liquido azul usando a perna de águia, deixando-a cair, aguarda dissolver enquanto mistura com uma colher de pau
 - Poção Sombria
@@ -56,3 +56,6 @@ desde então Lucius viveu 2 anos sozinho, isso até ser convidado para a escola 
  - Medo: Jogue o sentimento, e o deixe fluir por 2 minutos. Após isso, jogue a varinha e o galho quebrados junto com as penas. Coloque seu dedo cortado com o sangue dentro do líquido. Ainda com o dedo dentro do líquido, jogue toda a água lentamente e junto com ela, vá subindo seu dedo até que a água acabe. Retire seu dedo da mistura. Jogue a menta e espere 5 minutos.
  - Tristeza: Jogue o sentimento com a água e espere ela ficar na cor azul escuro. Após isso, jogue as penas e a varinha. Misture com o galho por 5 minutos. Jogue a gota de sangue, e espere 1 dia inteiro No final, a menta e espere 5 minutos e ela estará pronta.
  - Vingança: Comece com o sangue, o sentimento e as penas. Use o galho para amassar ingredientes e espere 10 min. Após isso, quebre o galho e adicione os outros ingredientes. O tempo de espera é de 1 hora.
+ - Poção da Iluminação
+ - 1 raiz forte | 1 folha de boldo | 200 ml de água | 3 folhas de camomila
+ - Ferver ingredientes por 3 minutos
