@@ -2,7 +2,7 @@
 ### Status
 Nome: shibi
 Classe: negator
-HP: 22/22
+HP: 17/22
 Energia: 39/39 
 ![[Pasted image 20241013163319.png|200]]
 ### Atributos(17) 
