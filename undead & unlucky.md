@@ -4,6 +4,7 @@ Nome: shibi
 Classe: negator
 HP: 17/22
 Energia: 39/39 
+Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
 ### Atributos(17) 
 Força: 0   
