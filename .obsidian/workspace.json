@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undead & unlucky.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "undead & unlucky.md",
+                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "undead & unlucky.md"
+                "file": "Sem título.md"
               }
             }
           },
@@ -181,10 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f36d66b43b362615",
+  "active": "c009cce953c6d721",
   "lastOpenFiles": [
-    "Sem título.md",
     "undead & unlucky.md",
+    "Sem título.md",
     "Pasted image 20241013163331.png",
     "Pasted image 20241013163319.png",
     "harry_potter.md",

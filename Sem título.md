@@ -5,3 +5,4 @@ rocky helmet
 muscle band
 adesivo de habilidade(agua)
 pipula de habilidade
+shell bell
