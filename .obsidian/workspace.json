@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "147a6ec28785371b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f36d66b43b362615",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "undead & unlucky.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c009cce953c6d721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undead & unlucky.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "undead & unlucky.md",
+                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "undead & unlucky.md"
+                "file": "Sem título.md"
               }
             }
           },
@@ -182,12 +182,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f36d66b43b362615",
+  "active": "c009cce953c6d721",
   "lastOpenFiles": [
+    "Sem título.md",
+    "undead & unlucky.md",
     "Pasted image 20241013163331.png",
     "Pasted image 20241013163319.png",
     "harry_potter.md",
-    "undead & unlucky.md",
     "dc.md",
     "naruto.md",
     "pvp naruto.md",
