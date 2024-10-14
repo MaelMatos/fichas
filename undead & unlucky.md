@@ -15,7 +15,7 @@ Força: 0
 Resistência: 3    
 Habilidade: 6
 Poder de Fogo: 0  
-Inteligência: 9  
+Inteligência: 8  
 Vontade: 8  
 ### poder(seu poder/regra ou negar regra)
 - representa a paz e a trégua
@@ -27,7 +27,7 @@ Vontade: 8
 - poder oculto
 - aparência inofensiva
 - genialidade
-- inventor
+- patrono: yoru
 
 ### Desvantagens 
 - maldição: múltipla personalidade
