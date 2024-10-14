@@ -27,6 +27,7 @@ Vontade: 8
 - poder oculto
 - aparência inofensiva
 - genialidade
+- inventor
 
 ### Desvantagens 
 - maldição: múltipla personalidade
@@ -42,15 +43,15 @@ Vontade: 8
 Nome: yoru
 Classe: uma
 HP: 10/10
-Energia: 21/21 
+Energia: 40/40 
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17) 
-Força: 6   
+Força: 10   
 Resistência: 2    
-Habilidade: 4
+Habilidade: 7
 Poder de Fogo: 0  
 Inteligência: 2  
-Vontade: 3  
+Vontade: 5  
 
 ### poder(seu poder/regra ou negar regra)
 - representa a guerras e tudo usado nelas, como por exemplo armas
