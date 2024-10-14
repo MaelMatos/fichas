@@ -70,7 +70,7 @@ Vontade: 5
 ### Desvantagens 
 - maldição: múltipla personalidade
 - má fama
-- insano: homicida(2)
+- insano: homicida
 - procurado
 
 ### Técnicas(técnicas em geral)
