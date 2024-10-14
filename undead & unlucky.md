@@ -48,7 +48,7 @@ Energia: 40/40
 ### Atributos(17) 
 Força: 10   
 Resistência: 2    
-Habilidade: 7
+Habilidade: 5
 Poder de Fogo: 0  
 Inteligência: 2  
 Vontade: 5  
@@ -65,6 +65,7 @@ Vontade: 5
 - poder oculto
 - adaptador
 - duro de matar
+- força oculta
 
 ### Desvantagens 
 - maldição: múltipla personalidade
