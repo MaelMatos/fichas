@@ -1,29 +1,25 @@
 # Status
 Nome:   
-Raça    
+Raça:    
 Dinheiro:   
 PV |  
 Reiryoku |   
-
 # Atributos(10)
 Força:   
 Habilidade:   
 Resistencia:    
 Poder de Fogo:    
 Vontade:   
-Reiryoku:   
-
+Reiryoku(energia):   
 # Vantagens(1)
 
+# Desvantagens (1)
 
 # Técnicas
 
 # Inventário
 
-
-# Desvantagens (1)
-
 # Pericias
-Kenjutsu: 
-Kido: 
-Reatsu: 
+Kenjutsu(marcial): 
+Kido(magia): 
+Reatsu(poder): 
