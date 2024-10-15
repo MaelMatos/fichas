@@ -19,7 +19,24 @@ Reiryoku(energia):
 
 # Técnicas
 
-# Pericias
+# Pericias(1)
 Kenjutsu(marcial): 
 Kido(magia): 
 Reatsu(poder): 
+
+
+
+
+
+
+
+
+# raças
+Humano:
+- auto-descritivo
+- vantagem vitalidade
+Shinigami:
+- são deuses da morte,tem como função primaria levar as almas para a sociedade das almas,além de denfende-la como um todo
+- item azauchi(espada espiritual)
+- +6 pontos de pericia
+- 1 kido
