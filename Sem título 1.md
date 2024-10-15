@@ -44,7 +44,7 @@ Reatsu(poder):
 ## Hollow:
 - são demonios devoradores de almas,caçam almas humanas e são caçados por shinigamis
 - técnica cero
-- sonido()
+- sonido(1 vez ao dia)
 
 ## Quincy
 
