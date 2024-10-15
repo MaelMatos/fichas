@@ -11,13 +11,13 @@ Resistencia:
 Poder de Fogo:    
 Vontade:   
 Reiryoku(energia):   
+
+# Inventário
 # Vantagens(1)
 
 # Desvantagens (1)
 
 # Técnicas
-
-# Inventário
 
 # Pericias
 Kenjutsu(marcial): 
