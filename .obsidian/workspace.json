@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título 1.md",
+                "file": "undead & unlucky.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título 1.md",
+                "file": "undead & unlucky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título 1.md",
+                "file": "undead & unlucky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título 1.md"
+                "file": "undead & unlucky.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "27cfa3a35568a321",
   "lastOpenFiles": [
-    "naruto.md",
     "Sem título 1.md",
+    "naruto.md",
     "Sem título.md",
     "undead & unlucky.md",
     "Pasted image 20241013163331.png",

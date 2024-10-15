@@ -1,6 +1,3 @@
-9 ponto
-3 vantagem
-
 
 # shibi
 ### Status
