@@ -51,7 +51,9 @@ Reatsu(poder):
 - são uma raça alternativa a humanos,eles nacem com uma densidade ede energia espiritual maior e podem manipular as partculas espirituais,possuem uma relação mutualmente destrutivas com hollows
 - vantagem poder oculto
 - vantagem inimigo: hollow
+- item arco espiritual
 
 ## Fullbringers
 - são humanos cujo sofreram algum tipo de influencia vinda de hollows antes de seu nacimento,esles podem manipular as almas de objetos,fazendo isso melhor com um objeto com o qual tem afinidade
-- 
+- vantagem equipamento
+- desvantagem fetiche
