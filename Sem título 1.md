@@ -47,6 +47,8 @@ Reatsu(poder):
 - sonido(1 vez ao dia)
 
 ## Quincy
-
+- são uma raça alternativa a humanos,eles nacem com uma densidade ede energia espiritual maior e podem manipular as partculas espirituais,possuem uma relação mutualmente destrutivas com hollows
+- vantagem poder oculto
+- cantagem inimigo: hollow
 
 ## Fullbringers
