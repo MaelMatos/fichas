@@ -1,12 +1,11 @@
 # Status
-Nome: Luke ~~hellsing~~  
-Clã: hellsing  
-Status Ninja : ~~Genin~~ Nukenin  
-Ryo: 5800  
+Nome:   
+Raça    
+Dinheiro:   
 PV |  
 Reiryoku |   
 
-# Atributos(10+65)
+# Atributos(10)
 Força:   
 Habilidade:   
 Resistencia:    
