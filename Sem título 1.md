@@ -45,6 +45,7 @@ Reatsu(poder):
 - são demonios devoradores de almas,caçam almas humanas e são caçados por shinigamis
 - técnica cero
 - sonido(1 vez ao dia)
+- vantagem inimigo: quincy
 
 ## Quincy
 - são uma raça alternativa a humanos,eles nacem com uma densidade ede energia espiritual maior e podem manipular as partculas espirituais,possuem uma relação mutualmente destrutivas com hollows
@@ -52,3 +53,5 @@ Reatsu(poder):
 - vantagem inimigo: hollow
 
 ## Fullbringers
+- são humanos cujo sofreram algum tipo de influencia vinda de hollows antes de seu nacimento,esles podem manipular as almas de objetos,fazendo isso melhor com um objeto com o qual tem afinidade
+- 
