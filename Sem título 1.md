@@ -32,11 +32,21 @@ Reatsu(poder):
 
 
 # raças
-Humano:
+## Humano:
 - auto-descritivo
 - vantagem vitalidade
-Shinigami:
+- +3 VON
+## Shinigami:
 - são deuses da morte,tem como função primaria levar as almas para a sociedade das almas,além de denfende-la como um todo
 - item azauchi(espada espiritual)
 - +6 pontos de pericia
-- 1 kido
+- 1 kido de nivel 1
+## Hollow:
+- são demonios devoradores de almas,caçam almas humanas e são caçados por shinigamis
+- técnica cero
+- sonido()
+
+## Quincy
+
+
+## Fullbringers
