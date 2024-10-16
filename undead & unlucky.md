@@ -40,7 +40,7 @@ Vontade: 8
 Nome: yoru
 Classe: uma
 HP: 10/10+29/29+25/50+30/30
-Energia: 40/40+19/22 
+Energia: 40/40+16/22 
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17) 
 Força: 10+5+3   
