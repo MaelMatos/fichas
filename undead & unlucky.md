@@ -25,6 +25,7 @@ Vontade: 8
 - aparência inofensiva
 - genialidade
 - patrono: yoru
+- interpor(3)
 
 ### Desvantagens 
 - maldição: múltipla personalidade
@@ -33,6 +34,8 @@ Vontade: 8
 - segredo
 
 ### Técnicas(técnicas em geral)
+- não me machuque
+	- defesa 5 | reflexão
 
 
 # yoru
