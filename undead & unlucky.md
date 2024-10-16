@@ -7,7 +7,7 @@ HP: 22/22
 Energia: 119/119 
 Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
-### Atributos(17) 
+### Atributos(17+11) 
 Força: 0   
 Resistência: 3    
 Habilidade: 6
