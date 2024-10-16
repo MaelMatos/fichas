@@ -50,7 +50,7 @@ Energia: 40/40
 ### Atributos(17) 
 Força: 10  
 Resistência: 2    
-Habilidade: 5
+Habilidade: 10
 Poder de Fogo: 0  
 Inteligência: 2  
 Vontade: 5  
@@ -73,7 +73,6 @@ Vontade: 5
 - aceleração(3)
 - ataque multiplo(3)
 - escudo oportuno(3)
-- combo(5)
 
 ### Desvantagens 
 - maldição: múltipla personalidade
@@ -82,3 +81,5 @@ Vontade: 5
 - procurado
 
 ### Técnicas(técnicas em geral)
+- bala perdida
+	- custo 5 | dano 5
