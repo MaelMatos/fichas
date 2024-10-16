@@ -57,6 +57,7 @@ Vontade: 5+2
 
 ### Inventário  
 - ~~espada de gravata 6 dano~~
+- machado de batalha do teto da union 70 dano
 
 
 ### Vantagens
