@@ -73,6 +73,7 @@ Vontade: 5
 - aceleração(3)
 - ataque multiplo(3)
 - escudo oportuno(3)
+- combo(5)
 
 ### Desvantagens 
 - maldição: múltipla personalidade
