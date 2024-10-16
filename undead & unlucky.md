@@ -70,6 +70,9 @@ Vontade: 5
 - adaptador
 - duro de matar
 - força oculta
+- aceleração(3)
+- ataque multiplo(3)
+- escudo oportuno(3)
 
 ### Desvantagens 
 - maldição: múltipla personalidade
