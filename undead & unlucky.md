@@ -4,7 +4,7 @@
 Nome: shibi
 Classe: negator
 HP: 22/22
-Energia: 74/74 
+Energia: 119/119 
 Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
 ### Atributos(17) 
@@ -13,7 +13,7 @@ Resistência: 3
 Habilidade: 6
 Poder de Fogo: 0  
 Inteligência: 8  
-Vontade: 16  
+Vontade: 11  
 ### poder(seu poder/regra ou negar regra)
 - representa a paz e a trégua
 	- qualquer forma de violência contra ela será atrapalhada/impedida
@@ -26,6 +26,7 @@ Vontade: 16
 - genialidade
 - patrono: yoru
 - interpor(3)
+- doador(5)
 
 ### Desvantagens 
 - maldição: múltipla personalidade
@@ -43,16 +44,16 @@ Vontade: 16
 ### Status
 Nome: yoru
 Classe: uma
-HP: 0/10+4/29+0/50+0/30
-Energia: 40/40+16/22 
+HP: 0/10
+Energia: 40/40
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17) 
-Força: 10+5+3   
-Resistência: 2+3    
-Habilidade: 5+3
-Poder de Fogo: 0+3  
-Inteligência: 2+1  
-Vontade: 5+2  
+Força: 10  
+Resistência: 2    
+Habilidade: 5
+Poder de Fogo: 0  
+Inteligência: 2  
+Vontade: 5  
 
 ### poder(seu poder/regra ou negar regra)
 - representa a guerras e tudo usado nelas, como por exemplo armas
