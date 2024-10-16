@@ -35,8 +35,9 @@ Vontade: 8
 
 ### Técnicas(técnicas em geral)
 - não me machuque
-	- defesa 5 | reflexão
-
+	- custo 5 | defesa 5 | reflexão
+- viu que você fez?
+	- custo 5 | dano 5 | paralisia
 
 # yoru
 ### Status
