@@ -39,8 +39,8 @@ Vontade: 8
 ### Status
 Nome: yoru
 Classe: uma
-HP: 10/10
-Energia: 40/40 
+HP: 10/10+29/29
+Energia: 37/40-10/10 
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17) 
 Força: 10   
@@ -56,6 +56,7 @@ Vontade: 5
 	- especialista no uso de todas as armas e forma de combate
 
 ### Inventário  
+- espada de gravata 6 dano
 
 
 ### Vantagens
