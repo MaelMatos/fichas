@@ -47,7 +47,7 @@ Classe: uma
 HP: 0/10
 Energia: 56/56
 ![[Pasted image 20241013163331.png|227]]
-### Atributos(17) 
+### Atributos(17+14) 
 Força: 10  
 Resistência: 2    
 Habilidade: 10
