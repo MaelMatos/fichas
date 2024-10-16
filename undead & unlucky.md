@@ -39,7 +39,7 @@ Vontade: 8
 ### Status
 Nome: yoru
 Classe: uma
-HP: 10/10+29/29+25/50+30/30
+HP: 0/10+4/29+0/50+0/30
 Energia: 40/40+16/22 
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17) 
