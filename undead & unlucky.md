@@ -56,7 +56,7 @@ Vontade: 5
 	- especialista no uso de todas as armas e forma de combate
 
 ### Inventário  
-- espada de gravata 6 dano
+- ~~espada de gravata 6 dano~~
 
 
 ### Vantagens
