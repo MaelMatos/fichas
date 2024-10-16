@@ -45,7 +45,7 @@ Vontade: 11
 Nome: yoru
 Classe: uma
 HP: 0/10
-Energia: 27/27
+Energia: 56/56
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17) 
 Força: 10  
@@ -53,7 +53,7 @@ Resistência: 2
 Habilidade: 10
 Poder de Fogo: 0  
 Inteligência: 2  
-Vontade: 4  
+Vontade: 7  
 
 ### poder(seu poder/regra ou negar regra)
 - representa a guerras e tudo usado nelas, como por exemplo armas
@@ -72,7 +72,6 @@ Vontade: 4
 - força oculta
 - aceleração(3)
 - aprendiz veloz(3)
-- armas multiplas(3)
 
 
 ### Desvantagens 
