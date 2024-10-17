@@ -44,15 +44,15 @@ Vontade: 11
 ### Status
 Nome: yoru
 Classe: uma
-HP: 10/10
+HP: 10/10+36/57
 Energia: 53/56
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+14) 
-Força: 10  
+Força: 10-2  
 Resistência: 2    
-Habilidade: 10
+Habilidade: 10-2
 Poder de Fogo: 0  
-Inteligência: 2  
+Inteligência: 2-2  
 Vontade: 7  
 
 ### poder(seu poder/regra ou negar regra)
