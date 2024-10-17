@@ -73,6 +73,7 @@ Vontade: 7-5
 - força oculta
 - aceleração(3)
 - aprendiz veloz(3)
+	- ataque multiplo
 
 
 ### Desvantagens 
