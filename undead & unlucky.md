@@ -45,7 +45,7 @@ Vontade: 11
 Nome: yoru
 Classe: uma
 HP: 10/10
-Energia: 53/56
+Energia: 43/56
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+14) 
 Força: 12  
@@ -63,7 +63,7 @@ Vontade: 7
 ### Inventário  
 - ~~espada de gravata 6 dano~~
 - ~~machado de batalha do teto da union 70 dano~~
-- garra de almoxarifado
+- garra de almoxarifado 12
 
 
 ### Vantagens
