@@ -45,12 +45,12 @@ Vontade: 11
 Nome: yoru
 Classe: uma
 HP: 10/10
-Energia: 53/56
+Energia: 56/56
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+14) 
-Força: 10  
+Força: 12  
 Resistência: 2    
-Habilidade: 10
+Habilidade: 12
 Poder de Fogo: 0  
 Inteligência: 2 
 Vontade: 7  
