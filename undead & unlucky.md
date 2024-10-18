@@ -9,12 +9,12 @@ Energia: 374/374
 Controle de energia: 134/134
 Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
-### Atributos(17+14) 
+### Atributos(17+40) 
 Força: 0   
 Resistência: 3    
-Habilidade: 6
+Habilidade: 12
 Poder de Fogo: 0  
-Inteligência: 8  
+Inteligência: 28  
 Vontade: 19  
 ### poder(seu poder/regra ou negar regra)
 - representa a paz e a trégua
@@ -45,20 +45,20 @@ Vontade: 19
 	- custo 5 | dano 5 | paralisia
 
 # yoru
-9+tcnica
+tcnica
 ### Status
 Nome: yoru
 Classe: uma
 HP: 10/83
-Energia: 33/82
+Energia: 33/179
 ![[Pasted image 20241013163331.png|227]]
-### Atributos(17+28) 
-Força: 15  
+### Atributos(17+37) 
+Força: 16  
 Resistência: 6    
-Habilidade: 18
+Habilidade: 20
 Poder de Fogo: 0  
 Inteligência: 2 
-Vontade: 9  
+Vontade: 15  
 
 ### poder(seu poder/regra ou negar regra)
 - representa a guerras e tudo usado nelas, como por exemplo armas
