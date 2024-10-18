@@ -30,7 +30,7 @@ Vontade: 19
 - interpor(3)
 - doador(5)
 - controle de energia II(5+10)
-- equilíbrio de energia(5)
+- equilíbrio de energia II(5+12)
 
 ### Desvantagens 
 - maldição: múltipla personalidade
