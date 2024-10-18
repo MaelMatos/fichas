@@ -25,7 +25,7 @@ Vontade: 14
 ### Vantagens
 - poder oculto
 - aparência inofensiva
-- genialidade
+- genialidade: inteligencia
 - patrono: yoru
 - interpor(3)
 - doador(5)
