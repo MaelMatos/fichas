@@ -70,7 +70,8 @@ Vontade: 15
 - ~~machado de batalha do teto da union 70 dano~~
 - garra de almoxarifado 12
 ### Deposito
-- gatling
+- gatling gun d sr-71
+	- 130 dano | 20 munições por ataque | 300/300
 
 ### Vantagens
 - poder oculto
