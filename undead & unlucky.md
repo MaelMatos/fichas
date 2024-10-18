@@ -70,7 +70,7 @@ Vontade: 15
 - ~~machado de batalha do teto da union 70 dano~~
 - garra de almoxarifado 12
 ### Deposito
-
+- gatling
 
 ### Vantagens
 - poder oculto
