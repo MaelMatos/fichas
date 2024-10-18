@@ -67,6 +67,7 @@ Vontade: 7
 - ~~espada de gravata 6 dano~~
 - ~~machado de batalha do teto da union 70 dano~~
 - garra de almoxarifado 12
+### Deposito
 
 
 ### Vantagens
@@ -89,3 +90,5 @@ Vontade: 7
 ### Técnicas(técnicas em geral)
 - bala perdida
 	- custo 10 | dano 5 | teleguiado
+- airdrop
+	- custo 10% | invoca coisas guardadas
