@@ -3,7 +3,7 @@ nova aplicação de poder
 ### Status
 Nome: shibi
 Classe: negator
-HP: 22/59
+HP: 59/59
 Energia: 542/542
 Controle de energia: 542/542
 Rank: 9° lugar
@@ -49,8 +49,8 @@ tcnica
 ### Status
 Nome: yoru
 Classe: uma
-HP: 10/83
-Energia: 33/179
+HP: 83/83
+Energia: 179/179
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+37) 
 Força: 16  
