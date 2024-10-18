@@ -96,3 +96,5 @@ Vontade: 15
 	- custo 10 | dano 5 | teleguiado
 - airdrop
 	- custo 10% | invoca coisas guardadas
+	- custo 50
+	- custo 120
