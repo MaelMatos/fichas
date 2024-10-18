@@ -4,8 +4,8 @@ nova aplicação de poder
 Nome: shibi
 Classe: negator
 HP: 59/59
-Energia: 537/542
-Controle de energia: 342/542
+Energia: 532/542
+Controle de energia: 142/542
 Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
 ### Atributos(17+40) 
