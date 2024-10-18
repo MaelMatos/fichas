@@ -1,4 +1,5 @@
 # shibi
+15+nova aplicação de poder
 
 ### Status
 Nome: shibi
@@ -44,6 +45,7 @@ Vontade: 14
 	- custo 5 | dano 5 | paralisia
 
 # yoru
+15
 ### Status
 Nome: yoru
 Classe: uma
