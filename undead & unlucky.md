@@ -1,18 +1,17 @@
 # shibi
-26+nova aplicação de poder+tecnica
-
+nova aplicação de poder
 ### Status
 Nome: shibi
 Classe: negator
-HP: 22/22
-Energia: 374/374
-Controle de energia: 134/134
+HP: 22/59
+Energia: 542/542
+Controle de energia: 542/542
 Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
 ### Atributos(17+40) 
 Força: 0   
-Resistência: 3    
-Habilidade: 12
+Resistência: 4    
+Habilidade: 20
 Poder de Fogo: 0  
 Inteligência: 28  
 Vontade: 19  
@@ -31,11 +30,12 @@ Vontade: 19
 - doador(5)
 - controle de energia II(5+10)
 - equilíbrio de energia II(5+12)
+- vigoroso(5)
 
 ### Desvantagens 
 - maldição: múltipla personalidade
 - má fama
-- pacifista
+- ~~pacifista~~
 - segredo
 
 ### Técnicas(técnicas em geral)
