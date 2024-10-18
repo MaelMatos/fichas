@@ -45,7 +45,7 @@ Vontade: 14
 	- custo 5 | dano 5 | paralisia
 
 # yoru
-15
+10
 ### Status
 Nome: yoru
 Classe: uma
@@ -81,6 +81,7 @@ Vontade: 7
 - aprendiz veloz(3)
 	- ataque multiplo
 - vigoroso(5)
+- genialidade: habilidade(5)
 
 
 ### Desvantagens 
