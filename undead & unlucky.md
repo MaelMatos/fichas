@@ -1,11 +1,11 @@
 # shibi
-5+nova aplicação de poder
+26+nova aplicação de poder+tecnica
 
 ### Status
 Nome: shibi
 Classe: negator
 HP: 22/22
-Energia: 267/267
+Energia: 374/374
 Controle de energia: 134/134
 Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
@@ -15,7 +15,7 @@ Resistência: 3
 Habilidade: 6
 Poder de Fogo: 0  
 Inteligência: 8  
-Vontade: 14  
+Vontade: 19  
 ### poder(seu poder/regra ou negar regra)
 - representa a paz e a trégua
 	- qualquer forma de violência contra ela será atrapalhada/impedida
@@ -45,7 +45,7 @@ Vontade: 14
 	- custo 5 | dano 5 | paralisia
 
 # yoru
-
+9+tcnica
 ### Status
 Nome: yoru
 Classe: uma
@@ -74,14 +74,15 @@ Vontade: 9
 
 ### Vantagens
 - poder oculto
-- adaptador
+- adaptador II(- + 12)
 - duro de matar
-- força oculta
+- força oculta->5 energia
 - aceleração(3)
 - aprendiz veloz(3)
 	- ataque multiplo
 - vigoroso(5)
 - genialidade: habilidade(5)
+- combo!(5)
 
 
 ### Desvantagens 
