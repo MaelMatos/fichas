@@ -1,5 +1,5 @@
 # shibi
-15+nova aplicação de poder
+5+nova aplicação de poder
 
 ### Status
 Nome: shibi
@@ -29,7 +29,7 @@ Vontade: 14
 - patrono: yoru
 - interpor(3)
 - doador(5)
-- controle de energia(5)
+- controle de energia II(5+10)
 - equilíbrio de energia(5)
 
 ### Desvantagens 
