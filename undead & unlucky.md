@@ -96,5 +96,7 @@ Vontade: 15
 	- custo 10 | dano 5 | teleguiado
 - airdrop
 	- custo 10% | invoca coisas guardadas
-	- custo 50
-	- custo 120
+- kung fu: soco metralhadora
+	- custo 50 | amplo | teleguiado
+- capoeira: martelo voador
+	- custo 120 | dano gigante | poderoso | perigoso | irrefreavel 
