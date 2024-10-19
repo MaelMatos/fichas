@@ -1,5 +1,6 @@
 # shibi
 nova aplicação de poder
+30
 ### Status
 Nome: shibi
 Classe: negator
@@ -45,6 +46,7 @@ Vontade: 19
 	- custo 35 | dano 30 | paralisia
 
 # yoru
+30
 ### Status
 Nome: yoru
 Classe: uma
