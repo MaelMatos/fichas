@@ -3,7 +3,7 @@ nova aplicação de poder
 ### Status
 Nome: shibi
 Classe: negator
-HP: 59/59
+HP: 0/59
 Energia: 532/542
 Controle de energia: 142/542
 Rank: 9° lugar
@@ -71,7 +71,7 @@ Vontade: 15
 - garra de almoxarifado 12
 ### Deposito
 - gatling gun d sr-71
-	- 130 dano | 20 munições por ataque | 280/300
+	- 130 dano | 20 munições por ataque | 260/300
 
 ### Vantagens
 - poder oculto
