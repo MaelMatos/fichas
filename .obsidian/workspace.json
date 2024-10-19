@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "b30cd460ee1db0b6",
@@ -169,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54691786b72d60c9",
+  "active": "5eef41de8730f3b1",
   "lastOpenFiles": [
     "Sem título.md",
     "one_piece.md",
