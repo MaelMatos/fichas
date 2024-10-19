@@ -71,7 +71,7 @@ Vontade: 15
 - garra de almoxarifado 12
 ### Deposito
 - gatling gun d sr-71
-	- 130 dano | 20 munições por ataque | 260/300
+	- 130 dano | 20 munições por ataque | 240/300
 
 ### Vantagens
 - poder oculto
