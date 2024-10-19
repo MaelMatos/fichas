@@ -50,7 +50,7 @@ tcnica
 Nome: yoru
 Classe: uma
 HP: 83/83
-Energia: 179/179
+Energia: 174/179
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+37) 
 Força: 16  
@@ -72,6 +72,7 @@ Vontade: 15
 ### Deposito
 - gatling gun d sr-71
 	- 130 dano | 20 munições por ataque | 240/300
+ - foice militar de metralhadora
 
 ### Vantagens
 - poder oculto
