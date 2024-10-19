@@ -15,7 +15,7 @@ Resistência: 4
 Habilidade: 20
 Poder de Fogo: 0  
 Inteligência: 28  
-Vontade: 19  
+Vontade: 49  
 ### poder(seu poder/regra ou negar regra)
 - representa a paz e a trégua
 	- qualquer forma de violência contra ela será atrapalhada/impedida
