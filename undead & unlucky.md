@@ -40,9 +40,9 @@ Vontade: 19
 
 ### Técnicas(técnicas em geral)
 - não me machuque
-	- custo 5 | defesa 5 | reflexão
+	- custo 35 | defesa 30 | reflexão
 - viu que você fez?
-	- custo 5 | dano 5 | paralisia
+	- custo 35 | dano 30 | paralisia
 
 # yoru
 ### Status
