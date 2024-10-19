@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c962a56131cb2b17",
+        "id": "d0c9b9c0cffccc4e",
         "type": "tabs",
         "children": [
           {
-            "id": "f36d66b43b362615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27cfa3a35568a321",
+            "id": "54691786b72d60c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,19 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27cfa3a35568a321",
+  "active": "54691786b72d60c9",
   "lastOpenFiles": [
+    "Sem título.md",
+    "one_piece.md",
     "undead & unlucky.md",
     "Sem título 1.md",
     "naruto.md",
-    "Sem título.md",
     "Pasted image 20241013163331.png",
     "Pasted image 20241013163319.png",
     "harry_potter.md",
     "dc.md",
     "pvp naruto.md",
     "dinastia.md",
-    "one_piece.md",
     "dragon_ball.md",
     "cyberpunk2.md",
     "cyberpunk.md",
