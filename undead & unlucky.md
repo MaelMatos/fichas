@@ -74,6 +74,8 @@ Vontade: 15
 	- 130 dano | 20 munições por ataque | 240/300
  - foice militar de metralhadora
 	 - dano 230 | vorpal
+- M4A1 gigante
+	- dano 2 por bala | até 250 tiros por ataque
 
 ### Vantagens
 - poder oculto
