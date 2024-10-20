@@ -106,6 +106,8 @@ Vontade: 15
 	- custo 10 | dano 5 | irrefreavel
 - airdrop
 	- custo 10% | invoca coisas guardadas
+- jiu-jitsu: mata leão
+	- custo 15 | enfraquecimento | sufocamento
 - kung fu: soco metralhadora
 	- custo 50 | dano 50 | amplo | teleguiado
 - capoeira: martelo voador
