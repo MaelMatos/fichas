@@ -46,7 +46,6 @@ Vontade: 50
 	- custo 35 | dano 30 | paralisia
 
 # yoru
-3
 ### Status
 Nome: yoru
 Classe: uma
