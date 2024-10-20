@@ -1,5 +1,4 @@
 # shibi
-4
 ### Status
 Nome: shibi
 Classe: negator
