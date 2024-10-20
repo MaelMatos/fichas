@@ -1,5 +1,5 @@
 # shibi
-nova aplicação de poder
+6
 ### Status
 Nome: shibi
 Classe: negator
@@ -18,6 +18,7 @@ Vontade: 49
 ### poder(seu poder/regra ou negar regra)
 - representa a paz e a trégua
 	- qualquer forma de violência contra ela será atrapalhada/impedida
+	- anula o efeito da violência com o toque
 ### Inventário  
 
 
