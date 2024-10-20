@@ -99,7 +99,7 @@ Vontade: 15
 - maldição: múltipla personalidade
 - má fama
 - insano: homicida
-- procurado
+- ~~procurado~~
 
 ### Técnicas(técnicas em geral)
 - bala perdida
