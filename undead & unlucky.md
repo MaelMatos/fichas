@@ -1,5 +1,5 @@
 # shibi
-6
+4
 ### Status
 Nome: shibi
 Classe: negator
@@ -10,11 +10,11 @@ Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
 ### Atributos(17+40) 
 Força: 0   
-Resistência: 4    
+Resistência: 6    
 Habilidade: 20
 Poder de Fogo: 0  
-Inteligência: 28  
-Vontade: 49  
+Inteligência: 30  
+Vontade: 50  
 ### poder(seu poder/regra ou negar regra)
 - representa a paz e a trégua
 	- qualquer forma de violência contra ela será atrapalhada/impedida
@@ -32,6 +32,7 @@ Vontade: 49
 - controle de energia II(5+10)
 - equilíbrio de energia II(5+12)
 - vigoroso(5)
+- cura(5)
 
 ### Desvantagens 
 - maldição: múltipla personalidade
