@@ -103,10 +103,10 @@ Vontade: 15
 
 ### Técnicas(técnicas em geral)
 - bala perdida
-	- custo 10 | dano 5 | teleguiado
+	- custo 10 | dano 5 | irrefreavel
 - airdrop
 	- custo 10% | invoca coisas guardadas
 - kung fu: soco metralhadora
-	- custo 50 | amplo | teleguiado
+	- custo 50 | dano 50 | amplo | teleguiado
 - capoeira: martelo voador
-	- custo 120 | dano gigante | poderoso | perigoso | irrefreavel 
+	- custo 120 | dano 120 | dano gigante | poderoso | perigoso | irrefreavel 
