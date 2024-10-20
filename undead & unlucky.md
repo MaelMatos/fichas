@@ -49,7 +49,7 @@ Vontade: 49
 Nome: yoru
 Classe: uma
 HP: 83/83
-Energia: 179/179
+Energia: 161/179
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+37) 
 Força: 22  
