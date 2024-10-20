@@ -46,7 +46,7 @@ Vontade: 50
 	- custo 35 | dano 30 | paralisia
 
 # yoru
-11
+3
 ### Status
 Nome: yoru
 Classe: uma
@@ -54,7 +54,7 @@ HP: 83/83+273
 Energia: 156/179+338
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+37) 
-Força: 22  
+Força: 30  
 Resistência: 6    
 Habilidade: 20
 Poder de Fogo: 0  
