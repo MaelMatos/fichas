@@ -45,10 +45,11 @@ Vontade: 49
 	- custo 35 | dano 30 | paralisia
 
 # yoru
+11
 ### Status
 Nome: yoru
 Classe: uma
-HP: 83/83
+HP: 83/83+273
 Energia: 156/179
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+37) 
