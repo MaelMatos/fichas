@@ -13,7 +13,7 @@ Resistência: 6
 Habilidade: 20
 Poder de Fogo: 0  
 Inteligência: 30  
-Vontade: 50  
+Vontade: 110  
 ### poder(seu poder/regra ou negar regra)
 - representa a paz e a trégua
 	- qualquer forma de violência contra ela será atrapalhada/impedida
@@ -46,6 +46,7 @@ Vontade: 50
 	- custo 35 | dano 30 | paralisia
 
 # yoru
+60
 ### Status
 Nome: yoru
 Classe: uma
