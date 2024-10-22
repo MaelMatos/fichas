@@ -1,5 +1,5 @@
 # shibi
-53
+49
 ### Status
 Nome: shibi
 Classe: negator
@@ -34,6 +34,7 @@ Vontade: 110
 - vigoroso(5)
 - cura(5)
 - acrobatico
+- aceleração(4)
 
 ### Desvantagens 
 - maldição: múltipla personalidade
