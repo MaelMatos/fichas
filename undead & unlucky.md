@@ -1,4 +1,5 @@
 # shibi
+57
 ### Status
 Nome: shibi
 Classe: negator
@@ -32,6 +33,7 @@ Vontade: 110
 - equilíbrio de energia II(5+12)
 - vigoroso(5)
 - cura(5)
+- acrobatico
 
 ### Desvantagens 
 - maldição: múltipla personalidade
@@ -46,7 +48,7 @@ Vontade: 110
 	- custo 35 | dano 30 | paralisia
 
 # yoru
-60
+60+57
 ### Status
 Nome: yoru
 Classe: uma
@@ -94,6 +96,7 @@ Vontade: 15
 - invulnerabilidade: contundente(4)
 - zenkai(8)
 - superação(4)
+- acorbatico
 
 
 ### Desvantagens 
