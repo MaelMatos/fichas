@@ -48,12 +48,12 @@ Vontade: 110
 	- custo 35 | dano 30 | paralisia
 
 # yoru
-60+57
+80
 ### Status
 Nome: yoru
 Classe: uma
-HP: 83/83+273
-Energia: 156/179+338
+HP: 83/167
+Energia: 156/179
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+37) 
 Força: 30  
@@ -88,7 +88,7 @@ Vontade: 15
 - aceleração(3)
 - aprendiz veloz(3)
 	- ataque multiplo
-- vigoroso(5)
+- vigoroso III(5+12+25)
 - genialidade: habilidade(5)
 - combo!(5)
 - invulnerabilidade: cortante(4)
