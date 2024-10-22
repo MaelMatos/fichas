@@ -3,7 +3,7 @@
 ### Status
 Nome: shibi
 Classe: negator
-HP: 34/93
+HP: 34/173
 Energia: 7997/7997
 Controle de energia: 200/7997
 Rank: 9° lugar
