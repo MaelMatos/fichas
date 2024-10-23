@@ -21,7 +21,7 @@ Inteligência:
 - 15
 
 # Vantagens(3): 
-
+- alquimia
 
 # Desvantagens(2): 
 
