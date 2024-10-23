@@ -20,10 +20,10 @@ Inteligência:
 - 5
 - 15
 
-# Vantagens: 
+# Vantagens(3): 
 
 
-# Desvantagens: 
+# Desvantagens(2): 
 
 
 Anotações e coisas especiais
