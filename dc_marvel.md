@@ -6,13 +6,13 @@ HP:
 Energia: 
 
 # Atributos(14) 
-Força: 
-Habilidade: 
-Resistência: 
-Poder de Fogo: 
-Vontade: 
-Energia: 
-Inteligência: 
+Força: 2
+Habilidade: 2
+Resistência: 2
+Poder de Fogo: 2
+Vontade: 2
+Energia: 2
+Inteligência: 2
 
 # Inventário 
 
