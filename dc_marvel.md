@@ -1,5 +1,5 @@
 # Status
-Nome: 
+Nome: Steve Persson
 Raça: 
 Alcunha: 
 HP: 
@@ -21,7 +21,7 @@ Inteligência:
 - 15
 
 # Vantagens(3): 
-- alquimia
+- equipamento: tablet de transmutação
 - adaptador
 - genialidade
 
