@@ -23,7 +23,7 @@ Inteligência:
 # Vantagens(3): 
 - equipamento: tablet de transmutação
 - adaptador
-- genialidade
+- genialidade: fisica
 
 # Desvantagens(2): 
 
