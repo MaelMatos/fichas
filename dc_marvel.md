@@ -22,6 +22,7 @@ Inteligência:
 
 # Vantagens(3): 
 - alquimia
+- adaptador
 
 # Desvantagens(2): 
 
