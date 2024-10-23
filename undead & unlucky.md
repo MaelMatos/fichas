@@ -50,7 +50,7 @@ Vontade: 110
 ### Inventário
 
 # yoru
-21
+13
 ### Status
 Nome: yoru
 Classe: uma
@@ -101,6 +101,8 @@ Vontade: 20
 - zenkai(8)
 - superação(4)
 - acorbatico
+- energia extra(4)
+- vitalidade(4)
 ### Desvantagens 
 - maldição: múltipla personalidade
 - má fama
