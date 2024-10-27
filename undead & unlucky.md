@@ -52,15 +52,15 @@ Vontade: 110
 ### Inventário
 
 # yoru
-13
+3
 ### Status
 Nome: yoru
 Classe: uma
 HP: 83/303
 Energia: 156/287
 ![[Pasted image 20241013163331.png|227]]
-### Atributos(17+123) 
-Força: 50  
+### Atributos(17+133) 
+Força: 60  
 Resistência: 10    
 Habilidade: 50
 Poder de Fogo: 0  
@@ -78,6 +78,8 @@ Vontade: 20
 - M4A1 gigante
 	- dano 2 por bala | até 250 tiros por ataque
 ### Técnicas(técnicas em geral)
+- rumores de guerra
+	- custo 15 | +1 em uma estatistica por 3 rodadas
 - bala perdida
 	- custo 10 | dano 5 | irrefreavel
 - airdrop
