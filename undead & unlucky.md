@@ -79,7 +79,7 @@ Vontade: 20
 	- dano 2 por bala | até 250 tiros por ataque
 ### Técnicas(técnicas em geral)
 - rumores de guerra
-	- custo 15 | +1 em uma estatistica por 3 rodadas
+	- custo 15 | +1 em uma estatística por 3 rodadas | enfraquecimento | em área
 - bala perdida
 	- custo 10 | dano 5 | irrefreavel
 - airdrop
