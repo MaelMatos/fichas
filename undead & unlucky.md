@@ -82,7 +82,7 @@ Vontade: 20
 - bala perdida
 	- custo 10 | dano 5 | irrefreavel
 - airdrop
-	- custo 10% | invoca coisas guardadas
+	- custo 10%(29) | invoca coisas guardadas
 - jiu-jitsu: mata leão
 	- custo 15 | enfraquecimento | sufocamento
 - kung fu: soco metralhadora
