@@ -3,7 +3,7 @@
 ### Status
 Nome: shibi
 Classe: negator
-HP: 34/173
+HP: 173/173
 Energia: 7997/7997
 Controle de energia: 200/7997
 Rank: 9° lugar
@@ -52,12 +52,11 @@ Vontade: 110
 ### Inventário
 
 # yoru
-3
 ### Status
 Nome: yoru
 Classe: uma
-HP: 83/303
-Energia: 156/287
+HP: 303/303
+Energia: 287/287
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+133) 
 Força: 60  
