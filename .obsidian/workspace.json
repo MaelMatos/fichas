@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "one_piece.md",
+                "file": "undead & unlucky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "one_piece"
+              "title": "undead & unlucky"
             }
           }
         ]
@@ -191,10 +191,10 @@
   },
   "active": "80a96dbcdceff94e",
   "lastOpenFiles": [
+    "one_piece.md",
     "undead & unlucky.md",
     "dc_marvel.md",
     "ideias de técnica.md",
-    "one_piece.md",
     "Sem título.md",
     "Sem título 1.md",
     "naruto.md",

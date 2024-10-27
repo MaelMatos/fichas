@@ -1,5 +1,5 @@
 # shibi
-12
+
 ### Status
 Nome: shibi
 Classe: negator
@@ -8,15 +8,17 @@ Energia: 7997/7997
 Controle de energia: 200/7997
 Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
-### Atributos(17+183) 
+### Atributos(17+193) 
 Força: 0   
 Resistência: 10    
 Habilidade: 40
 Poder de Fogo: 0  
-Inteligência: 40  
+Inteligência: 50  
 Vontade: 110  
 
 ### Técnicas(técnicas em geral)
+- me ajudem!
+	- custo 10 | +1 em uma estatistica por 3 rodadas | alvo multiplo
 - não me machuque
 	- custo 35 | defesa 30 | reflexão
 - viu que você fez?
