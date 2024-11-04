@@ -56,15 +56,15 @@ Vontade: 110
 Nome: yoru
 Classe: uma
 HP: 124/303+1517
-Energia: 232/287
+Energia: 177/287
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+133) 
 Força: 60  
 Resistência: 10    
 Habilidade: 50
 Poder de Fogo: 0  
-Inteligência: 0 
-Vontade: 0  
+Inteligência: 10 
+Vontade: 20  
 ### Inventário  
 - ~~espada de gravata 6 dano~~
 - ~~machado de batalha do teto da union 70 dano~~
