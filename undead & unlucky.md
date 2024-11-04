@@ -5,7 +5,7 @@ Nome: shibi
 Classe: negator
 HP: 173/173
 Energia: 7927/7997
-Controle de energia: 4997/7997
+Controle de energia: 997/7997
 Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
 ### Atributos(17+193) 
