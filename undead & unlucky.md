@@ -14,7 +14,7 @@ Resistência: 10
 Habilidade: 40
 Poder de Fogo: 0  
 Inteligência: 50  
-Vontade: 110  
+Vontade: 135  
 
 ### Técnicas(técnicas em geral)
 - me ajudem!
@@ -57,6 +57,7 @@ Nome: yoru
 Classe: uma
 HP: 53/303
 Energia: 193/287
+25
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+133) 
 Força: 60  
