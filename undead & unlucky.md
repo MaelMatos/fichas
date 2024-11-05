@@ -97,6 +97,7 @@ Vontade: 20
 - aceleração(3)
 - aprendiz veloz(3)
 	- ataque multiplo
+	- ataque oportuno
 - vigoroso III(5+12+25)
 - genialidade: habilidade(5)
 - combo!(5)
