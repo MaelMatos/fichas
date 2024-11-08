@@ -50,7 +50,8 @@ Vontade: 135
 	- qualquer forma de violência contra ela será atrapalhada/impedida
 	- anula o efeito da violência com o toque
 ### Inventário
-
+- Adaga de cura
+	- Dano 10-1000 | Cura 40 | Estaca dano com cura | Dano em área
 # yoru
 ### Status
 Nome: yoru
