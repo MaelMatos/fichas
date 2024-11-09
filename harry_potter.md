@@ -27,6 +27,8 @@ Magia das Trevas: 7
 	-  Custo 10
 - Maldição do agonizando (Maledictus morientium)
 	- Custo 10 | Dano 10 | Enfraquecer: Poder em 5
+- ???
+	-  Custo 10 | Dano 10 | poder vingativo | poderoso
 - ~~Rei desmembrado (Desmanbra Rex)~~
 	- Custo ? | Dano 50 | em área
 ## Técnicas
