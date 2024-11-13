@@ -6,7 +6,7 @@ Casa:  sonserina
 Dinheiro: 130  
 Vida: 8/13  
 Energia: 9/29  
-12
+~~12~~
 # Atributos  
 Resistência: 2    
 Habilidade: 7  
