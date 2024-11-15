@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "harry_potter"
             }
-          },
-          {
-            "id": "69f0dd8fb0c48e50",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69f0dd8fb0c48e50",
+  "active": "80a96dbcdceff94e",
   "lastOpenFiles": [
     "undead & unlucky.md",
     "naruto.md",
