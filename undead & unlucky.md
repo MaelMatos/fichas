@@ -90,6 +90,8 @@ Vontade: 20
 	- custo 15 | dano 5 | enfraquecimento | sufocamento
 - kung fu: soco metralhadora
 	- custo 50 | dano 50 | amplo | teleguiado
+- kung fu: bala de prata
+	- custo ? | sufocamento | paralisia | ataque carregado
 - capoeira: martelo voador
 	- custo 120 | dano 120 | dano gigante | poderoso | perigoso | irrefreavel 
 ### Vantagens
