@@ -4,11 +4,11 @@
 Nome: shibi
 Classe: negator
 HP: 173/173
-Energia: 11000/11522
-Controle de energia: 11000/11522
+Energia: 11000/23600
+Controle de energia: 11000/23600
 Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
-85
+83
 ### Atributos(17+193) 
 Força: 0   
 Resistência: 10    
@@ -23,7 +23,7 @@ Vontade: 200
 - não me machuque
 	- custo 35 | defesa 30 | reflexão
 - viu que você fez?
-	- custo 35 | dano 30 | paralisia
+	- custo 35 | dano 30 | paralisia | irrefreavel | teleguiado
 ### Vantagens
 - poder oculto
 - aparência inofensiva
