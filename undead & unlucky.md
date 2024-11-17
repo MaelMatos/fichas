@@ -8,14 +8,14 @@ Energia: 11000/11522
 Controle de energia: 11000/11522
 Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
-200
+85
 ### Atributos(17+193) 
 Força: 0   
 Resistência: 10    
 Habilidade: 40
 Poder de Fogo: 0  
-Inteligência: 50  
-Vontade: 135  
+Inteligência: 100  
+Vontade: 200  
 
 ### Técnicas(técnicas em geral)
 - me ajudem!
