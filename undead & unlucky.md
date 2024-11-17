@@ -86,7 +86,7 @@ Vontade: 20
 - airdrop
 	- custo 10%(29) | invoca coisas guardadas
 - jiu-jitsu: mata leão
-	- custo 15 | enfraquecimento | sufocamento
+	- custo 15 | dano 5 | enfraquecimento | sufocamento
 - kung fu: soco metralhadora
 	- custo 50 | dano 50 | amplo | teleguiado
 - capoeira: martelo voador

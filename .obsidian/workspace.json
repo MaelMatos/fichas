@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "harry_potter.md",
+                "file": "undead & unlucky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "harry_potter"
+              "title": "undead & unlucky"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "80a96dbcdceff94e",
   "lastOpenFiles": [
+    "harry_potter.md",
     "undead & unlucky.md",
     "naruto.md",
     "one_piece.md",
@@ -200,7 +201,6 @@
     "Sem título 1.md",
     "Pasted image 20241013163331.png",
     "Pasted image 20241013163319.png",
-    "harry_potter.md",
     "dc.md",
     "pvp naruto.md",
     "dinastia.md",
