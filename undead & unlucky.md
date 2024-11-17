@@ -8,6 +8,7 @@ Energia: 11000/11522
 Controle de energia: 11000/11522
 Rank: 9° lugar
 ![[Pasted image 20241013163319.png|200]]
+200
 ### Atributos(17+193) 
 Força: 0   
 Resistência: 10    
@@ -58,7 +59,7 @@ Nome: yoru
 Classe: uma
 HP: 232/303
 Energia: 55/287
-25
+225
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+133) 
 Força: 60  
