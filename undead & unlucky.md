@@ -59,12 +59,12 @@ Nome: yoru
 Classe: uma
 HP: 232/303
 Energia: 55/287
-225
+100
 ![[Pasted image 20241013163331.png|227]]
 ### Atributos(17+133) 
-Força: 60  
+Força: 80  
 Resistência: 10    
-Habilidade: 50
+Habilidade: 150
 Poder de Fogo: 0  
 Inteligência: 10 
 Vontade: 20  
@@ -90,8 +90,8 @@ Vontade: 20
 	- custo 15 | dano 5 | enfraquecimento | sufocamento
 - kung fu: soco metralhadora
 	- custo 50 | dano 50 | amplo | teleguiado
-- kung fu: bala de prata
-	- custo ? | sufocamento | paralisia | ataque carregado
+- kung fu: bala de prata(5)
+	- custo 25 | dano 10 | sufocamento | paralisia | ataque carregado
 - capoeira: martelo voador
 	- custo 120 | dano 120 | dano gigante | poderoso | perigoso | irrefreavel 
 ### Vantagens
