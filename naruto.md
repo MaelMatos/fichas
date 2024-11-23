@@ -5,7 +5,7 @@ Status Ninja : ~~Genin~~ Nukenin
 Ryo: 5800  
 Sensei: ~~Mirai Ryuki~~ Orochimaru  
 PV | 362/1403+0/107+81/81 
-Chakra | 55/106+0/55+7/20  
+Chakra | 106/106+55/55+20/20  
 controle de chakra | 6/106 + 5/55 + 20/20  
 [[#^a861ee|dreno de chakra: 13]]
 [[#^15efc3|fúria: 8]]  
