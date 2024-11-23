@@ -4,13 +4,12 @@ Clã: hellsing
 Status Ninja : ~~Genin~~ Nukenin  
 Ryo: 5800  
 Sensei: ~~Mirai Ryuki~~ Orochimaru  
-PV | 1170/1170+107/107+81/81 
+PV | 1403/1403+107/107+81/81 
 Chakra | 106/106+55/55+20/20  
 controle de chakra | 106/106 + 55/55 + 20/20  
 [[#^a861ee|dreno de chakra: 13]]
 [[#^15efc3|fúria: 8]]  
 [[#^b97c9d|regen: 72]]
-5
 (9d6)++18++70++25 -> casull
 (4d6)++80++42++27++100++2++49 -> foice+punho(custa 100 hp,reciclavel -49)
 custo clone de akumaton 360 hp
