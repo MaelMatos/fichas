@@ -78,10 +78,10 @@ bukijutsu
  - 15 chackra
 - munições especiais(+50 hp custo):
  - akumaton: munição viva(rouba 40 de hp e ck/rodada)
- - bukkijutsu: munição anti-blindagem
- - bukkijutsu: munição oca
- - bukkijutsu: munição incendiaria
- - bukkijutsu: munição mercurio
+ - bukkijutsu: munição anti-blindagem(irrefreavel)
+ - bukkijutsu: munição oca(sangramento)
+ - bukkijutsu: munição incendiaria(queimadura)
+ - bukkijutsu: munição mercurio(paralisia)
 - estilo água: Técnica de Ocultação na Névoa
   - custo: 5 
 - estilo fogo: grande bola de fogo
