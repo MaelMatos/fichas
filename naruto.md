@@ -15,12 +15,12 @@ controle de chakra | 6/106 + 5/55 + 20/20
 custo clone de akumaton 360 hp
 custo clone da sombras 3 ck
 custo demais clones 90
-kage bushin A hp 50/50 ck 50/50 5/8
-kage bushin B hp 50/50 ck 50/50 5/8
-kage bushin C hp 50/50 ck 50/50 5/8
-akuma bushin A hp 100/100 ck 100/100 5/8
-akuma bushin B hp 100/100 ck 100/100 5/8
-akuma bushin C hp 100/100 ck 100/100 5/8
+kage bushin A hp 1/50 ck 0/50 4/8
+kage bushin B hp 1/50 ck 0/50 4/8
+kage bushin C hp 1/50 ck 0/50 4/8
+akuma bushin A hp 1/100 ck 0/100 4/8
+akuma bushin B hp 1/100 ck 0/100 4/8
+akuma bushin C hp 1/100 ck 0/100 4/8
 # Atributos(10+65)
 Força: 1+4+2  
 Habilidade: 20+6+2  
