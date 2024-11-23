@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "undead & unlucky.md",
+                "file": "one_piece.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "undead & unlucky"
+              "title": "one_piece"
             }
           },
           {
             "id": "8c19b7af2535815f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "naruto.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "naruto"
             }
           }
         ],
@@ -204,10 +206,11 @@
   },
   "active": "8c19b7af2535815f",
   "lastOpenFiles": [
-    "harry_potter.md",
+    "one_piece.md",
     "undead & unlucky.md",
     "naruto.md",
-    "one_piece.md",
+    "imagens/Leonardo_Anime_XL_In_the_naruto_art_style_a_14yearold_boy_with_0.jpg",
+    "harry_potter.md",
     "dc_marvel.md",
     "ideias de técnica.md",
     "Sem título.md",
