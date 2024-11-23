@@ -22,7 +22,7 @@ kage bushin C hp 16/16 ck 16/16
 # Atributos(10+65)
 Força: 1+4+2  
 Habilidade: 20+6+2  
-Resistencia:  36+4+2  
+Resistencia:  40+4+2  
 Poder de Fogo:  1+4+2 -> 7  
 Vontade: 11+5+2-> 20  
 Chakra: 7+3+2-> 11  
