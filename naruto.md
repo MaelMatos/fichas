@@ -4,7 +4,7 @@ Clã: hellsing
 Status Ninja : ~~Genin~~ Nukenin  
 Ryo: 5800  
 Sensei: ~~Mirai Ryuki~~ Orochimaru  
-PV | 87/1403+0/107+81/81 
+PV | 362/1403+0/107+81/81 
 Chakra | 55/106+0/55+7/20  
 controle de chakra | 6/106 + 5/55 + 20/20  
 [[#^a861ee|dreno de chakra: 13]]
