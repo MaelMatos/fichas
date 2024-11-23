@@ -128,7 +128,7 @@ bukijutsu
 - casull
  - 70 dano | custo 70 hp | equipamento digno | energia vital(90%->1223,desabilita regen) | emudecimento | paralisia | espiritual| arma-escudo | vorpal | (6/8)
 - Duelista do Fim
-  - dano 100 | custo 100 hp | alvo múltiplo | teleguiado | irrefreável | tiro carregado | equipamento digno | curtíssimo alcance | poder oculto | (4/4)
+  - dano 100 | custo 100 hp | alvo múltiplo | teleguiado | irrefreável | tiro carregado | equipamento digno | curtíssimo alcance | arma-escudo | poder oculto | (4/4)
 - ~~colete bege~~
  - +5 defesa +2 resistência +5 de redução de dano(perfuração)
 - ~~sopro divino: 28 dano | paralisia | sangramento~~
