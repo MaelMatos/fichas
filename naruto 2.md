@@ -18,13 +18,15 @@ Vontade:
 Chakra: 
 
 
-# Vantagens(73)
+# Vantagens(77)
 - Genialidade em ninjutsu
 - Adaptador III(27)
 - Equilbrio de energias II(17)
 - Controle de Chakra II(4+13)
 - aceleração II(3+7)
 - combo(2)
+- superação(4)
+- recuperação de energia(4)
 
 
 
@@ -50,9 +52,12 @@ Chakra:
 - estilo água: espiral d'água(13)
   - custo: 36 | dano 65 | amplificador 
 - estilo fogo: seta do turbilhão flamejante(32)
-  - custo 93 | dano  160 | dano gigante | em area | irrefreavel | vorpal | ataque carrregado | queimadura
+  - custo 93 | dano  160 | dano gigante | em area | teleguiado | vorpal | ataque carrregado | queimadura
 - estilo terra: grande muralha de terra
-	- reflexão | deflexão | em area
+	- defesa 20 | reflexão | deflexão | em area | preparado
+- estilo raio: mil pássaros
+ - custo 60 | dano 120 | irrefreável | paralisia
+
 
 
 # Inventário(0)
