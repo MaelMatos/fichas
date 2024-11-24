@@ -19,7 +19,7 @@ Chakra:
 # Vantagens(49)
 
 
-# Técnicas
+# Técnicas(143)
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
 - Henge
