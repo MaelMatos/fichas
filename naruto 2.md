@@ -57,8 +57,8 @@ Chakra:
 	- defesa 20 | reflexão | deflexão | em area | preparado
 - estilo raio: mil pássaros
 	- custo 60 | dano 120 | irrefreável | paralisia
-
-
+- estilo vento: domo do vendaval cortante
+	- 
 
 # Inventário(0)
 - Kit Ninja:
