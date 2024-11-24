@@ -16,7 +16,7 @@ Vontade: 11+5+2-> 43
 Chakra: 7+3+2-> 11  
 
 
-# Vantagens
+# Vantagens(49)
 
 
 # Técnicas
@@ -40,7 +40,7 @@ Chakra: 7+3+2-> 11
 
 
 
-# Desvantagens
+# Desvantagens(1)
 
 
 # Caminho Shinobi 
