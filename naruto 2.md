@@ -8,15 +8,17 @@ PV |
 Chakra | 
 
 # Atributos(80)
-Força: 
-Habilidade: 
-Resistencia:  
-Poder de Fogo:  
-Vontade:  
-Chakra: 
+Força: 10
+Habilidade: 20
+Resistencia: 10
+Poder de Fogo: 10
+Vontade: 10
+Chakra: 30
 
 
 # Vantagens(55)
+
+
 
 
 
