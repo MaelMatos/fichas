@@ -58,7 +58,7 @@ Chakra:
 - estilo raio: mil pássaros
 	- custo 60 | dano 120 | irrefreável | paralisia
 - estilo vento: domo do vendaval cortante
-	- 
+	-  sangramento | sufocamento
 
 # Inventário(0)
 - Kit Ninja:
