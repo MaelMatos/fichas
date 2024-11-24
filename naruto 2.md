@@ -9,12 +9,12 @@ Chakra |
 
 
 
-# Atributos(0)
-Força: 
+# Atributos(90)
+Força: 10 
 Habilidade: 
 Resistencia: 
 Poder de Fogo: 
-Vontade: 
+Vontade: 10
 Chakra: 
 
 
@@ -50,15 +50,15 @@ Chakra:
 - estilo água: Técnica de Ocultação na Névoa
   - custo: 5 
 - estilo água: espiral d'água(13)
-  - custo: 36 | dano 120 | amplificador 
+  - custo: 36 | dano 140 | amplificador 
 - estilo fogo: seta do turbilhão flamejante(32)
 	- custo 93 | dano  160 | dano gigante | em area | teleguiado | vorpal | ataque carrregado | queimadura
 - estilo terra: grande muralha de terra
-	- defesa 20 | reflexão | deflexão | em area | preparado
+	- defesa 40 | reflexão | deflexão | em area | preparado
 - estilo raio: mil pássaros
-	- custo 60 | dano 120 | irrefreável | paralisia | reciclavel
+	- custo 60 | dano 140 | irrefreável | paralisia | reciclavel
 - estilo vento: domo do vendaval cortante
-	-  sangramento | sufocamento
+	-  dano: 50 | sangramento | sufocamento
 
 # Inventário(0)
 - Kit Ninja:
