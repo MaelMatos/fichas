@@ -22,8 +22,8 @@ Chakra:
 - Memória fotografica
 - Adaptador III(27)
 - Equilbrio de energias II(17)
-- Controle de Chakra I(4+13)
-- aceleração(3+7)
+- Controle de Chakra II(4+13)
+- aceleração II(3+7)
 - combo(2)
 
 
