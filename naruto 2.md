@@ -35,6 +35,7 @@ Chakra:
 - Kinobori
 - Henge
 - Bushin - 5 de chakra
+- Clone de agua
 
 # Inventário(0)
 - Kit Ninja:

@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título 3.md",
+                "file": "naruto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título 3"
+              "title": "naruto"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 297.5
   },
   "right": {
     "id": "b30cd460ee1db0b6",
@@ -203,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea5a1c770cd1373f",
+  "active": "ab036d34652cb86d",
   "lastOpenFiles": [
     "Sem título 3.md",
     "naruto 2.md",
