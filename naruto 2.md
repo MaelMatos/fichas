@@ -4,9 +4,9 @@ Clã:  Sarutobi
 Status Ninja : 
 Ryo:  310
 Sensei: 
-PV | 
-Chakra | 
-
+PV | 97/97
+Chakra | 1254/1254
+Controle de Chakra | 1254/1254
 
 
 # Atributos(90)
@@ -50,11 +50,11 @@ Chakra: 35
 - estilo água: Técnica de Ocultação na Névoa
   - custo: 5 
 - estilo água: espiral d'água(13)
-  - custo: 36 | dano 140 | amplificador 
+  - custo: 73 | dano 140 | amplificador 
 - estilo fogo: seta do turbilhão flamejante(32)
-	- custo 93 | dano  160 | dano gigante | em area | teleguiado | vorpal | ataque carrregado | queimadura
+	- custo 95 | dano  160 | dano gigante | em area | teleguiado | vorpal | ataque carrregado | queimadura
 - estilo terra: grande muralha de terra
-	- defesa 40 | reflexão | deflexão | em area | preparado
+	- custo: 28 | defesa 40 | reflexão | deflexão | em area | preparado
 - estilo raio: mil pássaros
 	- custo 60 | dano 140 | irrefreável | paralisia | reciclavel
 - estilo vento: domo do vendaval cortante
