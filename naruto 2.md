@@ -56,7 +56,7 @@ Chakra:
 - estilo terra: grande muralha de terra
 	- defesa 20 | reflexão | deflexão | em area | preparado
 - estilo raio: mil pássaros
-	- custo 60 | dano 120 | irrefreável | paralisia
+	- custo 60 | dano 120 | irrefreável | paralisia | reciclavel
 - estilo vento: domo do vendaval cortante
 	-  sangramento | sufocamento
 
