@@ -81,23 +81,23 @@ bukijutsu
  - bukkijutsu: munição mercurio(paralisia)
 - estilo água: Técnica de Ocultação na Névoa
   - custo: 5 
-- estilo fogo: grande bola de fogo
+- estilo fogo: grande bola de fogo(7)
  - custo: 18 | dano 35
-- bukijutsu: guarda-chuva de senbon
+- bukijutsu: guarda-chuva de senbon(10)
   - custo 23  |dano 40 | dano em area | paralisia
-- kenjutsu: rotação divina
+- kenjutsu: rotação divina(11)
   - custo 28 | dano 45 | escalonavel(5 por novo alvo,até 5x) | alvo multiplo
-- akumaton: baforada diabólica
+- akumaton: baforada diabólica(13)
   - custo 25 | dano 50 | vorpal | dreno de vida | arma-escudo
-- estilo água: espiral d'água
+- estilo água: espiral d'água(13)
   - custo: 36 | dano 65 | amplificador 
-- bukkijutsu: marionetagem
+- bukkijutsu: marionetagem(17)
   - custo 43 | dano 75 | paralisia II 
-- akumaton: punho enraizador
+- akumaton: punho enraizador(23)
   - custo 51 | dano 100 | enfraquecer | dreno de vida | reciclável
 - ~~estilo raio: mil pássaros~~
  - custo 60 | dano 120 | dano gigante | irrefreável | paralisia
-- estilo fogo: seta do turbilhão flamejante
+- estilo fogo: seta do turbilhão flamejante(32)
   - custo 93 | dano  160 | dano gigante | em area | irrefreavel | vorpal | ataque carrregado
 - akumaton: sombra com instinto assassino infinito
  - custo: 75 | 7 rodadas | 25+ dano no ataque basico
