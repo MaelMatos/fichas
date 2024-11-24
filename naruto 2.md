@@ -50,7 +50,7 @@ Chakra:
 - estilo água: Técnica de Ocultação na Névoa
   - custo: 5 
 - estilo água: espiral d'água(13)
-  - custo: 36 | dano 65 | amplificador 
+  - custo: 36 | dano 120 | amplificador 
 - estilo fogo: seta do turbilhão flamejante(32)
 	- custo 93 | dano  160 | dano gigante | em area | teleguiado | vorpal | ataque carrregado | queimadura
 - estilo terra: grande muralha de terra
