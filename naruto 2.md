@@ -19,7 +19,7 @@ Chakra:
 
 
 # Vantagens()
-- Memória fotografica
+- Genialidade em ninjutsu
 - Adaptador III(27)
 - Equilbrio de energias II(17)
 - Controle de Chakra II(4+13)
