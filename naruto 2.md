@@ -32,7 +32,7 @@ Chakra: 35
 
 
 
-# Técnicas(20)
+# Técnicas
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
 - Henge
@@ -56,9 +56,9 @@ Chakra: 35
 - estilo terra: grande muralha de terra
 	- custo: 28 | defesa 40 | reflexão | deflexão | em area | preparado
 - estilo raio: mil pássaros
-	- custo 60 | dano 140 | irrefreável | paralisia | reciclavel
+	- custo 78 | dano 140 | irrefreável | paralisia | reciclavel
 - estilo vento: domo do vendaval cortante
-	-  dano: 50 | sangramento | sufocamento
+	-  custo 30 | dano: 50 | sangramento | sufocamento
 
 # Inventário(0)
 - Kit Ninja:
@@ -75,10 +75,10 @@ Chakra: 35
 
 
 
-# Desvantagens(1)
+# Desvantagens()
 - Fetiche: bandana de konoha
 
-# Caminho Shinobi(27) 
+# Caminho Shinobi() 
 Taijutsu: 7
 Ninjutsu: 13
 Genjutsu: 7
