@@ -43,6 +43,14 @@ Chakra:
 	- 25 de chakra | explode ao morrer(custo/2) 
 - Clone de vento
 	- 25 de chakra | knockback quando morre
+- Clone das sombras
+	- 25 de chakra | usa jutsus
+- estilo água: Técnica de Ocultação na Névoa
+  - custo: 5 
+- estilo água: espiral d'água(13)
+  - custo: 36 | dano 65 | amplificador 
+- estilo fogo: seta do turbilhão flamejante(32)
+  - custo 93 | dano  160 | dano gigante | em area | irrefreavel | vorpal | ataque carrregado
 
 
 # Inventário(0)
