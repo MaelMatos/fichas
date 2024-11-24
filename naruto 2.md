@@ -7,13 +7,13 @@ Sensei:
 PV | 
 Chakra | 
 
-# Atributos
-Força: 1+4+2  
-Habilidade: 20+6+2  
-Resistencia:  40+4+2  
-Poder de Fogo:  1+4+2 -> 7  
-Vontade: 11+5+2-> 43  
-Chakra: 7+3+2-> 11  
+# Atributos(80)
+Força: 
+Habilidade: 
+Resistencia:  
+Poder de Fogo:  
+Vontade:  
+Chakra: 
 
 
 # Vantagens(49)
@@ -43,7 +43,7 @@ Chakra: 7+3+2-> 11
 # Desvantagens(1)
 
 
-# Caminho Shinobi 
+# Caminho Shinobi(7) 
 Taijutsu: 
 Ninjutsu: 
 Genjutsu: 
