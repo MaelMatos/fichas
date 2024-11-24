@@ -35,12 +35,16 @@ Chakra:
 - Kinobori
 - Henge
 - Bushin - 5 de chakra
-- Clone de agua
- - 25 de chakra(define ck e hp) | 25+dano | pode usar jutsu de agua | requer umidade
+- Clone de água
+	  25 de chakra(define ck e hp) | 25+dano | pode usar jutsu de agua | requer umidade
 - Clone de rocha
+	- 25 de chakra
 - Clone de fogo
+	- 25 de chakra | explode ao morrer(custo/2) 
 - Clone de vento
+	- 25 de chakra | knockback quando morre
 - Clone de raio
+	- 25 de chakra | 
 
 # Inventário(0)
 - Kit Ninja:
