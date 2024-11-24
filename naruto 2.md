@@ -16,7 +16,7 @@ Vontade:
 Chakra: 
 
 
-# Vantagens(49)
+# Vantagens(55)
 
 
 

@@ -49,7 +49,8 @@
               "title": "Sem título 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c19b7af2535815f",
+  "active": "ea5a1c770cd1373f",
   "lastOpenFiles": [
-    "naruto 2.md",
     "naruto.md",
+    "naruto 2.md",
     "Sem título 2.md",
     "harry_potter.md",
     "aaaaaaaaaa.md",
