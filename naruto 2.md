@@ -17,7 +17,9 @@ Chakra: 30
 
 
 # Vantagens(55)
-
+- Adaptador III(27)
+- Equilbrio de energias II(17)
+- Controle de Chakra I(4)
 
 
 
