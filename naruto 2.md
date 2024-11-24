@@ -2,7 +2,7 @@
 Nome:  Shizen Sarutobi
 Clã:  Sarutobi
 Status Ninja : 
-Ryo:  
+Ryo:  310
 Sensei: 
 PV | 98/98
 Chakra | 1005/1005
