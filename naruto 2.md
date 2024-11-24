@@ -4,7 +4,7 @@ Clã:  Sarutobi
 Status Ninja : 
 Ryo:  
 Sensei: 
-PV | 
+PV | 98/98
 Chakra | 
 
 # Atributos(80)
