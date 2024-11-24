@@ -52,11 +52,11 @@ Chakra:
 - estilo água: espiral d'água(13)
   - custo: 36 | dano 65 | amplificador 
 - estilo fogo: seta do turbilhão flamejante(32)
-  - custo 93 | dano  160 | dano gigante | em area | teleguiado | vorpal | ataque carrregado | queimadura
+	- custo 93 | dano  160 | dano gigante | em area | teleguiado | vorpal | ataque carrregado | queimadura
 - estilo terra: grande muralha de terra
 	- defesa 20 | reflexão | deflexão | em area | preparado
 - estilo raio: mil pássaros
- - custo 60 | dano 120 | irrefreável | paralisia
+	- custo 60 | dano 120 | irrefreável | paralisia
 
 
 
