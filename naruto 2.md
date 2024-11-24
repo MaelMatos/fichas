@@ -5,7 +5,8 @@ Status Ninja :
 Ryo:  
 Sensei: 
 PV | 98/98
-Chakra | 
+Chakra | 1005/1005
+Controle de Chakra | 503/503
 
 # Atributos(80)
 Força: 10
@@ -17,6 +18,7 @@ Chakra: 30
 
 
 # Vantagens(55)
+- Memória fotografica
 - Adaptador III(27)
 - Equilbrio de energias II(17)
 - Controle de Chakra I(4)
