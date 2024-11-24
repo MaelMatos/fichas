@@ -6,7 +6,7 @@ Ryo:  310
 Sensei: 
 PV | 
 Chakra | 
-350
+
 
 
 # Atributos(0)
@@ -18,7 +18,7 @@ Vontade:
 Chakra: 
 
 
-# Vantagens()
+# Vantagens(73)
 - Genialidade em ninjutsu
 - Adaptador III(27)
 - Equilbrio de energias II(17)
@@ -54,10 +54,10 @@ Chakra:
 # Desvantagens(1)
 - Fetiche: bandana de konoha
 
-# Caminho Shinobi(0) 
-Taijutsu: 
-Ninjutsu: 
-Genjutsu: 
+# Caminho Shinobi(27) 
+Taijutsu: 7
+Ninjutsu: 13
+Genjutsu: 7
 
 # história
 
