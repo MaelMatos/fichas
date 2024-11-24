@@ -4,38 +4,39 @@ Clã:  Sarutobi
 Status Ninja : 
 Ryo:  310
 Sensei: 
-PV | 98/98
-Chakra | 1005/1005
-Controle de Chakra | 503/503
-
-# Atributos(80)
-Força: 10
-Habilidade: 20
-Resistencia: 10
-Poder de Fogo: 10
-Vontade: 10
-Chakra: 30
+PV | 
+Chakra | 
+350
 
 
-# Vantagens(55)
+# Atributos(0)
+Força: 
+Habilidade: 
+Resistencia: 
+Poder de Fogo: 
+Vontade: 
+Chakra: 
+
+
+# Vantagens()
 - Memória fotografica
 - Adaptador III(27)
 - Equilbrio de energias II(17)
-- Controle de Chakra I(4)
-- aceleração(3)
+- Controle de Chakra I(4+13)
+- aceleração(3+7)
 - combo(2)
-- doador - chakra(2)
 
 
 
 
-# Técnicas(143)
+
+# Técnicas()
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
 - Henge
 - Bushin - 5 de chakra
 
-# Inventário(+9)
+# Inventário(0)
 - Kit Ninja:
  - 10/10 Kunai (a cada 3 +1 de dano)
  - 15/15 Shuriken (a cada 3 +2 de dano)
@@ -53,7 +54,7 @@ Chakra: 30
 # Desvantagens(1)
 - Fetiche: bandana de konoha
 
-# Caminho Shinobi(7) 
+# Caminho Shinobi(0) 
 Taijutsu: 
 Ninjutsu: 
 Genjutsu: 
