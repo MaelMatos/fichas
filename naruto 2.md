@@ -20,6 +20,9 @@ Chakra: 30
 - Adaptador III(27)
 - Equilbrio de energias II(17)
 - Controle de Chakra I(4)
+- aceleração(3)
+- combo(2)
+- doador - chakra(2)
 
 
 
