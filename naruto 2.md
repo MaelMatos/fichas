@@ -10,12 +10,12 @@ Chakra |
 
 
 # Atributos(90)
-Força: 10 
-Habilidade: 
-Resistencia: 
-Poder de Fogo: 
-Vontade: 10
-Chakra: 
+Força: 5 
+Habilidade: 30
+Resistencia: 10
+Poder de Fogo: 5
+Vontade: 5
+Chakra: 35
 
 
 # Vantagens(77)
