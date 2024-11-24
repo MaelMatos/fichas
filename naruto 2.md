@@ -30,7 +30,7 @@ Chakra:
 
 
 
-# Técnicas()
+# Técnicas(20)
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
 - Henge
@@ -43,8 +43,7 @@ Chakra:
 	- 25 de chakra | explode ao morrer(custo/2) 
 - Clone de vento
 	- 25 de chakra | knockback quando morre
-- Clone de raio
-	- 25 de chakra | 
+
 
 # Inventário(0)
 - Kit Ninja:
