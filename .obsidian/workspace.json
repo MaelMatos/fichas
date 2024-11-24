@@ -35,8 +35,7 @@
               "title": "naruto"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,12 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab036d34652cb86d",
+  "active": "ea5a1c770cd1373f",
   "lastOpenFiles": [
-    "Sem título 3.md",
-    "naruto 2.md",
-    "Sem título 2.md",
     "naruto.md",
+    "naruto 2.md",
+    "Sem título 3.md",
+    "Sem título 2.md",
     "harry_potter.md",
     "aaaaaaaaaa.md",
     "one_piece.md",

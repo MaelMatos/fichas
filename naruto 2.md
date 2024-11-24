@@ -36,6 +36,11 @@ Chakra:
 - Henge
 - Bushin - 5 de chakra
 - Clone de agua
+ - 25 de chakra(define ck e hp) | 25+dano | pode usar jutsu de agua | requer umidade
+- Clone de rocha
+- Clone de fogo
+- Clone de vento
+- Clone de raio
 
 # Inventário(0)
 - Kit Ninja:
