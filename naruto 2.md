@@ -51,7 +51,7 @@ Chakra: 30
 
 
 # Desvantagens(1)
-
+- Fetiche: bandana de konoha
 
 # Caminho Shinobi(7) 
 Taijutsu: 
