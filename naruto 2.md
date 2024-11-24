@@ -1,6 +1,6 @@
 # Status
-Nome:  
-Clã:   
+Nome:  Shizen Sarutobi
+Clã:  Sarutobi
 Status Ninja : 
 Ryo:  
 Sensei: 
