@@ -5,7 +5,7 @@ Gennin
 Ryo -320
 Sensei - mirai ryuk
 futon
-56
+pontos para investir: 56
 
 # Atributos(180) 
 Força: 50
