@@ -5,7 +5,7 @@ Gennin
 Ryo -320
 Sensei - mirai ryuk
 futon
-285
+280
 
 # Atributos 
 Força:
@@ -15,7 +15,7 @@ Poder de Fogo:
 Vontade:
 Chakra:
 
-# vantagem(42):
+# vantagem(47):
 poder oculto 
 memória expandida 
 doador energia
@@ -29,6 +29,7 @@ energia extra (4)
 patrono(3)
 Rival:3
 parceria(3)
+Escapada instantanea(5)
 
 # técnicas
 

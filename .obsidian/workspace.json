@@ -63,8 +63,7 @@
               "title": "Sem título 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,11 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb7a5b148420d426",
+  "active": "648c623c0c6af271",
   "lastOpenFiles": [
+    "kauan 2.md",
     "naruto.md",
     "Sem título 4.md",
-    "kauan 2.md",
     "naruto 2.md",
     "kauan.md",
     "Sem título 3.md",
