@@ -5,7 +5,7 @@ Gennin
 Ryo -320
 Sensei - mirai ryuk
 futon
-265
+260
 
 # Atributos 
 Força:
@@ -38,7 +38,11 @@ Escapada instantanea(5)
 - Bushin - 5 de chakra
 - Rasengan
 	- Custo 75 | Dano 125 | Dano gigante | Vorpal | Perigoso | Poderoso | Aproximação
-- 
+- selo repulsor do vendaval
+	- custo 5 | preparado
+- machado minguante
+	- custo 10 | dano 15 | amplo
+- estilo vento 
 
 # caminho shinobi(20)
 Ninjustu: 6
