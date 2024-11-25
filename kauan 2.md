@@ -45,6 +45,7 @@ Escapada instantanea(5)
 - estilo vento: escapada suave
 	- custo 5
 
+
 # caminho shinobi(20)
 Ninjustu: 6
 Taijutsu: 10
