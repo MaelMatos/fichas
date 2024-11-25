@@ -37,7 +37,8 @@ Escapada instantanea(5)
 - Henge
 - Bushin - 5 de chakra
 - Rasengan
-	- Custo 80 | Dano | 
+	- Custo 75 | Dano 125 | Dano gigante | Vorpal | Perigoso | Poderoso | Aproximação
+- 
 
 # caminho shinobi(20)
 Ninjustu: 6
