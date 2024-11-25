@@ -5,15 +5,15 @@ Gennin
 Ryo -320
 Sensei - mirai ryuk
 futon
-260
+56
 
-# Atributos 
-Força:
-Habilidade:
-Resistencia:
-Poder de Fogo:
-Vontade:
-Chakra:
+# Atributos(180) 
+Força: 50
+Habilidade: 50 
+Resistencia: 50
+Poder de Fogo: 10
+Vontade: 10
+Chakra: 10
 
 # vantagem(47):
 poder oculto 
@@ -41,8 +41,9 @@ Escapada instantanea(5)
 - selo repulsor do vendaval
 	- custo 5 | preparado
 - machado minguante
-	- custo 10 | dano 15 | amplo
+	- custo 0 | dano 125 | amplo
 - estilo vento: escapada suave
+	- custo 5
 
 # caminho shinobi(20)
 Ninjustu: 6
