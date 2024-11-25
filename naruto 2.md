@@ -7,8 +7,6 @@ Sensei:
 PV | 97/97
 Chakra | 1254/1254
 Controle de Chakra | 1254/1254
-
-
 # Atributos(90)
 Força: 5 
 Habilidade: 30
@@ -16,8 +14,6 @@ Resistencia: 10
 Poder de Fogo: 5
 Vontade: 5
 Chakra: 35
-
-
 # Vantagens(77)
 - Genialidade em ninjutsu
 - Adaptador III(27)
@@ -27,11 +23,6 @@ Chakra: 35
 - combo(2)
 - superação(4)
 - recuperação de energia(4)
-
-
-
-
-
 # Técnicas
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
@@ -72,8 +63,6 @@ Chakra: 35
  - Comunicador de curto alcance
  - 2/2 pílulas de chakra lvl 1 (+10)
  - 1/2 pílulas de hp lvl 1 (+10)
-
-
 
 # Desvantagens()
 - Fetiche: bandana de konoha
