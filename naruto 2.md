@@ -51,7 +51,7 @@ Chakra: 35
 - estilo vento: domo do vendaval cortante
 	-  custo 30 | dano: 50 | sangramento | sufocamento
 
-# Inventário(0)
+# Inventário
 - Kit Ninja:
  - 10/10 Kunai (a cada 3 +1 de dano)
  - 15/15 Shuriken (a cada 3 +2 de dano)
@@ -67,7 +67,7 @@ Chakra: 35
 # Desvantagens()
 - Fetiche: bandana de konoha
 
-# Caminho Shinobi() 
+# Caminho Shinobi(27) 
 Taijutsu: 7
 Ninjutsu: 13
 Genjutsu: 7
