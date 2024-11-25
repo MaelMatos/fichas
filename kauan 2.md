@@ -42,7 +42,7 @@ Escapada instantanea(5)
 	- custo 5 | preparado
 - machado minguante
 	- custo 10 | dano 15 | amplo
-- estilo vento 
+- estilo vento: escapada suave
 
 # caminho shinobi(20)
 Ninjustu: 6
