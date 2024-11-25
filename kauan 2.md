@@ -13,7 +13,7 @@ Poder de Fogo:
 Vontade:
 Chakra:
 
-# vantagem:
+# vantagem(76):
 poder oculto 
 memória expandida 
 doador energia
@@ -26,3 +26,13 @@ combo(2)
 ataque múltiplo(2)
 vitalidade(4)
 energia extra (4)
+patrono(3) 
+Rival:3
+parceria(3)
+
+# técnicas
+# desvantagens: 
+código de honra : herói 
+inculto
+procurado
+monstruoso
