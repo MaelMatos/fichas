@@ -4,6 +4,7 @@ Status Ninja  -
 Gennin
 Ryo -320
 Sensei - mirai ryuk
+271
 
 # Atributos 
 Força:
