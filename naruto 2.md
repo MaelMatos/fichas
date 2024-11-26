@@ -8,7 +8,7 @@ PV | 97/97
 Chakra | 326/1254
 Controle de Chakra | 1254/1254
 
-clone da sombras A hp 1000/1000 ck 972/1000 muralha de terra
+clone da sombras A hp 1000/1000 ck 944/1000 muralha de terra
 # Atributos(90)
 Força: 5 
 Habilidade: 30
