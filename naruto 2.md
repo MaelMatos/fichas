@@ -5,11 +5,12 @@ Status Ninja :
 Ryo:  310
 Sensei: 
 PV | 97/97
-Chakra | 0/1254
-Controle de Chakra | 616/1254
+Chakra | 1159/1254
+Controle de Chakra | 16/1254
 muralha preparada
-clone da sombra A hp 520/600 ck 330/600 
-clone da sombra A hp 520/600 ck 330/600 
+clone da sombra A hp 520/600 ck 302/600 
+clone da sombra B hp 520/600 ck 302/600 
+clone da sombra C hp 600/600 ck 572/600
 
 # Atributos(90)
 Força: 5 
