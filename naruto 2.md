@@ -8,8 +8,8 @@ PV | 97/97
 Chakra | 54/1254
 Controle de Chakra | 1254/1254
 muralha preparada
-clone da sombra A hp 1120/1200 ck 1122/1200 
-clone da sombra A hp 1120/1200 ck 1122/1200 
+clone da sombra A hp 520/600 ck 522/600 
+clone da sombra A hp 520/600 ck 522/600 
 
 # Atributos(90)
 Força: 5 
