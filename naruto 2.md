@@ -7,8 +7,8 @@ Sensei:
 PV | 97/97
 Chakra | 54/1254
 Controle de Chakra | 1254/1254
-clone da sombra A hp 1200/1200 ck 1122/1200
-clone da sombra A hp 1200/1200 ck 1122/1200
+clone da sombra A hp 1200/1200 ck 1122/1200 191
+clone da sombra A hp 1200/1200 ck 1122/1200 189
 
 # Atributos(90)
 Força: 5 
