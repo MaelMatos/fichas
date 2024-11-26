@@ -5,13 +5,13 @@ Status Ninja :
 Ryo:  310
 Sensei: 
 PV | 97/97
-Chakra | 1159/1254
+Chakra | 1064/1254
 Controle de Chakra | 16/1254
 muralha preparada
 seta flamejante 422+689
-clone da sombra A hp 520/600 ck 207/600 689+210
-clone da sombra B hp 520/600 ck 207/600 213+689
-clone da sombra C hp 600/600 ck 567/600 212
+clone da sombra A hp 520/600 ck 112/600 689+210
+clone da sombra B hp 520/600 ck 112/600 213+689
+clone da sombra C hp 600/600 ck 472/600 212
 
 # Atributos(90)
 Força: 5 
