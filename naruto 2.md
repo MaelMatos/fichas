@@ -8,8 +8,9 @@ PV | 97/97
 Chakra | 1159/1254
 Controle de Chakra | 16/1254
 muralha preparada
-clone da sombra A hp 520/600 ck 302/600 
-clone da sombra B hp 520/600 ck 302/600 
+seta flamejante 422
+clone da sombra A hp 520/600 ck 207/600 689
+clone da sombra B hp 520/600 ck 207/600 213
 clone da sombra C hp 600/600 ck 567/600
 
 # Atributos(90)
