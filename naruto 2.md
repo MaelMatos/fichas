@@ -10,7 +10,7 @@ Controle de Chakra | 16/1254
 muralha preparada
 clone da sombra A hp 520/600 ck 302/600 
 clone da sombra B hp 520/600 ck 302/600 
-clone da sombra C hp 600/600 ck 572/600
+clone da sombra C hp 600/600 ck 567/600
 
 # Atributos(90)
 Força: 5 
