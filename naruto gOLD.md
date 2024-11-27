@@ -24,6 +24,10 @@ Chakra: 3
 - Kinobori
 - Henge
 - Bushin - 5 de chakra
+- selo silenciador
+  - custo 7 | dano 2 | emudecimento
+- selo da rejeição de ferimento
+  - custo 15 | cura 5 | preparado | alvo multiplo
 
 # Inventário
 - pão mofado
@@ -37,5 +41,6 @@ Ninjutsu: 1
 Genjutsu: 1
 
 # história
+
 
 # anotações:
