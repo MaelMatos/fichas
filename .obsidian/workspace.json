@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "naruto 2.md",
+                "file": "harry_potter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "naruto 2"
+              "title": "harry_potter"
             }
           },
           {
@@ -205,8 +205,8 @@
   },
   "active": "648c623c0c6af271",
   "lastOpenFiles": [
-    "naruto.md",
     "naruto 2.md",
+    "naruto.md",
     "kauan 2.md",
     "Sem título 4.md",
     "kauan.md",
