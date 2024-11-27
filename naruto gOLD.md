@@ -1,5 +1,5 @@
 # Status
-Nome:  Shizen Sarutobi
+Nome:  
 Clã:  Sarutobi
 Status Ninja : 
 Ryo:  310
