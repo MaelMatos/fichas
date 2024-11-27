@@ -8,14 +8,14 @@ PV | 97/97
 Chakra | 1064/1254
 Controle de Chakra | 16/1254
 
-# Atributos()
+# Atributos(12)
 Força: 
 Habilidade: 
 Resistencia: 
 Poder de Fogo: 
 Vontade: 
 Chakra: 
-# Vantagens()
+# Vantagens(1)
 
 # Técnicas
 - Kawarimi - 1/1 p/ Dia
@@ -36,10 +36,10 @@ Chakra:
  - 2/2 pílulas de chakra lvl 1 (+10)
  - 1/2 pílulas de hp lvl 1 (+10)
 
-# Desvantagens()
+# Desvantagens(1)
 
 
-# Caminho Shinobi(27) 
+# Caminho Shinobi(5) 
 Taijutsu:
 Ninjutsu: 
 Genjutsu:
