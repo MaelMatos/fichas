@@ -8,7 +8,7 @@ Vida: 0/13
 Energia: 19/29  
 
 # Atributos  
-Resistência: 2    
+Resistência: 15    
 Habilidade: 7  
 Agilidade: 1  
 Carisma:  -2  
