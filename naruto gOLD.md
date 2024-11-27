@@ -1,21 +1,23 @@
 # Status
-Nome:  
-Clã:  Sarutobi
+Nome:  Uzumaki
+Clã:  Uzumaki
 Status Ninja : 
-Ryo:  310
+Ryo:  16
 Sensei: 
-PV | 97/97
-Chakra | 1064/1254
-Controle de Chakra | 16/1254
-
+PV | 15/15
+Chakra | 21/21
+raiton,fuinjutsu
 # Atributos(12)
-Força: 
-Habilidade: 
-Resistencia: 
-Poder de Fogo: 
-Vontade: 
-Chakra: 
+Força: 2
+Habilidade: 2
+Resistencia: 3
+Poder de Fogo: 1
+Vontade: 1
+Chakra: 3
 # Vantagens(1)
+- regen
+- doador(vida)
+- especialista em taijutsu
 
 # Técnicas
 - Kawarimi - 1/1 p/ Dia
@@ -24,25 +26,15 @@ Chakra:
 - Bushin - 5 de chakra
 
 # Inventário
-- Kit Ninja:
- - 10/10 Kunai (a cada 3 +1 de dano)
- - 15/15 Shuriken (a cada 3 +2 de dano)
- - 10/10 Senbon (a cada 5 +2 de dano) + paralisia
- - 2/2 papel bomba
- - 1/1 selo de luz
- - 1/1 granada de fumaça
- - 1/1 linha ninja
- - Comunicador de curto alcance
- - 2/2 pílulas de chakra lvl 1 (+10)
- - 1/2 pílulas de hp lvl 1 (+10)
+- pão mofado
 
 # Desvantagens(1)
-
+- pobreza
 
 # Caminho Shinobi(5) 
-Taijutsu:
-Ninjutsu: 
-Genjutsu:
+Taijutsu: 3(+1)
+Ninjutsu: 1
+Genjutsu: 1
 
 # história
 
