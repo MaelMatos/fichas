@@ -5,15 +5,15 @@ Status Ninja :
 Ryo:  16
 Sensei: 
 PV | 15/15
-Chakra | 21/21
+Chakra | 30/30
 raiton,fuinjutsu
-# Atributos(14)
+# Atributos(13)
 Força: 2
 Habilidade: 2
 Resistencia: 3
 Poder de Fogo: 1
 Vontade: 1
-Chakra: 3
+Chakra: 4
 # Vantagens(1)
 - regen -> 4/rodada
 - doador(vida)
