@@ -2,7 +2,7 @@
 Nome:  Uzumaki
 Clã:  Uzumaki
 Status Ninja : 
-Ryo:  16
+Ryo:  1
 Sensei: 
 PV | 0/15
 Chakra | 0/30
