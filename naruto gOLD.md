@@ -15,7 +15,7 @@ Poder de Fogo: 1
 Vontade: 1
 Chakra: 3
 # Vantagens(1)
-- regen
+- regen -> 4/rodada
 - doador(vida)
 - especialista em taijutsu
 
