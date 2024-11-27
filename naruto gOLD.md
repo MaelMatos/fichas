@@ -7,7 +7,7 @@ Sensei:
 PV | 15/15
 Chakra | 21/21
 raiton,fuinjutsu
-# Atributos(12)
+# Atributos(14)
 Força: 2
 Habilidade: 2
 Resistencia: 3
