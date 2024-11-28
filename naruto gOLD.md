@@ -18,7 +18,7 @@ Chakra: 4
 # Vantagens(1)
 - regen -> 4/rodada
 - doador(vida)
-- especialista em taijutsu
+- genialide em taijutsu
 
 # Técnicas
 - Kawarimi - 1/1 p/ Dia
