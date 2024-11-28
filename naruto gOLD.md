@@ -1,5 +1,5 @@
 # Status
-Nome:  Uzumaki
+Nome: Taiyo Uzumaki
 Clã:  Uzumaki
 Status Ninja : 
 Ryo:  1
