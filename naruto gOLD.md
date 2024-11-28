@@ -15,13 +15,13 @@ Resistencia: 3
 Poder de Fogo: 1
 Vontade: 1
 Chakra: 4
-# Vantagens(1)
+# Vantagens(1+5)
 - regen -> 4/rodada
 - doador(vida)
 - genialide em taijutsu
 - toque de energia(5)
 
-# Técnicas
+# Técnicas()
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
 - Henge
@@ -51,7 +51,7 @@ Chakra: 4
 # Desvantagens(1)
 - pobreza
 
-# Caminho Shinobi(5) 
+# Caminho Shinobi(5+3) 
 Taijutsu: 8(+4)
 Ninjutsu: 1
 Genjutsu: 1
