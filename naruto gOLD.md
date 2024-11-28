@@ -8,7 +8,7 @@ PV | 0/15
 Chakra | 0/30
 raiton,fuinjutsu
 
-# Atributos(14)
+# Atributos(13)
 Força: 2
 Habilidade: 2
 Resistencia: 3
