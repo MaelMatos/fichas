@@ -19,6 +19,7 @@ Chakra: 4
 - regen -> 4/rodada
 - doador(vida)
 - genialide em taijutsu
+- toque de energia(5)
 
 # Técnicas
 - Kawarimi - 1/1 p/ Dia
@@ -49,7 +50,7 @@ Chakra: 4
 - pobreza
 
 # Caminho Shinobi(5) 
-Taijutsu: 3(+1)
+Taijutsu: 8(+4)
 Ninjutsu: 1
 Genjutsu: 1
 
