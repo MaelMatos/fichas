@@ -30,6 +30,8 @@ Chakra: 4
   - custo 7 | dano 2 | emudecimento
 - selo da rejeição de ferimento
   - custo 15 | cura 5 | preparado | alvo multiplo
+- espiral da folha
+ - custo 18 | dano 13 | amplo
 
 # Inventário
 - pão mofado
