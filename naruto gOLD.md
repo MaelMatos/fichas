@@ -31,7 +31,7 @@ Chakra: 4
 - selo da rejeição de ferimento
   - custo 15 | cura 5 | preparado | alvo multiplo
 - chute intransponivel
-  - custo 18 | dano 8 | deflexão | reflexão
+  - custo 18 | dano 10 | deflexão | reflexão
 
 # Inventário
 - pão mofado
