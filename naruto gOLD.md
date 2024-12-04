@@ -68,3 +68,4 @@ Genjutsu: 1
 - omobo bracker
 - força oculta
 - ataque multiplo
+- 
