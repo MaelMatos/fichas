@@ -61,12 +61,16 @@ Genjutsu: 1
 
 # anotações:
 ## jutsu para aprender
-- cintilação corporal
-
+- cintilação corporal(1)
+	- custo 5 | +evasão
+- estilo raio: soqueira relampago
+ - custo ? | dano ? | reciclavel
 ## vantagens para pegar
-- ataque oportuno
+- ataque oportuno(3)
 - aceleração
 - omobo bracker
 - força oculta
-- ataque multiplo
-- vitalidade
+- ataque multiplo(2)
+- vitalidade(4)
+- superação(4)
+- equilibrio de energia
