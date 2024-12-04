@@ -63,8 +63,8 @@ Genjutsu: 1
 ## jutsu para aprender
 - cintilação corporal(1)
 	- custo 5 | +evasão
-- estilo raio: soqueira relampago
- - custo ? | dano ? | reciclavel
+- estilo raio: soqueira relampago(2)
+ - custo 5 | dano 5 | reciclavel
 ## vantagens para pegar
 - ataque oportuno(3)
 - aceleração
