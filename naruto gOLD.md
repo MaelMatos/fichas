@@ -4,8 +4,8 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  1
 Sensei: 
-PV | 9/34
-Chakra | 7/30
+PV | 33/34
+Chakra | 14/30
 raiton,fuinjutsu
 
 # Atributos(13)
@@ -29,7 +29,7 @@ Chakra: 4
 - selo silenciador
   - custo 7 | dano 2 | emudecimento
 - selo da rejeição de ferimento
-  - custo 15 | cura 5 | preparado | alvo multiplo
+  - custo 15 | cura 10 | alvo multiplo
 - chute intransponivel
   - custo 18 | defesa 10 | deflexão | reflexão
 
