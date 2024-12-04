@@ -60,3 +60,11 @@ Genjutsu: 1
 
 
 # anotações:
+## jutsu para aprender
+
+## vantagens para pegar
+- ataque oportuno
+- aceleração
+- omobo bracker
+- força oculta
+- ataque multiplo
