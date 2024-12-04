@@ -61,6 +61,7 @@ Genjutsu: 1
 
 # anotações:
 ## jutsu para aprender
+- cintilação corporal
 
 ## vantagens para pegar
 - ataque oportuno
@@ -68,4 +69,4 @@ Genjutsu: 1
 - omobo bracker
 - força oculta
 - ataque multiplo
-- 
+- vitalidade
