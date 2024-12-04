@@ -5,7 +5,7 @@ Status Ninja :
 Ryo:  1
 Sensei: 
 PV | 15/15
-Chakra | 12/30
+Chakra | 22/30
 raiton,fuinjutsu
 
 # Atributos(13)
@@ -39,13 +39,13 @@ Chakra: 4
  - 10/10 Kunai (a cada 3 +1 de dano)
  - 15/15 Shuriken (a cada 3 +2 de dano)
  - 10/10 Senbon (a cada 5 +2 de dano) + paralisia
- - 2/2 papel bomba
+ - 1/2 papel bomba
  - 1/1 selo de luz
  - 1/1 granada de fumaça
  - 1/1 linha ninja
  - Comunicador de curto alcance
- - 2/2 pílulas de chakra lvl 1 (+10)
- - 2/2 pílulas de hp lvl 1 (+10)
+ - 1/2 pílulas de chakra lvl 1 (+10)
+ - 0/2 pílulas de hp lvl 1 (+10)
 
 
 # Desvantagens(1)
