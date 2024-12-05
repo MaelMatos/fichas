@@ -35,6 +35,7 @@ Chakra: 5
 - chute intransponivel
   - custo 18 | defesa 10 | deflexão | reflexão
 - estilo raio: raikiri
+ - custo muito | dano sim | vantagens ?
 
 # Inventário
 - pão mofado
@@ -65,7 +66,7 @@ Genjutsu: 1
 # anotações:
 ## jutsu para aprender
 - cintilação corporal(1)
-	- custo 5 | +evasão
+	- custo 5 | evasão 5
 - estilo raio: soqueira relampago(2)
  - custo 5 | dano 5 | reciclavel
 ## vantagens para pegar
