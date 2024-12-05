@@ -34,6 +34,7 @@ Chakra: 5
   - custo 15 | cura 10 | alvo multiplo
 - chute intransponivel
   - custo 18 | defesa 10 | deflexão | reflexão
+- estilo raio: raikiri
 
 # Inventário
 - pão mofado
