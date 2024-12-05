@@ -4,22 +4,24 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  1
 Sensei: 
-PV | 9/34
-Chakra | 10/30
+PV | 9/44
+Chakra | 10/76
 raiton,fuinjutsu
 
-# Atributos(13)
+# Atributos(15)
 Força: 2
 Habilidade: 2
-Resistencia: 5
+Resistencia: 6
 Poder de Fogo: 1
 Vontade: 1
-Chakra: 4
-# Vantagens(1+5)
+Chakra: 5
+# Vantagens(1+13)
 - regen -> 4/rodada
 - doador(vida)
 - genialide em taijutsu
 - toque de energia(5)
+- equilibrio de energia(5)
+- ataque oportuno(3)
 
 # Técnicas()
 - Kawarimi - 1/1 p/ Dia
@@ -66,11 +68,11 @@ Genjutsu: 1
 - estilo raio: soqueira relampago(2)
  - custo 5 | dano 5 | reciclavel
 ## vantagens para pegar
-- ataque oportuno(3)
+
 - aceleração
 - omobo bracker
 - força oculta
 - ataque multiplo(2)
 - vitalidade(4)
 - superação(4)
-- equilibrio de energia
+
