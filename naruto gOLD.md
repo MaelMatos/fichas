@@ -15,13 +15,14 @@ Resistencia: 6
 Poder de Fogo: 1
 Vontade: 1
 Chakra: 5
-# Vantagens(1+13)
+# Vantagens(1+17)
 - regen -> 4/rodada
 - doador(vida)
 - genialide em taijutsu
 - toque de energia(5)
 - equilibrio de energia(5)
 - ataque oportuno(3)
+- vitalidade(4)
 
 # Técnicas()
 - Kawarimi - 1/1 p/ Dia
@@ -75,6 +76,5 @@ Genjutsu: 1
 - omobo bracker
 - força oculta
 - ataque multiplo(2)
-- vitalidade(4)
 - superação(4)
 
