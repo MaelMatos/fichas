@@ -16,7 +16,7 @@ Poder de Fogo: 1
 Vontade: 1
 Chakra: 5
 # Vantagens(1+17)
-- regen -> 4/rodada
+- regen -> 9/rodada
 - doador(vida)
 - genialide em taijutsu
 - toque de energia(5)
