@@ -49,6 +49,7 @@ Chakra: 5
  - 1/1 granada de fumaça
  - 1/1 linha ninja
  - Comunicador de curto alcance
+ - Comunicador de medio alcance
  - 1/2 pílulas de chakra lvl 1 (+10)
  - 0/2 pílulas de hp lvl 1 (+10)
 
