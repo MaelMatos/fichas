@@ -23,6 +23,7 @@ Chakra: 6
 - equilibrio de energia(5)
 - ataque oportuno(3)
 - vitalidade(4)
+- marca da maldição
 
 # Técnicas()
 - Kawarimi - 1/1 p/ Dia
