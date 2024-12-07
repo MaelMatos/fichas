@@ -4,7 +4,7 @@ Classificação: Meio Bruxo
 Casa:  sonserina
 ![[Pasted image 20240915182321.png]]  
 Dinheiro: 130  
-Vida: 155/155  
+Vida: 145/155  
 Energia: 19/29  
 
 # Atributos  
@@ -27,7 +27,7 @@ Magia das Trevas: 10
 	-  Custo 10
 - Maldição do agonizando (Maledictus morientium)
 	- Custo 10 | Dano 10 | Enfraquecer: Poder em 5
-- ???
+- Expellere Periculosum Vil
 	-  Custo 10 | Dano 10 | poder vingativo | poderoso
 - ~~Rei desmembrado (Desmanbra Rex)~~
 	- Custo ? | Dano 50 | em área
