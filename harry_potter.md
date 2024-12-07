@@ -4,7 +4,7 @@ Classificação: Meio Bruxo
 Casa:  sonserina
 ![[Pasted image 20240915182321.png]]  
 Dinheiro: 130 
-Criptodinheiros: 20
+Criptodinheiros: 0
 Vida: 0/155  
 Energia: 29/29  
 
