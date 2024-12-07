@@ -5,7 +5,7 @@ Status Ninja :
 Ryo:  1
 Sensei: 
 PV | 58/94
-Chakra | 93/93
+Chakra | 78/93
 raiton,fuinjutsu
 
 # Atributos(15)
