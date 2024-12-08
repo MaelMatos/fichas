@@ -79,4 +79,5 @@ Genjutsu: 1
 - força oculta
 - ataque multiplo(2)
 - superação(4)
+- recuperação de energia
 
