@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d0c9b9c0cffccc4e",
+        "id": "4729aca0b54945fd",
         "type": "tabs",
         "children": [
           {
-            "id": "22aeb7ed652f046a",
+            "id": "00ec9c815bfb5af2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "naruto gOLD.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "naruto gOLD"
+              "title": "Nova aba"
             }
           }
         ]
@@ -189,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22aeb7ed652f046a",
+  "active": "6a98adc9e1cd7753",
   "lastOpenFiles": [
     "harry_potter.md",
     "rafael.md",
