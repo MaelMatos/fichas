@@ -11,10 +11,14 @@
             "id": "00ec9c815bfb5af2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "naruto gOLD.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "naruto gOLD"
             }
           }
         ]
@@ -185,12 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a98adc9e1cd7753",
+  "active": "00ec9c815bfb5af2",
   "lastOpenFiles": [
+    "naruto gOLD 1.md",
+    "naruto gOLD.md",
     "harry_potter.md",
     "rafael.md",
-    "naruto gOLD.md",
-    "naruto gOLD 1.md",
     "kauan 2.md",
     "naruto 2.md",
     "Sem título 4.md",

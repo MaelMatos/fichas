@@ -8,9 +8,9 @@ PV | 1/94
 Chakra | 24/93
 raiton,fuinjutsu
 
-# Atributos(15)
+# Atributos(19)
 Força: 2
-Habilidade: 2
+Habilidade: 6
 Resistencia: 10
 Poder de Fogo: 1
 Vontade: 1
