@@ -53,6 +53,8 @@ Chakra: 6
  - Comunicador de medio alcance
  - 2/2 pílulas de chakra lvl 1 (+10)
  - 2/2 pílulas de hp lvl 1 (+10)
+- espada do dark
+ - dano 20 | espiritual | escudo-arma
 
 
 # Desvantagens(1)
