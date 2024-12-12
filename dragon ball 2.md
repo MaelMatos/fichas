@@ -30,5 +30,9 @@ Ilusão: 1
 
 
 # Técnicas(técnicas em geral)
+- dispertar do chakra: terra
+ - custo 10 | +2 RES
+- dispertar do chakra: água
+ - custo 10 | +2 PDF
 - 7 camadas do inferno de dante(rank A)
  - custo 250 | dano 225 | dano gigante | pergoso | poderoso | vorpal | alvo multiplo
