@@ -1,18 +1,18 @@
 Nome: Felipe Alberto
 Raça: Humano
-Vida( / )
-Energia ( / )
+Vida(48/48)
+Energia (15/15)
 
 # Atributos (19)
-Força:   
-Resistência:    
-Habilidade: 
-Poder de Fogo:      
-Vontade:   
-Ki:
+Força: 1  
+Resistência: 6   
+Habilidade: 7
+Poder de Fogo: 1     
+Vontade: 1  
+Ki: 3
 
 # Especialidades:(7)
-Artes marciais: 5
+Artes marciais: 5(+2)
 Poder: 1
 Ilusão: 1
 
@@ -23,6 +23,8 @@ Ilusão: 1
 - toque de energia
 - memoria expandida
 # Desvantagens(2) 
+- fraqueza: frio
+- ponto fraco: testa
 
 
 # Técnicas(técnicas em geral)
