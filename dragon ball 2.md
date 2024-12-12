@@ -6,7 +6,7 @@ Energia (15/15)
 # Atributos (19)
 Força: 1  
 Resistência: 6   
-Habilidade: 7
+Habilidade: 7+7=14
 Poder de Fogo: 1     
 Vontade: 1  
 Ki: 3
@@ -30,6 +30,8 @@ Ilusão: 1
 
 
 # Técnicas(técnicas em geral)
+- 7 camadas do inferno de dant(rank A)
+ - custo 250 | 
 
 Forca= força e testes
 Resistencia=vida e testes
