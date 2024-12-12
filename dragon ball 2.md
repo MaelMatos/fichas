@@ -30,14 +30,5 @@ Ilusão: 1
 
 
 # Técnicas(técnicas em geral)
-- 7 camadas do inferno de dant(rank A)
- - custo 250 | 
-
-Forca= força e testes
-Resistencia=vida e testes
-Habilidade=velocidade, teste e esquivar
-Poder de fogo=dano para técnicas,poderes etc 
-Vontade=testes e dano
-Ki=energia, recarga de energia e auxiliar em teste de morte
-
-1d100= sorte,itens etc
+- 7 camadas do inferno de dante(rank A)
+ - custo 250 | dano 225 | dano gigante | pergoso | poderoso | vorpal | alvo multiplo
