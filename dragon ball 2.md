@@ -26,7 +26,7 @@ Ilusão: 1
 # Desvantagens(3) 
 - fraqueza: frio
 - ponto fraco: testa
-- recuo
+- grito arcano
 
 
 # Técnicas(técnicas em geral)
