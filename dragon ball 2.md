@@ -18,10 +18,12 @@ Ilusão: 1
 
 # Inventário  
 
-# Vantagens(1) 
+# Vantagens(2) 
 - genialidade em artes marciais
 - toque de energia
-# Desvantagens(1) 
+- memoria expandida
+# Desvantagens(2) 
+
 
 # Técnicas(técnicas em geral)
 
