@@ -1,4 +1,4 @@
-Nome:john constantine
+Nome: john constantine
 Resistência: 1
 Força: 1
 Habilidade: 5
