@@ -13,3 +13,4 @@ vigor: 3
 inventario
 - spirit box
  - acerto: 1d5+1(N6)
+- mega-fone
