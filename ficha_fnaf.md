@@ -1,4 +1,3 @@
-
 Nome:john constantine
 Resistência: 1
 Força: 1
