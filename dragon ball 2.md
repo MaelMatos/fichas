@@ -37,3 +37,5 @@ Ilusão: 1
  - custo 10 | +2 PDF | 3 rodadas
 - 7 camadas do inferno de dante(rank A)
  - custo 250 | dano 225 | dano gigante | pergoso | poderoso | vorpal | alvo multiplo
+- Kikoho(A+)
+ - custo 630 | dano 630 | ataque carregado | escalavel
