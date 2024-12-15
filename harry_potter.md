@@ -10,7 +10,7 @@ Energia: 29/29
 
 # Atributos  
 Resistência: 15    
-Habilidade: 7  
+Habilidade: 10  
 Agilidade: 1  
 Carisma:  -2  
 Inteligência: 6  
