@@ -13,7 +13,7 @@ Resistência: 15
 Habilidade: 10  
 Agilidade: 1  
 Carisma:  -2  
-Inteligência: 6  
+Inteligência: 10  
 Poder: 20  
 Mana: 4  
 
@@ -29,7 +29,7 @@ Magia das Trevas: 10
 - Maldição do agonizando (Maledictus morientium)
 	- Custo 10 | Dano 10 | Enfraquecer: Poder em 5
 - Expellere Periculosum Vil
-	-  Custo 10 | Dano 10 | poder vingativo | poderoso | perigoso | vorpal
+	-  Custo 10 | Dano 10 | poder vingativo | poderoso 
 - ~~Rei desmembrado (Desmanbra Rex)~~
 	- Custo ? | Dano 50 | em área
 ## Técnicas
