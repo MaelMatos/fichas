@@ -29,7 +29,7 @@ Magia das Trevas: 10
 - Maldição do agonizando (Maledictus morientium)
 	- Custo 10 | Dano 10 | Enfraquecer: Poder em 5
 - Expellere Periculosum Vil
-	-  Custo 10 | Dano 10 | poder vingativo | poderoso
+	-  Custo 10 | Dano 10 | poder vingativo | poderoso | perigoso | vorpal
 - ~~Rei desmembrado (Desmanbra Rex)~~
 	- Custo ? | Dano 50 | em área
 ## Técnicas
