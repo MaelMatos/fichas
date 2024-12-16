@@ -5,7 +5,7 @@ Casa:  sonserina
 ![[Pasted image 20240915182321.png]]  
 Dinheiro: 130 
 Criptodinheiros: 0
-Vida: 97/155  
+Vida: 87/155  
 Energia: 25/29  
 
 # Atributos  
