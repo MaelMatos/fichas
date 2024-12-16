@@ -32,6 +32,8 @@ Magia das Trevas: 10
 	-  Custo 10 | Dano 10 | poder vingativo | poderoso 
 - ~~Rei desmembrado (Desmanbra Rex)~~
 	- Custo ? | Dano 50 | em área
+- Maledictus pavor
+	- Custo 25 | Dano 20 | paralisia
 ## Técnicas
 - Reciclar: Consgue usar uma ação extra para recuperar a munição, a quantidade que você recupera é igual a o seu Poder
 # inventario  
