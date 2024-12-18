@@ -38,7 +38,7 @@ Chakra: 6
 - chute intransponivel
   - custo 18 | defesa 10 | deflexão | reflexão
 - estilo raio: raikiri
- - custo muito | dano sim | vantagens ?
+ - custo muito | dano 150 | vantagens ?
 
 # Inventário
 - pão mofado
