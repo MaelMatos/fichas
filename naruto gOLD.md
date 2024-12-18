@@ -4,8 +4,8 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  1
 Sensei: 
-PV | 2/94(0/31)
-Chakra | 33/93(0/24)
+PV | 94/94(31/31)
+Chakra | 93/93(24/24)
 raiton,fuinjutsu
 
 # Atributos(19)
