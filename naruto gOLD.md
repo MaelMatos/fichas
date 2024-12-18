@@ -63,8 +63,8 @@ Chakra: 6
 # Desvantagens(1)
 - pobreza
 
-# Caminho Shinobi(5+3) 
-Taijutsu: 8(+4)
+# Caminho Shinobi(5+15) 
+Taijutsu: 30(+10)
 Ninjutsu: 1
 Genjutsu: 1
 
