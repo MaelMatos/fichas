@@ -4,11 +4,11 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  1
 Sensei: 
-PV | 94/94(31/31)
-Chakra | 93/93(24/24)
+PV | 94/94(31/31)(33/33)
+Chakra | 93/93(24/24)(38/38)
 raiton,fuinjutsu
 
-# Atributos(19)
+# Atributos(19)->+2 em tudo(armadura)
 Força: 2
 Habilidade: 6
 Resistencia: 10
@@ -53,8 +53,10 @@ Chakra: 6
  - Comunicador de medio alcance
  - 2/2 pílulas de chakra lvl 1 (+10)
  - 2/2 pílulas de hp lvl 1 (+10)
-- espada do dark
+- ~~espada do dark~~
  - dano 20 | espiritual | escudo-arma
+- armadura de madeira da guarda de konoha
+ - +2 em todas estatisticas -> 38 ck 33 hp
 
 
 # Desvantagens(1)
