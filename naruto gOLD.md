@@ -27,6 +27,7 @@ Chakra: 6
 - equilibrio de energia(5)
 - ataque oportuno(3)
 - vitalidade(4)
+- ~~marca da maldição~~
 - implemento(3)
 - superação(4)
 - interpor(3)
@@ -62,7 +63,7 @@ Chakra: 6
  - 0/1 granada de fumaça
  - 1/1 linha ninja
  - Comunicador de curto alcance
- - Comunicador de medio alcance
+ - ~~Comunicador de medio alcance~~
  - 0/2 pílulas de chakra lvl 1 (+10)
  - 2/2 pílulas de hp lvl 1 (+10)
 - ~~espada do dark~~
@@ -75,8 +76,8 @@ Chakra: 6
 - pobreza
 
 # Caminho Shinobi(5+15) 
-Taijutsu: 20(+10)
-Ninjutsu: 1
+Taijutsu: 16(+8)
+Ninjutsu: 5
 Genjutsu: 1
 
 # história
