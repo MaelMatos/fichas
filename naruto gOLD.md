@@ -7,6 +7,9 @@ Sensei:
 PV | 94/94
 Chakra | 93/93
 raiton,fuinjutsu
+24
+
+
 
 
 # Atributos(26)
@@ -16,7 +19,7 @@ Resistencia: 10
 Poder de Fogo: 1
 Vontade: 9
 Chakra: 6
-# Vantagens(1+17)
+# Vantagens(1+20)
 - regen -> 9/rodada
 - doador(vida)
 - genialide em taijutsu
@@ -24,6 +27,7 @@ Chakra: 6
 - equilibrio de energia(5)
 - ataque oportuno(3)
 - vitalidade(4)
+- implemento(3)
 
 
 # Técnicas()
@@ -39,7 +43,12 @@ Chakra: 6
   - custo 18 | defesa 10 | deflexão | reflexão
 - estilo raio: raikiri
  - custo muito | dano 150 | vantagens ?
-
+- punho adamantino
+ - custo 100? | dano 100 
+- invocação: katsuyu
+- tecnica rank A
+- tecnica rank A+
+- tecnica rank S
 # Inventário
 - pão mofado
 - Kit Ninja:
