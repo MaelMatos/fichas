@@ -75,7 +75,7 @@ Chakra: 6
 - pobreza
 
 # Caminho Shinobi(5+15) 
-Taijutsu: 30(+10)
+Taijutsu: 20(+10)
 Ninjutsu: 1
 Genjutsu: 1
 
