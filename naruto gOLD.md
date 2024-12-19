@@ -28,7 +28,7 @@ Chakra: 6
 - ataque oportuno(3)
 - vitalidade(4)
 - ~~marca da maldição~~
-- implemento(3)
+- implemento(3) -> +4 HAB/4 rodadas | CD de 4 rodadas
 - superação(4)
 - interpor(3)
 
