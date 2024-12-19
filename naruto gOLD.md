@@ -42,7 +42,7 @@ Chakra: 6
   - custo 7 | dano 2 | emudecimento
 - selo da rejeição de ferimento
   - custo 15 | cura 10 | alvo multiplo
-- chute intransponivel
+- punho forte: chute intransponivel
   - custo 18 | defesa 10 | deflexão | reflexão
 - estilo raio: raikiri
  - custo muito | dano 150 | vantagens ?
