@@ -56,7 +56,7 @@ Chakra: 6
  - 2/2 pílulas de hp lvl 1 (+10)
 - ~~espada do dark~~
  - dano 20 | espiritual | escudo-arma
-- armadura de madeira da guarda de konoha
+- ~~armadura de madeira da guarda de konoha~~
  - +2 em todas estatisticas -> 38 ck 33 hp
 
 
