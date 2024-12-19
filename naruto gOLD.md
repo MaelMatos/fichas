@@ -52,6 +52,7 @@ Chakra: 6
 - tecnica rank A
 - tecnica rank A+
 - selo das cem forças
+	- custo 25% CK max | armazena 25% do chackra usado em uma outra barra
 # Inventário
 - pão mofado
 - Kit Ninja:
