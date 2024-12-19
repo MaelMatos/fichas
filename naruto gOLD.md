@@ -51,7 +51,7 @@ Chakra: 6
 - invocação: katsuyu
 - tecnica rank A
 - tecnica rank A+
-- tecnica rank S
+- selo das cem forças
 # Inventário
 - pão mofado
 - Kit Ninja:
