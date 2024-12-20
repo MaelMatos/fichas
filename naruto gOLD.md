@@ -95,7 +95,8 @@ Genjutsu: 1
 - combo bracker
 - força oculta
 - ataque multiplo(2)
-- recuperação de energia
+- recuperação de energia(4)
+- energia extra(4)
 - adaptador(3+9+15)
 - ambidestria(3)
 - base de operações(3)
