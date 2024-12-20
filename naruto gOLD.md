@@ -44,14 +44,14 @@ Chakra: 6
   - custo 15 | cura 10 | alvo multiplo
 - punho forte: chute intransponivel
   - custo 18 | defesa 10 | deflexão | reflexão
-- estilo raio: raikiri
+- estilo raio: raikiri(S)
  - custo muito | dano 150 | vantagens ?
 - punho adamantino
  - custo 100? | dano 100 
 - invocação: katsuyu
-- chute do arremeçador
-- tecnica rank A+
-- selo das cem forças
+- chute do arremeçador(A)
+- corrente de selamento adamantino(A+)
+- selo das cem forças(S)
 	- custo 25% CK max | armazena 25% do chackra usado em uma outra barra
 # Inventário
 - pão mofado
