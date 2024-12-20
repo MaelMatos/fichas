@@ -78,6 +78,7 @@ Genjutsu: 1
 	- custo 5 | evasão 5
 - estilo raio: soqueira relampago(2)
  - custo 5 | dano 5 | reciclavel
+- multiplos clones das sombras
 ## vantagens para pegar
 - aceleração(3+7)
 - combo bracker(4)
