@@ -49,7 +49,7 @@ Chakra: 6
 - punho adamantino
  - custo 100? | dano 100 
 - invocação: katsuyu
-- tecnica rank A
+- chute do arremeçador
 - tecnica rank A+
 - selo das cem forças
 	- custo 25% CK max | armazena 25% do chackra usado em uma outra barra
