@@ -7,7 +7,7 @@ Sensei:
 PV | 94/94
 Chakra | 93/93
 raiton,fuinjutsu
-17
+21
 
 
 
@@ -19,7 +19,7 @@ Resistencia: 10
 Poder de Fogo: 1
 Vontade: 9
 Chakra: 6
-# Vantagens(1+24)
+# Vantagens(1+20)
 - regen -> 9/rodada
 - doador(vida)
 - genialide em taijutsu
@@ -29,7 +29,6 @@ Chakra: 6
 - vitalidade(4)
 - ~~marca da maldição~~
 - implemento(3) -> +4 HAB/4 rodadas | CD de 4 rodadas
-- superação(4)
 - interpor(3)
 
 
