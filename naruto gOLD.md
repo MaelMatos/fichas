@@ -92,8 +92,8 @@ Genjutsu: 1
 ## vantagens para pegar
 
 - aceleração(3+7)
-- combo bracker
-- força oculta
+- combo bracker(4)
+- força oculta(4)
 - ataque multiplo(2)
 - recuperação de energia(4)
 - energia extra(4)
