@@ -52,7 +52,7 @@ Chakra: 6
 - chute do arremeçador(A)
 - corrente de selamento adamantino(A+)
 - selo das cem forças(S)
-	- custo 25% CK max | armazena 25% do chackra usado em uma outra barra
+	- custo 25% CK max | armazena 25% do chacka usado em uma outra barra(semelhante a controle de chakra)
 # Inventário
 - pão mofado
 - Kit Ninja:
