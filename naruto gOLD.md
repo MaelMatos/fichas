@@ -99,3 +99,4 @@ Genjutsu: 1
 - adaptador(3+9+15)
 - ambidestria(3)
 - base de operações(3)
+- boa fama(2)
