@@ -5,21 +5,22 @@ Status Ninja :
 Ryo:  1
 Sensei: 
 PV | 94/94
-Chakra | 93/93
+Chakra | 190/190
+Selo de 100 forças |
 raiton,fuinjutsu
-21
 
 
 
 
-# Atributos(26)
+
+# Atributos(27)
 Força: 2
-Habilidade: 6
-Resistencia: 10
+Habilidade: 8
+Resistencia: 22
 Poder de Fogo: 1
 Vontade: 9
-Chakra: 6
-# Vantagens(1+20)
+Chakra: 11
+# Vantagens(1+23)
 - regen -> 9/rodada
 - doador(vida)
 - genialide em taijutsu
@@ -30,6 +31,7 @@ Chakra: 6
 - ~~marca da maldição~~
 - implemento(3) -> +4 HAB/4 rodadas | CD de 4 rodadas
 - interpor(3)
+- boa fama(2)
 
 
 # Técnicas()
@@ -100,4 +102,4 @@ Genjutsu: 1
 - adaptador(3+9+15)
 - ambidestria(3)
 - base de operações(3)
-- boa fama(2)
+
