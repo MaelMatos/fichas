@@ -91,11 +91,11 @@ Genjutsu: 1
  - custo 5 | dano 5 | reciclavel
 ## vantagens para pegar
 
-- aceleração
+- aceleração(3+7)
 - combo bracker
 - força oculta
 - ataque multiplo(2)
 - recuperação de energia
-- adaptador
-- 
-
+- adaptador(3+9+15)
+- ambidestria(3)
+- base de operações(3)
