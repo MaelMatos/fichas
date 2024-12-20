@@ -92,9 +92,10 @@ Genjutsu: 1
 ## vantagens para pegar
 
 - aceleração
-- omobo bracker
+- combo bracker
 - força oculta
 - ataque multiplo(2)
-
 - recuperação de energia
+- adaptador
+- 
 
