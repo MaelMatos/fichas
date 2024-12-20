@@ -8,11 +8,6 @@ PV | 331/331
 Chakra | 190/190
 Selo de 100 forças |
 raiton,fuinjutsu
-
-
-
-
-
 # Atributos(27)
 Força: 2
 Habilidade: 8
@@ -32,8 +27,6 @@ Chakra: 11
 - implemento(3) -> +4 HAB/4 rodadas | CD de 4 rodadas
 - interpor(3)
 - boa fama(2)
-
-
 # Técnicas()
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
@@ -72,19 +65,13 @@ Chakra: 11
  - dano 20 | espiritual | escudo-arma
 - ~~armadura de madeira da guarda de konoha~~
  - +2 em todas estatisticas -> 38 ck 33 hp
-
-
 # Desvantagens(1)
 - pobreza
-
 # Caminho Shinobi(5+15) 
 Taijutsu: 16(+8)
 Ninjutsu: 5
 Genjutsu: 1
-
 # história
-
-
 # anotações:
 ## jutsu para aprender
 - cintilação corporal(1)
@@ -92,7 +79,6 @@ Genjutsu: 1
 - estilo raio: soqueira relampago(2)
  - custo 5 | dano 5 | reciclavel
 ## vantagens para pegar
-
 - aceleração(3+7)
 - combo bracker(4)
 - força oculta(4)
