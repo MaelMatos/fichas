@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "naruto gOLD.md",
+                "file": "harry_potter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "naruto gOLD"
+              "title": "harry_potter"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "8fcb23b5fc2a11fc",
   "lastOpenFiles": [
-    "naruto gOLD 20-12-2024.md",
     "naruto gOLD.md",
+    "naruto gOLD 20-12-2024.md",
     "harry_potter.md",
     "dragon ball 2.md",
     "ficha fnaf.md",

@@ -49,6 +49,15 @@ Magia das Trevas: 10
 	- Ataque em dobro(acerta ambos em um único ataque)
 	- Munição 2
  - poção sombria: agonia x2
+ - kit do feiticeiro
+	 - Poção de Vida(40 HP) 1/1
+	 - Poção de Mana(40 MP) 1/1
+	 - Poção de Agilidade(+5 AG/3 ROD) 1/1
+	 - Capa de Bruxo Estudante
+	 - Emblema da Casa
+	 - Varinha
+	 - Coruja
+	 - Caldeirão
 
 # História
 nascido de pai bruxo e mãe trouxa, Lucius perdeu seus pais muito cedo, seu pai aos 3 anos e sua mãe aos 14  
