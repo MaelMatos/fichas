@@ -58,6 +58,7 @@ Magia das Trevas: 10
 	 - Varinha
 	 - Coruja
 	 - Caldeirão
+- anel de prata e ametista
 
 # História
 nascido de pai bruxo e mãe trouxa, Lucius perdeu seus pais muito cedo, seu pai aos 3 anos e sua mãe aos 14  
