@@ -6,7 +6,7 @@ Casa:  sonserina
 Dinheiro: 130 
 Criptodinheiros: 0
 Vida: 87/155  
-Energia: 25/35  
+Energia: 25/55  
 
 # Atributos  
 Resistência: 15    
