@@ -2,7 +2,7 @@
 Nome: Taiyo "Aka" Uzumaki
 Clã:  Uzumaki
 Status Ninja : 
-Ryo:  1
+Ryo:  150.001
 Sensei: 
 PV | 331/331
 Chakra | 190/190
