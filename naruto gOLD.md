@@ -38,7 +38,7 @@ Chakra: 11
 - punho forte: chute intransponivel
   - custo 18 | defesa 10 | deflexão | reflexão
 - estilo raio: raikiri(S)
- - custo muito | dano 150 | vantagens ?
+ - custo muito | dano 150
 - punho adamantino
  - custo 100? | dano 100 
 - invocação: katsuyu
