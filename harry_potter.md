@@ -5,8 +5,8 @@ Casa:  sonserina
 ![[Pasted image 20240915182321.png]]  
 Dinheiro: 130 
 Criptodinheiros: 0
-Vida: 3/155  
-Energia: 30/55  
+Vida: 155/155  
+Energia: 55/55  
 
 # Atributos  
 Resistência: 15    
@@ -14,7 +14,7 @@ Habilidade: 10
 Agilidade: 1  
 Carisma:  -2  
 Inteligência: 10  
-Poder: 20  
+Poder: 20+20  
 Mana: 5  
 
 
