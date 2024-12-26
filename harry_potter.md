@@ -61,7 +61,7 @@ Magia das Trevas: 10
 - anel de prata e ametista
 - Varinha de Cerejeira(Metalizada):
 	- Dano 7
-	- Durabilidade:140/140
+	- Durabilidade:135/140
 	- Dreno: +5
 	- Dano Gigante: 1,8
 	- Escalável: 6
