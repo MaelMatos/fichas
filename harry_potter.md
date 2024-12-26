@@ -59,19 +59,20 @@ Magia das Trevas: 10
 	 - Coruja
 	 - Caldeirão
 - anel de prata e ametista
-- Varinha de Cerejeira
-	-  Dano 1
-	- Durabilidade:108/110
-	- Dreno: +10
-	- Dano Gigante: 1,5
-	- Escalável: 2
-	- Recuperação Elemental: +6, Floresta de Cerejeira
+- Varinha de Cerejeira(Metalizada):
+	- Dano 7
+	- Durabilidade:140/140
+	- Dreno: +5
+	- Dano Gigante: 1,8
+	- Escalável: 6
+	- Recuperação Elemental: +2, Floresta de Cerejeira
 	- Resistência Elemental: Trevas e Sangue
+	- Fraqueza Elemental: Fogo
 	- Regenerador: 5
-	- Trava de Segurança
+	- Sistema de Segurança
 	- Florestal: 3
-	- Fraco: 2
-
+	- Forte: 5
+	- Pesado: 10
 # História
 nascido de pai bruxo e mãe trouxa, Lucius perdeu seus pais muito cedo, seu pai aos 3 anos e sua mãe aos 14  
 seu pai morreu em um combate feroz e sua mãe morreu por problemas de saúde causados por clima, esforço excessivo e depressão  
