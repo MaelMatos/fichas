@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dd3c32ca26f6ec2c",
+        "id": "affe696462bb6c9c",
         "type": "tabs",
         "children": [
           {
-            "id": "8fcb23b5fc2a11fc",
+            "id": "f353252c9f441c36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "harry_potter.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "harry_potter"
+              "title": "Nova aba"
             }
           }
         ]
@@ -189,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fcb23b5fc2a11fc",
+  "active": "f353252c9f441c36",
   "lastOpenFiles": [
-    "naruto gOLD.md",
     "harry_potter.md",
+    "naruto gOLD.md",
     "naruto gOLD 20-12-2024.md",
     "dragon ball 2.md",
     "ficha fnaf.md",
