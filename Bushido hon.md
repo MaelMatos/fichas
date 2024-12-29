@@ -1,7 +1,7 @@
 # Status
-Nome:  
+Nome: Ryōiki Fuuma 
 Classe: shinobi 
-HP |
+HP | 4/4
 Chi |
 Mon (Dinheiro) 
 
