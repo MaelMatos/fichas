@@ -41,3 +41,6 @@ Ferraria () 0/10
 Medicina () 0/10
 Sobrevivência () 0/10
 Liderança () 0/10
+
+# História
+nascido em uma linhagem que inicialmente era conhecida por guardar os tesouros militares do reino,isso pelo menos até sua geração,onde seu clã se tornou mais ativo para esses fins,começando com sua irmã mais velha,
