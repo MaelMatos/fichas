@@ -43,4 +43,4 @@ Sobrevivência () 0/10
 Liderança () 0/10
 
 # História
-nascido em uma linhagem que inicialmente era conhecida por guardar os tesouros militares do reino, isso pelo menos até sua geração, onde seu clã se tornou mais ativo para esses fins, começando com sua irmã mais velha, **Shibyō Fuuma**, que seerviu ao reino como uma kunoichi mas logo se aposentou devido a uma doença respiratoria grave, da qual só sobreviveu graças aos cuidados da elite da medicina, concedida diretamente pelo rei, em gratidão a isso, **Ryōiki Fuuma** se tornou seu mais leal servo, matando quem estivesse em seu caminho
+nascido em uma linhagem que inicialmente era conhecida por guardar os tesouros militares do reino, isso pelo menos até sua geração, onde seu clã se tornou mais ativo para esses fins, começando com sua irmã mais velha, **Shibyō Fuuma**, que serviu ao reino como uma kunoichi mas logo se aposentou devido a uma doença respiratoria grave, da qual só sobreviveu graças aos cuidados da elite da medicina, concedida diretamente pelo rei, em gratidão a isso, **Ryōiki Fuuma** se tornou seu mais leal servo, matando quem estivesse em seu caminho
