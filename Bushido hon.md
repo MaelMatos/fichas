@@ -1,6 +1,6 @@
 # Status
-Nome 
-Classe 
+Nome:  
+Classe: shinobi 
 HP |
 Chi |
 Mon (Dinheiro) 
