@@ -24,17 +24,17 @@ Inteligência: 2
 - Segredo
 
 # Perícias 6
-Combate Armado (2+1) 0/10
-Combate Desarmado (2) 0/10
+Combate Armado (1) 0/10
+Combate Desarmado () 0/10
 Combate Á Distância () 0/10
-Furtividade (2+1) 0/10
-Percepção (+1) 0/10
-Enganação (+1) 0/10
+Furtividade (1) 0/10
+Percepção (1) 0/10
+Enganação (1) 0/10
 Persuasão () 0/10
 Negociação () 0/10
 Entretenimento () 0/10
-Intimidação () 0/10
-Arcana (+1) 0/10
+Intimidação (1) 0/10
+Arcana (1) 0/10
 Religião () 0/10
 Alquimia () 0/10
 Ferraria () 0/10
