@@ -5,8 +5,8 @@ Status Ninja :
 Ryo:  0
 Sensei: 
 PV | 381/381
-Chakra | 212/212
-Selo de 100 forças | 13/212
+Chakra | 137/212
+Selo de 100 forças | 32/212
 raiton,fuinjutsu
 d6+10+24+24+24+35+4
 d6+24+9+5+10
@@ -40,12 +40,12 @@ Chakra: 12
 	  - custo 15 | cura 10 | alvo multiplo
 - punho forte: chute intransponivel
 	  - custo 18 | defesa 10 | deflexão | reflexão
-- estilo raio: raikiri(S)
-	 - custo 150 | dano 150
 - punho adamantino
 	 - custo 100 | dano 100 
 - invocação: katsuyu
 	- custo 50% CK MAX 
+- estilo raio: raikiri(S)
+	 - custo 150 | dano 150
 - chute do arremeçador(A)
 	- custo 60 | dano 60
 - corrente de selamento adamantino(A+)
