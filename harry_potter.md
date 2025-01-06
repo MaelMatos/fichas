@@ -6,7 +6,7 @@ Casa:  sonserina
 Dinheiro: 130 
 Criptodinheiros: 0
 Vida: 125/155  
-Energia: 55/55  
+Energia: 45/55  
 
 # Atributos  
 Resistência: 15    
@@ -61,7 +61,7 @@ Magia das Trevas: 10
 - anel de prata e ametista
 - Varinha de Cerejeira(Metalizada):
 	- Dano 7
-	- Durabilidade:135/140
+	- Durabilidade:134/140
 	- Dreno: +5
 	- Dano Gigante: 1,8
 	- Escalável: 6
