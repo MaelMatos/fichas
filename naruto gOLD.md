@@ -8,6 +8,7 @@ PV | 381/381
 Chakra | 212/212
 Selo de 100 forças | 0/212
 raiton,fuinjutsu
+d6+10+24+24+24+35+4
 # Atributos(29)
 Força: 2
 Habilidade: 10
@@ -46,7 +47,7 @@ Chakra: 12
 - chute do arremeçador(A)
 - corrente de selamento adamantino(A+)
 - selo das cem forças(S)
-    - custo 25% CK max | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
+    - custo 25% CK max(53) | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
 # Inventário
 - Kit Ninja II:
 	- 2/2 Fuuma Shuriken (a cada 1 +4 de dano)
