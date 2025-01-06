@@ -49,7 +49,7 @@ Chakra: 12
 - chute do arremeçador(A)
 	- custo 60 | dano 60
 - corrente de selamento adamantino(A+)
-	- custo 75 | dano 75
+	- custo 75 | dano 70 | reciclável
 - selo das cem forças(S)
     - custo 25% CK max(53) | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
 # Inventário
