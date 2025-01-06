@@ -4,8 +4,8 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  0
 Sensei: 
-PV | 331/381
-Chakra | 190/212
+PV | 381/381
+Chakra | 212/212
 Selo de 100 forças | 0/212
 raiton,fuinjutsu
 # Atributos(29)
@@ -63,8 +63,8 @@ Chakra: 12
 	- 1/1 Pílula de Chakra lvl 2 (+25)
 	- 3/3 Pílulas de Chakra lvl 1 (+10)
 	- 3/3 Pílulas de HP lvl 1 (+10)
-- Yasechi
-	- dano 35 | Equipamento digno |
+- Yaseichi
+	- dano 35 | Equipamento digno | arma-escudo
 
 # Desvantagens(1)
 - pobreza
