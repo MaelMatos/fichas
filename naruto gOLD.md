@@ -33,32 +33,39 @@ Chakra: 12
 - Henge
 - Bushin - 5 de chakra
 - selo silenciador
-  - custo 7 | dano 2 | emudecimento
+	  - custo 7 | dano 2 | emudecimento
 - selo da rejeição de ferimento
-  - custo 15 | cura 10 | alvo multiplo
+	  - custo 15 | cura 10 | alvo multiplo
 - punho forte: chute intransponivel
-  - custo 18 | defesa 10 | deflexão | reflexão
+	  - custo 18 | defesa 10 | deflexão | reflexão
 - estilo raio: raikiri(S)
- - custo muito | dano 150
+	 - custo muito | dano 150
 - punho adamantino
- - custo 100? | dano 100 
+	 - custo 100? | dano 100 
 - invocação: katsuyu
 - chute do arremeçador(A)
 - corrente de selamento adamantino(A+)
 - selo das cem forças(S)
     - custo 25% CK max | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
 # Inventário
-- Kit Ninja:
- - 10/10 Kunai (a cada 3 +1 de dano)
- - 15/15 Shuriken (a cada 3 +2 de dano)
- - 10/10 Senbon (a cada 5 +2 de dano) + paralisia
- - 0/2 papel bomba
- - 1/1 selo de luz
- - 0/1 granada de fumaça
- - 1/1 linha ninja
- - Comunicador de curto alcance
- - 0/2 pílulas de chakra lvl 1 (+10)
- - 2/2 pílulas de hp lvl 1 (+10)
+- Kit Ninja II:
+	- 2/2 Fuuma Shuriken (a cada 1 +4 de dano)
+	- 30/30 Kunai (a cada 3 +1 de dano)
+	- 30/30 Shuriken (a cada 3 +2 de dano)
+	- 25/25 Senbon (a cada 5 +2 de dano) + paralisia
+	- 3/3 Papel Bomba
+	- 2/2 Selo de Luz
+	- 2/2 Granada de Fumaça
+	- 1/1 Linha Ninja
+	- Pote de Óleo Inflamável
+	- Comunicador de Médio Alcance
+	- 1/1 Pílula de HP lvl 2 (+25)
+	- 1/1 Pílula de Chakra lvl 2 (+25)
+	- 3/3 Pílulas de Chakra lvl 1 (+10)
+	- 3/3 Pílulas de HP lvl 1 (+10)
+- Yasechi
+	- dano 35 | Equipamento digno |
+
 # Desvantagens(1)
 - pobreza
 # Caminho Shinobi(5+15) 
