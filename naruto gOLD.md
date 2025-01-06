@@ -41,12 +41,15 @@ Chakra: 12
 - punho forte: chute intransponivel
 	  - custo 18 | defesa 10 | deflexão | reflexão
 - estilo raio: raikiri(S)
-	 - custo muito | dano 150
+	 - custo 150 | dano 150
 - punho adamantino
-	 - custo 100? | dano 100 
+	 - custo 100 | dano 100 
 - invocação: katsuyu
+	- custo 50% CK MAX 
 - chute do arremeçador(A)
+	- custo 60 | dano 60
 - corrente de selamento adamantino(A+)
+	- custo 75 | dano 75
 - selo das cem forças(S)
     - custo 25% CK max(53) | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
 # Inventário
