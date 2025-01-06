@@ -27,9 +27,10 @@ Inteligência: 2
 Combate Armado (1) 0/10
 Combate Desarmado () 0/10
 Combate Á Distância () 0/10
+Acrobacia (1) 0/10
 Furtividade (1) 0/10
 Percepção (1) 0/10
-Enganação (1) 0/10
+Enganação () 0/10
 Persuasão () 0/10
 Negociação () 0/10
 Entretenimento () 0/10
