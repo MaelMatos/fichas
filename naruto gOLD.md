@@ -2,19 +2,19 @@
 Nome: Taiyo "Aka" Uzumaki
 Clã:  Uzumaki
 Status Ninja : 
-Ryo:  150.001
+Ryo:  0
 Sensei: 
 PV | 331/331
 Chakra | 190/190
 Selo de 100 forças | 0/190
 raiton,fuinjutsu
-# Atributos(27)
+# Atributos(29)
 Força: 2
-Habilidade: 8
-Resistencia: 22
+Habilidade: 10
+Resistencia: 24
 Poder de Fogo: 1
 Vontade: 9
-Chakra: 11
+Chakra: 12
 # Vantagens(1+23)
 - regen -> 9/rodada
 - doador(vida)
