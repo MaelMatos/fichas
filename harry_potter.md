@@ -14,7 +14,7 @@ Habilidade: 10
 Agilidade: 1  
 Carisma:  -2  
 Inteligência: 10  
-Poder: 20+20  
+Poder: 20  
 Mana: 5  
 
 
