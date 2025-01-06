@@ -26,6 +26,7 @@ Chakra: 12
 - implemento(3) -> +4 HAB/4 rodadas | CD de 4 rodadas
 - interpor(3)
 - boa fama(2)
+- adaptador(3)
 # Técnicas()
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
@@ -77,6 +78,6 @@ Genjutsu: 1
 - ataque multiplo(2)
 - recuperação de energia(4)
 - energia extra(4)
-- adaptador(3+9+15)
+- adaptador(9+15)
 - ambidestria(3)
 - base de operações(3)
