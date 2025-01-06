@@ -4,9 +4,9 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  0
 Sensei: 
-PV | 331/331
-Chakra | 190/190
-Selo de 100 forças | 0/190
+PV | 331/381
+Chakra | 190/212
+Selo de 100 forças | 0/212
 raiton,fuinjutsu
 # Atributos(29)
 Força: 2
