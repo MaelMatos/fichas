@@ -6,10 +6,10 @@ Ryo:  0
 Sensei: 
 PV | 381/381
 Chakra | 212/212
-Selo de 100 forças | 0/212
+Selo de 100 forças | 13/212
 raiton,fuinjutsu
 d6+10+24+24+24+35+4
-d6+10+9+5+10+4
+d6+24+9+5+10
 # Atributos(29)
 Força: 2
 Habilidade: 10
