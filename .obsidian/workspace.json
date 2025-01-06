@@ -35,8 +35,7 @@
               "title": "Bushido hon"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,12 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fef1f90cc667941b",
+  "active": "f353252c9f441c36",
   "lastOpenFiles": [
+    "Bushido hon.md",
     "harry_potter.md",
     "naruto.md",
     "ideias de técnica.md",
-    "Bushido hon.md",
     "naruto gOLD.md",
     "naruto gOLD 20-12-2024.md",
     "dragon ball 2.md",

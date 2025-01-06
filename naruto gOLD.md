@@ -1,4 +1,4 @@
-0# Status
+# Status
 Nome: Taiyo "Aka" Uzumaki
 Clã:  Uzumaki
 Status Ninja : 
