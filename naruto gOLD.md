@@ -19,7 +19,7 @@ Resistencia: 24
 Poder de Fogo: 1
 Vontade: 9
 Chakra: 12
-# Vantagens(1+23)
+# Vantagens(1+32)
 - regen -> 12/turno
 - doador(vida)
 - genialide em taijutsu
@@ -33,7 +33,7 @@ Chakra: 12
 - adaptador(3)
 - parceria: kage bushin(2)
 - combo(2)
-# Técnicas()
+# Técnicas(15)
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
 - Henge
@@ -78,7 +78,7 @@ Chakra: 12
 
 # Desvantagens(1)
 - pobreza
-# Caminho Shinobi(5+15) 
+# Caminho Shinobi(5+17) 
 Taijutsu: 16(+8)
 Ninjutsu: 5
 Genjutsu: 1
