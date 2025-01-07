@@ -17,7 +17,7 @@ Força: 2
 Habilidade: 10
 Resistencia: 24
 Poder de Fogo: 1
-Vontade: 9
+Vontade: 10
 Chakra: 12
 # Vantagens(1+23)
 - regen -> 12/turno
