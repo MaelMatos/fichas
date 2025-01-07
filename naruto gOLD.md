@@ -4,17 +4,17 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  100.000
 Sensei: 
-PV | 381/381
+PV | 501/501
 Chakra | 212/212
 Selo de 100 forças | 0/212
 raiton,fuinjutsu
 d6+10+24+24+24+35
 d6+24+9+5+10
-16
+13
 
 # Atributos(58)
 Força: 2
-Habilidade: 10
+Habilidade: 10+18
 Resistencia: 24
 Poder de Fogo: 1
 Vontade: 9
@@ -34,6 +34,8 @@ Chakra: 12
 - parceria: kage bushin(2)
 - combo(2)
 - vigoroso(5)
+- aceleração(3)
+- controle de chakra II(3+14)
 # Técnicas(15)
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
@@ -76,6 +78,10 @@ Chakra: 12
 	- 3/3 Pílulas de HP lvl 1 (+10)
 - Yaseichi
 	- dano 35 | Equipamento digno | arma-escudo
+- caça leve
+	- +8 HAB | 30/30
+- bota leve
+	- +10 HAB | 30/30
 
 # Desvantagens(1)
 - pobreza
