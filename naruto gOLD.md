@@ -4,9 +4,9 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  100.000
 Sensei: 
-PV | 501/501
+PV | 549/549
 Chakra | 212/212
-Controle | 
+Controle | 212/212
 Selo de 100 forças | 0/212
 raiton,fuinjutsu
 d6+10+24+24+24+35
@@ -21,7 +21,7 @@ Poder de Fogo: 1
 Vontade: 10
 Chakra: 12
 # Vantagens(1+32)
-- regen -> 12/turno
+- regen -> 18/turno
 - doador(vida)
 - genialide em taijutsu
 - toque de energia(5)
@@ -42,7 +42,7 @@ Chakra: 12
 - Kinobori
 - Henge
 - Bushin - 5 de chakra
-- taijo kage bushin - 25 de CK 
+- taijo kage bushin - 1 de CK 
 - selo silenciador
 	  - custo 7 | dano 2 | emudecimento
 - selo da rejeição de ferimento
