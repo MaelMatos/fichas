@@ -10,7 +10,7 @@ Selo de 100 forças | 0/212
 raiton,fuinjutsu
 d6+10+24+24+24+35
 d6+24+9+5+10
-20
+
 
 # Atributos(29)
 Força: 2
@@ -31,11 +31,14 @@ Chakra: 12
 - interpor(3)
 - boa fama(2)
 - adaptador(3)
+- parceria: kage bushin
+- combo
 # Técnicas()
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
 - Henge
 - Bushin - 5 de chakra
+- taijo kage bushin - 25 de CK 
 - selo silenciador
 	  - custo 7 | dano 2 | emudecimento
 - selo da rejeição de ferimento
