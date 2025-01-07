@@ -10,9 +10,9 @@ Selo de 100 forças | 0/212
 raiton,fuinjutsu
 d6+10+24+24+24+35
 d6+24+9+5+10
+1
 
-
-# Atributos(29)
+# Atributos(58)
 Força: 2
 Habilidade: 10
 Resistencia: 24
@@ -31,8 +31,8 @@ Chakra: 12
 - interpor(3)
 - boa fama(2)
 - adaptador(3)
-- parceria: kage bushin
-- combo
+- parceria: kage bushin(2)
+- combo(2)
 # Técnicas()
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
