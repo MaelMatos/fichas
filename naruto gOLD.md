@@ -17,7 +17,7 @@ Força: 2
 Habilidade: 10
 Resistencia: 24
 Poder de Fogo: 1
-Vontade: 10
+Vontade: 9
 Chakra: 12
 # Vantagens(1+23)
 - regen -> 12/turno
@@ -74,7 +74,7 @@ Chakra: 12
 	- 3/3 Pílulas de Chakra lvl 1 (+10)
 	- 3/3 Pílulas de HP lvl 1 (+10)
 - Yaseichi
-	- dano 35 | Equipamento digno | arma-escudo
+	- dano 40 | Equipamento digno | arma-escudo
 
 # Desvantagens(1)
 - pobreza
