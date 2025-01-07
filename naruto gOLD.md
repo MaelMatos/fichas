@@ -74,7 +74,7 @@ Chakra: 12
 	- 3/3 Pílulas de Chakra lvl 1 (+10)
 	- 3/3 Pílulas de HP lvl 1 (+10)
 - Yaseichi
-	- dano 40 | Equipamento digno | arma-escudo
+	- dano 35 | Equipamento digno | arma-escudo
 
 # Desvantagens(1)
 - pobreza
