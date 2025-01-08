@@ -5,7 +5,7 @@ Status Ninja :
 Ryo:  100.000
 Sensei: 
 PV | 443/549
-Chakra | 0/212
+Chakra | 133/212
 Controle | 0/212
 Selo de 100 forças | 0/212
 raiton,fuinjutsu
@@ -76,7 +76,7 @@ Chakra: 12
 	- Pote de Óleo Inflamável
 	- Comunicador de Médio Alcance
 	- 1/1 Pílula de HP lvl 2 (+25)
-	- 1/1 Pílula de Chakra lvl 2 (+25)
+	- 0/1 Pílula de Chakra lvl 2 (+25)
 	- 3/3 Pílulas de Chakra lvl 1 (+10)
 	- 3/3 Pílulas de HP lvl 1 (+10)
 - Yaseichi
