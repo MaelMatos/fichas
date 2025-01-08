@@ -5,16 +5,17 @@ Status Ninja :
 Ryo:  100.000
 Sensei: 
 PV | 549/549
-Chakra | 115/212
+Chakra | 33/212
 Controle | 0/212
-Selo de 100 forças | 2/212
+Selo de 100 forças | 42/212
 raiton,fuinjutsu
 
 clone A hp 80/80 ck 5/80
 clone B hp 80/80 ck 5/80
 clone C hp 80/80 ck 5/80
 clone D hp 80/80 ck 5/80
-
+clone E hp 80/80 ck 80/80
+clone F hp 80/80 ck 80/80
 # Atributos(58)
 Força: 2
 Habilidade: 10+18
@@ -69,7 +70,7 @@ Chakra: 12
 	- 30/30 Kunai (a cada 3 +1 de dano)
 	- 30/30 Shuriken (a cada 3 +2 de dano)
 	- 25/25 Senbon (a cada 5 +2 de dano) + paralisia
-	- 5/3 Papel Bomba
+	- 0/3 Papel Bomba
 	- 2/2 Selo de Luz
 	- 2/2 Granada de Fumaça
 	- 1/1 Linha Ninja
