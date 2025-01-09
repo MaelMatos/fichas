@@ -7,7 +7,7 @@ Sensei:
 PV | 549/549
 Chakra | 0/212
 Controle | 0/212
-Selo de 100 forças | 6/212
+Selo de 100 forças | 1/212
 raiton,fuinjutsu
 
 clone A hp 80/80 ck 5/80
