@@ -4,18 +4,12 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  100.000
 Sensei: 
-PV | 549/549
+PV | 421/549
 Chakra | 0/212
 Controle | 0/212
 Selo de 100 forças | 1/212
 raiton,fuinjutsu
 
-clone A hp 80/80 ck 5/80
-clone B hp 80/80 ck 5/80
-clone C hp 80/80 ck 5/80
-clone D hp 80/80 ck 5/80
-clone E hp 80/80 ck 5/80
-clone F hp 80/80 ck 5/80
 # Atributos(58)
 Força: 2
 Habilidade: 10+18
