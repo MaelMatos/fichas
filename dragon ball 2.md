@@ -37,7 +37,7 @@ Ilusão: 1
 	- custo 10 | +2 RES | 3 rodadas
 - dispertar do chakra: água
 	  - custo 10 | +2 PDF | 3 rodadas
-- soco estendido de carne 
+- soco estendido de ki 
 	- custo 20 | dano 15 | emudecimento 
 - Titã meteoro 
 	- 30 custo | 35 dano | Alvo multiplo
