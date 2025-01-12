@@ -34,10 +34,12 @@ Ilusão: 1
 
 # Técnicas(técnicas em geral)
 - dispertar do chakra: terra
- - custo 10 | +2 RES | 3 rodadas
+	- custo 10 | +2 RES | 3 rodadas
 - dispertar do chakra: água
- - custo 10 | +2 PDF | 3 rodadas
+	  custo 10 | +2 PDF | 3 rodadas
+- Titã meteoro 
+	- 30 custo | 35 dano | Alvo multiplo
 - 7 camadas do inferno de dante(rank A)
- - custo 250 | dano 225 | dano gigante | pergoso | poderoso | vorpal | alvo multiplo
+	- custo 250 | dano 225 | dano gigante | pergoso | poderoso | vorpal | alvo multiplo
 - Kikoho(A+)
- - custo 630 | dano 630 | ataque carregado | escalavel
+	-  custo 630 | dano 630 | ataque carregado | escalavel
