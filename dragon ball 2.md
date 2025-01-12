@@ -1,7 +1,7 @@
 Nome: Felipe Alberto
 Raça: Humano
-Vida(47/48)
-Energia (13/21)
+Vida(24/48)
+Energia (5/21)
 dinheiros: 55
 
 # Atributos (19)
