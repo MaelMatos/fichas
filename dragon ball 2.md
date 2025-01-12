@@ -19,6 +19,7 @@ Ilusão: 1
 
 # Inventário  
 
+
 # Vantagens(3) 
 - genialidade em artes marciais
 - toque de energia
