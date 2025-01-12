@@ -6,7 +6,7 @@ dinheiros: 55
 
 # Atributos (19)
 Força: 1  
-Resistência: 6+(2)   
+Resistência: 6   
 Habilidade: 6+7=13
 Poder de Fogo: 1     
 Vontade: 1  
