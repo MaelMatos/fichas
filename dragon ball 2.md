@@ -18,7 +18,8 @@ Poder: 1
 Ilusão: 1
 
 # Inventário  
-
+- Reliquia do dragão
+	- Dano 15 | Sangramento ? | Durabilidade ?
 
 # Vantagens(3) 
 - genialidade em artes marciais
