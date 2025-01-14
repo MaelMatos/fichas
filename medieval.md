@@ -13,7 +13,9 @@ Inteligência
 # Inventário 1 arma
 - Arco celeste
 # Técnicas 2 - (1 de 4 de dano) (1 de 6 de dano)
+
 # Vantagens 1
+- reenergização
 # Desvantagens 1
 - fetiche: arco celeste
 # Caminhos da Magia 
