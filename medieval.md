@@ -2,7 +2,8 @@ Nome: Siddarta
 Raça: Elfo 
 Classe: Mago
 HP | 3/3
-Mana | 
+Mana | 66/66
+Controle de Mana | 66/66
 Dinheiro = 200 (a menos que você escolha uma vantagem para ganhar mais dinheiros) 
 # Atributos = 18 pontos
 Força: 1
