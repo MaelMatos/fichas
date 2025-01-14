@@ -14,12 +14,16 @@ Inteligência: 8
 # Inventário 1 arma
 - Arco celeste
 # Técnicas 2 - (1 de 4 de dano) (1 de 6 de dano)
+- Seta que vem do céu
+	- custo 4 | dano 4
+- Flecha que destrói o mal
+	- custo 6 | dano 6
 
 # Vantagens 1
 - controle de energia II
 # Desvantagens 1
 - fetiche: arco celeste
-# Caminhos da Magia 
+# Caminhos da Magia() 
 Fogo 
 Água 
 Terra
