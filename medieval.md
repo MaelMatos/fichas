@@ -1,7 +1,7 @@
 Nome: Siddarta
 Raça: Elfo 
 Classe: Mago
-HP | 
+HP | 3/3
 Mana | 
 Dinheiro = 200 (a menos que você escolha uma vantagem para ganhar mais dinheiros) 
 # Atributos = 18 pontos
@@ -23,10 +23,10 @@ Inteligência: 8
 - controle de energia II
 # Desvantagens 1
 - fetiche: arco celeste
-# Caminhos da Magia() 
-Fogo 
-Água 
-Terra
-Ar
-Raio
-Luz
+# Caminhos da Magia(4) 
+Fogo: 0 
+Água: 0 
+Terra: 0
+Ar: 0
+Raio: 0
+Luz: 4
