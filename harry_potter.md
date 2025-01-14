@@ -49,7 +49,7 @@ Magia das Trevas: 10
 	- Dano 2 cortante
 	- Ataque em dobro(acerta ambos em um único ataque)
 	- Munição 2
- - poção sombria: agonia x2
+ - poção sombria: agonia x1
  - kit do feiticeiro
 	 - Poção de Vida(40 HP) 1/1
 	 - Poção de Mana(40 MP) 1/1
