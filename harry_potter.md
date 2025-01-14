@@ -24,16 +24,16 @@ Magia: 6
 Magia das Trevas: 10  
 
 # Magias
-- Reparo
-	-  Custo 10
+- Reparo(2)
+	-  Custo 0
 - Maldição do agonizando (Maledictus morientium)
 	- Custo 10 | Dano 10 | Enfraquecer: Poder em 5
 - Expellere Periculosum Vil(2)
 	-  Custo 0 | Dano 10 | poder vingativo | poderoso 
 - ~~Rei desmembrado (Desmanbra Rex)~~
 	- Custo ? | Dano 50 | em área
-- Maledictus pavor(4)
-	- Custo 45 | Dano 40 | paralisia
+- Maledictus pavor(6)
+	- Custo 35 | Dano 40 | paralisia
 ## Técnicas
 - Reciclar: Consgue usar uma ação extra para recuperar a munição, a quantidade que você recupera é igual a o seu Poder
 - Adaptador
