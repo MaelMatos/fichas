@@ -5,8 +5,8 @@ Status Ninja :
 Ryo:  0
 Sensei: 
 PV | 585/585
-Chakra | 87/871
-Controle | 871/871
+Chakra | 0/871
+Controle | 808/871
 Selo de 100 forças | 195/871
 raiton,fuinjutsu
 clone A CK 5/80 HP 20/80
