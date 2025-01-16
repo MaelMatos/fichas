@@ -9,7 +9,7 @@ Chakra | 0/212
 Controle | 0/212
 Selo de 100 forças | 1/212
 raiton,fuinjutsu
-65
+53
 
 # Atributos(58)
 Força: 2
@@ -23,7 +23,7 @@ Chakra: 27
 - doador(vida)
 - genialide em taijutsu
 - toque de energia(5)
-- equilibrio de energia(5)
+- equilibrio de energia II(5)
 - ataque oportuno(3)
 - vitalidade(4)
 - implemento(3) -> +4 HAB/4 rodadas | CD de 4 rodadas
