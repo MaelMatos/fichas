@@ -9,15 +9,15 @@ Chakra | 0/212
 Controle | 0/212
 Selo de 100 forças | 1/212
 raiton,fuinjutsu
-100
+65
 
 # Atributos(58)
 Força: 2
-Habilidade: 10+18
+Habilidade: 20+18
 Resistencia: 24
 Poder de Fogo: 1
-Vontade: 10
-Chakra: 12
+Vontade: 20
+Chakra: 27
 # Vantagens(1+32)
 - regen -> 18/turno
 - doador(vida)
@@ -65,14 +65,14 @@ Chakra: 12
 	- 30/30 Kunai (a cada 3 +1 de dano)
 	- 30/30 Shuriken (a cada 3 +2 de dano)
 	- 25/25 Senbon (a cada 5 +2 de dano) + paralisia
-	- 0/3 Papel Bomba
+	- 3/3 Papel Bomba
 	- 2/2 Selo de Luz
 	- 2/2 Granada de Fumaça
 	- 1/1 Linha Ninja
 	- Pote de Óleo Inflamável
 	- Comunicador de Médio Alcance
 	- 1/1 Pílula de HP lvl 2 (+25)
-	- 0/1 Pílula de Chakra lvl 2 (+25)
+	- 1/1 Pílula de Chakra lvl 2 (+25)
 	- 3/3 Pílulas de Chakra lvl 1 (+10)
 	- 3/3 Pílulas de HP lvl 1 (+10)
 - Yaseichi
