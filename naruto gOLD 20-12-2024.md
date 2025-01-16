@@ -9,7 +9,7 @@ Chakra | 0/871
 Controle | 0/871
 Selo de 100 forças | 1/871
 raiton,fuinjutsu
-53
+45
 
 # Atributos(58)
 Força: 2
@@ -35,6 +35,8 @@ Chakra: 27
 - vigoroso(5)
 - aceleração(3)
 - controle de chakra II(3+14)
+- recuperação de energia(4)
+- energia extra(4)
 # Técnicas(15)
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
@@ -97,8 +99,7 @@ Genjutsu: 1
 - combo bracker(4)
 - força oculta(4)
 - ataque multiplo(2)
-- recuperação de energia(4)
-- energia extra(4)
+
 - adaptador(9+15)
 - ambidestria(3)
 - base de operações(3)
