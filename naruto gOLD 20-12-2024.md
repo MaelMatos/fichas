@@ -5,9 +5,9 @@ Status Ninja :
 Ryo:  100.000
 Sensei: 
 PV | 457/549
-Chakra | 0/212
-Controle | 0/212
-Selo de 100 forças | 1/212
+Chakra | 0/871
+Controle | 0/871
+Selo de 100 forças | 1/871
 raiton,fuinjutsu
 53
 
@@ -91,9 +91,7 @@ Genjutsu: 1
 ## jutsu para aprender
 - cintilação corporal(1)
     - custo 5 | evasão 5
-- estilo raio: soqueira relampago(2)
- - custo 5 | dano 5 | reciclavel
-- multiplos clones das sombras
+
 ## vantagens para pegar
 - aceleração(3+7)
 - combo bracker(4)
