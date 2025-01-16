@@ -6,8 +6,8 @@ Ryo:  0
 Sensei: 
 PV | 585/585
 Chakra | 0/871
-Controle | 808/871
-Selo de 100 forças | 195/871
+Controle | 0/871
+Selo de 100 forças | 0/871
 raiton,fuinjutsu
 clone A CK 5/80 HP 20/80
 clone B CK 5/80 HP 20/80
