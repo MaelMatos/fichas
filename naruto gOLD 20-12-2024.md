@@ -9,7 +9,7 @@ Chakra | 0/871
 Controle | 0/871
 Selo de 100 forças | 1/871
 raiton,fuinjutsu
-45
+30
 
 # Atributos(58)
 Força: 2
@@ -48,13 +48,13 @@ Chakra: 27
 - selo da rejeição de ferimento
 	  - custo 15 | cura 10 | alvo multiplo
 - punho forte: chute intransponivel
-	  - custo 18 | defesa 10 | deflexão | reflexão
+	  - custo 28 | defesa 30 | deflexão | reflexão
 - punho adamantino
-	 - custo 100 | dano 100 
+	 - custo 150 | dano 150 
 - invocação: katsuyu
 	- custo 50% CK MAX 
 - estilo raio: raikiri(S)
-	 - custo 150 | dano 150
+	 - custo 150 | dano 150 | irrefreavel
 - chute do arremeçador(A)
 	- custo 60 | dano 60
 - corrente de selamento adamantino(A+)
