@@ -9,9 +9,9 @@ Chakra | 87/871
 Controle | 871/871
 Selo de 100 forças | 195/871
 raiton,fuinjutsu
-clone A CK 5/80 HP 80/80
-clone B CK 5/80 HP 80/80
-clone C CK 5/80 HP 80/80
+clone A CK 5/80 HP 20/80
+clone B CK 5/80 HP 20/80
+clone C CK 5/80 HP 20/80
 
 
 # Atributos(58)
