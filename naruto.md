@@ -84,7 +84,7 @@ bukijutsu
 - estilo fogo: grande bola de fogo(7)
  - custo: 18 | dano 35
 - bukijutsu: guarda-chuva de senbon(10)
-  - custo 23  |dano 40 | dano em area | paralisia
+  - custo 23  | dano 40 | dano em area | paralisia
 - kenjutsu: rotação divina(11)
   - custo 28 | dano 45 | escalonavel(5 por novo alvo,até 5x) | alvo multiplo
 - akumaton: baforada diabólica(13)

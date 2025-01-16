@@ -9,6 +9,7 @@ Chakra | 0/212
 Controle | 0/212
 Selo de 100 forças | 1/212
 raiton,fuinjutsu
+100
 
 # Atributos(58)
 Força: 2
