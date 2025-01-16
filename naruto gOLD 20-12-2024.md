@@ -2,14 +2,14 @@
 Nome: Taiyo "Aka" Uzumaki
 Clã:  Uzumaki
 Status Ninja : 
-Ryo:  100.000
+Ryo:  0
 Sensei: 
-PV | 457/585
-Chakra | 0/871
-Controle | 0/871
-Selo de 100 forças | 1/871
+PV | 585/585
+Chakra | 871/871
+Controle | 871/871
+Selo de 100 forças | 0/871
 raiton,fuinjutsu
-20
+
 
 # Atributos(58)
 Força: 2
@@ -48,11 +48,11 @@ Chakra: 27
 - selo da rejeição de ferimento
 	  - custo 15 | cura 10 | alvo multiplo
 - punho forte: chute intransponivel
-	  - custo 28 | defesa 30 | deflexão | reflexão
+	  - custo 128 | defesa 130 | deflexão | reflexão
 - punho adamantino
 	 - custo 150 | dano 150 
 - invocação: katsuyu
-	- custo 50% CK MAX 
+	- custo 50% CK MAX (436)
 - estilo raio: raikiri(S)
 	 - custo 150 | dano 150 | irrefreavel
 - chute do arremeçador(A)
@@ -60,7 +60,7 @@ Chakra: 27
 - corrente de selamento adamantino(A+)
 	- custo 75 | dano 70 | reciclável
 - selo das cem forças(S)
-    - custo 25% CK max(53) | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
+    - custo 25% CK max(218) | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
 # Inventário
 - Kit Ninja II:
 	- 2/2 Fuuma Shuriken (a cada 1 +4 de dano)
