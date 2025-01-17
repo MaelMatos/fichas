@@ -5,7 +5,7 @@ Status Ninja :
 Ryo:  0
 Sensei: 
 PV | 539/585
-Chakra | 0/871
+Chakra | 300/871
 Controle | 0/871
 Selo de 100 forças | 432/871
 raiton,fuinjutsu
@@ -79,7 +79,7 @@ Chakra: 27
 	- 30/30 Shuriken (a cada 3 +2 de dano)
 	- 25/25 Senbon (a cada 5 +2 de dano) + paralisia
 	- 3/3 Papel Bomba
-	- 2/2 Selo de Luz
+	- 1/2 Selo de Luz
 	- 2/2 Granada de Fumaça
 	- 1/1 Linha Ninja
 	- Pote de Óleo Inflamável
