@@ -18,7 +18,6 @@ clone 6A CK 60/100 HP 35/100
 clone 7A CK 60/100 HP 35/100
 clone 8A CK 60/100 HP 35/100
 clone S CK 25/500 HP 257/500
-180 selo da espada
 (3d6)++38++2++5++60++8++10++20++10
 
 
