@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "60",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "728701e6c81a0a03",
+  "active": "5eef41de8730f3b1",
   "lastOpenFiles": [
     "naruto.md",
     "harry_potter.md",
