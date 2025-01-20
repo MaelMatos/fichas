@@ -1,6 +1,7 @@
 # Status
 Nome: Hefesto 
 Classe: Mago
+Rank C
 Nível -
 HP |
 Energia |
