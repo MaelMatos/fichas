@@ -21,7 +21,7 @@ Vontade
 
 
 # Vantagens(1) 
-- Poder oculto
+- Área de batalha
 
 # Desvantagens(1)
 - Maldição: esquece tudo que ocorreu durante o "ritual"
