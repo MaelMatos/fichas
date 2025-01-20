@@ -21,14 +21,19 @@ Vontade
 
 
 # Vantagens(1) 
-
+- Poder oculto
 
 # Desvantagens(1)
-
+- Maldição: esquece tudo que ocorreu durante o "ritual"
 
 # Perícias
-Artes Marciais
-Poder
-Precisão
+~~Artes Marciais~~
+~~Poder~~
+~~Precisão~~
+Encantamento
+Conjuração
+Manipulação
+Refinamento
+Intensidade
 
 
