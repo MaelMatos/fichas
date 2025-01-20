@@ -26,14 +26,14 @@ Vontade
 # Desvantagens(1)
 - Maldição: esquece tudo que ocorreu durante o "ritual"
 
-# Perícias
+# Perícias(2)
 ~~Artes Marciais~~
 ~~Poder~~
 ~~Precisão~~
-Encantamento
-Conjuração
-Manipulação
-Refinamento
-Intensidade
+Encantamento: 1/5
+Conjuração: 1/5
+Manipulação: 0/5
+Refinamento: 0/5
+Intensidade: 0/5
 
 
