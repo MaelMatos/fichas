@@ -35,8 +35,7 @@
               "title": "harry_potter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94a157958c185f43",
+  "active": "21572528ba997a66",
   "lastOpenFiles": [
-    "naruto gOLD.md",
     "harry_potter.md",
+    "naruto gOLD.md",
     "naruto.md",
     "solo levelling.md",
     "naruto gOLD 20-12-2024.md",
