@@ -6,8 +6,8 @@ Ryo:  0
 Sensei: 
 PV | 549/549+74/276 = 625/625
 Chakra | 0/313
-Controle | 313/313
-Selo de 100 forças | 23/313
+Controle | 238/313
+Selo de 100 forças | 41/313
 raiton,fuinjutsu
 
 
