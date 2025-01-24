@@ -2,11 +2,11 @@
 Nome: Taiyo "Aka" Uzumaki
 Clã:  Uzumaki
 Status Ninja : 
-Ryo:  30.000
+Ryo:  0
 Sensei: 
-PV | 549/549+
-Chakra | 212/313
-Controle | 212/313
+PV | 549/549+276/276 = 625/625
+Chakra | 313/313
+Controle | 313/313
 Selo de 100 forças | 0/313
 raiton,fuinjutsu
 
@@ -21,7 +21,7 @@ Poder de Fogo: 1
 Vontade: 10+7
 Chakra: 16
 # Vantagens(46)
-- regen -> 18/turno
+- regen -> 22/turno
 - doador(vida)
 - genialide em taijutsu
 - toque de energia(5)
@@ -52,7 +52,7 @@ Chakra: 16
 - punho adamantino
 	 - custo 100 | dano 100 
 - invocação: katsuyu
-	- custo 50% CK MAX 
+	- custo 50% CK MAX(157) 
 - estilo raio: raikiri(S)
 	 - custo 150 | dano 150
 - chute do arremeçador(A)
@@ -60,7 +60,7 @@ Chakra: 16
 - corrente de selamento adamantino(A+)
 	- custo 75 | dano 70 | reciclável
 - selo das cem forças(S)
-    - custo 25% CK max(53) | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
+    - custo 25% CK max(78) | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
 - Regeneração da criação(S)
 	- custo 150 | dobra regen | 5 rodadas
 # Inventário
