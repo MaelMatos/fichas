@@ -5,12 +5,17 @@ Status Ninja :
 Ryo:  0
 Sensei: 
 PV | 549/549+147/276 = 625/625
-Chakra | 63/313
+Chakra | 136/313
 Controle | 8/313
-Selo de 100 forças | 59/313
+Selo de 100 forças | 64/313
 raiton,fuinjutsu
-Bushin A Ck 90/90 Hp 45/90
-bushin B Ck 90/90 Hp 45/90
+Bushin A1 Ck 90/90 Hp 45/90
+bushin A2 Ck 90/90 Hp 45/90
+Bushin B1 CK 15/15 Hp 15/15
+Bushin B2 CK 15/15 Hp 15/15
+Bushin B3 CK 15/15 Hp 15/15
+Bushin B4 CK 15/15 Hp 15/15
+
 katsuyu 90/90
 
 
