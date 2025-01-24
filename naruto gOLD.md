@@ -11,6 +11,7 @@ Selo de 100 forças | 0/212
 raiton,fuinjutsu
 d6+10+24+24+24+35
 d6+24+9+5+10
+22
 
 
 # Atributos(58)
