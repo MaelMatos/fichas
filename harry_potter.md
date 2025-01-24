@@ -59,7 +59,9 @@ Magia das Trevas: 10
 	 - Varinha
 	 - Coruja
 	 - Caldeirão
-- anel de prata e ametista
+- ~~anel de prata e ametista~~
+- Anel Ressonante 
+	- Ressonância: de forma automática, o anel lançará um feitiço pré programado pelo usuário. Custa 30% da sua mana arredondado pra cima para programar, e 20% a mais de custo arredondado pra cima no uso automático.
 - Varinha de Cerejeira(Metalizada):
 	- Dano 7
 	- Durabilidade:134/140
