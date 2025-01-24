@@ -8,7 +8,7 @@ Criptodinheiros: 0
 Vida: 155/155  
 Energia: 30/55  
 
-# Atributos  
+# Atributos (59) 
 Resistência: 15    
 Habilidade: 10  
 Agilidade: 1  
@@ -18,12 +18,12 @@ Poder: 20
 Mana: 5  
 
 
-# Perícias  
+# Perícias  (20)
 Força: 4  
 Magia: 6 
 Magia das Trevas: 10  
 
-# Magias
+# Magias(8)
 - Reparo(2)
 	-  Custo 0
 - Maldição do agonizando (Maledictus morientium)
