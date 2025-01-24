@@ -38,7 +38,7 @@ Chakra: 12
 - vigoroso(5)
 - aceleração(3)
 - controle de chakra II(3+14)
-# Técnicas(15)
+# Técnicas(130)
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
 - Henge
