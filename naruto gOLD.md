@@ -62,6 +62,8 @@ Chakra: 12
 	- custo 75 | dano 70 | reciclável
 - selo das cem forças(S)
     - custo 25% CK max(53) | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
+- Regeneração da criação(S)
+	- custo 150 | dobra regen | 5 rodadas
 # Inventário
 - Kit Ninja II:
 	- 2/2 Fuuma Shuriken (a cada 1 +4 de dano)
