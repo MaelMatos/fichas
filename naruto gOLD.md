@@ -9,8 +9,8 @@ Chakra | 241/313
 Controle | 8/313
 Selo de 100 forças | 180/313
 raiton,fuinjutsu
-Bushin A1 Ck 59/90 Hp 3/90
-bushin A2 Ck 59/90 Hp 3/90
+Bushin A1 Ck 1/90 Hp 3/90
+bushin A2 Ck 1/90 Hp 3/90
 Bushin B1 CK 15/15 Hp 5/15
 Bushin B2 CK 15/15 Hp 5/15
 Bushin B3 CK 15/15 Hp 5/15
