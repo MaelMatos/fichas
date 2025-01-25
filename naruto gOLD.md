@@ -7,7 +7,7 @@ Sensei:
 PV | 0/549+210/276 = 625/625
 Chakra | 43/313
 Controle | 8/313
-Selo de 100 forças | 188/313+75+33
+Selo de 100 forças | 296/313+
 raiton,fuinjutsu
 Bushin A1 Ck 1/90 Hp 3/90
 bushin A2 Ck 1/90 Hp 3/90
