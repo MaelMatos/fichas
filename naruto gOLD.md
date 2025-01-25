@@ -14,7 +14,6 @@ bushin A2 Ck 1/90 Hp 3/90
 Bushin B1 CK 15/15 Hp 5/15
 Bushin B2 CK 15/15 Hp 5/15
 Bushin B3 CK 15/15 Hp 5/15
-Bushin B4 CK 15/15 Hp 5/15
 Bushin C1 Ck 1/100 Hp 100/100
 Bushin C2 Ck 1/100 Hp 100/100
 Bushin C3 Ck 1/100 Hp 100/100
@@ -25,7 +24,7 @@ Bushin E1 Ck 1/50 Hp 50/50
 Bushin E2 Ck 1/50 Hp 50/50
 Bushin E3 Ck 1/50 Hp 50/50
 katsuyu 90/90
-
+Bushin B4 CK 15/15 Hp 5/15
 
 
 # Atributos(71)
