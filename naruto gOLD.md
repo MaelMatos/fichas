@@ -13,7 +13,7 @@ katsuyu 90/90
 bushin A1 hp 100/100 ck 100/100
 bushin A2 hp 100/100 ck 100/100
 bushin A3 hp 100/100 ck 100/100
-
+selo 60
 
 # Atributos(71)
 Força: 2
