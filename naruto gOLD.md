@@ -70,7 +70,7 @@ Chakra: 16
 	- 30/30 Kunai (a cada 3 +1 de dano)
 	- 30/30 Shuriken (a cada 3 +2 de dano)
 	- 25/25 Senbon (a cada 5 +2 de dano) + paralisia
-	- 3/3 Papel Bomba
+	- 0/3 Papel Bomba
 	- 2/2 Selo de Luz
 	- 2/2 Granada de Fumaça
 	- 1/1 Linha Ninja
