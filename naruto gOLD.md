@@ -12,9 +12,9 @@ raiton,fuinjutsu
 katsuyu 90/90
 bushin A1 hp 50/100 ck 100/100
 bushin A2 hp 50/100 ck 100/100
-bushin A3 hp 50/100 ck 100/100
-bushin A4 hp 50/100 ck 100/100
-bushin A5 hp 50/100 ck 100/100
+bushin A3 hp 32/100 ck 100/100
+bushin A4 hp 32/100 ck 100/100
+bushin A5 hp 32/100 ck 100/100
 
 
 # Atributos(71)
