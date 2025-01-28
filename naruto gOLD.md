@@ -5,7 +5,7 @@ Status Ninja :
 Ryo:  0
 Sensei: 
 PV | 1/549+0/276 = 625/625
-Chakra | 239/313
+Chakra | 58/313
 Controle | 4/313
 Selo de 100 forças | 25/313
 raiton,fuinjutsu
