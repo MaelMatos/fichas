@@ -7,7 +7,7 @@ Sensei:
 PV | 1/549+0/276 = 625/625
 Chakra | 58/313
 Controle | 4/313
-Selo de 100 forças | 25/313
+Selo de 100 forças | 70/313
 raiton,fuinjutsu
 katsuyu 90/90
 10 kage b
