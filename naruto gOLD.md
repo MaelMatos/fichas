@@ -15,10 +15,10 @@ katsuyu 90/90
 
 # Atributos(71)
 Força: 2
-Habilidade: 28+18 = 46
+Habilidade: 32+18 = 50
 Resistencia: 24+7 = 31
 Poder de Fogo: 1
-Vontade: 10+7
+Vontade: 13+7
 Chakra: 16
 # Vantagens(46)
 - regen -> 22/turno
@@ -89,7 +89,7 @@ Chakra: 16
 # Desvantagens(1)
 - pobreza
 # Caminho Shinobi(5+17) 
-Taijutsu: 16(+8)
+Taijutsu: 18(+9) = 27
 Ninjutsu: 5
 Genjutsu: 1
 ## jutsu para aprender
