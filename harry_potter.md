@@ -7,7 +7,7 @@ Dinheiro: 130
 Criptodinheiros: 0
 Vida: 155/155  
 Energia: 30/55  
-60
+30
 # Atributos (59) 
 Resistência: 15    
 Habilidade: 10  
