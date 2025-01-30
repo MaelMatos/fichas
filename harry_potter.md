@@ -6,16 +6,16 @@ Casa:  sonserina
 Dinheiro: 130 
 Criptodinheiros: 0
 Vida: 155/155  
-Energia: 30/55  
-30
+Energia: 30/115  
+3
 # Atributos (59) 
 Resistência: 15    
 Habilidade: 10  
-Agilidade: 1  
-Carisma:  -2  
+Agilidade: 10  
+Carisma:  10  
 Inteligência: 10  
 Poder: 20  
-Mana: 5  
+Mana: 10  
 
 
 # Perícias  (20)
@@ -34,8 +34,10 @@ Magia das Trevas: 10
 	- Custo ? | Dano 50 | em área
 - Maledictus pavor(6)
 	- Custo 35 | Dano 40 | paralisia
-- Cerasus Arbor Remedium
-	- Custo 55 | Cura 50 | Regeneração 5 por turno | 3 turnos
+- Cerasus Arbor Remedium(1)
+	- Custo 50 | Cura 50 | Regeneração 5 por turno | 3 turnos
+- Obscurus Dominium(30)
+	- custo 50
 ## Técnicas
 - Reciclar: Consgue usar uma ação extra para recuperar a munição, a quantidade que você recupera é igual a o seu Poder
 - Adaptador
