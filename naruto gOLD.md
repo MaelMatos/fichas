@@ -9,7 +9,7 @@ Chakra | 0/313
 Controle | 0/313
 Selo de 100 forças | 0/313
 raiton,fuinjutsu
-Mael +16 pts, +2(as(300), s+(210)) técnicas e um bgl secreto q tu me lembra de falar sobre pós hiato
+Mael +6 pts, +2(as(300), s+(210)) técnicas e um bgl secreto q tu me lembra de falar sobre pós hiato
 
 
 
@@ -31,7 +31,7 @@ Chakra: 16
 - implemento(3) -> +4 HAB/4 rodadas | CD de 4 rodadas
 - interpor(3)
 - boa fama(2)
-- adaptador(3)
+- adaptador II(3+9)
 - parceria: kage bushin(2)
 - combo(2)
 - vigoroso(5)
@@ -84,6 +84,8 @@ Chakra: 16
 	- 3/3 Pílulas de HP lvl 1 (+10)
 - Yaseichi
 	- dano 60 | Equipamento digno | arma-escudo
+- kunai magnetica
+	- 22 dano | retornavel | dreno d chakra | teleguiado | equipamento digno
 - caça leve
 	- +8 HAB | 30/30
 - bota leve
