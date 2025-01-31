@@ -80,7 +80,7 @@ Chakra: 16
 	- 3/3 Pílulas de Chakra lvl 1 (+10)
 	- 3/3 Pílulas de HP lvl 1 (+10)
 - Yaseichi
-	- dano 35 | Equipamento digno | arma-escudo
+	- dano 60 | Equipamento digno | arma-escudo
 - caça leve
 	- +8 HAB | 30/30
 - bota leve
