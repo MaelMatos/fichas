@@ -9,16 +9,16 @@ Chakra | 0/313
 Controle | 0/313
 Selo de 100 forças | 0/313
 raiton,fuinjutsu
-Mael +28 pts, +2(as(300), s+(180)) técnicas e um bgl secreto q tu me lembra de falar sobre pós hiato
+Mael +16 pts, +2(as(300), s+(180)) técnicas e um bgl secreto q tu me lembra de falar sobre pós hiato
 
 
 
 # Atributos(71)
 Força: 2
 Habilidade: 32+18 = 50
-Resistencia: 24+7 = 31
+Resistencia: 28+7 = 31
 Poder de Fogo: 1
-Vontade: 13+7
+Vontade: 21+7
 Chakra: 16
 # Vantagens(46)
 - regen -> 22/turno
