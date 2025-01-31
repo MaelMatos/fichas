@@ -4,15 +4,12 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  0
 Sensei: 
-PV | 290/549+0/276 = 625/625
+PV | 0/549+0/276 = 625/625
 Chakra | 100/313
 Controle | 0/313
 Selo de 100 forças | 220/313
 raiton,fuinjutsu
-8kb
-kage bushin A1 10/25 ck 25/25 hp
-kage bushin A2 10/25 ck 25/25 hp
-kage bushin A3 10/25 ck 25/25 hp
+
 
 
 
