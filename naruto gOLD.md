@@ -9,7 +9,7 @@ Chakra | 0/313
 Controle | 0/313
 Selo de 100 forças | 0/313
 raiton,fuinjutsu
-kage bushin 220/320 ck 320/320 hp
+kage bushin 189/320 ck 186/320 hp
 
 
 
