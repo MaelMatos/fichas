@@ -9,7 +9,7 @@ Chakra | 0/313
 Controle | 0/313
 Selo de 100 forças | 0/313
 raiton,fuinjutsu
-Mael +28 pts, +2(as(300), s+(180)) técnicas, +12 caminho e um bgl secreto q tu me lembra de falar sobre pós hiato
+Mael +28 pts, +2(as(300), s+(180)) técnicas e um bgl secreto q tu me lembra de falar sobre pós hiato
 
 
 
@@ -92,9 +92,9 @@ Chakra: 16
 # Desvantagens(1)
 - pobreza
 # Caminho Shinobi(5+17) 
-Taijutsu: 18(+9) = 27
-Ninjutsu: 5
-Genjutsu: 1
+Taijutsu: 28
+Ninjutsu: 6
+Genjutsu: 2
 ## jutsu para aprender
 - cintilação corporal(1)
     - custo 5 | evasão 5
