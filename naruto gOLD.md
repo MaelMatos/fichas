@@ -9,7 +9,7 @@ Chakra | 0/313
 Controle | 0/313
 Selo de 100 forças | 0/313
 raiton,fuinjutsu
-kage bushin 189/320 ck 186/320 hp
+Mael +37 pts, +2(as(300), s+(180)) técnicas, +12 caminho e um bgl secreto q tu me lembra de falar sobre pós hiato
 
 
 
