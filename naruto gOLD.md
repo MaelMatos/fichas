@@ -7,7 +7,7 @@ Sensei:
 PV | 278/549+0/276 = 625/625
 Chakra | 48/313
 Controle | 0/313
-Selo de 100 forças | 143/313
+Selo de 100 forças | 168/313
 raiton,fuinjutsu
 8kb
 kage bushin A1 10/25 ck 25/25 hp
