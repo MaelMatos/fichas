@@ -4,13 +4,15 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  0
 Sensei: 
-PV | 243/549+0/276 = 625/625
-Chakra | 239/313
+PV | 45/549+0/276 = 625/625
+Chakra | 153/313
 Controle | 0/313
-Selo de 100 forças | 118/313
+Selo de 100 forças | 143/313
 raiton,fuinjutsu
-
-
+8kb
+kage bushin A1 10/25 ck 25/25 hp
+kage bushin A2 10/25 ck 25/25 hp
+kage bushin A3 10/25 ck 25/25 hp
 
 
 
@@ -76,7 +78,7 @@ Chakra: 16
 	- 1/1 Linha Ninja
 	- Pote de Óleo Inflamável
 	- Comunicador de Médio Alcance
-	- 1/1 Pílula de HP lvl 2 (+25)
+	- 0/1 Pílula de HP lvl 2 (+25)
 	- 1/1 Pílula de Chakra lvl 2 (+25)
 	- 3/3 Pílulas de Chakra lvl 1 (+10)
 	- 3/3 Pílulas de HP lvl 1 (+10)
