@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 295.5
   },
   "right": {
     "id": "b30cd460ee1db0b6",
@@ -189,11 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21572528ba997a66",
+  "active": "6a98adc9e1cd7753",
   "lastOpenFiles": [
-    "harry_potter.md",
-    "naruto gOLD.md",
     "naruto.md",
+    "naruto gOLD.md",
+    "harry_potter.md",
     "solo levelling.md",
     "naruto gOLD 20-12-2024.md",
     "medieval.md",
