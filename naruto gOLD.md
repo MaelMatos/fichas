@@ -9,7 +9,7 @@ Chakra | 0/313
 Controle | 0/313
 Selo de 100 forças | 0/313
 raiton,fuinjutsu
-Mael +37 pts, +2(as(300), s+(180)) técnicas, +12 caminho e um bgl secreto q tu me lembra de falar sobre pós hiato
+Mael +34 pts, +2(as(300), s+(180)) técnicas, +12 caminho e um bgl secreto q tu me lembra de falar sobre pós hiato
 
 
 
@@ -37,6 +37,7 @@ Chakra: 16
 - vigoroso(5)
 - aceleração(3)
 - controle de chakra II(3+14)
+- mentor(3)
 # Técnicas(130)
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
