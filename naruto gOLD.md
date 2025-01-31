@@ -9,7 +9,7 @@ Chakra | 0/313
 Controle | 0/313
 Selo de 100 forças | 0/313
 raiton,fuinjutsu
-Mael +16 pts, +2(as(300), s+(180)) técnicas e um bgl secreto q tu me lembra de falar sobre pós hiato
+Mael +16 pts, +2(as(300), s+(210)) técnicas e um bgl secreto q tu me lembra de falar sobre pós hiato
 
 
 
