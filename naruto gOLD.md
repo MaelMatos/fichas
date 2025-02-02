@@ -69,7 +69,7 @@ Chakra: 16
 	- custo 150 | dobra regen | 5 rodadas
 - Arte Ninja da Regeneração da Criação — Técnica das Cem Forças(S+)
 	- custo 70/turno | levanta de demaio | 25%+ e curas e escudos
-- punho adamantino: dragão adamantino
+- arte sabia: punho adamantino: dragão adamantino
 	- custo 300 | dano 270 | dano gigante | perigoso | poderoso | vorpal | aproximação | teleguiado
 - modo sábio
 	- custo 90/turno | sentir chakra | 2x atributos | 3x caminho shinobi
