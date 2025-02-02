@@ -70,7 +70,7 @@ Chakra: 16
 - Arte Ninja da Regeneração da Criação — Técnica das Cem Forças(S+)
 	- custo 70/turno | levanta de demaio | 25%+ e curas e escudos
 - punho adamantino: dragão adamantino
-	- custo 300 | dano | dano gigante | perigoso | poderoso | vorpal 
+	- custo 300 | dano 270 | dano gigante | perigoso | poderoso | vorpal | aprximação | teleguiado
 # Inventário
 - Kit Ninja II:
 	- 2/2 Fuuma Shuriken (a cada 1 +4 de dano)
