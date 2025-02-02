@@ -28,7 +28,7 @@ Chakra: 16
 - equilibrio de energia(5)
 - ataque oportuno(3)
 - vitalidade(4)
-- implemento(3) -> +4 HAB/4 rodadas | CD de 4 rodadas
+- implemento(3) -> +7 HAB/7 rodadas | CD de 7 rodadas
 - interpor(3)
 - boa fama(2)
 - adaptador II(3+9)
