@@ -9,7 +9,7 @@ Chakra | 0/313
 Controle | 0/313
 Selo de 100 forças | 0/313
 raiton,fuinjutsu
-Mael +6 pts e modo sábio
+Mael +2 pts e modo sábio
 
 
 
@@ -40,6 +40,7 @@ Chakra: 16
 - mentor(3)
 - ambidestria(3)
 - inventor(3)
+- superação(4)
 # Técnicas(130)
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
@@ -68,8 +69,8 @@ Chakra: 16
 	- custo 150 | dobra regen | 5 rodadas
 - Arte Ninja da Regeneração da Criação — Técnica das Cem Forças(S+)
 	- custo 70/turno | levanta de demaio | 25%+ e curas e escudos
-- punho forte: salto relampago
-	- custo 300 | esquiva 295 | ataque carregado
+- punho adamantino: dragão adamantino
+	- custo 300 | dano | dano gigante | perigoso | poderoso | vorpal 
 # Inventário
 - Kit Ninja II:
 	- 2/2 Fuuma Shuriken (a cada 1 +4 de dano)
