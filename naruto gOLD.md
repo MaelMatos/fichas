@@ -68,6 +68,8 @@ Chakra: 16
 	- custo 150 | dobra regen | 5 rodadas
 - Arte Ninja da Regeneração da Criação — Técnica das Cem Forças(S+)
 	- custo 70/turno | levanta de demaio | 25%+ e curas e escudos
+- punho forte: salto relampago
+	- custo 300 | esquiva 295 | ataque carregado
 # Inventário
 - Kit Ninja II:
 	- 2/2 Fuuma Shuriken (a cada 1 +4 de dano)
