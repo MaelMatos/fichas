@@ -72,7 +72,7 @@ Chakra: 16
 - punho adamantino: dragão adamantino
 	- custo 300 | dano 270 | dano gigante | perigoso | poderoso | vorpal | aprximação | teleguiado
 - modo sábio
-	- 90/turno | sentir chakra | 2x atributos | 
+	- 90/turno | sentir chakra | 2x atributos | 3x caminho shinobi
 # Inventário
 - Kit Ninja II:
 	- 2/2 Fuuma Shuriken (a cada 1 +4 de dano)
