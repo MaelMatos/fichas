@@ -66,6 +66,8 @@ Chakra: 16
     - custo 25% CK max(78) | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
 - Regeneração da criação(S)
 	- custo 150 | dobra regen | 5 rodadas
+- Arte Ninja da Regeneração da Criação — Técnica das Cem Forças(S+)
+	- custo 210
 # Inventário
 - Kit Ninja II:
 	- 2/2 Fuuma Shuriken (a cada 1 +4 de dano)
