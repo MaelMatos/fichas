@@ -9,14 +9,13 @@ Chakra | 0/313
 Controle | 0/313
 Selo de 100 forças | 0/313
 raiton,fuinjutsu
-Mael +2 pts
 
 
 
 # Atributos(71)
 Força: 2
 Habilidade: 32+18 = 50
-Resistencia: 28+7 = 31
+Resistencia: 28+7 = 35
 Poder de Fogo: 1
 Vontade: 21+7
 Chakra: 16
@@ -102,7 +101,7 @@ Chakra: 16
 # Desvantagens(1)
 - pobreza
 # Caminho Shinobi(5+17) 
-Taijutsu: 28
+Taijutsu: 30
 Ninjutsu: 6
 Genjutsu: 2
 ## jutsu para aprender
