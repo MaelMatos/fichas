@@ -9,7 +9,7 @@ Chakra | 0/313
 Controle | 0/313
 Selo de 100 forças | 0/313
 raiton,fuinjutsu
-Mael +2 pts e modo sábio
+Mael +2 pts
 
 
 
@@ -24,6 +24,7 @@ Chakra: 16
 - regen -> 22/turno
 - doador(vida)
 - genialide em taijutsu
+- reenergização -> 5%(16)/turno
 - toque de energia(5)
 - equilibrio de energia(5)
 - ataque oportuno(3)
