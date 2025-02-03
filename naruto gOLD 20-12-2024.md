@@ -6,11 +6,10 @@ Ryo:  0
 Sensei: 
 PV | 286/549+0/276+625/625 
 Chakra | 32/313+313/313
-Controle | 213/313
-Selo de 100 forças | 64/313
+Controle | 123/313
+Selo de 100 forças | 254/313
 raiton,fuinjutsu
-katsuyu 157/157
-kage bushin A1 70/100 100/100
+
 
 # Atributos(71)
 Força: 2
