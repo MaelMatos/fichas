@@ -7,7 +7,7 @@ Sensei:
 PV | 546/549+0/276+625/625 
 Chakra | 3/313+313/313
 Controle | 0/313
-Selo de 100 forças | 75/313
+Selo de 100 forças | 113/313
 raiton,fuinjutsu
 
 
