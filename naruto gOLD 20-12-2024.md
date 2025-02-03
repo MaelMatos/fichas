@@ -4,50 +4,44 @@ Clã:  Uzumaki
 Status Ninja : 
 Ryo:  0
 Sensei: 
-PV | 153/585
-Chakra | 545/871
-Controle | 0/871
-Selo de 100 forças | 435/871
+PV | 549/549+276/276+625/625 
+Chakra | 313/313+313/313
+Controle | 0/313
+Selo de 100 forças | 0/313
 raiton,fuinjutsu
-clone 1A CK 45/100 HP 35/100
-clone 2A CK 45/100 HP 35/100
-clone 3A CK 45/100 HP 35/100
-clone 4A CK 45/100 HP 35/100
-clone 5A CK 45/100 HP 35/100
-clone 6A CK 45/100 HP 35/100
-clone 7A CK 45/100 HP 35/100
-clone 8A CK 45/100 HP 35/100
-clone 1S CK 10/500 HP 257/500
-(3d6)++38++2++5++60++8++10++20++10
 
 
-# Atributos(58)
+
+# Atributos(71)
 Força: 2
-Habilidade: 20+18
-Resistencia: 25
+Habilidade: 32+18 = 50
+Resistencia: 28+7 = 35
 Poder de Fogo: 1
-Vontade: 20
-Chakra: 27
-# Vantagens(1+32)
-- regen -> 18/turno
+Vontade: 21+7
+Chakra: 16
+# Vantagens(46)
+- regen -> 22/turno
 - doador(vida)
 - genialide em taijutsu
+- reenergização -> 5%(16)/turno
 - toque de energia(5)
-- equilibrio de energia II(5)
+- equilibrio de energia(5)
 - ataque oportuno(3)
 - vitalidade(4)
-- implemento(3) -> +4 HAB/4 rodadas | CD de 4 rodadas
+- implemento(3) -> +7 HAB/7 rodadas | CD de 7 rodadas
 - interpor(3)
 - boa fama(2)
-- adaptador II(3)
+- adaptador II(3+9)
 - parceria: kage bushin(2)
 - combo(2)
 - vigoroso(5)
 - aceleração(3)
 - controle de chakra II(3+14)
-- recuperação de energia(4)
-- energia extra(4)
-# Técnicas(15)
+- mentor(3)
+- ambidestria(3)
+- inventor(3)
+- superação(4)
+# Técnicas(130)
 - Kawarimi - 1/1 p/ Dia
 - Kinobori
 - Henge
@@ -58,58 +52,71 @@ Chakra: 27
 - selo da rejeição de ferimento
 	  - custo 15 | cura 10 | alvo multiplo
 - punho forte: chute intransponivel
-	  - custo 128 | defesa 130 | deflexão | reflexão
+	  - custo 18 | defesa 10 | deflexão | reflexão
 - punho adamantino
-	 - custo 150 | dano 150 
+	 - custo 100 | dano 100 
 - invocação: katsuyu
-	- custo 50% CK MAX (436)
+	- custo 50% CK MAX(157) 
 - estilo raio: raikiri(S)
-	 - custo 150 | dano 150 | irrefreavel
+	 - custo 150 | dano 150
 - chute do arremeçador(A)
 	- custo 60 | dano 60
 - corrente de selamento adamantino(A+)
 	- custo 75 | dano 70 | reciclável
 - selo das cem forças(S)
-    - custo 25% CK max(218) | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
+    - custo 25% CK max(78) | armazena 25% do CK usado em uma outra barra(semelhante a controle de CK) | limite: 100% CK max
+- Regeneração da criação(S)
+	- custo 150 | dobra regen | 5 rodadas
+- Arte Ninja da Regeneração da Criação — Técnica das Cem Forças(S+)
+	- custo 70/turno | levanta de demaio | 25%+ e curas e escudos
+- arte sabia: punho adamantino: dragão adamantino
+	- custo 300 | dano 270 | dano gigante | perigoso | poderoso | vorpal | aproximação | teleguiado | critico na HAB
+- modo sábio
+	- custo 90/turno | sentir chakra | 2x atributos | 3x caminho shinobi | +18 regen
 # Inventário
 - Kit Ninja II:
 	- 2/2 Fuuma Shuriken (a cada 1 +4 de dano)
 	- 30/30 Kunai (a cada 3 +1 de dano)
 	- 30/30 Shuriken (a cada 3 +2 de dano)
 	- 25/25 Senbon (a cada 5 +2 de dano) + paralisia
-	- 3/3 Papel Bomba
-	- 1/2 Selo de Luz
+	- 0/3 Papel Bomba
+	- 2/2 Selo de Luz
 	- 2/2 Granada de Fumaça
 	- 1/1 Linha Ninja
 	- Pote de Óleo Inflamável
 	- Comunicador de Médio Alcance
-	- 1/1 Pílula de HP lvl 2 (+25)
+	- 0/1 Pílula de HP lvl 2 (+25)
 	- 1/1 Pílula de Chakra lvl 2 (+25)
 	- 3/3 Pílulas de Chakra lvl 1 (+10)
 	- 3/3 Pílulas de HP lvl 1 (+10)
 - Yaseichi
-	- dano 35 | Equipamento digno | arma-escudo
-- calça leve
-	- +8 HAB | 29/30
+	- dano 60 | Equipamento digno | arma-escudo
+- kunai magnetica
+	- 22 dano | retornavel | dreno d chakra | teleguiado | equipamento digno
+- caça leve
+	- +8 HAB | 30/30
 - bota leve
 	- +10 HAB | 30/30
 
 # Desvantagens(1)
 - pobreza
 # Caminho Shinobi(5+17) 
-Taijutsu: 16(+8)
-Ninjutsu: 5
-Genjutsu: 1
+Taijutsu: 30
+Ninjutsu: 6
+Genjutsu: 2
 ## jutsu para aprender
 - cintilação corporal(1)
     - custo 5 | evasão 5
-
+- estilo raio: soqueira relampago(2)
+ - custo 5 | dano 5 | reciclavel
+- multiplos clones das sombras
 ## vantagens para pegar
 - aceleração(3+7)
 - combo bracker(4)
 - força oculta(4)
 - ataque multiplo(2)
-
+- recuperação de energia(4)
+- energia extra(4)
 - adaptador(9+15)
 - ambidestria(3)
 - base de operações(3)
