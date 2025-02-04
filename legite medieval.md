@@ -25,6 +25,7 @@ Inventário 2
 
 Técnicas 2 (7 e 15)
 
+
 Vantagens 1
 - patrono: mimihagi, o deus da inércia/evolução
 - voo
