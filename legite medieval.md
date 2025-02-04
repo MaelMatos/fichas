@@ -1,5 +1,5 @@
 Nome: Siddarta
-Raça - 
+Raça: Meio-Draconato
 Classe: Necromante
 HP| 
 Mana|  
