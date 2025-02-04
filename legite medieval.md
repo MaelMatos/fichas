@@ -16,7 +16,8 @@ Inteligência: +1
 Vontade: +2
 
 Inventário 2
-Espada de Hermes
+- Espada de Hermes
+	- Dano 6 | Ladrão de almas
 
 Técnicas 2 (7 e 15)
 
@@ -24,6 +25,7 @@ Vantagens 1
 - equipamento profano
 - peçonha ácida
 - arma natural(presas)
+- equipamento 
 
 Desvantagens 1
 
