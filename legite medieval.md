@@ -23,7 +23,7 @@ Inventário 2
 Técnicas 2 (7 e 15)
 
 Vantagens 1
-- equipamento profano
+- patrono
 - voo
 - arma natural(sopro)
 - equipamento: espada de hermes
