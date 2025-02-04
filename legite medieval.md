@@ -16,7 +16,7 @@ Inteligência: +1
 Vontade: +2
 
 Inventário 2
-
+Espada de Hermes
 
 Técnicas 2 (7 e 15)
 
