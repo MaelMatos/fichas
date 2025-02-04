@@ -55,14 +55,14 @@ Prestidigitação () 0/10, Habilidade
 Sobrevivência () 0/10, Habilidade ou Inteligência
 Liderança () 0/10, Vontade ou Inteligência
 
-Caminhos da Magia
+Caminhos da Magia(3)
 Fogo 
 Água 
 Terra 
 Ar 
 Raio 
 Luz 
-Trevas 
-Arcano   
+Trevas: 1 
+Arcano: 2  
 
 Anotações Gerais
