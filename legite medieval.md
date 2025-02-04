@@ -1,7 +1,7 @@
 Nome: Siddarta
 Raça: Draconato
 Classe: Necromante
-HP| 4/4
+HP| 4/4+21/21
 Mana| 21 
 Nível -  1
 XP - 
@@ -9,15 +9,18 @@ Dinheiro - 530
 
 Atributos 14
 Força: 2 
-Habilidade: 2 
+Habilidade: 2-1 
 Poder de Fogo: 1 
-Resistência: 0+1 
+Resistência: 0+1+3 
 Inteligência: 2 
 Vontade: 6+2
 
 Inventário 2
 - Espada de Hermes
 	- Dano 6 
+- Armadura pesada 
+	- -1 HAB +3 RES
+	- 40/40 durabilidade
 
 
 Técnicas 2 (7 e 15)
