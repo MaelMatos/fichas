@@ -11,8 +11,8 @@ Atributos 14
 Força: 
 Habilidade 
 Poder de Fogo 
-Resistência: 2 
-Inteligência: +1
+Resistência: 2+1 
+Inteligência: 
 Vontade: +2
 
 Inventário 2
