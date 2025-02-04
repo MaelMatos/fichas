@@ -26,9 +26,11 @@ Vantagens 1
 - equipamento profano
 - peçonha ácida
 - arma natural(presas)
-- equipamento: 
+- equipamento: espada de hermes
+- base de operações
 
 Desvantagens 1
+- 
 
 Perícias 6
 Combate Armado (1) 0/10, Força
