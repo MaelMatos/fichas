@@ -73,5 +73,3 @@ Trevas:  
 Arcano: 2  
 
 # Anotações Gerais
-## História
-filho de um bardo humano com uma guerreira draconato, Siddarta herdou de sua mãe uma devoção a mimihagi, o secto ao qual ele e sua mãe fazem parte possue outro secto rival que adora a outro deus irmão chamado pernida
