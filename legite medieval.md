@@ -24,7 +24,9 @@ Inventário 2
 
 
 Técnicas 2 (7 e 15)
-
+- Carrington
+	- custo 7 | dano 7 
+- 
 
 Vantagens 1
 - patrono: mimihagi, o deus da inércia/evolução
