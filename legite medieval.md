@@ -8,16 +8,16 @@ XP - 
 Dinheiro - 530
 
 Atributos 14
-Força: 4 
+Força: 2 
 Habilidade: 2 
 Poder de Fogo: 1 
 Resistência: 1+1 
 Inteligência: 2 
-Vontade: 4+2
+Vontade: 6+2
 
 Inventário 2
 - Espada de Hermes
-	- Dano 6 | Ladrão de almas
+	- Dano 6 
 
 
 Técnicas 2 (7 e 15)
@@ -26,7 +26,6 @@ Vantagens 1
 - patrono
 - voo
 - arma natural(sopro)
-- equipamento: espada de hermes
 
 Desvantagens 1
 - monstruoso
