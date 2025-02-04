@@ -5,7 +5,7 @@ HP| 
 Mana|  
 Nível -  1
 XP - 
-Dinheiro - 1d100x10
+Dinheiro - 530
 
 Atributos 14
 Força: 
@@ -24,7 +24,7 @@ Técnicas 2 (7 e 15)
 
 Vantagens 1
 - equipamento profano
-- peçonha ácida
+- voo
 - arma natural(presas)
 - equipamento: espada de hermes
 
