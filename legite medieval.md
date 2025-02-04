@@ -11,7 +11,7 @@ Atributos 14
 Força: 
 Habilidade 
 Poder de Fogo 
-Resistência 
+Resistência: 2 
 Inteligência: +1
 Vontade: +2
 
@@ -25,7 +25,7 @@ Técnicas 2 (7 e 15)
 Vantagens 1
 - equipamento profano
 - voo
-- arma natural(presas)
+- arma natural(sopro)
 - equipamento: espada de hermes
 
 Desvantagens 1
@@ -53,7 +53,7 @@ Ferraria (2) 0/10, Força
 Medicina () 0/10, Inteligência
 Prestidigitação () 0/10, Habilidade
 Sobrevivência () 0/10, Habilidade ou Inteligência
-Liderança () 0/10, Vontade ou Inteligência
+Liderança (+1) 0/10, Vontade ou Inteligência
 
 Caminhos da Magia(3)
 Fogo 
