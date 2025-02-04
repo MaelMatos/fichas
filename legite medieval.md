@@ -60,9 +60,9 @@ Fogo 
 Água 
 Terra 
 Ar 
-Raio 
+Raio: 1 
 Luz 
-Trevas: 1 
+Trevas:  
 Arcano: 2  
 
 Anotações Gerais
