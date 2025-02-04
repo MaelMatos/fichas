@@ -25,7 +25,7 @@ Vantagens 1
 - equipamento profano
 - peçonha ácida
 - arma natural(presas)
-- equipamento 
+- equipamento: 
 
 Desvantagens 1
 
