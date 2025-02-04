@@ -1,4 +1,4 @@
-Nome - 
+Nome: Siddarta
 Raça - 
 Classe - 
 HP| 
