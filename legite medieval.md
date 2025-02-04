@@ -2,7 +2,7 @@ Nome: Siddarta
 Raça: Draconato
 Classe: Necromante
 HP| 
-Mana|  
+Mana| 12 
 Nível -  1
 XP - 
 Dinheiro - 530
