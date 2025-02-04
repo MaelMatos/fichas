@@ -1,5 +1,5 @@
 Nome: Siddarta
-Raça: Sérpe(Meio-Draconato)
+Raça: Draconato
 Classe: Necromante
 HP| 
 Mana|  
@@ -18,7 +18,7 @@ Vontade: +2
 Inventário 2
 - Espada de Hermes
 	- Dano 6 | Ladrão de almas
-- 
+
 
 Técnicas 2 (7 e 15)
 
@@ -29,7 +29,7 @@ Vantagens 1
 - equipamento: espada de hermes
 
 Desvantagens 1
-- coração fraco
+- monstruoso
 
 Perícias 6
 Combate Armado (1) 0/10, Força
