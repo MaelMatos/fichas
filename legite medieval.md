@@ -1,4 +1,4 @@
-Nome: Siddarta
+Nome: Siddarta "Portador da Destruição"
 Raça: Draconato
 Classe: Necromante
 HP| 4/4+21/21
