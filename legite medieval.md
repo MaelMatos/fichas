@@ -32,9 +32,9 @@ Desvantagens 1
 - monstruoso
 
 Perícias 6
-Combate Armado (1) 0/10, Força
+Combate Armado (1+1) 0/10, Força
 Combate Desarmado () 0/10, Força ou Habilidade
-Combate Á Distância () 0/10, Poder de Fogo
+Combate Á Distância (1) 0/10, Poder de Fogo
 Atletismo () 0/10, Força
 Acrobacia () 0/10, Habilidade
 Furtividade () 0/10, Habilidade
@@ -46,10 +46,10 @@ Entretenimento () 0/10, Vontade
 Intimidação () 0/10, Vontade ou Força
 Investigação () 0/10, Inteligência
 Intuição () 0/10, Vontade
-Arcana (1) 0/10, Inteligência
+Arcana (1+2) 0/10, Inteligência
 Religião (1) 0/10, Inteligência
 Alquimia () 0/10, Inteligência
-Ferraria () 0/10, Força
+Ferraria (2) 0/10, Força
 Medicina () 0/10, Inteligência
 Prestidigitação () 0/10, Habilidade
 Sobrevivência () 0/10, Habilidade ou Inteligência
