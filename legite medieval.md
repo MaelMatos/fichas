@@ -1,8 +1,8 @@
 Nome: Siddarta
 Raça: Draconato
 Classe: Necromante
-HP| 
-Mana| 12 
+HP| 4/4
+Mana| 21 
 Nível -  1
 XP - 
 Dinheiro - 530
@@ -11,7 +11,7 @@ Atributos 14
 Força: 2 
 Habilidade: 2 
 Poder de Fogo: 1 
-Resistência: 1+1 
+Resistência: 0+1 
 Inteligência: 2 
 Vontade: 6+2
 
@@ -23,9 +23,10 @@ Inventário 2
 Técnicas 2 (7 e 15)
 
 Vantagens 1
-- patrono
+- patrono: mimihagi, o deus da inércia/evolução
 - voo
 - arma natural(sopro)
+- poder oculto
 
 Desvantagens 1
 - monstruoso
