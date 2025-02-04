@@ -8,12 +8,12 @@ XP - 
 Dinheiro - 530
 
 Atributos 14
-Força: 
-Habilidade 
-Poder de Fogo 
+Força: 4 
+Habilidade: 2 
+Poder de Fogo: 1 
 Resistência: 1+1 
-Inteligência: 
-Vontade: +2
+Inteligência: 2 
+Vontade: 4+2
 
 Inventário 2
 - Espada de Hermes
