@@ -1,5 +1,5 @@
 Nome: Siddarta
-Raça: Meio-Draconato
+Raça: Sérpe(Meio-Draconato)
 Classe: Necromante
 HP| 
 Mana|  
@@ -21,6 +21,8 @@ Técnicas 2 (7 e 15)
 
 Vantagens 1
 - equipamento profano
+- peçonha ácida
+- arma natural(presas)
 
 Desvantagens 1
 
