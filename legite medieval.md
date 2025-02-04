@@ -27,10 +27,9 @@ Vantagens 1
 - peçonha ácida
 - arma natural(presas)
 - equipamento: espada de hermes
-- base de operações
 
 Desvantagens 1
-- 
+- coração fraco
 
 Perícias 6
 Combate Armado (1) 0/10, Força
