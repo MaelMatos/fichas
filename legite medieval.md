@@ -17,6 +17,7 @@ Vontade: +2
 
 Inventário 2
 
+
 Técnicas 2 (7 e 15)
 
 Vantagens 1
