@@ -27,7 +27,7 @@ Técnicas 2 (7 e 15)
 - Carrington
 	- custo 7 | dano 7 
 - Amargedoom
-	- 
+	- custo 15 | dano 10 | perigoso
 
 Vantagens 1
 - patrono: mimihagi, o deus da inércia/evolução
@@ -72,4 +72,6 @@ Luz 
 Trevas:  
 Arcano: 2  
 
-Anotações Gerais
+# Anotações Gerais
+## História
+filho de um bardo humano com uma guerreira draconato, Siddarta herdou de sua mãe uma devoção a mimihagi, o secto ao qual ele e sua mãe fazem parte possue outro secto rival que adora a outro deus irmão chamado pernida
