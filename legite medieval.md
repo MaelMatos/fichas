@@ -51,7 +51,7 @@ Persuasão () 0/10, Vontade
 Negociação () 0/10, Vontade
 Entretenimento () 0/10, Vontade
 Intimidação (2) 0/10, Vontade ou Força
-Investigação () 0/10, Inteligência
+Investigação () 1/10, Inteligência
 Intuição () 0/10, Vontade
 Arcana (2) 0/10, Inteligência
 Religião (1+1) 1/10, Inteligência
