@@ -18,6 +18,7 @@ Vontade: +2
 Inventário 2
 - Espada de Hermes
 	- Dano 6 | Ladrão de almas
+- 
 
 Técnicas 2 (7 e 15)
 
