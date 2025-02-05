@@ -50,10 +50,10 @@ Enganação () 0/10, Vontade
 Persuasão () 0/10, Vontade
 Negociação () 0/10, Vontade
 Entretenimento () 0/10, Vontade
-Intimidação (2) 2/10, Vontade ou Força
+Intimidação (4) 2/10, Vontade ou Força
 Investigação () 3/10, Inteligência
 Intuição () 0/10, Vontade
-Arcana (2) 0/10, Inteligência
+Arcana (0) 0/10, Inteligência
 Religião (1+1) 3/10, Inteligência
 Alquimia () 0/10, Inteligência
 Ferraria () 0/10, Força
