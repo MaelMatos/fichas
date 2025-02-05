@@ -4,7 +4,7 @@ Classe: Necromante
 HP| 4/4+20/21
 Mana| 0/21 
 Nível -  1
-XP 40 
+XP 140 
 Dinheiro - 510
 
 Atributos 14
