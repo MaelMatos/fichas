@@ -2,7 +2,7 @@ Nome: Siddarta "Portador da Destruição"
 Raça: Draconato
 Classe: Necromante
 HP| 4/4+21/21
-Mana| 7/21 
+Mana| 0/21 
 Nível -  1
 XP 40 
 Dinheiro - 510
