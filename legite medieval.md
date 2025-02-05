@@ -1,6 +1,6 @@
-Nome: Siddarta "Portador da Destruição"
+Nome: Siddarta "Portador da Tempestade"
 Raça: Draconato
-Classe: Necromante
+Classe: Clérigo
 HP| 4/4+20/21
 Mana| 21/21 
 Nível -  2
