@@ -5,7 +5,7 @@ HP| 4/4+20/21
 Mana| 0/21 
 Nível -  2
 XP 15 
-Dinheiro - 610
+Dinheiro - 810
 
 Atributos 14
 Força: 4 
