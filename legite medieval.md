@@ -3,17 +3,17 @@ Raça: Draconato
 Classe: Necromante
 HP| 4/4+20/21
 Mana| 0/21 
-Nível -  1
-XP 140 
+Nível -  2
+XP 15 
 Dinheiro - 510
 
 Atributos 14
-Força: 2 
+Força: 4 
 Habilidade: 2-1 
 Poder de Fogo: 1 
 Resistência: 0+1+3 
 Inteligência: 2 
-Vontade: 6+2
+Vontade: 8+2
 
 Inventário 2
 - Espada de Hermes
@@ -27,7 +27,7 @@ Técnicas 2 (7 e 15)
 - Carrington
 	- custo 7 | dano 7 
 - Amargedoom
-	- custo 15 | dano 10 | perigoso
+	- custo 15 | dano 10 | perigoso 
 
 Vantagens 1
 - patrono: mimihagi, o deus da inércia/evolução
