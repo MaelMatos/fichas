@@ -24,6 +24,7 @@ Inventário 2
 - anel de prateado de safira
 	- +20 de mana
 - escudo
+	- +4 FD
 
 
 Técnicas 2 (7 e 15)
