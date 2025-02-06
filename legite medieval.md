@@ -73,5 +73,3 @@ Raio: 1 
 Luz 
 Trevas:  
 Arcano: 2  
-
-# Anotações Gerais
