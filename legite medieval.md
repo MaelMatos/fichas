@@ -4,7 +4,7 @@ Classe: Clérigo
 HP| 4/4+18/21
 Mana| 21/21+20/20 
 Nível -  2
-XP 15 
+XP 45 
 Dinheiro - 60
 
 Atributos 14
@@ -23,6 +23,7 @@ Inventário 2
 	- 39/40 durabilidade
 - anel de prateado de safira
 	- +20 de mana
+- escudo
 
 
 Técnicas 2 (7 e 15)
@@ -52,7 +53,7 @@ Enganação () 0/10, Vontade
 Persuasão () 0/10, Vontade
 Negociação () 0/10, Vontade
 Entretenimento () 0/10, Vontade
-Intimidação (4) 2/10, Vontade ou Força
+Intimidação (4) 3/10, Vontade ou Força
 Investigação () 3/10, Inteligência
 Intuição () 0/10, Vontade
 Arcana (0) 0/10, Inteligência
