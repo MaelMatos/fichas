@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legite medieval.md",
+                "file": "naruto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "legite medieval"
+              "title": "naruto"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 274.5
   },
   "right": {
     "id": "b30cd460ee1db0b6",
@@ -192,9 +192,9 @@
   },
   "active": "783d25cdf6bd9e06",
   "lastOpenFiles": [
+    "legite medieval.md",
     "medieval.md",
     "one_piece.md",
-    "legite medieval.md",
     "naruto gOLD 20-12-2024.md",
     "naruto gOLD.md",
     "naruto.md",
