@@ -47,7 +47,7 @@ Combate Á Distância () 0/10, Poder de Fogo
 Atletismo () 2/10, Força
 Acrobacia () 0/10, Habilidade
 Furtividade () 1/10, Habilidade
-Percepção () 4/10, Habilidade
+Percepção () 5/10, Habilidade
 Enganação () 0/10, Vontade
 Persuasão () 0/10, Vontade
 Negociação () 0/10, Vontade
