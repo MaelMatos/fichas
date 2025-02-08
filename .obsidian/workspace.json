@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "legite medieval.md",
+                "file": "harry_potter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "legite medieval"
+              "title": "harry_potter"
+            }
+          },
+          {
+            "id": "82285632492f912c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "harry_potter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "harry_potter"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "783d25cdf6bd9e06",
+  "active": "82285632492f912c",
   "lastOpenFiles": [
-    "naruto.md",
     "legite medieval.md",
+    "naruto.md",
     "medieval.md",
     "one_piece.md",
     "naruto gOLD 20-12-2024.md",
