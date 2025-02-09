@@ -6,22 +6,22 @@ Casa:  sonserina
 Dinheiro: 130 
 Criptodinheiros: 0
 Vida: 58/218  
-Energia: 17/115  
+Energia: 17/307  
 
 # Atributos (59) 
 Resistência: 18    
-Habilidade: 10  
+Habilidade: 30  
 Agilidade: 10  
 Carisma:  10  
-Inteligência: 10  
-Poder: 20  
-Mana: 10  
+Inteligência: 13  
+Poder: 40  
+Mana: 20  
 
 
 # Perícias  (20)
 Força: 4  
 Magia: 16 
-Magia das Trevas: 10  
+Magia das Trevas: 20  
 
 # Magias(8)
 - Reparo(2)
