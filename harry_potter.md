@@ -54,9 +54,12 @@ Magia das Trevas: 20
 	- Ataque em dobro(acerta ambos em um único ataque)
 	- Munição 6
  - poção sombria: agonia x1
+ - Poção de Mana doce 2/2 30 de recuperação 
+ - Poção de Mana azeda 1/1 65 de recuperação 
+ - Poção de Mana Cacau 1/1 Regeneração de 40 de Mana por 10 rodadas
  - kit do feiticeiro
-	 - Poção de Vida(40 HP) 1/1
-	 - Poção de Mana(40 MP) 1/1
+	 - Poção de Vida(40 HP) 0/1
+	 - Poção de Mana(40 MP) 0/1
 	 - Poção de Agilidade(+5 AG/3 ROD) 1/1
 	 - Capa de Bruxo Estudante
 	 - Emblema da Casa
