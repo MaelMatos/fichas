@@ -52,7 +52,7 @@ Magia das Trevas: 20
 - Dardo
 	- Dano 2 cortante
 	- Ataque em dobro(acerta ambos em um único ataque)
-	- Munição 2
+	- Munição 6
  - poção sombria: agonia x1
  - kit do feiticeiro
 	 - Poção de Vida(40 HP) 1/1
