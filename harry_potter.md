@@ -46,7 +46,7 @@ Magia das Trevas: 20
 - amuleto de coruja
 - livro: a arte da magia das trevas  
 - poção aromática
-- fraco de agonia liquida  (20ml)
+- fraco de agonia liquida  (20ml) x3
 - faca de arremesso
 	- dano 6
 - Dardo
