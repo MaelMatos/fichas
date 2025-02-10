@@ -1,7 +1,7 @@
 Nome: Siddarta "Portador da Tempestade"
 Raça: Draconato
 Classe: Clérigo
-HP| 4/4+21/21+7/7
+HP| 3/4+0/21+0/7
 Mana| 21/21+20/20 
 Nível -  2
 XP 45 
