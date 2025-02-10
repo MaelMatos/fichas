@@ -9,7 +9,7 @@ Dinheiro - 60
 
 Atributos 14
 Força: 4 
-Habilidade: 2-1 
+Habilidade: 2-1+1 
 Poder de Fogo: 1 
 Resistência: 0+1+3 
 Inteligência: 2 
@@ -23,8 +23,8 @@ Inventário 2
 	- 39/40 durabilidade
 - anel de prateado de safira
 	- +20 de mana
-- escudo
-	- +4 FD
+- escudo pequeno
+	- +2 FD +1 HAB
 
 
 Técnicas 2 (7 e 15)
