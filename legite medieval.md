@@ -31,7 +31,7 @@ Técnicas 2 (7 e 15)
 - Carrington
 	- custo 7 | dano 7 
 - Amargedoom
-	- custo 15 | dano 10 | perigoso 
+	- custo 15 | dano 10 | reciclável 
 
 Vantagens 1
 - patrono: mimihagi, o deus da inércia/evolução
