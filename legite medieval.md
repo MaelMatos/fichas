@@ -49,7 +49,7 @@ Combate Á Distância () 0/10, Poder de Fogo
 Atletismo () 3/10, Força
 Acrobacia () 0/10, Habilidade
 Furtividade () 2/10, Habilidade
-Percepção () 6/10, Habilidade
+Percepção () 7/10, Habilidade
 Enganação () 0/10, Vontade
 Persuasão () 0/10, Vontade
 Negociação () 0/10, Vontade
@@ -58,13 +58,13 @@ Intimidação (4) 3/10, Vontade ou Força
 Investigação () 4/10, Inteligência
 Intuição () 0/10, Vontade
 Arcana (0) 0/10, Inteligência
-Religião (1+1) 3/10, Inteligência
+Religião (1+1) 4/10, Inteligência
 Alquimia () 0/10, Inteligência
 Ferraria () 0/10, Força
 Medicina (+1) 0/10, Inteligência
 Prestidigitação () 0/10, Habilidade
 Sobrevivência () 0/10, Habilidade ou Inteligência
-Liderança (+1) 0/10, Vontade ou Inteligência
+Liderança (+1) 1/10, Vontade ou Inteligência
 
 Caminhos da Magia(3)
 Fogo 
