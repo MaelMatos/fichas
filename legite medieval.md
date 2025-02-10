@@ -25,12 +25,13 @@ Inventário 2
 	- +20 de mana
 - escudo pequeno
 	- +2 FD +1 HAB
+- tocha apagada
 
 
 Técnicas 2 (7 e 15)
 - Carrington
 	- custo 7 | dano 7 
-- Amargedoom
+- Amargedom
 	- custo 15 | dano 10 | reciclável 
 
 Vantagens 1
