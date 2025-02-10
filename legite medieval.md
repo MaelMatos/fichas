@@ -3,8 +3,8 @@ Raça: Draconato
 Classe: Clérigo
 HP| 4/4+15/21+0/7
 Mana| 7/21+10/20 
-Nível -  2
-XP 185 
+Nível -  3
+XP 75 
 Dinheiro - 60
 
 Atributos 14
@@ -13,7 +13,7 @@ Habilidade: 2-1
 Poder de Fogo: 1 
 Resistência: 0+1+3 
 Inteligência: 2 
-Vontade: 8+2
+Vontade: 12+2
 
 Inventário 2
 - Espada de Hermes
@@ -38,6 +38,7 @@ Vantagens 1
 - voo
 - arma natural(sopro)
 - poder oculto
+- gasto controlado
 
 Desvantagens 1
 - monstruoso
