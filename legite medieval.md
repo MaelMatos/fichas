@@ -1,8 +1,8 @@
 Nome: Siddarta "Portador da Tempestade"
 Raça: Draconato
 Classe: Clérigo
-HP| 4/4+21/21+7/7
-Mana| 21/21+20/20 
+HP| 4/4+21/21+2/7
+Mana| 19/21+20/20 
 Nível -  3
 XP 75 
 Dinheiro - 835
@@ -20,7 +20,7 @@ Inventário 2
 	- Dano 6 
 - Armadura pesada 
 	- -1 HAB +3 RES
-	- 39/40 durabilidade
+	- 35/40 durabilidade
 - anel de prateado de safira
 	- +20 de mana
 - escudo pequeno
@@ -60,7 +60,7 @@ Intimidação (4) 6/10, Vontade ou Força
 Investigação () 4/10, Inteligência
 Intuição () 0/10, Vontade
 Arcana (0) 0/10, Inteligência
-Religião (2+1) 0/10, Inteligência
+Religião (2+1) 1/10, Inteligência
 Alquimia () 0/10, Inteligência
 Ferraria () 0/10, Força
 Medicina (+1) 0/10, Inteligência
