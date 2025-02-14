@@ -6,7 +6,7 @@ Mana| 3/21+20/20
 Nível -  3
 XP 735 
 Dinheiro - 835
-3 stack
+
 
 Atributos 14
 Força: 4 
