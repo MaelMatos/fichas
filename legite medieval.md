@@ -6,16 +6,15 @@ Mana| 19/21+20/20
 Nível -  3
 XP 1065 
 Dinheiro - 0
-5
 +1D8 de dano de luz
 
 Atributos 14
 Força: 4 
-Habilidade: 2-1+1+3 
+Habilidade: 4-1+1+3 
 Poder de Fogo: 1 
 Resistência: 0+1+3 
 Inteligência: 2 
-Vontade: 12+2
+Vontade: 15+2
 
 Inventário 2
 - Espada de Hermes
