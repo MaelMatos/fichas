@@ -7,7 +7,7 @@ Nível -  3
 XP 1065 
 Dinheiro - 0
 5
-tecnica
++1D8 de dano de luz
 
 Atributos 14
 Força: 4 
@@ -41,6 +41,8 @@ Técnicas 2 (7 e 15)
 	- custo 7 | dano 7 
 - Amargedom
 	- custo 15 | dano 10 | reciclável 
+- Big RIP
+	- custo 20 | dano 10 | área | poderoso
 
 Vantagens 1
 - patrono: pernidas, o deus do movimento/evolução
