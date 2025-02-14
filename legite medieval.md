@@ -42,7 +42,7 @@ Técnicas 2 (7 e 15)
 	- custo 15 | dano 10 | reciclável 
 
 Vantagens 1
-- patrono: mimihagi, o deus da inércia/evolução
+- patrono: pernidas, o deus do movimento/evolução
 - voo
 - arma natural(sopro)
 - poder oculto
