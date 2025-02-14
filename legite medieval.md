@@ -5,12 +5,12 @@ HP| 4/4+21/21+7/7
 Mana| 21/21+20/20 
 Nível -  3
 XP 735 
-Dinheiro - 960
+Dinheiro - 2100
 
 
 Atributos 14
 Força: 4 
-Habilidade: 2-1+1 
+Habilidade: 2-1+1+3 
 Poder de Fogo: 1 
 Resistência: 0+1+3 
 Inteligência: 2 
