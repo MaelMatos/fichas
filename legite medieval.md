@@ -27,6 +27,12 @@ Inventário 2
 - escudo pequeno
 	- +2 FD +1 HAB
 - tocha apagada
+- colar da agilidade
+	- +3 HAB
+- onyx místico
+	- cancelamento de dano
+
+
 
 
 Técnicas 2 (7 e 15)
@@ -58,10 +64,10 @@ Persuasão () 0/10, Vontade
 Negociação () 1/10, Vontade
 Entretenimento () 0/10, Vontade
 Intimidação (4) 6/10, Vontade ou Força
-Investigação () 4/10, Inteligência
+Investigação () 5/10, Inteligência
 Intuição () 0/10, Vontade
 Arcana (0) 0/10, Inteligência
-Religião (2+1) 6/10, Inteligência
+Religião (2+1) 7/10, Inteligência
 Alquimia () 0/10, Inteligência
 Ferraria () 0/10, Força
 Medicina (+1) 0/10, Inteligência
