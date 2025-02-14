@@ -4,7 +4,7 @@ Classe: Clérigo
 HP| 4/4+21/21+7/7
 Mana| 21/21+20/20 
 Nível -  3
-XP 735 
+XP 855 
 Dinheiro - 0
 
 
