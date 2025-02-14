@@ -53,7 +53,7 @@ Desvantagens 1
 
 Perícias 6
 Combate Armado (1+1) 4/10, Força
-Combate Desarmado () 2/10, Força ou Habilidade
+Combate Desarmado () 3/10, Força ou Habilidade
 Combate Á Distância () 0/10, Poder de Fogo
 Atletismo () 5/10, Força
 Acrobacia () 0/10, Habilidade
@@ -63,7 +63,7 @@ Enganação () 0/10, Vontade
 Persuasão () 0/10, Vontade
 Negociação () 1/10, Vontade
 Entretenimento () 0/10, Vontade
-Intimidação (4) 6/10, Vontade ou Força
+Intimidação (4) 7/10, Vontade ou Força
 Investigação () 6/10, Inteligência
 Intuição () 0/10, Vontade
 Arcana (0) 0/10, Inteligência
