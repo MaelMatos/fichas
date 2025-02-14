@@ -49,7 +49,7 @@ Perícias 6
 Combate Armado (1+1) 4/10, Força
 Combate Desarmado () 2/10, Força ou Habilidade
 Combate Á Distância () 0/10, Poder de Fogo
-Atletismo () 4/10, Força
+Atletismo () 5/10, Força
 Acrobacia () 0/10, Habilidade
 Furtividade () 2/10, Habilidade
 Percepção () 9/10, Habilidade
