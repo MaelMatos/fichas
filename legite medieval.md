@@ -5,7 +5,7 @@ HP| 4/4+21/21+7/7
 Mana| 21/21+20/20 
 Nível -  3
 XP 735 
-Dinheiro - 710
+Dinheiro - 960
 
 
 Atributos 14
@@ -55,7 +55,7 @@ Furtividade () 2/10, Habilidade
 Percepção () 9/10, Habilidade
 Enganação () 0/10, Vontade
 Persuasão () 0/10, Vontade
-Negociação () 0/10, Vontade
+Negociação () 1/10, Vontade
 Entretenimento () 0/10, Vontade
 Intimidação (4) 6/10, Vontade ou Força
 Investigação () 4/10, Inteligência
