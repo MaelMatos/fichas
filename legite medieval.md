@@ -3,7 +3,7 @@ Raça: Draconato
 Classe: Clérigo
 HP| 4/4+21/21+7/7
 shield 7/7
-Mana| 13/21+20/20 
+Mana| 11/21+20/20 
 Nível -  3
 XP 1165 
 Dinheiro - 2466
