@@ -41,7 +41,7 @@ Técnicas 2 (7 e 15)
 - Amargedom
 	- custo 15 | dano 10 | reciclável 
 - Éden
-	- custo 20 | escudo | 
+	- custo 20 | escudo | vorpal
 
 Vantagens 1
 - patrono: pernidas, o deus do movimento/evolução
