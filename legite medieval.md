@@ -39,7 +39,7 @@ Técnicas 2 (7 e 15)
 - Carrington
 	- custo 7 | dano 7 
 - Amargedom
-	- custo 15 | dano 10 | reciclável 
+	- custo 15 | dano 10 | reciclável | escalável
 - Éden
 	- custo 20 | escudo | vorpal
 

@@ -27,3 +27,4 @@ magia: 1
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
 - Frágil
+- Ferida aberta
