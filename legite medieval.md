@@ -40,8 +40,8 @@ Técnicas 2 (7 e 15)
 	- custo 7 | dano 7 
 - Amargedom
 	- custo 15 | dano 10 | reciclável 
-- Big RIP
-	- custo 20 | dano 10 | área | poderoso
+- Éden
+	- custo 20 | escudo | 
 
 Vantagens 1
 - patrono: pernidas, o deus do movimento/evolução
