@@ -77,7 +77,7 @@ Arcana (0) 0/10, Inteligência
 Religião (3+2) 9/10, Inteligência
 Alquimia () 0/10, Inteligência
 Ferraria () 0/10, Força
-Medicina (+1) 0/10, Inteligência
+Medicina (+1) 1/10, Inteligência
 Prestidigitação () 0/10, Habilidade
 Sobrevivência () 0/10, Habilidade ou Inteligência
 Liderança (+1) 1/10, Vontade ou Inteligência
