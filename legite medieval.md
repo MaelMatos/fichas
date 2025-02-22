@@ -31,6 +31,9 @@ Inventário 2
 	- +3 HAB
 - onyx místico
 	- cancelamento de dano
+- Cajado de Osso Flamejante 
+	- +10 de dano de fogo
+	- Penalizador
 
 
 
