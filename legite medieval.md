@@ -72,7 +72,7 @@ Negociação () 1/10, Vontade
 Entretenimento () 0/10, Vontade
 Intimidação (4) 8/10, Vontade ou Força
 Investigação () 7/10, Inteligência
-Intuição () 0/10, Vontade
+Intuição () 1/10, Vontade
 Arcana (0) 0/10, Inteligência
 Religião (3+2) 8/10, Inteligência
 Alquimia () 0/10, Inteligência
