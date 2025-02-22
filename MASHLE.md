@@ -21,3 +21,4 @@ magia:
 - Adaptador
 
 ## desvantagens
+- Ponto fraco
