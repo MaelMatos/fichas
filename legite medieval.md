@@ -2,7 +2,7 @@ Nome: Siddarta "Portador da Tempestade"
 Raça: Draconato
 Classe: Clérigo
 HP| 4/4+21/21+7/7
-Shields 
+Shields 20/20
 Mana| 9/21+20/20 
 Nível -  3
 XP 1285 
@@ -46,7 +46,7 @@ Técnicas 2 (7 e 15)
 - Amargedom
 	- custo 15 | dano 10 | reciclável | escalável
 - Éden
-	- custo 20 | escudo | vorpal
+	- custo 20 | escudo 20
 
 Vantagens 1
 - patrono: pernidas, o deus do movimento/evolução
