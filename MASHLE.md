@@ -28,3 +28,4 @@ magia: 1
 - Ponto fraco: lado direito do peito(coração)
 - Frágil
 - Ferida aberta
+- insone
