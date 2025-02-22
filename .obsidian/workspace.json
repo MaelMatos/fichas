@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,10 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4dd4ef33b657af7",
+  "active": "084a9569b53f2ccf",
   "lastOpenFiles": [
-    "legite medieval.md",
     "MASHLE.md",
+    "legite medieval.md",
     "harry_potter.md",
     "naruto.md",
     "medieval.md",
