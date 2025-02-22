@@ -8,9 +8,9 @@ Mana:
 ## atributos (20)
 força: 0
 resistência: 0
-habilidade: 3
+habilidade: 8
 inteligência: 1
-foco: 15
+foco: 10
 magia: 1
 
 ## pericias:
