@@ -3,7 +3,8 @@ nome: Ikki sirius
 status social:
 linhas: 3
 casa:
-
+Vida: 0
+Mana: 
 ## atributos (20)
 força: 0
 resistência: 0
@@ -20,7 +21,8 @@ magia: 1
 ## vantagens:
 - Adaptador
 - Controle de energia
-- 
+- Sentido especial: radar
+- Boa fama
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
