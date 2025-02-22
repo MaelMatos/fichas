@@ -4,8 +4,7 @@ status social:
 linhas: 3
 casa:
 
-## atributos 
-
+## atributos (20)
 força:
 resistência:
 habilidade:
@@ -21,4 +20,5 @@ magia:
 - Adaptador
 
 ## desvantagens
-- Ponto fraco
+- Ponto fraco: lado direito do peito(coração)
+- 
