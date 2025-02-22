@@ -6,7 +6,7 @@ shield 7/7
 Mana| 13/21+20/20 
 Nível -  3
 XP 1165 
-Dinheiro - 0
+Dinheiro - 2466
 +1D8 de dano de luz
 
 
