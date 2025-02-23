@@ -6,8 +6,8 @@ Shields 20
 Mana| 21/21+20/20+19/19+20/20
 Nível -  3
 XP 1765 
-Dinheiro - 2466
-+1D8 de dano de luz
+Dinheiro - 3466
+
 
 
 Atributos 14
