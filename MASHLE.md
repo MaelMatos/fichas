@@ -15,6 +15,8 @@ foco: 10
 magia: 1
 
 ## pericias:
+## Técnicas
+
 
 ## inventario:
 - Varinha +5
