@@ -21,12 +21,11 @@ magia: 1
 
 ## vantagens:
 - Adaptador
-- Controle de energia
-- Sentido especial: radar
-- Boa fama
+- Controle de energia II
+- Sentido especial: sensor de perigo
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
 - Frágil
-- Ferida aberta
-- insone
+- Fantasia
+- segredo: possui 3 linhas
