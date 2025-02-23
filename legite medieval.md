@@ -74,7 +74,7 @@ Intimidação (4) 8/10, Vontade ou Força
 Investigação () 7/10, Inteligência
 Intuição () 1/10, Vontade
 Arcana (0) 0/10, Inteligência
-Religião (4+2) 2/10, Inteligência
+Religião (4+2) 4/10, Inteligência
 Alquimia () 0/10, Inteligência
 Ferraria () 0/10, Força
 Medicina (+1) 1/10, Inteligência
