@@ -32,5 +32,5 @@ magia: 1
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
 - Frágil
-- Fantasia
+- Feridas abertas
 - segredo: possui 3 linhas
