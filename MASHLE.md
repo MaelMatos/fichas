@@ -17,7 +17,7 @@ magia: 1
 ## pericias:
 ## Técnicas
 - Botas solares
-	- custo 10 | +? HAB | ? rodadas
+	- custo 10 | +1 HAB | 2 rodadas
 - Canhão desintegrador 
 	- custo 20 | dano 15 | ataque carregado
 
