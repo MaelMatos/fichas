@@ -29,6 +29,7 @@ magia: 1
 - Adaptador
 - Controle de energia II
 - Sentido especial: sensor de perigo
+- superação
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)

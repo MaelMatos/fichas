@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "ee3a1f8b0aa8c7d1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
-          },
-          {
             "id": "c4dd4ef33b657af7",
             "type": "leaf",
             "state": {
@@ -62,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
