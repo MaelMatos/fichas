@@ -10,7 +10,7 @@ Controle : 0/198
 ## atributos (20)
 força: 0
 resistência: 0
-habilidade: 8
+habilidade: 10
 inteligência: 1
 foco: 10
 magia: 1
