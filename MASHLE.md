@@ -20,7 +20,7 @@ magia: 1
 - Botas solares
 	- custo 10 | +1 HAB | 2 rodadas
 - Canhão desintegrador 
-	- custo 20 | dano 15 | ataque carregado
+	- custo 30 | dano 30 | ataque carregado | vorpal
 
 ## inventario:
 - Varinha +5
