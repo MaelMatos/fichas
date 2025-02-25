@@ -23,7 +23,12 @@ magia: 1
 	- custo 30 | dano 30 | ataque carregado | vorpal
 
 ## inventario:
-- Varinha +5
+- Varinha 
+	- +5 dano
+- varinha de vidro foco metalico
+	- dano +9
+	- perfuracao +1
+- livro antigo selado
 
 ## vantagens:
 - Adaptador
