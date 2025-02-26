@@ -29,6 +29,7 @@ magia: 1
 	- dano +9
 	- perfuracao +1
 - livro antigo selado
+- moeda de prata x7
 
 ## vantagens:
 - Adaptador
