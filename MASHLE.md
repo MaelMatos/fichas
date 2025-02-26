@@ -16,6 +16,9 @@ foco: 10
 magia: 1
 
 ## pericias:
+## magias
+- Plasma
+- Eletricidade
 ## Técnicas
 - Botas solares
 	- custo 10 | +1 HAB | 2 rodadas
