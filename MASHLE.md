@@ -39,7 +39,7 @@ magia: 4
 - Controle de energia II
 - Sentido especial: sensor de perigo
 - superação
-- inventor(3)
+- ambidestria(3)
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
