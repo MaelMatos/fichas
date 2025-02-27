@@ -4,16 +4,16 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 183/198
-Controle : 150/198
-10
+Mana: 198/198
+Controle : 198/198
+
 ## atributos (20)
 força: 0
 resistência: 0
 habilidade: 10
-inteligência: 1
+inteligência: 3
 foco: 10
-magia: 1
+magia: 3
 
 ## pericias:
 ## magias
@@ -22,8 +22,10 @@ magia: 1
 ## Técnicas
 - Botas solares
 	- custo 10 | +1 HAB | 2 rodadas
+- Supernova 
+	- custo 10 | dano 5 | cegueira
 - Canhão desintegrador 
-	- custo 50 | dano 50 | ataque carregado | vorpal
+	- custo 50 | dano 50 | ataque carregado | vorpal | teleguiado
 
 ## inventario:
 - Varinha 
@@ -39,6 +41,7 @@ magia: 1
 - Controle de energia II
 - Sentido especial: sensor de perigo
 - superação
+- inventor(3)
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
