@@ -11,9 +11,9 @@ Controle : 198/198
 força: 0
 resistência: 0
 habilidade: 10
-inteligência: 3
+inteligência: 4
 foco: 10
-magia: 3
+magia: 4
 
 ## pericias:
 ## magias
@@ -22,8 +22,6 @@ magia: 3
 ## Técnicas
 - Botas solares
 	- custo 10 | +1 HAB | 2 rodadas
-- Supernova 
-	- custo 10 | dano 5 | cegueira
 - Canhão desintegrador 
 	- custo 50 | dano 50 | ataque carregado | vorpal | teleguiado
 
@@ -32,7 +30,7 @@ magia: 3
 	- +5 dano
 - varinha de vidro foco metalico
 	- dano +9
-	- perfuracao +1
+	- perfuração +1
 - livro antigo selado
 - moeda de prata x7
 
