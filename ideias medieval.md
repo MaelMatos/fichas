@@ -7,7 +7,7 @@
 	- custo ? | dano ? | em área | sangramento | poderoso
 - Ataque combinado: Apocalipse
 	- a junção e um cataclisma com o som aterrador de uma trombeta
-	- custo ? | dano ? | enfrquecimento | paralisia II 
+	- custo ? | dano ? | enfraquecimento | paralisia II 
 - Ragnarok
 	- uma grande explosão de fogo que desintegra tudo em uma área
 	- custo ? | dano ? | dano gigante | vorpal 
