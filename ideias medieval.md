@@ -6,7 +6,7 @@
 	- uma distorção no espaço que acelera a espansão universal em uma área, se assemelha com uma esplosão em danos
 	- custo ? | dano ? | em área | sangramento | poderoso
 - Ataque combinado: Apocalipse
-	- a junção e um cataclisma com o aom aterrador de uma trombeta
+	- a junção e um cataclisma com o som aterrador de uma trombeta
 	- custo ? | dano ? | enfrquecimento | paralisia II 
 - Ragnarok
 	- uma grande explosão de fogo que desintegra tudo em uma área
