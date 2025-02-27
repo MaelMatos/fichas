@@ -1,3 +1,13 @@
 # técnicas
 - Raio gamma
-	- uma lan
+	- uma lança feita de raios de cor roxa e negra que persegue e atravessa seus alvos
+	- custo ? | dano ? | escalavel | ataque carregado | teleguiado | alvo multiplo | penetrante | preciso
+- Big RIP
+	- uma distorção no espaço que acelera a espansão universal em uma área, se assemelha com uma esplosão em danos
+	- custo ? | dano ? | em área | sangramento | poderoso
+- Ataque combinado: Apocalipse
+	- a junção e um cataclisma com o aom aterrador de uma trombeta
+	- custo ? | dano ? | enfrquecimento | paralisia II 
+- Ragnarok
+	- uma grande explosão de fogo que desintegra tudo em uma área
+	- custo ? | dano ? | dano gigante | vorpal 
