@@ -11,7 +11,7 @@ Controle : 0/198
 força: 0
 resistência: 0
 habilidade: 10
-inteligência: 4
+inteligência: 6
 foco: 10
 magia: 4
 
@@ -26,7 +26,7 @@ magia: 4
 	- custo 50 | dano 50 | ataque carregado | vorpal | teleguiado
 
 ## inventario:
-- Varinha 
+- ~~Varinha~~ 
 	- +5 dano
 - varinha de vidro foco metalico
 	- dano +9
@@ -40,6 +40,7 @@ magia: 4
 - Sentido especial: sensor de perigo
 - superação
 - ambidestria(3)
+- inventor(3)
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
