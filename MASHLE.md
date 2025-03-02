@@ -7,11 +7,11 @@ Vida: 0
 Mana: 14/198
 Controle : 0/198
 43 shield
-(4d6)++9++50++10++6
+(d6)++9++50++10++6
 ## atributos (20)
 força: 0
 resistência: 0
-habilidade: 10+1
+habilidade: 10
 inteligência: 6
 foco: 10
 magia: 4
