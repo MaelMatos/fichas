@@ -7,7 +7,7 @@ Vida: 0
 Mana: 198/198
 Controle : 198/198
 
-(2d6)++20++50++10++8
+(1d6)++20++50++10++8
 ## atributos (20)
 força: 0
 resistência: 0
