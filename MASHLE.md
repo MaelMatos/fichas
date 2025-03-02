@@ -27,11 +27,6 @@ magia: 4
 	- custo 50 | dano 50 | ataque carregado | vorpal | teleguiado
 
 ## inventario:
-- Varinha
-	- +5 dano
-- varinha de vidro foco metalico
-	- dano +9
-	- perfuração +1
 - livro antigo selado
 - moeda de prata x7
 
