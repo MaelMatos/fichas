@@ -4,7 +4,7 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 14/198
+Mana: 0/198
 Controle : 0/198
 43 shield
 (d6)++9++50++10++6
