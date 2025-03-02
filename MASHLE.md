@@ -48,4 +48,4 @@ magia: 4
 - Ponto fraco: lado direito do peito(coração)
 - Frágil
 - Feridas abertas
-- segredo: possui 3 linhas
+- segredo II: possui 3 linhas & faz parte da $%#@!
