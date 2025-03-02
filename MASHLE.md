@@ -29,6 +29,7 @@ magia: 4
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
+- moeda de ouro x3
 - Raijin
 	- Dano +20
 	- Arma-escudo
