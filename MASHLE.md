@@ -6,7 +6,7 @@ casa:
 Vida: 0
 Mana: 0/198
 Controle : 0/198
-43 shield
+
 (d6)++9++50++10++6
 ## atributos (20)
 força: 0
