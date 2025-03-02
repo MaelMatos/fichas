@@ -29,6 +29,10 @@ magia: 4
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
+- Raijin
+	- Dano +20
+	- Arma-escudo
+	- Retornavel
 
 ## vantagens:
 - Adaptador
