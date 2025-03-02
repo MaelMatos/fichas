@@ -4,14 +4,14 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 95/198
+Mana: 90/198
 Controle : 0/198
 43 shield
 (1d6)++9++50++10++6
 ## atributos (20)
 força: 0
 resistência: 0
-habilidade: 10
+habilidade: 10+1
 inteligência: 6
 foco: 10
 magia: 4
