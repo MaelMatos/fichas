@@ -45,6 +45,7 @@ magia: 4
 - ambidestria(3)
 - inventor(3)
 - Aceleração(3)
+- base de operações
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
