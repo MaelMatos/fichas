@@ -22,9 +22,9 @@ magia: 4
 - Eletricidade
 ## Técnicas
 - Botas solares
-	- custo 10 | +1 HAB | 2 rodadas
+	- custo (10) | +1 HAB | 2 rodadas
 - Canhão desintegrador 
-	- custo 50 | dano 50 | ataque carregado | vorpal | teleguiado
+	- custo (50)18 | dano 50 | ataque carregado | vorpal | teleguiado
 
 ## inventario:
 - livro antigo selado
@@ -42,6 +42,7 @@ magia: 4
 - superação
 - ambidestria(3)
 - inventor(3)
+- Gasto controlado(3)
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
