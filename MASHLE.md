@@ -7,12 +7,12 @@ Vida: 0
 Mana: 0/198
 Controle : 0/198
 
-(d6)++20++50++10++6
+(d6)++20++50++10++8
 ## atributos (20)
 força: 0
 resistência: 0
 habilidade: 10
-inteligência: 6
+inteligência: 8
 foco: 10
 magia: 4
 
@@ -33,6 +33,7 @@ magia: 4
 	- Dano +20
 	- Arma-escudo
 	- Retornavel
+	- espiritual(3)
 
 ## vantagens:
 - Adaptador
