@@ -4,9 +4,9 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 123/198
+Mana: 98/198
 Controle : 198/198
-(3d6)++9++50++10++6
+(4d6)++9++50++10++6
 ## atributos (20)
 força: 0
 resistência: 0
