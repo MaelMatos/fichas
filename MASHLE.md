@@ -4,8 +4,8 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 198/198
-Controle : 198/198
+Mana: 168/198
+Controle : 168/198
 
 (1d6)++20++50++10++8
 ## atributos (20)
