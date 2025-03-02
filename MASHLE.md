@@ -34,6 +34,8 @@ magia: 4
 	- Arma-escudo
 	- Retornavel
 	- espiritual(3)
+- bomba de fumaça x2
+- bomba de gás torturante
 
 ## vantagens:
 - Adaptador
