@@ -27,7 +27,7 @@ magia: 4
 	- custo (10) | +1 HAB | 2 rodadas
 - Canhão desintegrador 
 	- custo (50) | dano 50 | ataque carregado | vorpal | teleguiado
-	- versão de katana(Lamina da destruição): aproximação
+	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
 	- custo 10%(26) | shield | 16 HAB | conversão de equipamento e técnica 
 
