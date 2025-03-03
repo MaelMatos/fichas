@@ -4,16 +4,16 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 168/198
-Controle : 168/198
-8
+Mana: 264/264
+Controle : 264/264
+
 (1d6)++20++50++10++8
 ## atributos (32)
 força: 0
 resistência: 0
-habilidade: 10
-inteligência: 8
-foco: 10
+habilidade: 14
+inteligência: 10
+foco: 12
 magia: 4
 
 ## pericias:
@@ -29,7 +29,7 @@ magia: 4
 	- custo (50) | dano 50 | ataque carregado | vorpal | teleguiado
 	- versão de katana(Lamina da destruição): aproximação
 - Transformação do Dragão do Relâmpago 
-	- custo 10% | shield | 16 HAB | conversão de equipamento e técnica 
+	- custo 10%(26) | shield | 16 HAB | conversão de equipamento e técnica 
 
 ## inventario:
 - livro antigo selado
