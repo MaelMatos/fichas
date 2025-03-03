@@ -6,7 +6,7 @@ casa:
 Vida: 0
 Mana: 58/264
 Controle : 0/264
-17
+
 
 (1d6)++20++50++10++8
 ## atributos (32)
@@ -27,7 +27,7 @@ magia: 4
 - Botas solares
 	- custo (10) | +1 HAB | 2 rodadas
 - Canhão desintegrador 
-	- custo (50) | dano 50 | ataque carregado | vorpal | teleguiado
+	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
 	- custo 10%(26) | shield | 16 HAB | conversão de equipamento e técnica 
