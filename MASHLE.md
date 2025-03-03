@@ -57,6 +57,10 @@ magia: 4
 - inventor(3)
 - Aceleração(3)
 - base de operações
+- combo(3)
+- ataque multiplo(3)
+- ataque oportuno(3)
+- força oculta(4)
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
