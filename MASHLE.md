@@ -44,7 +44,8 @@ magia: 4
 	- poderoso(2)
 	- forma de katana: crit na HAB, Dano +30 
 - Susanoo
-	- Dano 
+	- Dano 30
+	- dreno de mana
 - bomba de fumaça x2
 - bomba de gás torturante
 
