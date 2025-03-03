@@ -4,14 +4,15 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 168/264
+Mana: 112/264
 Controle : 264/264
+290/290
 
 (1d6)++20++50++10++8
 ## atributos (32)
 força: 0
 resistência: 0
-habilidade: 14
+habilidade: 14+16+1
 inteligência: 10
 foco: 12
 magia: 4
