@@ -7,7 +7,7 @@ Vida: 0
 Mana: 494/494
 Controle : 494/494
 
-## atributos (32)
+## atributos (72)
 força: 0
 resistência: 0
 habilidade: 34
