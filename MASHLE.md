@@ -4,7 +4,7 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 98/264
+Mana: 32/264
 Controle : 0/264
 212
 espada: 41
