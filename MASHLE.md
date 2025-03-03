@@ -17,7 +17,7 @@ magia: 4
 
 ## pericias:
 - esquiva
-	- preparado | +5 HAB | sem falha critica(min 2)
+	- preparado | +15 HAB | sem falha critica(min 2)
 ## magias
 - Plasma
 - Eletricidade
@@ -28,7 +28,7 @@ magia: 4
 	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
-	- custo 30%(26) | shield | 16 HAB | conversão de equipamento e técnica 
+	- custo 30%(78)+7 turno | shield | 16 HAB | conversão de equipamento e técnica 
 
 ## inventario:
 - livro antigo selado
@@ -42,7 +42,7 @@ magia: 4
 	- equipamento digno(5)
 	- perigoso(2)
 	- poderoso(2)
-	- forma de katana: crit na HAB
+	- forma de katana: crit na HAB, Dano +30 
 - bomba de fumaça x2
 - bomba de gás torturante
 
