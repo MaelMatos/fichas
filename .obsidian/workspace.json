@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "c4dd4ef33b657af7",
+            "id": "72395d186d3a1649",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,6 +47,20 @@
               },
               "icon": "lucide-file",
               "title": "MASHLE"
+            }
+          },
+          {
+            "id": "c4dd4ef33b657af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MASHLE(transformação).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MASHLE(transformação)"
             }
           },
           {
@@ -233,11 +247,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4dd4ef33b657af7",
+  "active": "72395d186d3a1649",
   "lastOpenFiles": [
+    "MASHLE(transformação).md",
+    "MASHLE.md",
     "legite medieval.md",
     "ideias medieval.md",
-    "MASHLE.md",
     "harry_potter.md",
     "naruto.md",
     "medieval.md",
@@ -263,7 +278,6 @@
     "undead & unlucky.md",
     "imagens/Leonardo_Anime_XL_In_the_naruto_art_style_a_14yearold_boy_with_0.jpg",
     "dc_marvel.md",
-    "Sem título.md",
     "Pasted image 20241013163331.png",
     "Pasted image 20241013163319.png",
     "imagens/Pasted image 20240922213221.png",

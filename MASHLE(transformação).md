@@ -8,7 +8,7 @@ Mana: 168/198
 Controle : 168/198
 13
 (1d6)++20++50++10++8
-## atributos (32)
+## atributos (20)
 força: 0
 resistência: 0
 habilidade: 10
@@ -25,8 +25,6 @@ magia: 4
 	- custo (10) | +1 HAB | 2 rodadas
 - Canhão desintegrador 
 	- custo (50) | dano 50 | ataque carregado | vorpal | teleguiado
-- Transformação do Dragão do Relâmpago 
-	- custo 10% | shield | 16 HAB | conversão de equipamento e técnica | 
 
 ## inventario:
 - livro antigo selado
