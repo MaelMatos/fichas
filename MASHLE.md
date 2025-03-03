@@ -6,7 +6,7 @@ casa:
 Vida: 0
 Mana: 112/264
 Controle : 264/264
-290/290
+216
 
 (1d6)++20++50++10++8
 ## atributos (32)
