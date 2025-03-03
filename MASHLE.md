@@ -4,7 +4,7 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 239/264
+Mana: 264/264
 Controle : 264/264
 
 ## atributos (32)
@@ -24,7 +24,7 @@ magia: 4
 ## Técnicas
 - Botas solares
 	- custo (10) | +1 HAB | 2 rodadas
-- Canhão desintegrador 
+- Canhão desintegrador(13) 
 	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
