@@ -17,6 +17,8 @@ foco: 10
 magia: 4
 
 ## pericias:
+- esquiva
+	- preparado | +5 HAB | sem falha critica(min 2)
 ## magias
 - Plasma
 - Eletricidade
@@ -25,8 +27,9 @@ magia: 4
 	- custo (10) | +1 HAB | 2 rodadas
 - Canhão desintegrador 
 	- custo (50) | dano 50 | ataque carregado | vorpal | teleguiado
+	- versão de katana: aproximação
 - Transformação do Dragão do Relâmpago 
-	- custo 10% | shield | 16 HAB | conversão de equipamento e técnica | 
+	- custo 10% | shield | 16 HAB | conversão de equipamento e técnica 
 
 ## inventario:
 - livro antigo selado
@@ -37,6 +40,7 @@ magia: 4
 	- Arma-escudo
 	- Retornavel
 	- espiritual(3)
+	- forma de katana: crit na HAB
 - bomba de fumaça x2
 - bomba de gás torturante
 
