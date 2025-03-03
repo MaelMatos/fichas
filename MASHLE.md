@@ -28,7 +28,7 @@ magia: 4
 	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
-	- custo 30%(78)+7 turno | shield | 16 HAB | conversão de equipamento e técnica 
+	- custo 30%(78)+7 turno | shield | 16 HAB | conversão de equipamento e técnica | espada susanoo
 
 ## inventario:
 - livro antigo selado
@@ -43,6 +43,8 @@ magia: 4
 	- perigoso(2)
 	- poderoso(2)
 	- forma de katana: crit na HAB, Dano +30 
+- Susanoo
+	- Dano 
 - bomba de fumaça x2
 - bomba de gás torturante
 
