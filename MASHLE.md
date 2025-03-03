@@ -28,7 +28,7 @@ magia: 4
 	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
-	- custo 10%(26) | shield | 16 HAB | conversão de equipamento e técnica 
+	- custo 30%(26) | shield | 16 HAB | conversão de equipamento e técnica 
 
 ## inventario:
 - livro antigo selado
