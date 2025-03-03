@@ -8,6 +8,7 @@ Mana: 98/264
 Controle : 0/264
 216
 espada: 41
+reciclavel: +50
 
 (1d6)++20++50++10++8
 ## atributos (32)
