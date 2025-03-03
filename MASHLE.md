@@ -29,6 +29,8 @@ magia: 4
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
 	- custo 30%(78)+7 turno | shield | 16 HAB | conversão de equipamento e técnica | espada susanoo
+	- super-nova
+		 - custo 75 | dano 65 | em área | cegueira
 
 ## inventario:
 - livro antigo selado
