@@ -4,10 +4,10 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 238/264
-Controle : 264/264
+Mana: 203/264
+Controle : 234/264
 26
-
+210
 (1d6)++20++50++10++8
 ## atributos (32)
 força: 0
