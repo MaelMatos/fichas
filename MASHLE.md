@@ -41,6 +41,8 @@ magia: 4
 	- Retornavel
 	- espiritual(3)
 	- equipamento digno(5)
+	- perigoso(2)
+	- poderoso(2)
 	- forma de katana: crit na HAB
 - bomba de fumaça x2
 - bomba de gás torturante
