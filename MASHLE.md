@@ -6,11 +6,11 @@ casa:
 Vida: 0
 Mana: 494/494+486/486
 Controle : 494/494
-
+4
 ## atributos (72)
 força: 0
 resistência: 0
-habilidade: 34
+habilidade: 30
 inteligência: 20
 foco: 18
 magia: 4
