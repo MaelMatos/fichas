@@ -4,7 +4,7 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 494/494+306/486 
+Mana: 494/494+286/486 
 Controle : 0/494 
 180
 (2d6)++160++20++30+20+70
