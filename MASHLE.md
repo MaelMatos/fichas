@@ -31,6 +31,8 @@ magia: 4
 	- custo 30%(148)+15 turno | shield | 30 HAB 9 FOC | conversão de equipamento e técnica | espada susanoo
 	- super-nova
 		 - custo 80 | dano 70 | em área | cegueira
+- Área de batalha: Estrela de elétrons
+	- custo 200 | 2 Rodada
 
 ## inventario:
 - livro antigo selado
