@@ -16,7 +16,7 @@ foco: 18
 magia: 4
 
 ## pericias:
-- esquiva
+- agilidade
 	- preparado | +15 HAB | sem falha critica(min 2)
 ## magias
 - Plasma
