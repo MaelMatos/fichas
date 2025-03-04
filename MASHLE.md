@@ -3,7 +3,7 @@ nome: Ikki sirius
 status social:
 linhas: 3
 casa:
-Vida: 0
+Vida: 0(286/286)
 Mana: 494/494+306/486 (1251/1306)
 Controle : 0/494 (0/1306)
 406
