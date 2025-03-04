@@ -3,18 +3,18 @@ nome: Ikki sirius
 status social:
 linhas: 3
 casa:
-Vida: 0(286/286)
-Mana: 494/494+306/486 (1021/1306)
-Controle : 0/494 (0/1306)
+Vida: 0
+Mana: 494/494+306/486 
+Controle : 0/494 
 180
 (2d6)++160++20++30+20+70
 ## atributos (72)
 força: 0
-resistência: 0+20
-habilidade: 30+20+30
-inteligência: 20+20
-foco: 18+20
-magia: 4+20
+resistência: 0
+habilidade: 30+30
+inteligência: 20
+foco: 18
+magia: 4
 
 ## pericias:
 - agilidade
