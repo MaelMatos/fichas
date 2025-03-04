@@ -5,8 +5,9 @@ linhas: 3
 casa:
 Vida: 0
 Mana: 494/494+286/486 
-Controle : 0/494 
+Controle : 494/494 
 180
+(4d6)++60++20++20++70
 (2d6)++160++20++30+20+70
 ## atributos (72)
 força: 0
