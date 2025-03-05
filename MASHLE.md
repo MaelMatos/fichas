@@ -6,11 +6,10 @@ casa:
 Vida: 0
 Mana: 802/802+516/516
 Controle : 802/802 
-21
 ## atributos (72)
 força: 0
 resistência: 0
-habilidade: 40+4
+habilidade: 60+6
 inteligência: 20
 foco: 20
 magia: 5
@@ -25,7 +24,7 @@ magia: 5
 - Botas solares
 	- custo (10) | +1 HAB | 2 rodadas
 - Canhão desintegrador(13) 
-	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado | penetrante | preciso | alvo multiplo
+	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado | penetrante | preciso | alvo multiplo | dano gigante
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
 	- custo 30%(148)+15 turno | shield | 30 HAB 9 FOC | conversão de equipamento e técnica | espada susanoo
