@@ -6,7 +6,7 @@ casa:
 Vida: 0
 Mana: 592/494+286/486 
 Controle : 494/494 
-
+32
 ## atributos (72)
 força: 0
 resistência: 0
