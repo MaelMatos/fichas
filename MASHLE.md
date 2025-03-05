@@ -4,10 +4,10 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 562/802+296/516
+Mana: 562/802+109/516
 Controle : 802/802 
 240
-(2d6)++20++96++70++60
+(3d6)++20++96++70++60
 ## atributos (105)
 força: 0
 resistência: 0
