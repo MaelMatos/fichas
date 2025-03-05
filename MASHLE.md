@@ -4,16 +4,16 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 494/494+286/486 
+Mana: 592/494+286/486 
 Controle : 494/494 
 
 ## atributos (72)
 força: 0
 resistência: 0
-habilidade: 30
+habilidade: 40
 inteligência: 20
-foco: 18
-magia: 4
+foco: 20
+magia: 5
 
 ## pericias:
 - agilidade
