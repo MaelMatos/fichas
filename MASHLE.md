@@ -38,7 +38,7 @@ magia: 5
 - moeda de prata x7
 - moeda de ouro x3
 - Raijin
-	- Dano +20
+	- Dano +30
 	- Arma-escudo
 	- Retornavel
 	- espiritual(3)
