@@ -4,9 +4,9 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 592/494+286/486 
-Controle : 494/494 
-26
+Mana: 802/802+516
+Controle : 802/802 
+21
 ## atributos (72)
 força: 0
 resistência: 0
@@ -66,7 +66,8 @@ magia: 5
 - ataque multiplo(3)
 - ataque oportuno(3)
 - força oculta(4)
-- vitalidade
+- vitalidade(4)
+- equilibrio de energias(5)
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
