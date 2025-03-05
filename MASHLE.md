@@ -6,7 +6,7 @@ casa:
 Vida: 0
 Mana: 592/494+286/486 
 Controle : 494/494 
-30
+26
 ## atributos (72)
 força: 0
 resistência: 0
@@ -66,6 +66,7 @@ magia: 5
 - ataque multiplo(3)
 - ataque oportuno(3)
 - força oculta(4)
+- vitalidade
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
