@@ -4,7 +4,7 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 802/802+368/516
+Mana: 802/802+292/516
 Controle : 0/802 
 
 (0d6)++20++132++70++30+802
