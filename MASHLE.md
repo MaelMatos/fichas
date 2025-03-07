@@ -53,8 +53,8 @@ magia: 5
 - Susanoo
 	- Dano 30
 	- dreno de mana
-- bomba de fumaça x2
-- bomba de gás torturante
+- ~~bomba de fumaça x2~~
+- ~~bomba de gás torturante~~
 
 ## vantagens:
 - Adaptador
