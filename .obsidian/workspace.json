@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MASHLE(transformação).md",
+                "file": "ideias mashle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MASHLE(transformação)"
+              "title": "ideias mashle"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -247,10 +247,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72395d186d3a1649",
+  "active": "c4dd4ef33b657af7",
   "lastOpenFiles": [
-    "MASHLE(transformação).md",
     "MASHLE.md",
+    "ideias mashle.md",
     "legite medieval.md",
     "ideias medieval.md",
     "harry_potter.md",
