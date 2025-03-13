@@ -4,8 +4,8 @@ dinheiro:
 status:
 
 
-vida:
-mana:
+vida: 14
+mana:  15
 
 # atributos:
 resistência: 3
