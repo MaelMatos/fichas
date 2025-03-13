@@ -25,4 +25,5 @@ a distância:
 # desvantagens:
 
 # História
-Dra'zuul ou simplesmente Draz, cresceu em um berço miltitar do reino spades, desde a infancia sendo preparato para o projeto soldado
+Dra'zuul ou simplesmente Draz, cresceu em um berço miltitar do reino spades, desde a infancia sendo preparado para o projeto soldado, um plano de invasão subversiva para destruir o reino de clover, a missão de Draz? assassinar o rei mago e tomar o reino de clover!
+em sua primeira missão de campo, aos 15 anos, um mês antes de receber seu grimório, ele e sua equipe, formada por mais dois jovens como ele e um veterano da
