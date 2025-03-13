@@ -1,4 +1,4 @@
-nome:
+nome: Dra’zuul
 esquadrão:
 dinheiro:
 status:
@@ -23,3 +23,6 @@ a distância:
 
 
 # desvantagens:
+
+# História
+Dra'zuul ou simplesmente Draz, cresceu em um berço miltitar do reino spades, desde a infancia sendo preparato para o projeto soldado
