@@ -8,12 +8,12 @@ vida:
 mana:
 
 # atributos:
-resistência:
-força:
-habilidade:
-foco:
-poder de fogo:
-vontade:
+resistência: 3
+força: 2
+habilidade: 4
+foco: 3
+poder de fogo: 3
+vontade: 5
 
 # caminho clover
 corpo a corpo: 2
