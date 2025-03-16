@@ -1,4 +1,4 @@
-Nome - 
+Nome - Senzoku
 Classe - 
 Nível -
 HP |
