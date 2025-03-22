@@ -1,6 +1,4 @@
-
-Estatísticas
-Nome
+Nome: 
 Posto
 
 Vida
@@ -9,11 +7,11 @@ oxigênio: 130/130
 
 # Atributos(25)
 Resistência: 5
-Habilidade: 12
+Habilidade: 10
 Força: 5
-Poder de Fogo: 0
+Poder de Fogo: 1
 Vontade: 3
-Bateria: 0
+Bateria: 1
 
 
 # Vantagens
@@ -28,7 +26,9 @@ Bateria: 0
 
 # inventario
 - Doom blade
+	- Dano 5 | queimadura | espiritual | equipamento digno | vorpal
 - Roupa de Astronauta Reforçada
 	- Oxigênio: 130 | Armadura: 5
 - Lança Energizada 
 	- Dano 5 | Cortante e Energia
+
