@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "naruto.md",
+                "file": "RPG odisseia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "naruto"
+              "title": "RPG odisseia"
             }
           },
           {
@@ -291,6 +291,7 @@
   },
   "active": "c878a09fb5e8ddf1",
   "lastOpenFiles": [
+    "naruto.md",
     "RPG odisseia.md",
     "impacto das realidades.md",
     "black clover.md",
@@ -303,7 +304,6 @@
     "Pasted image 20250310081236.png",
     "MASHLE.md",
     "legite medieval.md",
-    "naruto.md",
     "medieval.md",
     "one_piece.md",
     "naruto gOLD 20-12-2024.md",

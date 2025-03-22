@@ -1,5 +1,6 @@
 Nome: Ramiel
 Posto
+Classe: Soldado
 
 Vida: 81/81
 Energia: 5/5
@@ -31,4 +32,9 @@ Bateria: 1
 	- Oxigênio: 130 | Armadura: 5
 - Lança Energizada 
 	- Dano 5 | Cortante e Energia
+- Comunicador-Média distância
+- Kits de Recuperação x2
+	- Recuperam 10 de hp por 3 turnos
+- Kit de cuidados
+	- Remove penalizadores
 
