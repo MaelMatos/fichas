@@ -26,7 +26,7 @@ Bateria: 1
 
 # inventario
 - Doom blade
-	- Dano 5 | queimadura | espiritual | equipamento digno | vorpal
+	- Dano 5 | queimadura | espiritual | equipamento digno | vorpal | cortante e energia
 - Roupa de Astronauta Reforçada
 	- Oxigênio: 130 | Armadura: 5
 - Lança Energizada 
