@@ -1,12 +1,12 @@
 Nome: Ramiel
 Posto
 
-Vida: 38/38
+Vida: 81/81
 Energia: 5/5
 oxigênio: 130/130
 
 # Atributos(25)
-Resistência: 5
+Resistência: 9
 Habilidade: 10
 Força: 1
 Poder de Fogo: 1
@@ -15,7 +15,7 @@ Bateria: 1
 
 
 # Vantagens
-- Gênialidade: Habilidade
+- Energia vital
 - Equipamento: Doom Blade
 - Ambidestria
 
