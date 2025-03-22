@@ -1,8 +1,8 @@
-Nome: 
+Nome: Ramiel
 Posto
 
-Vida
-Energia
+Vida: 38
+Energia: 5
 oxigênio: 130/130
 
 # Atributos(25)
