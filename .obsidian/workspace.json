@@ -111,16 +111,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideias medieval.md",
+                "file": "naruto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ideias medieval"
+              "title": "naruto"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -289,14 +289,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c878a09fb5e8ddf1",
+  "active": "123ec03f94e50dce",
   "lastOpenFiles": [
-    "naruto.md",
+    "ideias medieval.md",
     "RPG odisseia.md",
+    "naruto.md",
     "impacto das realidades.md",
     "black clover.md",
     "harry_potter.md",
-    "ideias medieval.md",
     "ficha_mashle.md",
     "ficha fnaf.md",
     "ideias mashle.md",
