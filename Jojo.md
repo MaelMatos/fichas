@@ -25,6 +25,8 @@ Potencial: 3
 
 # vantagens(1-3):
 - mentor
+- adaptador
+- mangá
 
 # desvantagens(1-3):
 - assombrado
