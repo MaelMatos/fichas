@@ -26,7 +26,9 @@ Potencial: 3
 # vantagens(1-3):
 - mentor
 - adaptador
-- mangá
+- poder oculto
 
 # desvantagens(1-3):
 - assombrado
+- inculto
+- 
