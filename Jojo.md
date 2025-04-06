@@ -15,10 +15,10 @@ vontade: 10
 nome: 「Eye of The Tiger」
 Velocidade: 0
 Poder: 2
-Alcance: 0
+Alcance: 2
 Precisão: 0
 Durabilidade: 0
-Potencial: 3
+Potencial: 1
 
 # vantagens(1-3):
 - mentor
