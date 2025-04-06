@@ -23,7 +23,7 @@ Potencial: 1
 # vantagens(1-3):
 - mentor
 - adaptador
-- poder oculto
+- área de batalha
 
 # desvantagens(1-3):
 - assombrado
