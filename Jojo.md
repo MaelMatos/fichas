@@ -5,9 +5,9 @@ energia: 4
 
 # atributos(20)
 resistência: 1
-força: 4
+força: 2
 habilidade: 4
-foco: 1
+foco: 3
 poder de fogo: 0
 vontade: 10
 
