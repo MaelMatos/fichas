@@ -28,4 +28,7 @@ Potencial: 1
 # desvantagens(1-3):
 - assombrado: irmão mais velho Paulo
 - inculto
-- furia
+- procurado
+
+# História
+foi sequestrado junto de sua mãe e irmão mais velho e vendido como escravo para a máfia japonesa, após a morte de sua mãe seguiu sendo tutorado por seu irmão, que conhecia a arte das ruas brasileiras, que logo perdeu sua vida ao ser preso e sofrer pena capital por trafico de drogas, Saulo, agora sozinho, conquistou sua liberdade ao comprar sua cata de alforria com o dinheiro reservado por seu irmão, mas ele já era muito tarde para sair da **Yakuza**, sendo eternamente procurado por eles
