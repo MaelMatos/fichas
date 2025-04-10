@@ -8,132 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82285632492f912c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "harry_potter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "harry_potter"
-            }
-          },
-          {
-            "id": "084a9569b53f2ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "legite medieval.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "legite medieval"
-            }
-          },
-          {
-            "id": "72395d186d3a1649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MASHLE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MASHLE"
-            }
-          },
-          {
-            "id": "c4dd4ef33b657af7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "harry_potter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "harry_potter"
-            }
-          },
-          {
-            "id": "ddf28499a2bd9ca7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "black clover.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "black clover"
-            }
-          },
-          {
-            "id": "55cff60b01bab83f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "impacto das realidades.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "impacto das realidades"
-            }
-          },
-          {
-            "id": "c878a09fb5e8ddf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RPG odisseia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RPG odisseia"
-            }
-          },
-          {
-            "id": "123ec03f94e50dce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "naruto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "naruto"
-            }
-          },
-          {
-            "id": "ea1f290d99fd9405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-03-30.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-30"
-            }
-          },
-          {
             "id": "00f1612cdff0e2cb",
             "type": "leaf",
             "state": {
@@ -147,8 +21,7 @@
               "title": "Jojo"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"

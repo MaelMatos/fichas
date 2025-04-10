@@ -1,7 +1,7 @@
 # Status
 nome:
 vida: 4
-energia: 4
+energia: 92
 
 # atributos(20)
 resistência: 1
