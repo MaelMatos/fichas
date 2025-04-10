@@ -21,11 +21,11 @@ Durabilidade: 0
 Potencial: 1
 
 # vantagens(1-3):
-- mentor
+- mentor: irmão mais velho Paulo
 - adaptador
 - área de batalha
 
 # desvantagens(1-3):
-- assombrado
+- assombrado: irmão mais velho Paulo
 - inculto
 - furia
