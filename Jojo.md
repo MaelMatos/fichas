@@ -26,7 +26,7 @@ Potencial: 1
 - adaptador
 - área de batalha
 - Ataque Multiplo(2)
-- 
+- Parceria: stand
 
 # desvantagens(1-3):
 - assombrado: irmão mais velho Paulo
