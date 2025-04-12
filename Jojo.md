@@ -2,7 +2,7 @@
 nome: Saulo Jr.
 vida: 4
 energia: 92
-23
+19
 
 # atributos(20)
 resistência: 1
@@ -25,6 +25,8 @@ Potencial: 1
 - mentor: irmão mais velho Paulo
 - adaptador
 - área de batalha
+- Ataque Multiplo(2)
+- 
 
 # desvantagens(1-3):
 - assombrado: irmão mais velho Paulo
