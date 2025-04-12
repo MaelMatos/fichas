@@ -1,13 +1,13 @@
 # Status
 nome: Saulo Jr.
-vida: 4
+vida: 9
 energia: 92
-19
+
 
 # atributos(20)
-resistência: 1
-força: 2
-habilidade: 4
+resistência: 2
+força: 4
+habilidade: 20
 foco: 12
 poder de fogo: 0
 vontade: 10
