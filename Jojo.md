@@ -1,5 +1,5 @@
 # Status
-nome: Saulo Jr.
+nome: Paulo Jr.
 vida: 9
 energia: 92
 
@@ -29,7 +29,7 @@ Potencial: 1
 - Parceria: stand
 
 # desvantagens(1-3):
-- assombrado: irmão mais velho Paulo
+- assombrado: irmão mais velho Saulo
 - inculto
 - procurado
 
