@@ -33,9 +33,9 @@ Vontade: 6  
 # Desvantagens(1)
 
 # Perícias 5
-Artes Marciais: 2
+Artes Marciais: 1
 Poder: 1
-Precisão: 2 
+Precisão: 3 
 
 # Abas extras
 Respiração(C):
