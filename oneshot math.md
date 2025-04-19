@@ -16,22 +16,31 @@ Won (se for pertinente para a campanha)
 Força: 1
 Habilidade: 15
 Poder de Fogo: 1
-Resistência: 8
-Energia: 5
+Resistência: 6
+Energia: 4
 Vontade: 6  
 
 # Inventário
 - Sai(D)
+	- Dano ? | Arma-escudo | preciso
 - Sai(B)
+	- Dano ? | Arma-escudo | preciso
 - Malha de Escamas(D)
 - Pingente dos 5 elementos(B)
+	- da um efeito de buff aleatorio na proxima cura que executar(agua>vontade,terra>resistencia,vento>poder de fogo,fogo>força,raio>habilidade)
 
 # Técnicas 2(C)
-- Respiração da luz primeira forma: 
+- Respiração da luz primeira forma(D): Red
+	- Marca um ponto fraco no inimigo no alvo, visivel a aliados
+- Respiração da luz segunda forma(D): Orange
+	- cura a si ou um aliado, a cura sobressalente é transformada em escudo
+- Respiração da luz terceira forma(B): Radio
+	- cura um grupo de aliados e a si mesmo
 
 
 # Vantagens(1) 
-- Instinto Afiado
+- Ambidestria
+- Ataque-oportuno(3)
 
 
 # Desvantagens(1)
