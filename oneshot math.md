@@ -13,18 +13,21 @@ Won (se for pertinente para a campanha)
 
 
 # Atributos (+1 em tudo p/ Lvl Up) 30+4
-Força: 2
+Força: 1
 Habilidade: 15
 Poder de Fogo: 1
 Resistência: 8
-Energia: 2
-Vontade: 8  
+Energia: 5
+Vontade: 6  
 
 # Inventário
--  Arma(D)
-- Armadura(D)
+- Sai(D)
+- Sai(B)
+- Malha de Escamas(D)
+- Pingente dos 5 elementos(B)
 
 # Técnicas 2(C)
+- Respiração da luz primeira forma: 
 
 
 # Vantagens(1) 
@@ -47,4 +50,4 @@ Poder: 1
 Precisão: 3 
 
 # Abas extras
-Respiração(C):
+## Respiração da luz(C):
