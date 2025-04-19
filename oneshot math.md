@@ -21,16 +21,25 @@ Energia: 2
 Vontade: 6  
 
 # Inventário
--  Arma(B)
-- Item(B)
+-  Arma(D)
+- Armadura(D)
 
 # Técnicas 2(C)
 
 
 # Vantagens(1) 
+- Instinto Afiado
 
 
 # Desvantagens(1)
+
+# Habilidades
+- Instinto Afiado
+	- Uma vez por descanso curto, re-rola um teste falho de Habilidade.
+- Curar 
+	- Custo 3 | Cura 200+RES*2
+- Última Esperança
+	- +50% cura quando alvo <25% HP
 
 # Perícias 5
 Artes Marciais: 1
