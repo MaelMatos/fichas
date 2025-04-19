@@ -32,11 +32,11 @@ Vontade: 6  
 
 # Técnicas 2(C)
 - Respiração da luz primeira forma(D): Red
-	- Marca um ponto fraco no inimigo no alvo, visivel a aliados
+	- Custo 3 | Dano 3 | Enraquecimento: 1d4 HAB
 - Respiração da luz segunda forma(D): Orange
-	- cura a si ou um aliado, a cura sobressalente é transformada em escudo
-- Respiração da luz terceira forma(B): Radio
-	- cura um grupo de aliados e a si mesmo
+	- Custo 5 | Cura 5 | cura sobressalente vira escudo
+- Respiração da luz terceira forma(B): Yellow
+	- Custo 7 | Cura 7 | em area
 
 
 # Vantagens(1) 
