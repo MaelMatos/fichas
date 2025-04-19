@@ -1,6 +1,6 @@
 # Status
 Nome -
-Classe - 
+Classe - Healer
 Experiência - 
 Nível -
 Rank D
