@@ -14,9 +14,9 @@ Won (se for pertinente para a campanha)
 
 # Atributos (+1 em tudo p/ Lvl Up) 30+4
 Força: 6
-Habilidade: 14
+Habilidade: 15
 Poder de Fogo: 1
-Resistência: 5
+Resistência: 4
 Energia: 2
 Vontade: 6  
 
