@@ -37,7 +37,7 @@ Vontade: 8  
 - Instinto Afiado
 	- Uma vez por descanso curto, re-rola um teste falho de Habilidade.
 - Curar 
-	- Custo 3 | Cura 200+RES*2
+	- Custo 3 | Cura 200+RESx2
 - Última Esperança
 	- +50% cura quando alvo <25% HP
 
