@@ -22,10 +22,11 @@ Vontade: 6  
 
 # Inventário
 - Sai(D)
-	- Dano ? | Arma-escudo | preciso
+	- Dano 2 | Arma-escudo | preciso
 - Sai(B)
-	- Dano ? | Arma-escudo | preciso
+	- Dano 4 | Arma-escudo | preciso
 - Malha de Escamas(D)
+	- Defesa 4 
 - Pingente dos 5 elementos(B)
 	- da um efeito de buff aleatorio na proxima cura que executar(agua>vontade,terra>resistencia,vento>poder de fogo,fogo>força,raio>habilidade)
 
