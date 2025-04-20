@@ -7,6 +7,7 @@ Rank D
 HP | 47/47
 Energia | 12/24
 Won (se for pertinente para a campanha)
++5
 # Atributos (+1 em tudo p/ Lvl Up) 30+4
 Força: 1
 Habilidade: 15+3
