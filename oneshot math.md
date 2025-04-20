@@ -9,7 +9,7 @@ Energia | 17/24
 Won (se for pertinente para a campanha)
 # Atributos (+1 em tudo p/ Lvl Up) 30+4
 Força: 1
-Habilidade: 15
+Habilidade: 15+3
 Poder de Fogo: 1
 Resistência: 6
 Energia: 4
