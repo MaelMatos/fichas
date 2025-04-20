@@ -5,7 +5,7 @@ Experiência -
 Nível -
 Rank D
 HP | 47/47
-Energia | 19/24
+Energia | 17/24
 Won (se for pertinente para a campanha)
 # Atributos (+1 em tudo p/ Lvl Up) 30+4
 Força: 1
