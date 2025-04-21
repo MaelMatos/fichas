@@ -2,8 +2,6 @@
 nome: Paulo Jr.
 vida: 18/18
 energia: 255/255
-
-
 # atributos(20)
 resistência: 3
 força: 10
@@ -22,9 +20,10 @@ Durabilidade: 0
 Potencial: 1
 
 # Técnica
-- tecnica 1
-- Bang
-	- Custo 20 | Ataque carregado
+- Slash
+	- Custo 10 | Dano 5 | Vorpal
+- Pew
+	- Custo 20 | Dano 15 |Ataque carregado
 - área de batalha: zona infantil
 	- numa área com raio de 25 metros, qualquer forma de violencia é anulada, exceto pelas punições de eye of tiger e suas brincadeiras
 	- 1 Rodada
