@@ -1,11 +1,11 @@
 # Status
 nome: Paulo Jr.
-vida: 9/9
-energia: 87/255
+vida: 18/18
+energia: 255/255
 
 
 # atributos(20)
-resistência: 2
+resistência: 3
 força: 10
 habilidade: 20
 foco: 20
