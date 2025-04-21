@@ -21,6 +21,13 @@ Precisão: 0
 Durabilidade: 0
 Potencial: 1
 
+# Técnica
+- tecnica 1
+- tecnica 2
+- área de batalha: zona infantil
+	- numa área com raio de 25 metros, qualquer forma de violencia é anulada, exceto pelas punições de eye of tiger e suas brincadeiras
+	- 1 Rodada
+
 # vantagens(1-3):
 - mentor: irmão mais velho Paulo
 - adaptador
