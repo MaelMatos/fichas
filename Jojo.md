@@ -6,9 +6,9 @@ energia: 87/92
 
 # atributos(20)
 resistência: 2
-força: 4
+força: 10
 habilidade: 20
-foco: 12
+foco: 20
 poder de fogo: 0
 vontade: 10
 
