@@ -9,6 +9,7 @@ habilidade: 20
 foco: 20
 poder de fogo: 0
 vontade: 10
+1 stack
 
 # Stand:
 nome: 「Eye of The Tiger」
