@@ -13,7 +13,7 @@ Vontade: 1
 Inteligência: 1
 
 # Inventário 
-- 
+- Zarabatana
 
 # Técnicas 
 
