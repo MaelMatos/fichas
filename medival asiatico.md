@@ -28,7 +28,7 @@ Combate Armado (1) 0/10
 Combate Desarmado (1) 0/10
 Combate Á Distância (1) 0/10
 Acrobacia (1) 0/10
-Furtividade (2) 1/10
+Furtividade (2) 2/10
 Percepção () 0/10
 Enganação () 0/10
 Persuasão () 0/10
