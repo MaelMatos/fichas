@@ -1,10 +1,10 @@
 Nome 
 Classe 
-HP |
-Chi |
+HP | 4/4
+Chi | 7/7
 Mon (Dinheiro) 
 
-Atributos 8
+# Atributos 8
 Força: 1
 Habilidade: 3
 Resistência: 1
@@ -12,16 +12,17 @@ Poder de Fogo: 1
 Vontade: 1
 Inteligência: 1
 
-Inventário 
+# Inventário 
 
-Técnicas 
+# Técnicas 
 
-Vantagens 
+# Vantagens 
 - ataque oportuno
 
-Desvantagens 
-- 
-Perícias 6
+# Desvantagens 
+- Devoção
+
+# Perícias 6
 Combate Armado (1) 0/10
 Combate Desarmado (1) 0/10
 Combate Á Distância (1) 0/10
@@ -41,21 +42,3 @@ Medicina () 0/10
 Sobrevivência () 0/10
 Liderança () 0/10
 
-Samurai 
-2 For
-1 Res
-
-Shinobi 
-3 Hab
-
-Onmyouji 
-2 Int
-1 Von
-
-Monge  
-2 Hab
-1 Res
-
-Ermitão 
-2 PdF
-1 Hab
