@@ -27,8 +27,8 @@ Inteligência: 1
 Combate Armado (1) 0/10
 Combate Desarmado (1) 0/10
 Combate Á Distância (1) 0/10
-Acrobacia () 0/10
-Furtividade (3) 0/10
+Acrobacia (1) 0/10
+Furtividade (2) 0/10
 Percepção () 0/10
 Enganação () 0/10
 Persuasão () 0/10
