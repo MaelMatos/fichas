@@ -20,6 +20,7 @@ Inteligência: 1
 
 # Vantagens 
 - ataque oportuno
+- 
 
 # Desvantagens 
 - Devoção: shogun do japão
@@ -28,8 +29,8 @@ Inteligência: 1
 Combate Armado (1) 0/10
 Combate Desarmado (1) 0/10
 Combate Á Distância (1) 0/10
-Acrobacia (1) 0/10
-Furtividade (2) 2/10
+Acrobacia (2) 0/10
+Furtividade (3) 2/10
 Percepção () 0/10
 Enganação () 0/10
 Persuasão () 0/10
