@@ -1,4 +1,4 @@
-Nome 
+Nome: Ryōiki Fuuma  
 Classe 
 HP | 4/4
 Chi | 7/7
