@@ -1,4 +1,4 @@
-Nome: Ryōiki Fuuma  
+Nome: Ryōki Fuuma  
 Classe: Shinobi 
 HP | 10/10
 Chi | 18/18
@@ -21,7 +21,7 @@ Inteligência: 1
 - ataque oportuno
 
 # Desvantagens 
-- Devoção
+- Devoção: shogun do japão
 
 # Perícias 6
 Combate Armado (1) 0/10
