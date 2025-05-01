@@ -5,27 +5,28 @@ Chi |
 Mon (Dinheiro) 
 
 Atributos 8
-Força 
-Habilidade 
-Resistência 
-Poder de Fogo
-Vontade 
-Inteligência 
+Força: 1
+Habilidade: 3
+Resistência: 1
+Poder de Fogo: 1
+Vontade: 1
+Inteligência: 1
 
 Inventário 
 
 Técnicas 
 
 Vantagens 
+- ataque oportuno
 
 Desvantagens 
-
+- 
 Perícias 6
-Combate Armado () 0/10
-Combate Desarmado () 0/10
-Combate Á Distância () 0/10
+Combate Armado (1) 0/10
+Combate Desarmado (1) 0/10
+Combate Á Distância (1) 0/10
 Acrobacia () 0/10
-Furtividade () 0/10
+Furtividade (3) 0/10
 Percepção () 0/10
 Enganação () 0/10
 Persuasão () 0/10
