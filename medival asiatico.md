@@ -14,6 +14,7 @@ Inteligência: 1
 
 # Inventário 
 - Zarabatana
+	- dano 3
 
 # Técnicas 
 
