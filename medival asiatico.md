@@ -1,13 +1,13 @@
 Nome: Ryōiki Fuuma  
 Classe: Shinobi 
-HP | 4/4
+HP | 10/10
 Chi | 18/18
 Mon (Dinheiro) 
 
 # Atributos 8
 Força: 1
-Habilidade: 3
-Resistência: 1
+Habilidade: 5
+Resistência: 2
 Poder de Fogo: 1
 Vontade: 1
 Inteligência: 1
