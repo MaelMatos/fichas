@@ -1,6 +1,6 @@
 Nome: Ryōki Fuuma  
 Classe: Shinobi 
-HP | 10/10
+HP | 6/10
 Chi | 18/18
 Mon (Dinheiro) 
 
