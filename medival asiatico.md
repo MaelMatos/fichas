@@ -17,7 +17,8 @@ Inteligência: 1
 	- dano 3
 
 # Técnicas 
-
+- Benção dos ventos
+	- um sucesso em um d100 com ND 50 o proximo ataque/defesa/esquiva é com vantagem
 
 # Vantagens 
 - ataque oportuno
