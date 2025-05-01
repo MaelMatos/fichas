@@ -18,9 +18,10 @@ Inteligência: 1
 
 # Técnicas 
 
+
 # Vantagens 
 - ataque oportuno
-- 
+- desaparecimento
 
 # Desvantagens 
 - Devoção: shogun do japão
