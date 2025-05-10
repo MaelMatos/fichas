@@ -1,4 +1,4 @@
-Nome - Siddarta
+Nome - Siddarta - a faisca do avançõ
 Raça - Draconato
 Classe - Clerigo
 HP| 11/11
