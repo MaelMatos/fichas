@@ -24,10 +24,11 @@ Vontade: +2
 # Vantagens(1)
 - Voo
 - Arma Natural
+- Patrono
 - Poder Oculto 
 
 # Desvantagens(1)
-- 
+- Monstruoso
 
 # Perícias(6)
 Arcana() 0/10
