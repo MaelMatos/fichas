@@ -24,8 +24,10 @@ Vontade: +2
 # Vantagens(1)
 - Voo
 - Arma Natural
+- Poder Oculto 
 
 # Desvantagens(1)
+- 
 
 # Perícias(6)
 Arcana() 0/10
