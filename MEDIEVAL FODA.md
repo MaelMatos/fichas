@@ -49,4 +49,6 @@ a chegada dele trouxe um medo aterrador aos lideres da vila, que ofereceram Elor
 decepicionado com a maldade humana, Trmpestifer matou esses lideres, poupando a vida de Elora
 
 ## Parte II: Progresso
-após esses acontecimentos, decepicionada com essa traição, 
+após esses acontecimentos, decepicionada com essa traição, Elora se encontrava desesperançosa perante o mundo que ruiu em sua frente, Tempestifer vendo isso se sensibilizou, levando-a a um acampamento sa seita rival, onde posteriormente ambos se converteram a seita do movimento e se casaram
+
+## Parte III: A faisca do avanço
