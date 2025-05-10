@@ -10,12 +10,12 @@ XP -
 Dinheiro -  (se for pertinente para a campanha)
 
 Atributos(8)
-Força:
-Habilidade 
-Poder de Fogo
-Resistência: +1
-Inteligência
-Vontade: +2
+Força: 1
+Habilidade: 2 
+Poder de Fogo: 1
+Resistência: 1+1
+Inteligência: 2
+Vontade: 1+2
 # Inventário
 - Espada longa
 - Escudo
@@ -31,6 +31,9 @@ Vontade: +2
 
 # Desvantagens(1)
 - Monstruoso
+
+# Gambitos
+- Gula
 
 # Perícias(6)
 Arcana(1) 0/10
