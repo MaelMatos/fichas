@@ -1,13 +1,11 @@
 Nome - Siddarta
 Raça - Draconato
 Classe - Clerigo
-HP| 
-Mana| 
-Escudo| (se tiver a vantagem)
-Controle de Energia| (se tiver a vantagem)
+HP| 11/11
+Mana| 11/11
 Nível -  (se for a forma preferida para evolução de personagens)
 XP - 
-Dinheiro -  (se for pertinente para a campanha)
+Dinheiro -  4950
 
 Atributos(8)
 Força: 1
