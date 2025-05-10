@@ -39,5 +39,6 @@ Arcano: 1
 # Anotações Gerais
 
 # História
+# Parte 0: 
 ## Parte I: Estagnação
-
+Elora, uma das mais fieis seguidoras de mimihagi
