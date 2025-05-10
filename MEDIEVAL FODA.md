@@ -46,10 +46,10 @@ essas duas partes irmãs se chamavam **pernida, o deus do movimento** e **mimiha
 ## Parte I: Estagnação
 **Elora**, uma das mais fieis seguidoras de mimihagi vivia em uma pequena vila que tinha como pedra angular o culto a esse deus, como forma de devoção, a vila sempre se mantia constante, rotinas, leis, ritos e populações, todo dia de todo ano era como o mesmo dia no ano anterior, os pais não se distinguiam de seus filhos, a pureza e sacralidade era soberana, isso até a chegada do dragão **Tempestifer, o portador da tempestade**
 a chegada dele trouxe um medo aterrador aos lideres da vila, que ofereceram Elora como sacrificio, na esperança de que isso mantesse a paz de seu povo
-decepicionado com a maldade humana, Trmpestifer matou esses lideres, poupando a vida de Elora
+decepicionado com a maldade humana, Tempestifer matou esses lideres, poupando a vida de Elora
 
 ## Parte II: Progresso
-após esses acontecimentos, decepicionada com essa traição, Elora se encontrava desesperançosa perante o mundo que ruiu em sua frente, Tempestifer vendo isso se sensibilizou, levando-a a um acampamento da seita rival, onde posteriormente ambos se converteram a seita do movimento e se casaram
+após esses acontecimentos, decepcionada com essa traição, Elora se encontrava desesperançosa perante o mundo que ruiu em sua frente, Tempestifer vendo isso se sensibilizou, levando-a a um acampamento da seita rival, onde posteriormente ambos se converteram a seita do movimento e se casaram
 
 ## Parte III: A faisca do avanço
-ambos tiveram um filho, que posteriormente viria a ser conhecido pelo nome de **siddarta**, mas quando ele nasceu, Tempestifer havia desaparecido, siddarta havia desenvolvido 3 deveres: vingar sua mãe combatendo o secto da estagnação, descobrir o paradeiro de seu pai e honra seu deus
+ambos tiveram um filho, que posteriormente viria a ser conhecido pelo nome de **Siddarta**, mas quando ele nasceu, Tempestifer havia desaparecido, siddarta havia desenvolvido 3 deveres: vingar sua mãe combatendo o secto da estagnação, descobrir o paradeiro de seu pai e honra seu deus
