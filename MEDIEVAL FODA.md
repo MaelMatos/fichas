@@ -28,12 +28,12 @@ Vontade: +2
 # Desvantagens(1)
 
 # Perícias(6)
-Arcana(2) 0/10
+Arcana() 0/10
 Combate Armado(+1) 0/10
 Intimidação(4)0/10
 Liderança(+1) 0/10
 Medicina(+1) 0/10
-Religião(+1) 0/10
+Religião(2+1) 0/10
 
 
 # Caminhos da Magia(3)
