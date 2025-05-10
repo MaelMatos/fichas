@@ -42,7 +42,7 @@ Combate Armado(+1) 0/10
 Intimidação(4)0/10
 Liderança(+1) 0/10
 Medicina(+1) 0/10
-Religião(1+1+2) 0/10
+Religião(1+1+2) 1/10
 Sobrevivência(2) 0/10
 
 
