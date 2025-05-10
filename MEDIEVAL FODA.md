@@ -39,6 +39,8 @@ Arcano: 1
 # Anotações Gerais
 
 # História
-# Parte 0: 
+## Parte 0: Solitude
+no alvorecer da criação, onde os deuses nasciam, criavam e eram criados, havia um deus que se distinguia de todos os outros
+
 ## Parte I: Estagnação
 Elora, uma das mais fieis seguidoras de mimihagi
