@@ -17,6 +17,8 @@ Resistência: +1
 Inteligência
 Vontade: +2
 # Inventário
+- Espada longa
+- Escudo
 
 # Técnicas
 - 7(D)
@@ -31,12 +33,13 @@ Vontade: +2
 - Monstruoso
 
 # Perícias(6)
-Arcana() 0/10
+Arcana(1) 0/10
 Combate Armado(+1) 0/10
 Intimidação(4)0/10
 Liderança(+1) 0/10
 Medicina(+1) 0/10
-Religião(2+1) 0/10
+Religião(1+1+2) 0/10
+Sobrevivência(2) 0/10
 
 
 # Caminhos da Magia(3)
