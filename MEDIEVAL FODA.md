@@ -19,7 +19,8 @@ Vontade: 1+2
 - Escudo
 
 # Técnicas
-- 7(D)
+- Progresso Celular
+	- Custo 11 | Cura 7 | Vorpal
 
 # Vantagens(1)
 - Voo
