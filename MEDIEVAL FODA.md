@@ -40,7 +40,7 @@ Arcano: 1
 
 # História
 ## Parte 0: Solitude
-no alvorecer da criação, onde os deuses nasciam, criavam e eram criados, havia um deus que se distinguia de todos os outros, esse deus era **Quietus, o senhor da entropia**, ele era solitario, mais solitario que os deuses odiados e os deuses isolados, pois até mesmo a morte teria seu fim nele, foi quando num surto de vontade, ele forjou **o machado da realização**, uma arma divina que tinha um poder único: partir a essência do que cortassem em duas, ele usou esse machado em si mesmo, para que sem
+no alvorecer da criação, onde os deuses nasciam, criavam e eram criados, havia um deus que se distinguia de todos os outros, esse deus era **Quietus, o senhor da entropia**, ele era solitario, mais solitario que os deuses odiados e os deuses isolados, pois até mesmo a morte teria seu fim nele, foi quando num surto de vontade, ele forjou **o machado da realização**, uma arma divina que tinha um poder único: partir a essência do que cortassem em duas, ele dividiu-se em dois com esse machado, bem ao meio, $p$
 
 ## Parte I: Estagnação
 Elora, uma das mais fieis seguidoras de mimihagi
