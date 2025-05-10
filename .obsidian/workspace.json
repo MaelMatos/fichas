@@ -48,6 +48,16 @@
               "icon": "lucide-file",
               "title": "MEDIEVAL FODA"
             }
+          },
+          {
+            "id": "f2845ffdac3dadd6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ],
         "currentTab": 2
@@ -221,8 +231,8 @@
   },
   "active": "41ab0fd26f8f801b",
   "lastOpenFiles": [
-    "legite medieval.md",
     "MEDIEVAL FODA.md",
+    "legite medieval.md",
     "medieval.md",
     "ideias medieval.md",
     "naruto.md",
