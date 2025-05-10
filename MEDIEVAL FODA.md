@@ -38,7 +38,7 @@ Vontade: 1+2
 
 # Perícias(6)
 Arcana(1) 0/10
-Combate Armado(+1) 2/10
+Combate Armado(+1) 3/10
 Enganação(0) 1/10
 Furtividade(0) 1/10
 Intimidação(4)0/10
