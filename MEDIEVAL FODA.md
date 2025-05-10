@@ -16,7 +16,9 @@ Inteligência: 2
 Vontade: 1+2
 # Inventário
 - Espada longa
-- Escudo
+	- 7 dano
+- Escudo leve
+	- 7 defesa
 
 # Técnicas
 - Progresso Celular
