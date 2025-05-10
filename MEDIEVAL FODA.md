@@ -1,6 +1,6 @@
-Nome - 
-Raça - 
-Classe - 
+Nome - Siddarta
+Raça - Draconato
+Classe - Clerigo
 HP| 
 Mana| 
 Escudo| (se tiver a vantagem)
