@@ -52,3 +52,4 @@ decepicionado com a maldade humana, Trmpestifer matou esses lideres, poupando a 
 após esses acontecimentos, decepicionada com essa traição, Elora se encontrava desesperançosa perante o mundo que ruiu em sua frente, Tempestifer vendo isso se sensibilizou, levando-a a um acampamento da seita rival, onde posteriormente ambos se converteram a seita do movimento e se casaram
 
 ## Parte III: A faisca do avanço
+ambos tiveram um filho, que posteriormente viria a ser conhecido pelo nome de **siddarta**, mas quando ele nasceu, Tempestifer havia desaparecido
