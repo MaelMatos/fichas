@@ -13,19 +13,29 @@ Atributos(8)
 Força:
 Habilidade 
 Poder de Fogo
-Resistência 
+Resistência: +1
 Inteligência
-Vontade
+Vontade: +2
 # Inventário
 
 # Técnicas
 - 7(D)
 
 # Vantagens(1)
+- Voo
+- Arma Natural
 
 # Desvantagens(1)
 
 # Perícias(6)
+Arcana(2) 0/10
+Combate Armado(+1) 0/10
+Intimidação(4)0/10
+Liderança(+1) 0/10
+Medicina(+1) 0/10
+Religião(+1) 0/10
+
+
 # Caminhos da Magia(3)
 Fogo 
 Água 
