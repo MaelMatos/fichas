@@ -5,7 +5,7 @@ HP| 6/11
 Mana| 11/11
 Nível -  (se for a forma preferida para evolução de personagens)
 XP - 275
-Dinheiro -  4950
+Dinheiro -  4980
 
 Atributos(8)
 Força: 1
