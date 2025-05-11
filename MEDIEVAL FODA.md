@@ -4,7 +4,7 @@ Classe - Clerigo
 HP| 6/11
 Mana| 11/11
 Nível -  (se for a forma preferida para evolução de personagens)
-XP - 
+XP - 275
 Dinheiro -  4950
 
 Atributos(8)
