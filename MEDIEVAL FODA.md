@@ -1,7 +1,7 @@
 Nome - Siddarta - a faisca do avanço
 Raça - Draconato
 Classe - Clerigo
-HP| 8/11
+HP| 6/11
 Mana| 11/11
 Nível -  (se for a forma preferida para evolução de personagens)
 XP - 
