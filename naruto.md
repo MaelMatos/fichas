@@ -151,26 +151,3 @@ Genjutsu: 1 -> 8
 
 # história
 quando era muito novo foi abandonado na frente de uma casa de uma familia uchiha,junto a um pergaminho misterioso, coincidentmente esses uchihas haviam ouvido os boatos sobre o clã maldito de monstros devoradores,e apesar disso,resolveram adotar e cuidar da criança,que foi impedida de ir a academia para evitar sua morte,durante o massacre uchiha ele foi um dos poupados por ser confundido com uma criança uchiha
-
-# anotações:
-- academia do corpo e da juventude
-- clã de mercenarios clã akachiza(caçava hellsings)
-- sangue perde pra agua e raio
-- falar com o chunim hellsing
-- akumaton tem 3 fraquezas-> luz+2 kekkei genkai
-- bombas não precisam acertar o alvo
-- colocar dano gigante em minhas ults
-
-# Anotações II
-akuma bushin A hp 120/120 ck 120/120
-akuma bushin B hp 120/120 ck 120/120
-akuma bushin C hp 120/120 ck 120/120
-mizu bushin A hp 25/25 ck 25/25
-mizu bushin B hp 25/25 ck 25/25
-mizu bushin C hp 25/25 ck 25/25
-kage bushin A hp 16/16 ck 16/16 
-kage bushin B hp 16/16 ck 16/16 
-kage bushin C hp 16/16 ck 16/16 
-bushin A
-bushin B
-bushin C
