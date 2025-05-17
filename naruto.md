@@ -25,13 +25,7 @@ Vontade: 11+5+2-> 43
 Chakra: 7+3+2-> 11  
 
 uraugan R4
- - +4 FOR +6 HAB +4 RES +4 PDF +5 VONT +3 CK
- - ver através da neblina
- - visão noturna
- - visão de longa distancia
- - roubo de vida por sangramento
- - permite dreno de vida em técnicas
- - ver emoções
+
 marca da maldição lvl 1(+2 em todas estatísticas)
 akumaton
 bukijutsu
