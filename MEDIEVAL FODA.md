@@ -7,7 +7,7 @@ Nível -  (se for a forma preferida para evolução de personagens)
 XP - 275
 Dinheiro -  4980
 
-Atributos(8)
+Atributos(8)(+1)
 Força: 1
 Habilidade: 2 
 Poder de Fogo: 1
@@ -39,7 +39,7 @@ Vontade: 1+2
 # Perícias(6)
 Arcana(1) 0/10
 Atletismo(0) 1/10
-Combate Armado(+1) 3/10
+Combate Armado(+1) 6/10
 Enganação(0) 1/10
 Furtividade(0) 1/10
 Intimidação(4)0/10
@@ -49,7 +49,7 @@ Religião(1+1+2) 3/10
 Sobrevivência(2) 0/10
 
 
-# Caminhos da Magia(3)
+# Caminhos da Magia(3)(+1)
 Fogo 
 Água 
 Terra 
