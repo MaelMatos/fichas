@@ -5,7 +5,7 @@ HP| 11/11
 Mana| 11/11
 Nível -  (se for a forma preferida para evolução de personagens)
 XP - 275
-Dinheiro -  4480
+Dinheiro -  4480 dorubs
 
 Atributos(8)
 Força: 1
