@@ -25,7 +25,7 @@ Vontade: 2+2
 - Progresso Celular
 	- Custo 11 | Cura 7 | Vorpal
 - serra elétrica
-	- Custo 7 | Dano 7
+	- Custo 11 | Dano 7 | Reciclavel
 
 # Vantagens(1)
 - Voo
