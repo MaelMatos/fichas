@@ -4,7 +4,7 @@ Classe - Clerigo
 HP| 27/27+17
 Mana| 0/11+17/17
 Nível -  3
-XP - 350
+XP - 625
 Dinheiro -  4480 dorul
 d6+1+4+7+7+1+2+6
 
