@@ -19,7 +19,7 @@ Vontade: 2+2
 - Espada longa
 	- 7 dano
 - Escudo leve
-	- 7 defesa
+	- 7 defesa | 3/4
 
 # Técnicas
 - Progresso Celular
