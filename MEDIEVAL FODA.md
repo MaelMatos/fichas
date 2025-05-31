@@ -43,6 +43,7 @@ Vontade: 2+2
 Arcana(1) 0/10
 Atletismo(0) 1/10
 Combate Armado(+1) 7/10
+Combate desarmado() 2/10
 Enganação(0) 1/10
 Furtividade(0) 1/10
 Intimidação(4)0/10
