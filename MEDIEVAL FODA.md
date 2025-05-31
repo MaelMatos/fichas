@@ -8,7 +8,7 @@ XP - 350
 Dinheiro -  4480 dorul
 d6+1+4+7+7+1+2
 
-Atributos(8)
+Atributos(14)
 Força: 1
 Habilidade: 2 
 Poder de Fogo: 1
@@ -42,7 +42,7 @@ Vontade: 2+2
 # Perícias(6)
 Arcana(1) 0/10
 Atletismo(0) 1/10
-Combate Armado(+1) 6/10
+Combate Armado(+1) 7/10
 Enganação(0) 1/10
 Furtividade(0) 1/10
 Intimidação(4)0/10
