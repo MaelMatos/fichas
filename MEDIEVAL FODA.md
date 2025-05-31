@@ -6,7 +6,7 @@ Mana| 11/11
 Nível -  3
 XP - 350
 Dinheiro -  4480 dorul
-
+d6+1+4+7+7+1+2
 
 Atributos(8)
 Força: 1
