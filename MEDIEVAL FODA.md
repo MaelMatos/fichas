@@ -7,6 +7,7 @@ Nível -  2
 XP - 825
 Dinheiro -  4480 dorul
 d6+1+4+7+7+1+2+6
++2 em tudo
 
 Atributos(14)
 Força: 1
