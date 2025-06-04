@@ -20,7 +20,7 @@ Vontade: 2+2
 - Espada longa
 	- 7 dano
 - Escudo leve
-	- 7 defesa | 3/4
+	- 7 defesa | 2/4
 - notas de dinheiro? x2
 
 # Técnicas
