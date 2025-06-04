@@ -34,6 +34,7 @@ Vontade: 2+2
 - Arma Natural
 - Patrono
 - Poder Oculto 
+- Gasto controlado(3)
 
 # Desvantagens(1)
 - Monstruoso
