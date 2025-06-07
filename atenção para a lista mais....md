@@ -1,5 +1,5 @@
 # Info
-Nome
+Nome: Siddarta - o Renascido
 Raça: fossil(Draconato)
 Vida: 3/3
 Energia 365/365
@@ -18,6 +18,7 @@ Vontade: 3
 # Técnicas
 
 
+
 # Vantagens
 - Controle de energia
 - Equilibrio de energia
@@ -29,3 +30,5 @@ Vontade: 3
 - Assombrado
 - Alvo
 
+# História
+**Algo** trouxe Siddarta, um poderoso mago de tempos antigos, a vida, agora Siddarta busca a origem deste poder profano, alguns boatos dizem que ele era membro de uma seita e que buscava por seus genitores antes de morrer, e que fez pactos sombrios com deuses estranhos até mesmo pra ele
