@@ -15,20 +15,23 @@ Habilidade: 1
 Agilidade: 2
 Vontade: 3
 
-# Técnicas
+# Técnicas(2)
+- Baforada atômica(1)
+	- Custo 10 | Dano 5 | em área | Ataque carregado
+- Projétil voador do deus do ~~avanço~~ trovão(1)
+	- Custo 20 | Dano 15 | Reciclavel | Teleguiado
 
 
-
-# Vantagens
+# Vantagens(8)
 - Controle de energia
-- Equilibrio de energia
+- Equilibrio de energia(5)
 - Sentido Especial: Sensor de perigo(3)
 
-# Desvantagens
-- Procurado
-- Atração Malévola
-- Assombrado
-- Alvo
+# Desvantagens(7)
+- Má fama
+- Atração Malévola(2)
+- Assombrado(2)
+- Alvo(3)
 
 # História
 **Algo** trouxe Siddarta, um poderoso mago de tempos antigos, a vida, agora Siddarta busca a origem deste poder profano, alguns boatos dizem que ele era membro de uma seita e que buscava por seus genitores antes de morrer, e que fez pactos sombrios com deuses estranhos até mesmo pra ele
