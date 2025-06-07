@@ -16,12 +16,13 @@ Vontade: 4
 
 # Técnicas
 
+
 # Vantagens
 - Controle de energia
 
 # Desvantagens
 - Procurado
-- Amnésia
+- Atração Malévola
 
 Resistência
 Define a vida do jogador e é utilizado para aplicar e resistir a debuffs
