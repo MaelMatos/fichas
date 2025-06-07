@@ -2,7 +2,8 @@
 Nome
 Raça: fossil(Draconato)
 Vida: 3/3
-Energia
+Energia 365/365
+Controle de energia 183/183
 
 # Atributos(23)
 Resistência: 1
