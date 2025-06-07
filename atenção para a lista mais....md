@@ -25,4 +25,6 @@ Vontade: 3
 # Desvantagens
 - Procurado
 - Atração Malévola
+- Assombrado
+- Alvo
 
