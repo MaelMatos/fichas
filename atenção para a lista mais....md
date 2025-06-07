@@ -5,14 +5,14 @@ Vida
 Energia
 
 # Atributos(26)
-Resistência
-Mana
-Força
-Poder de Fogo
-Magia
-Habilidade
-Agilidade
-Vontade
+Resistência: 2
+Mana: 12
+Força: 3
+Poder de Fogo: 1
+Magia: 3
+Habilidade: 1
+Agilidade: 2
+Vontade: 4
 
 # Técnicas
 
@@ -20,7 +20,7 @@ Vontade
 - Controle de energia
 
 # Desvantagens
-- Monstruoso
+- Procurado
 
 Resistência
 Define a vida do jogador e é utilizado para aplicar e resistir a debuffs
