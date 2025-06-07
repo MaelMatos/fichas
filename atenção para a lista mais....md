@@ -21,6 +21,7 @@ Vontade: 4
 
 # Desvantagens
 - Procurado
+- Amnésia
 
 Resistência
 Define a vida do jogador e é utilizado para aplicar e resistir a debuffs
