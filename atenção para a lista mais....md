@@ -5,9 +5,9 @@ Vida
 Energia
 
 # Atributos(26)
-Resistência: 2
-Mana: 12
-Força: 3
+Resistência: 1
+Mana: 14
+Força: 2
 Poder de Fogo: 1
 Magia: 3
 Habilidade: 1
