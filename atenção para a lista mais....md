@@ -9,11 +9,11 @@ Controle de energia 183/183
 Resistência: 1
 Mana: 14
 Força: 1
-Poder de Fogo: 
-Magia: 
-Habilidade: 
-Agilidade: 
-Vontade:
+Poder de Fogo: 0
+Magia: 1
+Habilidade: 1
+Agilidade: 1
+Vontade: 1
 
 # Técnicas(2)
 - Baforada atômica
