@@ -21,6 +21,7 @@ Vontade: 3
 # Vantagens
 - Controle de energia
 - Equilibrio de energia
+- Sentido Especial: Sensor de perigo(3)
 
 # Desvantagens
 - Procurado
