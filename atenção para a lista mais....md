@@ -19,12 +19,12 @@ Vontade: 1
 - Baforada atômica
 	- Custo 10 | Dano 5 | em área | Ataque carregado
 - Projétil voador do deus do ~~avanço~~ trovão
-	- Custo 20 | Dano 15 | Reciclavel | Teleguiado
+	- Custo 20 | Dano 15 | Reciclável | Teleguiado
 
 
 # Vantagens
 - Controle de energia
-- Equilibrio de energia(5)
+- Equilíbrio de energia(5)
 
 # Desvantagens
 - Má fama
