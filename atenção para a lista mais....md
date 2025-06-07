@@ -1,6 +1,6 @@
 # Info
 Nome
-Raça
+Raça: fossil(Draconato)
 Vida
 Energia
 
