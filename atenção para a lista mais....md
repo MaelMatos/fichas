@@ -2,9 +2,9 @@
 Nome: Siddarta - o Renascido
 Raça: fossil(Draconato)
 Vida: 3/3
-Energia 345/365
-Controle de energia 100/183
-d6+15+1+1+15
+Energia 325/365
+Controle de energia 90/183
+d6+15+1+1+15+15
 
 # Atributos(19)
 Resistência: 1
