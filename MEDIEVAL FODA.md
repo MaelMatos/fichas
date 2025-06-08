@@ -31,8 +31,8 @@ Vontade: 4+2
 	- Custo 11 | Cura 7 | Vorpal
 - serra elétrica(d)
 	- Custo 11 | Dano 7 | Reciclavel
-- (c)
-	- Custo 15 | 
+- cinturão de pauling(c)
+	- Custo 15 | Recupera 7 | Alvo multiplo | Preparado
 
 # Vantagens(1)
 - Voo
