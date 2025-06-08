@@ -21,7 +21,7 @@ Vontade: 2+2
 - Escudo leve
 	- 15 defesa | Equipamento Digno
 - notas de dinheiro? x2
-- Larva de Besouro Hamlet x10
+- Larva de Besouro Hamlet x8
 
 # Técnicas
 - Progresso Celular
