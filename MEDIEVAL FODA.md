@@ -23,6 +23,8 @@ Vontade: 2+2
 	- 15 defesa | Equipamento Digno
 - notas de dinheiro? x2
 - Larva de Besouro Hamlet x8
+- Poção MP x2
+	- 15 MP
 
 # Técnicas
 - Progresso Celular
