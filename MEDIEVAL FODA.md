@@ -19,7 +19,7 @@ Vontade: 2+2
 - Espada longa
 	- 7 dano
 - Escudo leve
-	- 7 defesa | 2/4
+	- 15 defesa | Equipamento Digno
 - notas de dinheiro? x2
 - Larva de Besouro Hamlet x10
 
