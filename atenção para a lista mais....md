@@ -5,7 +5,6 @@ Vida: 3/3
 Energia 265/365
 Controle de energia 70/183
 
-4
 # Atributos(19)
 Resistência: 1
 Mana: 14
