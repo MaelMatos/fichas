@@ -23,7 +23,7 @@ Vontade: 1
 	- Custo 20 | Dano 15 | Reciclável | Teleguiado | Escalavel
 
 
-# Vantagens(3)
+# Vantagens(8)
 - Controle de energia
 - Equilíbrio de energia(5)
 - Sentidos Especias: Perigo(3)
