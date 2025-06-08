@@ -8,7 +8,6 @@ Nível -  3
 XP - 2100
 Dinheiro -  280 dorul
 3
-vantagem de até 5
 
 Atributos(14)
 Força: 1
@@ -43,6 +42,8 @@ Vontade: 2+2
 - Poder Oculto 
 - Gasto controlado(3)
 - Vitalidade(4)
+- Ambidestria(3)
+- Telepatia(2)
 
 # Desvantagens(1)
 - Monstruoso
