@@ -5,7 +5,7 @@ HP| 14/27
 Mana| 6/11
 Nível -  3
 XP - 825
-Dinheiro -  4780 dorul
+Dinheiro -  3280 dorul
 
 
 Atributos(14)
@@ -21,6 +21,7 @@ Vontade: 2+2
 - Escudo leve
 	- 7 defesa | 2/4
 - notas de dinheiro? x2
+- Larva de Besouro Hamlet x10
 
 # Técnicas
 - Progresso Celular
