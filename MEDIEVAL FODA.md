@@ -3,19 +3,18 @@ Raça - Draconato
 Classe - Clerigo
 HP| 27/27
 Shield| 
-Mana| 11/11
+Mana| 16/16
 Nível -  3
 XP - 2100
 Dinheiro -  280 dorul
-3
 
 Atributos(14)
 Força: 1
 Habilidade: 2 
 Poder de Fogo: 1
 Resistência: 3+1
-Inteligência: 2
-Vontade: 2+2
+Inteligência: 3
+Vontade: 4+2
 
 # Inventário
 - Espada longa
