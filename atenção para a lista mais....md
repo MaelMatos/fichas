@@ -5,7 +5,7 @@ Vida: 3/3
 Energia 265/365
 Controle de energia 70/183
 
-12
+10
 # Atributos(19)
 Resistência: 1
 Mana: 14
@@ -18,9 +18,9 @@ Vontade: 1
 
 # Técnicas(2)
 - Baforada atômica
-	- Custo 10 | Dano 5 | em área | Ataque carregado
+	- Custo 10 | Dano 5 | em área | Ataque carregado | Dano Gigante
 - Projétil voador do deus do ~~avanço~~ trovão
-	- Custo 20 | Dano 15 | Reciclável | Teleguiado
+	- Custo 20 | Dano 15 | Reciclável | Teleguiado | Escalavel
 
 
 # Vantagens
