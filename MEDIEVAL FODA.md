@@ -34,6 +34,7 @@ Vontade: 2+2
 - Patrono
 - Poder Oculto 
 - Gasto controlado(3)
+- Vitalidade(4)
 
 # Desvantagens(1)
 - Monstruoso
