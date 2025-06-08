@@ -7,7 +7,8 @@ Mana| 11/11
 Nível -  3
 XP - 2100
 Dinheiro -  280 dorul
-
+3
+vantagem de até 5
 
 Atributos(14)
 Força: 1
@@ -28,10 +29,12 @@ Vontade: 2+2
 	- 15 MP
 
 # Técnicas
-- Progresso Celular
+- Progresso Celular(d)
 	- Custo 11 | Cura 7 | Vorpal
-- serra elétrica
+- serra elétrica(d)
 	- Custo 11 | Dano 7 | Reciclavel
+- (c)
+	- Custo 15 | 
 
 # Vantagens(1)
 - Voo
