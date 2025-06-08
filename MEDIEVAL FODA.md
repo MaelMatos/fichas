@@ -19,8 +19,10 @@ Vontade: 4+2
 # Inventário
 - Espada longa
 	- 7 dano
+- Armas diversas x10
+	- 8 dano
 - Escudo leve
-	- 15 defesa | Equipamento Digno
+	- 18 defesa | Equipamento Digno
 - notas de dinheiro? x2
 - Larva de Besouro Hamlet x8
 - Poção MP x2
