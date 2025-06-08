@@ -3,7 +3,7 @@ Raça - Draconato
 Classe - Clerigo
 HP| 27/27+42/42
 Shield| 
-Mana| 11/11+16/34
+Mana| 11/11+13/34
 Nível -  3
 XP - 825
 Dinheiro -  280 dorul
