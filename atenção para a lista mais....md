@@ -4,8 +4,8 @@ Raça: fossil(Draconato)
 Vida: 3/3
 Energia 265/365
 Controle de energia 70/183
-d6+15+1+1+15+15+15+15
 
+12
 # Atributos(19)
 Resistência: 1
 Mana: 14
@@ -30,6 +30,10 @@ Vontade: 1
 # Desvantagens
 - Má fama
 
+# Inventario
+- 25 Moedas de Ouro
+- 2 Lírios do Orvalho
+	- 20 HP
 
 # História
 **Algo** trouxe Siddarta, um poderoso mago de tempos antigos, a vida, agora Siddarta busca a origem deste poder profano, alguns boatos dizem que ele era membro de uma seita e que buscava por seus genitores antes de morrer, e que fez pactos sombrios com deuses estranhos até mesmo pra ele
