@@ -57,7 +57,7 @@ Furtividade(0) 2/10
 Intimidação(4)1/10
 Liderança(+1) 0/10
 Medicina(+1) 2/10
-Religião(1+1+2) 8/10
+Religião(1+1+2) 9/10
 Sobrevivência(2) 7/10
 
 
