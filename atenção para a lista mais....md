@@ -2,12 +2,12 @@
 Nome: Siddarta - o Renascido
 Raça: fossil(Draconato)
 Vida: 3/3
-Energia 265/365
-Controle de energia 70/183
+Energia 265/392
+Controle de energia 70/196
 
-# Atributos(19)
+# Atributos(20)
 Resistência: 1
-Mana: 14
+Mana: 15
 Força: 1
 Poder de Fogo: 0
 Magia: 1
@@ -15,11 +15,11 @@ Habilidade: 1
 Agilidade: 1
 Vontade: 1
 
-# Técnicas(4)
+# Técnicas(6)
 - Baforada atômica
-	- Custo 10 | Dano 5 | em área | Ataque carregado | Dano Gigante
+	- Custo 10 | Dano 5 | em área | Ataque carregado | Dano Gigante | Dreno de mana
 - Projétil voador do deus do ~~avanço~~ trovão
-	- Custo 20 | Dano 15 | Reciclável | Teleguiado | Escalavel
+	- Custo 25 | Dano 20 | Reciclável | Teleguiado | Escalavel | Alvo Multiplo
 
 
 # Vantagens(8)
