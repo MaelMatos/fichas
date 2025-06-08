@@ -5,7 +5,7 @@ HP| 14/27
 Mana| 6/11
 Nível -  3
 XP - 825
-Dinheiro -  3280 dorul
+Dinheiro -  280 dorul
 
 
 Atributos(14)
