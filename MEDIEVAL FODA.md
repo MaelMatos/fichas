@@ -5,7 +5,7 @@ HP| 27/27
 Shield| 
 Mana| 16/16
 Nível -  3
-XP - 2100
+XP - 2250
 Dinheiro -  280 dorul
 
 Atributos(14)
