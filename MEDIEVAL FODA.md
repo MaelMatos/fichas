@@ -24,7 +24,7 @@ Vontade: 4+2
 - Escudo leve
 	- 18 defesa | Equipamento Digno
 - notas de dinheiro? x2
-- Larva de Besouro Hamlet x8
+- Larva de Besouro Hamlet x6
 - Poção MP x2
 	- 15 MP
 
