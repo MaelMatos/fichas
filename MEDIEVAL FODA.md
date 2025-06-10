@@ -7,7 +7,7 @@ Mana| 14/16
 Nível -  3
 XP - 2250
 Dinheiro -  330 dorul
-
+32 de recuperação de MP
 
 
 Atributos(14)
@@ -25,8 +25,6 @@ Vontade: 4+2
 	- 18 defesa | Equipamento Digno
 - notas de dinheiro? x2
 - Larva de Besouro Hamlet x6
-- Poção MP x4
-	- 15 MP
 
 # Técnicas
 - Progresso Celular(d)
