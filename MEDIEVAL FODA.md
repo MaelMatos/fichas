@@ -26,7 +26,7 @@ Vontade: 4+2
 	- 18 defesa | Equipamento Digno
 - notas de dinheiro? x2
 - Larva de Besouro Hamlet x6
-- Poção MP x2
+- Poção MP x4
 	- 15 MP
 
 # Técnicas
