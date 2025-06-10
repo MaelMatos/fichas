@@ -9,6 +9,7 @@ XP - 2250
 Dinheiro -  330 dorul
 
 
+
 Atributos(14)
 Força: 1
 Habilidade: 2 
