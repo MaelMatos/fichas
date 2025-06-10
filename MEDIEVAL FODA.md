@@ -65,6 +65,7 @@ Liderança(+1) 5/10
 Medicina(+1) 2/10
 Religião(2+1+2) 5/10
 Sobrevivência(2) 8/10
+Intuição() 1/10
 
 
 # Caminhos da Magia(3)
