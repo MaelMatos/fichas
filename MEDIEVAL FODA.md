@@ -55,7 +55,7 @@ Vontade: 4+2
 - Gula
 
 # Perícias(6)
-Arcana(1) 0/10
+Arcana(1) 1/10
 Atletismo(0) 3/10
 Combate Armado(1+1) 4/10
 Combate desarmado() 3/10
