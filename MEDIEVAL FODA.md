@@ -45,6 +45,7 @@ Vontade: 4+2
 - Vitalidade(4)
 - Ambidestria(3)
 - Telepatia(2)
+- Superação(4)
 
 # Desvantagens(1)
 - Monstruoso
