@@ -7,7 +7,7 @@ Mana| 16/16
 Nível -  3
 XP - 2250
 Dinheiro -  330 dorul
-7
+
 
 Atributos(14)
 Força: 1
@@ -17,11 +17,9 @@ Resistência: 3+1
 Inteligência: 3
 Vontade: 4+2
 
-# Inventário
+# Inventário(2)
 - Espada longa
-	- 7 dano
-- Armas diversas x10
-	- 8 dano
+	- 7 dano | Arma-escudo
 - Escudo leve
 	- 18 defesa | Equipamento Digno
 - notas de dinheiro? x2
@@ -47,6 +45,7 @@ Vontade: 4+2
 - Ambidestria(3)
 - Telepatia(2)
 - Superação(4)
+- Toque de energia(5)
 
 # Desvantagens(1)
 - Monstruoso
