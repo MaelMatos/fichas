@@ -6,7 +6,7 @@ Shield|
 Mana| 16/16
 Nível -  3
 XP - 2250
-Dinheiro -  3080 dorul
+Dinheiro -  2330 dorul
 
 Atributos(14)
 Força: 1
