@@ -25,7 +25,7 @@ Vontade: 4+2
 	- d6+7+4+2+2+4 | 4 MP
 - Escudo leve
 	- 18 defesa | Equipamento Digno
-	- d6+18+4+6+2
+	- d6+18+4+6+2+4
 - notas de dinheiro? x2
 - Larva de Besouro Hamlet x6
 - Livro de raio
@@ -35,6 +35,7 @@ Vontade: 4+2
 	- Custo 11 | Cura 7 | Vorpal
 - serra elétrica(d)
 	- Custo 11 | Dano 7 | Reciclavel
+	- d6+7+7+4+6+5+
 - cinturão de pauling(c)
 	- Custo 15 | Recupera 7 | Alvo multiplo | Preparado
 
