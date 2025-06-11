@@ -10,6 +10,7 @@ Dinheiro -  330 dorul
 32 de recuperação de MP
 
 
+
 Atributos(14)
 Força: 1
 Habilidade: 2 
@@ -21,8 +22,10 @@ Vontade: 4+2
 # Inventário(2)
 - Espada longa
 	- 7 dano | Arma-escudo
+	- d6+7+4+2+2+4 | 4 MP
 - Escudo leve
 	- 18 defesa | Equipamento Digno
+	- d6+18+4+6+2
 - notas de dinheiro? x2
 - Larva de Besouro Hamlet x6
 - Livro de raio
