@@ -25,6 +25,7 @@ Vontade: 4+2
 	- 18 defesa | Equipamento Digno
 - notas de dinheiro? x2
 - Larva de Besouro Hamlet x6
+- Livro de raio
 
 # Técnicas
 - Progresso Celular(d)
