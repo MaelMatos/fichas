@@ -8,7 +8,7 @@ Nível -  3
 XP - 2250
 Dinheiro -  330 dorul
 32 de recuperação de MP
-
+3 crit
 
 
 Atributos(14)
