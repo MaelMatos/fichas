@@ -49,7 +49,8 @@
               "title": "anotações"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,11 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2845ffdac3dadd6",
+  "active": "077553367b6101c2",
   "lastOpenFiles": [
     "atenção para a lista mais....md",
-    "anotações.md",
     "MEDIEVAL FODA.md",
+    "anotações.md",
     "naruto gOLD.md",
     "naruto gOLD 20-12-2024.md",
     "naruto.md",

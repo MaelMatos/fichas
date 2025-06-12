@@ -3,3 +3,9 @@
 3- somente uma plavra é verdadeira
 4- quem fala sobre a somba jamais volta
 5- onome dela foi apagado da história
+
+
+amarelo - sorriso
+verde - guera
+vermelhho - dor
+azul - tambor
