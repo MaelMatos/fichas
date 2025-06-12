@@ -35,8 +35,7 @@
               "title": "atenção para a lista mais..."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c68f200305f4ef4",
+  "active": "f2845ffdac3dadd6",
   "lastOpenFiles": [
-    "MEDIEVAL FODA.md",
     "atenção para a lista mais....md",
+    "MEDIEVAL FODA.md",
     "naruto gOLD.md",
     "naruto gOLD 20-12-2024.md",
     "naruto.md",
