@@ -5,7 +5,7 @@ HP| 20/27
 Shield| 
 Mana| 12/16
 Nível -  3
-XP - 2250
+XP - 2300
 Dinheiro -  330 dorul
 32 de recuperação de MP
 3 crit
