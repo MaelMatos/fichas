@@ -9,3 +9,4 @@ amarelo - sorriso
 verde - guera
 vermelhho - dor
 azul - tambor
+roxo - dragão
