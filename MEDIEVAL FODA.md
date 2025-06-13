@@ -6,7 +6,9 @@ Shield| 10
 Mana| 16/16
 Nível -  4
 XP - 3900
-Dinheiro -  30 dorul
+Dinheiro -  1995 dorul
+5
+5 vantagem
 
 
 Atributos(14)
@@ -70,12 +72,12 @@ Sobrevivência(2) 8/10
 Intuição() 1/10
 
 
-# Caminhos da Magia(3)
+# Caminhos da Magia(3+1)
 Fogo 
 Água 
 Terra 
 Ar 
-Raio: 2 
+Raio: 3 
 Luz 
 Trevas 
 Arcano: 1 
