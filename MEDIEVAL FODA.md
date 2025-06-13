@@ -8,7 +8,6 @@ Nível -  4
 XP - 3900
 Dinheiro -  1995 dorul
 5
-5 vantagem
 
 
 Atributos(14)
@@ -50,6 +49,8 @@ Vontade: 4+2
 - Telepatia(2)
 - Superação(4)
 - Toque de energia(5)
+- Força oculta(4)
+- inimigo: demônios
 
 # Desvantagens(1)
 - Monstruoso
