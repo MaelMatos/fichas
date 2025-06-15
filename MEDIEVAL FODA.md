@@ -5,7 +5,7 @@ HP| 0/65
 Shield| 
 Mana| 0/24
 Nível -  4
-XP - 4250
+XP - 4400
 Dinheiro -  595 dorul
 2/3 30 mael
 3/3 42 
