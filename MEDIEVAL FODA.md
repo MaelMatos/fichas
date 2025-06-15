@@ -6,7 +6,7 @@ Shield| 10
 Mana| 24/24
 Nível -  4
 XP - 4000
-Dinheiro -  1995 dorul
+Dinheiro -  595 dorul
 
 
 Atributos(14)
