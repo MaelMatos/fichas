@@ -3,7 +3,7 @@ Raça - Draconato
 Classe - Clerigo
 HP| 65/65
 Shield| 10
-Mana| 24/24
+Mana| 22/24
 Nível -  4
 XP - 3900
 Dinheiro -  1995 dorul
@@ -23,7 +23,7 @@ Vontade: 4+2
 	- 7 dano | Arma-escudo
 	- d6+7+4+2+2+4 | 4 MP
 - Escudo leve
-	- 18 defesa | Equipamento Digno
+	- 22 defesa | Equipamento Digno
 	- d6+18+4+6+2+4
 - notas de dinheiro? x2
 - Larva de Besouro Hamlet x2
