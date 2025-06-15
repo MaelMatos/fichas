@@ -3,12 +3,12 @@ Raça - Draconato
 Classe - Clerigo
 HP| 65/65
 Shield| 10
-Mana| 6/24
+Mana| 22/24
 Nível -  4
 XP - 4250
 Dinheiro -  595 dorul
-
-
+2/3 30 mael
+3/3 42 
 Atributos(14)
 Força: 1
 Habilidade: 2 
@@ -38,6 +38,7 @@ Vontade: 4+2
 	- d6+7+7+4+6+5+
 - cinturão de pauling(c)
 	- Custo 15 | Recupera 7 | Alvo multiplo | Preparado
+	- d6+7+6+8+7
 
 # Vantagens(1)
 - Voo
