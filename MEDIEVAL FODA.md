@@ -62,7 +62,7 @@ Vontade: 4+2
 # Perícias(6)
 Arcana(1) 1/10
 Atletismo(0) 3/10
-Combate Armado(1+1) 7/10
+Combate Armado(2+1) 0/10
 Combate desarmado() 3/10
 Enganação(0) 1/10
 Furtividade(0) 2/10
