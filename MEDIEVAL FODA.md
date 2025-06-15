@@ -5,7 +5,7 @@ HP| 65/65
 Shield| 10
 Mana| 6/24
 Nível -  4
-XP - 4000
+XP - 4250
 Dinheiro -  595 dorul
 
 
