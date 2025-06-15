@@ -7,8 +7,7 @@ Mana| 18/24
 Nível -  4
 XP - 3900
 Dinheiro -  1995 dorul
-32
-+22+7+8+6+3+2+8
+
 
 Atributos(14)
 Força: 1
