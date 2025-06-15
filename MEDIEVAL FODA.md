@@ -62,14 +62,14 @@ Vontade: 4+2
 # Perícias(6)
 Arcana(1) 1/10
 Atletismo(0) 3/10
-Combate Armado(1+1) 4/10
+Combate Armado(1+1) 5/10
 Combate desarmado() 3/10
 Enganação(0) 1/10
 Furtividade(0) 2/10
 Intimidação(4)1/10
 Liderança(+1) 5/10
 Medicina(+1) 2/10
-Religião(3+1+2) 9/10
+Religião(4+1+2) 1/10
 Sobrevivência(2) 8/10
 Intuição() 1/10
 
