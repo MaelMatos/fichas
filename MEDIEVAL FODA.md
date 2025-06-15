@@ -54,6 +54,7 @@ Vontade: 4+2
 
 # Desvantagens(1)
 - Monstruoso
+- Alvo
 
 # Gambitos
 - Gula
