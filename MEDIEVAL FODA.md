@@ -66,7 +66,7 @@ Combate Armado(1+1) 7/10
 Combate desarmado() 3/10
 Enganação(0) 1/10
 Furtividade(0) 2/10
-Intimidação(4)1/10
+Intimidação(4)2/10
 Liderança(+1) 5/10
 Medicina(+1) 2/10
 Religião(4+1+2) 2/10
