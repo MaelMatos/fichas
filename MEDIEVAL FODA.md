@@ -27,6 +27,7 @@ Vontade: 4+2
 - notas de dinheiro? x2
 - Larva de Besouro Hamlet
 - Livro de raio
+- fragmento da fruta do genesis
 
 # Técnicas
 - Progresso Celular(d)
