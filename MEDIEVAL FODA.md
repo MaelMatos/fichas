@@ -70,7 +70,7 @@ Intimidação(4)1/10
 Liderança(+1) 5/10
 Medicina(+1) 2/10
 Religião(4+1+2) 2/10
-Sobrevivência(2) 8/10
+Sobrevivência(2) 9/10
 Intuição() 1/10
 
 
