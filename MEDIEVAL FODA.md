@@ -28,6 +28,7 @@ Vontade: 4+2
 - Larva de Besouro Hamlet
 - Livro de raio
 - fragmento da fruta do genesis
+- crachá de entrada de aburath
 
 # Técnicas
 - Progresso Celular(d)
