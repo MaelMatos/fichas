@@ -9,7 +9,7 @@ XP - 4250
 Dinheiro -  595 dorul
 2/3 30 mael
 3/3 42 
-Atributos(14)
+Atributos(22)
 Força: 1
 Habilidade: 2 
 Poder de Fogo: 1
