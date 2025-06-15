@@ -1,9 +1,9 @@
 Nome - Siddarta - a faisca do avanço
 Raça - Draconato
 Classe - Clerigo
-HP| 27/65
+HP| 65/65
 Shield| 10
-Mana| 16/24
+Mana| 24/24
 Nível -  4
 XP - 4000
 Dinheiro -  1995 dorul
@@ -25,7 +25,7 @@ Vontade: 4+2
 	- 22 defesa | Equipamento Digno
 	- d6+18+4+6+2+4
 - notas de dinheiro? x2
-- Larva de Besouro Hamlet x2
+- Larva de Besouro Hamlet
 - Livro de raio
 
 # Técnicas
