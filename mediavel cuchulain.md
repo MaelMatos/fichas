@@ -53,6 +53,7 @@ Trevas
 Arcano: 3
 
 ----------------------------------------------------------------
+Classe - Ladino
 HP| 
 Shield| 
 Mana|
@@ -62,11 +63,11 @@ Dinheiro -
 
 # Atributos()
 Força: 
-Habilidade: 
+Habilidade: +2
 Poder de Fogo: 
 Resistência: 
 Inteligência: 
-Vontade: 
+Vontade: +1
 
 # Inventário()
 - Tronco amaldiçoado
