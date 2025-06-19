@@ -1,5 +1,5 @@
 Nome -
-Raça - 
+Raça - Humano
 Classe - 
 HP| 
 Shield| 
@@ -26,6 +26,8 @@ Vontade:
 # Vantagens(1)
 - Poder oculto
 - Equipamento
+- Determinação inabalavel
+- Genialidade
 
 
 # Desvantagens(1)
@@ -34,7 +36,7 @@ Vontade:
 
 
 
-# Perícias(6)
+# Perícias(7)
 
 
 
@@ -46,4 +48,4 @@ Ar
 Raio: 
 Luz 
 Trevas 
-Arcano:  
+Arcano: 3
