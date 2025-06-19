@@ -80,12 +80,16 @@ Vontade: +1
 # Vantagens(1)
 - Sem rastro
 - Equipamento
+- Desapareceimento
 
 
 
 # Desvantagens(1)
 - Furia
 - Procurado
+
+# Gambito
+- Fé
 
 
 
