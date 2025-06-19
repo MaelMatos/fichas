@@ -33,8 +33,6 @@ Vontade:
 - Má fama
 
 
-# Gambitos
-
 
 # Perícias(6)
 
