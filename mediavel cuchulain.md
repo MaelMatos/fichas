@@ -78,16 +78,14 @@ Vontade: +1
 
 
 # Vantagens(1)
-- Poder oculto
+- Sem rastro
 - Equipamento
-- Determinação inabalavel
-- Genialidade
-- Vitalidade
+
 
 
 # Desvantagens(1)
-- Multipla personalidade
-- Má fama
+- Furia
+- Procurado
 
 
 
@@ -102,5 +100,5 @@ Terra
 Ar 
 Raio: 
 Luz 
-Trevas 
-Arcano: 3
+Trevas: 3 
+Arcano: 
