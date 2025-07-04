@@ -12,7 +12,7 @@ Won 105
 Sombra: 9/10
 Ponto de Inspiração: 0
 
-# Atributos: (15+6)
+# Atributos: (21+13)
 Força: 3+5 
 Habilidade: 5
 Poder de Fogo: 1
