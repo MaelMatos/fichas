@@ -11,6 +11,7 @@ Controle de energia | (se tiver a vantagem)
 Won 105
 Sombra: 9/10
 Ponto de Inspiração: 0
+guilda: Caminhos esquecidos
 
 # Atributos: (21+13)
 Força: 3+5 
