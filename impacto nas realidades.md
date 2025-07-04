@@ -4,23 +4,26 @@ Classe - Lutador
 Título -  Pioneiro dos Testes
 Nível -
 Xp - 
-HP | 67/67
+HP | 67/67+37/97
 Energia | 11/11
 Escudo | (se tiver a vantagem)
 Controle de energia | (se tiver a vantagem)
-Won 305
+Won 105
 Sombra: 9/10
 Ponto de Inspiração: 0
 
 # Atributos: (15+6)
-Força: 3 
+Força: 3+5 
 Habilidade: 5
 Poder de Fogo: 1
-Resistência: 8
+Resistência: 8+3
 Energia: 2
-Vontade: 2
+Vontade: 2+5
 # Inventário
-
+- Nó dos mundos
+	- Dano 3 | Perigoso | +5 FOR
+- Colar do espirito inquebravel
+	- Superação | +5 VON | +3 RES
 
 # Técnicas 
 - Flexionar
