@@ -48,6 +48,7 @@ Precisão (Usado em dano crítico e acerto de técnicas e ataques à distância)
 
 # Abas extras
 ## Energia Amaldiçoada
+### Técnica Amaldiçoada: O Advogado
 ### Habilidades Desbloqueadas:
 - Toque Amaldiçoado (Aprendiz): O usuário consegue imbuir um toque ou ataque corpo a corpo com uma pequena quantidade de energia amaldiçoada. Causa dano adicional mínimo do tipo 'amaldiçoado', mas a energia é instável e pode causar fadiga no usuário.
 - Escudo Instável (Aprendiz): Uma barreira temporária e pequena de energia amaldiçoada é conjurada. Absorve uma quantidade limitada de dano, mas é difícil manter a concentração e a barreira pode falhar ou dissipar prematuramente sob pressão.
