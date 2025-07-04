@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "dragon ball 2"
             }
+          },
+          {
+            "id": "bc169036b80156bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "impacto nas realidades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "impacto nas realidades"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,8 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e00cddf62804d33",
+  "active": "bc169036b80156bf",
   "lastOpenFiles": [
+    "dragon ball 2.md",
+    "impacto nas realidades.md",
     "mediavel cuchulain.md",
     "MEDIEVAL FODA.md",
     "medieval.md",
@@ -231,8 +247,6 @@
     "2025-03-30.md",
     "anuncio.md",
     "RPG odisseia.md",
-    "impacto das realidades.md",
-    "black clover.md",
     "Pasted image 20250310081958.png",
     "Pasted image 20250310081236.png",
     "duelista (1) (1).png",
