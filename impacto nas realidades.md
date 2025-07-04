@@ -4,8 +4,8 @@ Classe - Lutador
 Título -  
 Nível -
 Xp - 
-HP |
-Energia |
+HP | 67/67
+Energia | 11/11
 Escudo | (se tiver a vantagem)
 Controle de energia | (se tiver a vantagem)
 Won (se for pertinente para a campanha)
@@ -13,16 +13,20 @@ Sombra: 9/10
 Ponto de Inspiração: 0
 
 # Atributos: (15+6)
-Força: 4 
+Força: 3 
 Habilidade: 5
 Poder de Fogo: 1
-Resistência: 5
+Resistência: 8
 Energia: 2
-Vontade: 4
+Vontade: 2
 # Inventário
 
 
 # Técnicas 
+- Flexionar
+	- Custo 5 | +1d4 HAB
+- Punho Castigador
+	- Custo 5 | Dano 5 | RES como estatística principal
 
 # Habilidades
 - Sangue Quente
@@ -53,7 +57,8 @@ Precisão: 1
 ### Técnica Amaldiçoada: O Advogado
 Aumenta a versatilidade e e força de votos, além de reduzir seus custos
 #### Votos
-- Pseudo-restrição celestial o usuario não pode usar suas habilidades de Aba, além de sempre pagar o custo e suas técnicas com vida ao invés de energia, mas em compensação, ele recebe um grande aumento(36%) em atributos fisicos(Habilidade, Força e Resistencia)
+- Pseudo-restrição celestial: o usuario não pode usar suas habilidades de Aba, além de sempre pagar o custo e suas técnicas com vida ao invés de energia, mas em compensação, ele recebe um grande aumento(36%) em atributos fisicos(Habilidade, Força e Resistencia)
+- Ladrão de almas após ter sucesso em: 1 Esquiva, 1 ataque, 1 defesa e 1 Contra ataque contra um inimigo, o usuario pode roubar algo dele(uma Técnica/Habilidade, um item/drop ou uma fração de Shield ou HP/MP maximo)
 ### Habilidades Desbloqueadas:
 - ~~Toque Amaldiçoado (Aprendiz): O usuário consegue imbuir um toque ou ataque corpo a corpo com uma pequena quantidade de energia amaldiçoada. Causa dano adicional mínimo do tipo 'amaldiçoado', mas a energia é instável e pode causar fadiga no usuário.~~
 - ~~Escudo Instável (Aprendiz): Uma barreira temporária e pequena de energia amaldiçoada é conjurada. Absorve uma quantidade limitada de dano, mas é difícil manter a concentração e a barreira pode falhar ou dissipar prematuramente sob pressão.~~
@@ -66,11 +71,11 @@ Habilidades defensivas ou de suporte têm duração significativamente reduzida 
 # Perícias(10):
 Armadura Leve(0) 0/10 - FOR
 Armadura Pesada(0) 0/10 - FOR 
-Arma de Duas-Mãos(0) 0/10 - FOR 
+Arma de Duas-Mãos(2) 0/10 - FOR 
 Arma de Uma-Mão(4) 0/10 - FOR
 Ferraria(0) 0/10 - HAB 
 Alquimia(0) 0/10 - HAB 
-Encantamento(4) 0/10 - HAB
+Encantamento(2) 0/10 - HAB
 Furto(0) 0/10 - HAB
 Negocião(2) 0/10 - VON 
 Enganação(0) 0/10 - VON 
