@@ -13,12 +13,12 @@ Sombra: 9/10
 Ponto de Inspiração: 0
 
 # Atributos: (15+6)
-Força 
-Habilidade:
-Poder de Fogo:
-Resistência:
-Energia:
-Vontade:
+Força: 4 
+Habilidade: 5
+Poder de Fogo: 1
+Resistência: 5
+Energia: 2
+Vontade: 4
 # Inventário
 
 
@@ -35,7 +35,7 @@ Vontade:
 	- Vantagem de iniciativa contra inimigos novos
 
 # Vantagens(1) 
-- 
+- Força oculta
 
 
 # Desvantagens(1)
@@ -43,9 +43,9 @@ Vontade:
 
 
 # Caminhos dos Poderes(5):
-Artes Marciais (Usado no acerto de técnicas e ataques corpo-a-corpo e treinamento)
-Poder (Usado em dano e poder de efeitos)
-Precisão (Usado em dano crítico e acerto de técnicas e ataques à distância)
+Artes Marciais: 3
+Poder: 1
+Precisão: 1
 
 
 # Abas extras
