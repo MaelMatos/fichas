@@ -13,13 +13,12 @@ Sombra: 10/10
 Ponto de Inspiração: 0
 
 # Atributos: (15+6)
-Força (Usada como estatística primária de ataques e contra-ataques corpo-a-corpo e testes de força)
-Habilidade (Usada em testes de esquiva, acerto e como estatística secundária para dano corpo-a-corpo e à distância);
-Poder de Fogo (Usada como estatística primária em ataques à distância e em testes de poder de fogo);
-Resistência (Usado para o rolamento do HP, como estatística principal de defesas e testes de resistência)
-Energia (Usado para o rolamento da energia, estatística auxiliar para testes de morte e recarga de energia);
-Vontade (Usado como estatística secundária para cura e defesa, em treinamentos e em testes de vontade). 
-
+Força 
+Habilidade:
+Poder de Fogo:
+Resistência:
+Energia:
+Vontade:
 # Inventário
 
 
