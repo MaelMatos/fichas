@@ -49,9 +49,12 @@ Precisão (Usado em dano crítico e acerto de técnicas e ataques à distância)
 # Abas extras
 ## Energia Amaldiçoada
 ### Técnica Amaldiçoada: O Advogado
+Aumenta a versatilidade e e força de votos, além de reduzir seus custos
+#### Votos
+- Pseudo-restrição celestial o usuario não pode usar suas habilidades de Aba, além de sempre pagar o custo e suas técnicas com vida ao invés de energia, mas em compensação, ele recebe um grande aumento(36%) em atributos fisicos(Habilidade, Força e Resistencia)
 ### Habilidades Desbloqueadas:
-- Toque Amaldiçoado (Aprendiz): O usuário consegue imbuir um toque ou ataque corpo a corpo com uma pequena quantidade de energia amaldiçoada. Causa dano adicional mínimo do tipo 'amaldiçoado', mas a energia é instável e pode causar fadiga no usuário.
-- Escudo Instável (Aprendiz): Uma barreira temporária e pequena de energia amaldiçoada é conjurada. Absorve uma quantidade limitada de dano, mas é difícil manter a concentração e a barreira pode falhar ou dissipar prematuramente sob pressão.
+- ~~Toque Amaldiçoado (Aprendiz): O usuário consegue imbuir um toque ou ataque corpo a corpo com uma pequena quantidade de energia amaldiçoada. Causa dano adicional mínimo do tipo 'amaldiçoado', mas a energia é instável e pode causar fadiga no usuário.~~
+- ~~Escudo Instável (Aprendiz): Uma barreira temporária e pequena de energia amaldiçoada é conjurada. Absorve uma quantidade limitada de dano, mas é difícil manter a concentração e a barreira pode falhar ou dissipar prematuramente sob pressão.~~
 ### Impactos Práticos:
 Custo de Energia/Stamina para usar habilidades é 75% maior devido à ineficiência.
 Há uma chance de 20% de a habilidade falhar completamente ao ser conjurada.
