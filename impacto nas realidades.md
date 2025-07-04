@@ -39,7 +39,7 @@ Vontade:
 
 
 # Desvantagens(1)
-
+- Ponto Fraco: Canela Esquerda
 
 
 # Caminhos dos Poderes(5):
