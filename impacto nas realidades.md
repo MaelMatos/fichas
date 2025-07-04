@@ -8,7 +8,7 @@ HP | 67/67
 Energia | 11/11
 Escudo | (se tiver a vantagem)
 Controle de energia | (se tiver a vantagem)
-Won (se for pertinente para a campanha)
+Won 305
 Sombra: 9/10
 Ponto de Inspiração: 0
 
