@@ -35,9 +35,11 @@ Vontade:
 	- Vantagem de iniciativa contra inimigos novos
 
 # Vantagens(1) 
+- 
 
 
 # Desvantagens(1)
+
 
 
 # Caminhos dos Poderes(5):
@@ -65,12 +67,12 @@ Habilidades defensivas ou de suporte têm duração significativamente reduzida 
 Armadura Leve(0) 0/10 - FOR
 Armadura Pesada(0) 0/10 - FOR 
 Arma de Duas-Mãos(0) 0/10 - FOR 
-Arma de Uma-Mão(0) 0/10 - FOR
+Arma de Uma-Mão(4) 0/10 - FOR
 Ferraria(0) 0/10 - HAB 
 Alquimia(0) 0/10 - HAB 
-Encantamento(0) 0/10 - HAB
+Encantamento(4) 0/10 - HAB
 Furto(0) 0/10 - HAB
-Negocião(0) 0/10 - VON 
+Negocião(2) 0/10 - VON 
 Enganação(0) 0/10 - VON 
 Percepção(0) 0/10 - VON
 Intimidação(0) 0/10 - VON 
