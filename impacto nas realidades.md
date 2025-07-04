@@ -1,4 +1,4 @@
-Nome - 
+Nome - Lee Uijin
 Rank - C
 Classe - Lutador
 Título -  
