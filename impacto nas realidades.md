@@ -27,6 +27,7 @@ Vontade: 7+5
 	- Superação | +5 VON | +3 RES
 
 # Técnicas 
+- 
 - Flexionar
 	- Custo 5 | +1d4 HAB
 - Punho Castigador
