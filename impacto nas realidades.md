@@ -17,7 +17,7 @@ guilda: Caminhos esquecidos
 Força: 3+5+3 
 Habilidade: 5+2
 Poder de Fogo: 1
-Resistência: 8+3+4
+Resistência: 13+3+4
 Energia: 7
 Vontade: 7+5
 # Inventário
@@ -44,6 +44,7 @@ Vontade: 7+5
 
 # Vantagens(1) 
 - Força oculta
+- Duro de matar
 
 
 # Desvantagens(1)
@@ -62,7 +63,7 @@ Precisão: 1
 Aumenta a versatilidade e e força de votos, além de reduzir seus custos
 #### Votos
 - Pseudo-restrição celestial: o usuario não pode usar suas habilidades de Aba, além de sempre pagar o custo e suas técnicas com vida ao invés de energia, mas em compensação, ele recebe um grande aumento(36%) em atributos fisicos(Habilidade, Força e Resistencia)
-- Ladrão de almas após ter sucesso em: 1 Esquiva, 1 ataque, 1 defesa e 1 Contra ataque contra um inimigo, o usuario pode roubar algo dele(uma Técnica/Habilidade, um item/drop ou uma fração de Shield ou HP/MP maximo)
+- Ladrão de almas: após ter sucesso em: 1 Esquiva, 1 ataque, 1 defesa e 1 Contra ataque contra um inimigo, o usuario pode roubar algo dele(uma Técnica/Habilidade, um item/drop ou uma fração de Shield ou HP/MP maximo)
 ### Habilidades Desbloqueadas:
 - ~~Toque Amaldiçoado (Aprendiz): O usuário consegue imbuir um toque ou ataque corpo a corpo com uma pequena quantidade de energia amaldiçoada. Causa dano adicional mínimo do tipo 'amaldiçoado', mas a energia é instável e pode causar fadiga no usuário.~~
 - ~~Escudo Instável (Aprendiz): Uma barreira temporária e pequena de energia amaldiçoada é conjurada. Absorve uma quantidade limitada de dano, mas é difícil manter a concentração e a barreira pode falhar ou dissipar prematuramente sob pressão.~~
