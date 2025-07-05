@@ -3,12 +3,12 @@ Rank - C
 Classe - Lutador
 Título -  Pioneiro dos Testes
 Nível - 1
-Xp - 
+Xp - 1501
 HP | 67/67+37/37+65/68
 Energia | 4/11
 Escudo | (se tiver a vantagem)
 Controle de energia | (se tiver a vantagem)
-Won 105
+Won 708
 Sombra: 9/10
 Ponto de Inspiração: 0
 guilda: Caminhos esquecidos
