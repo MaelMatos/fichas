@@ -78,7 +78,7 @@ Armadura Leve(0) 0/10 - FOR
 Armadura Pesada(0) 0/10 - FOR 
 Arma de Duas-Mãos(2) 0/10 - FOR 
 Arma de Uma-Mão(4) 0/10 - FOR
-Ferraria(0) 0/10 - HAB 
+Ferraria(1) 0/10 - HAB 
 Alquimia(0) 0/10 - HAB 
 Encantamento(2) 0/10 - HAB
 Furto(0) 0/10 - HAB
