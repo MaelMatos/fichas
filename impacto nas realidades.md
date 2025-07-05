@@ -5,7 +5,7 @@ Título -  Pioneiro dos Testes
 Nível - 1
 Xp - 
 HP | 67/67+37/37+68/68
-Energia | 11/11
+Energia | 8/11
 Escudo | (se tiver a vantagem)
 Controle de energia | (se tiver a vantagem)
 Won 105
