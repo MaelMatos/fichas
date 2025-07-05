@@ -18,8 +18,8 @@ Força: 3+5+3
 Habilidade: 5+2
 Poder de Fogo: 1
 Resistência: 8+3+4
-Energia: 8
-Vontade: 8+5
+Energia: 7
+Vontade: 7+5
 # Inventário
 - Nó dos mundos
 	- Dano 3 | Perigoso | +5 FOR
