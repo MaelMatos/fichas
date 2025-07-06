@@ -13,12 +13,12 @@ Sombra: 9/10
 Ponto de Inspiração: 0
 guilda: Caminhos esquecidos
 3d6+49+22+12+3+3+15
-
+34
 # Atributos: (21+13(item)+14(voto))
-Força: 9+5+5 
-Habilidade: 10+(13)+(13)+4+(4)+(5)
+Força: 9+5+5 (-9)
+Habilidade: 10+4 | 26
 Poder de Fogo: 6
-Resistência: 13+3+6
+Resistência: 13+3+6+(34)+(18)
 Energia: 7
 Vontade: 7+5
 # Inventário
