@@ -2,8 +2,8 @@ Nome - Lee Uijin
 Rank - C
 Classe - Lutador
 Título -  Pioneiro dos Testes
-Nível - 6->10
-Xp - 5161
+Nível - 10->11
+Xp - 5527
 HP | 0/280+0/37+0/120
 Energia | 108/108
 Escudo | 
