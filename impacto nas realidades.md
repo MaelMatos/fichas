@@ -50,7 +50,7 @@ Vontade: 12+5
 # Vantagens(1) 
 - Força oculta
 - Duro de matar
-- ataque multiplo
+- aceleração
 - energia vital
 
 
