@@ -69,7 +69,7 @@ Precisão: 1
 ### Técnica Amaldiçoada: O Advogado
 Aumenta a versatilidade e e força de votos, além de reduzir seus custos
 #### Votos
-- Pseudo-restrição celestial: o usuario não pode usar suas habilidades de Aba, além de sempre pagar o custo e suas técnicas com vida ao invés de energia, mas em compensação, ele recebe um grande aumento(36%) em atributos fisicos(Habilidade, Força e Resistencia)
+- Pseudo-restrição celestial: o usuario não pode usar suas habilidades de Aba, além de sempre pagar o custo e suas técnicas com vida ao invés de energia, mas em compensação, ele recebe um grande aumento(1/3 arredondado pra cima) em atributos fisicos(Habilidade, Força e Resistencia)
 - Ladrão de almas: após ter sucesso em: 1 Esquiva, 1 ataque, 1 defesa e 1 Contra ataque contra um inimigo, o usuario pode roubar algo dele(uma Técnica/Habilidade, um item/drop ou uma fração de Shield ou HP/MP maximo)
 - punho justo: armas ganham +1 de dano por ataque em que não são usadas
 - destruição de massas: +1 de dano por inimigo adcional em uma desvantagem numerica
