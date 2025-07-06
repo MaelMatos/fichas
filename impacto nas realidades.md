@@ -27,7 +27,8 @@ Vontade: 7+5
 	- Superação | +5 VON | +3 RES
 
 # Técnicas 
-- 
+- Vem X1
+	- Custo 3 | 1d4 de taunt
 - Flexionar
 	- Custo 5 | +1d4 HAB
 - Punho Castigador
