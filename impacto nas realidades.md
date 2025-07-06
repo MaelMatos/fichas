@@ -32,7 +32,9 @@ Vontade: 11+5
 - Flexionar
 	- Custo 5 | +1d4 HAB
 - Punho Castigador
-	- Custo 5 | Dano 5 | RES como estatística principal
+	- Custo 5 | Dano 5 | RES como estatística principal | Poderoso
+- Espinhos
+	- Custo 7 | 25% do dano recebido
 
 # Habilidades
 - Sangue Quente
