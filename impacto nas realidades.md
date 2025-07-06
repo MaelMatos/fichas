@@ -8,7 +8,8 @@ HP | 0/280+0/37+0/120
 Energia | 108/108
 Escudo | 
 Controle de energia | (se tiver a vantagem)
-Won 708
+Won 105
+Moedas 3973
 Sombra: 9/10
 Ponto de Inspiração: 0
 guilda: Caminhos esquecidos
