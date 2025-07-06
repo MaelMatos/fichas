@@ -3,7 +3,7 @@ Rank - C
 Classe - Lutador
 Título -  Pioneiro dos Testes
 Nível - 11
-Xp - 5527
+Xp - 934
 HP | 301/301+37/37+135/184
 Energia | 118/122
 Escudo | 
