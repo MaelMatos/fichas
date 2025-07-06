@@ -4,8 +4,8 @@ Classe - Lutador
 Título -  Pioneiro dos Testes
 Nível - 11
 Xp - 5527
-HP | 301/301+37/37+140/184
-Energia | 122/122
+HP | 301/301+37/37+135/184
+Energia | 118/122
 Escudo | 
 Controle de energia | (se tiver a vantagem)
 Won 105
@@ -23,7 +23,7 @@ Energia: 12
 Vontade: 12+5
 # Inventário
 - Nó dos mundos
-	- Dano 3 | Perigoso | +5 FOR
+	- Dano 4 | Perigoso | +5 FOR
 - Colar do espirito inquebravel
 	- Superação | +5 VON | +3 RES
 
