@@ -47,6 +47,8 @@ Vontade: 11+5
 # Vantagens(1) 
 - Força oculta
 - Duro de matar
+- combo
+- energia vital
 
 
 # Desvantagens(1)
