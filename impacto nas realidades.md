@@ -2,25 +2,24 @@ Nome - Lee Uijin
 Rank - C
 Classe - Lutador
 Título -  Pioneiro dos Testes
-Nível - 6
-Xp - 1501
-HP | 56/193+0/37+0/120+(1168/1168+1197/1185)
-Energia | 26/53
+Nível - 6->10
+Xp - 5161
+HP | 0/280+0/37+0/120
+Energia | 108/108
 Escudo | 
 Controle de energia | (se tiver a vantagem)
 Won 708
 Sombra: 9/10
 Ponto de Inspiração: 0
 guilda: Caminhos esquecidos
-3d6+49+22+12+3+3+15
-34
+
 # Atributos: (21+13(item)+14(voto))
-Força: 9+5+5 (-9)
-Habilidade: 10+4 | 26
-Poder de Fogo: 6
-Resistência: 13+3+6+(34)+(18)
-Energia: 7
-Vontade: 7+5
+Força: 13+5+5
+Habilidade: 14+4
+Poder de Fogo: 10
+Resistência: 17+3+6
+Energia: 11
+Vontade: 11+5
 # Inventário
 - Nó dos mundos
 	- Dano 3 | Perigoso | +5 FOR
