@@ -12,7 +12,7 @@ Won 708
 Sombra: 9/10
 Ponto de Inspiração: 0
 guilda: Caminhos esquecidos
-3d6+49+22+5+3+3+15
+3d6+49+22+12+3+3+15
 
 # Atributos: (21+13(item)+14(voto))
 Força: 9+5+5 
