@@ -87,4 +87,4 @@ Furto(0) 0/10 - HAB
 Negocião(2) 0/10 - VON 
 Enganação(0) 0/10 - VON 
 Percepção(0) 0/10 - VON
-Intimidação(0) 0/10 - VON 
+Intimidação(0) 1/10 - VON 
