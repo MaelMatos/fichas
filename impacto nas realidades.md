@@ -15,7 +15,7 @@ guilda: Caminhos esquecidos
 
 # Atributos: (21+13(item)+14(voto))
 Força: 9+5+5 
-Habilidade: 10+4
+Habilidade: 10+(13)+4+(4)
 Poder de Fogo: 6
 Resistência: 13+3+6
 Energia: 7
