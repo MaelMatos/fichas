@@ -4,7 +4,7 @@ Classe - Lutador
 Título -  Pioneiro dos Testes
 Nível - 6
 Xp - 1501
-HP | 56/193+0/37+0/120+1168/1168+
+HP | 56/193+0/37+0/120+(1168/1168+1197/1197)
 Energia | 28/53
 Escudo | 
 Controle de energia | (se tiver a vantagem)
