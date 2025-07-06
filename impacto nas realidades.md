@@ -4,14 +4,15 @@ Classe - Lutador
 Título -  Pioneiro dos Testes
 Nível - 6
 Xp - 1501
-HP | 193/193+37/37+3/120
+HP | 193/193+37/37+47/120
 Energia | 36/53
-Escudo | 44
+Escudo | 
 Controle de energia | (se tiver a vantagem)
 Won 708
 Sombra: 9/10
 Ponto de Inspiração: 0
 guilda: Caminhos esquecidos
+3d6+49+22+5+3+3+15
 
 # Atributos: (21+13(item)+14(voto))
 Força: 9+5+5 
