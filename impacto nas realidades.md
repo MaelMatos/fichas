@@ -5,7 +5,7 @@ Título -  Pioneiro dos Testes
 Nível - 11
 Xp - 5527
 HP | 301/301+37/37+184/184
-Energia | 108/122
+Energia | 122/122
 Escudo | 
 Controle de energia | (se tiver a vantagem)
 Won 105
