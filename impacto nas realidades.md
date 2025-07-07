@@ -13,10 +13,11 @@ Moedas 3973
 Sombra: 9/10
 Ponto de Inspiração: 0
 guilda: Caminhos esquecidos
+47
 
 # Atributos: (21+13(item)+14(voto))
 Força: 14+5+7
-Habilidade: 15+5
+Habilidade: 15+5+(19)+(6)
 Poder de Fogo: 11
 Resistência: 18+3+8
 Energia: 12
