@@ -27,6 +27,8 @@ Vontade: 12+5
 	- Dano 4 | Perigoso | +5 FOR
 - Colar do espirito inquebravel
 	- Superação | +5 VON | +3 RES
+- Lâmina do remendo fortuito
+	- Dano 10 | 
 
 # Técnicas 
 - Vem X1
