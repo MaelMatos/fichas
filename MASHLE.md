@@ -35,6 +35,8 @@ magia: 5
 - Bomba de hidrogênio
 	- Custo 150 | Dano 120 | Ataque carregado | Preparado | Impiedoso | em área | Penetrante | Irrefreavel | Escalavel
 	- Zona inflamavel: a área desse ataque se torna inflamavel, se uma magia de [Fogo, Raio, Plasma, Lava, Calor, Explosão] for usada após ou em conjunto desse ataque, a área explodirá, adicionando em área, dano gigante e queimadura a outra magia
+- Disparo nuclear
+	- Custo 220 | Dano | Enfraquecimento | Queimadura | Sangramento | 
 - Área de batalha: Estrela de elétrons
 	- custo 200 | 2 Rodada
 
