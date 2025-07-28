@@ -6,7 +6,7 @@ casa:
 Vida: 0
 Mana: 802/802
 Controle : 802/802 
-
+66
 
 ## atributos (105)
 força: 0
