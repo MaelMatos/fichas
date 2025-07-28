@@ -6,14 +6,14 @@ casa:
 Vida: 0
 Mana: 802/802
 Controle : 802/802 
-66
+
 
 ## atributos (105)
 força: 0
 resistência: 0
-habilidade: 60+6
-inteligência: 20
-foco: 20
+habilidade: 66+7
+inteligência: 40
+foco: 60
 magia: 5
 
 ## pericias:
@@ -83,3 +83,6 @@ magia: 5
 - Frágil
 - Feridas abertas
 - segredo II: possui 3 linhas & faz parte da $%#@!
+
+Casa valhalla:
+efeito: proposito individual: o torna um gênio em seu atributo mais alto, testes com ele terão vantagem e a estatistica receberá um bonus de 10%
