@@ -39,14 +39,17 @@
             "id": "bc169036b80156bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MASHLE.md",
-                "mode": "source",
-                "source": false
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 166,
+                  "y": 140,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "MASHLE"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ],
@@ -221,6 +224,8 @@
   },
   "active": "bc169036b80156bf",
   "lastOpenFiles": [
+    "MASHLE.md",
+    "Sem título.canvas",
     "impacto das realidades.md",
     "ideias mashle.md",
     "ficha_mashle.md",
@@ -246,7 +251,6 @@
     "Bushido hon.md",
     "ideias medieval.md",
     "naruto 2.md",
-    "medival asiatico.md",
     "Pasted image 20250310081958.png",
     "Pasted image 20250310081236.png",
     "duelista (1) (1).png",
@@ -256,7 +260,6 @@
     "Pasted image 20241013163319.png",
     "imagens/Pasted image 20240922213221.png",
     "imagens",
-    "imagens/Pasted image 20240915182321.png",
-    "Sem título.canvas"
+    "imagens/Pasted image 20240915182321.png"
   ]
 }

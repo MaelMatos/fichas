@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"90c997a085e22e79","x":-340,"y":-60,"width":250,"height":60,"color":"#1100ff","type":"text","text":"Água"},
+		{"id":"47243d61273af36e","x":20,"y":-60,"width":250,"height":60,"color":"3","type":"text","text":"Raio"},
+		{"id":"cc74e89a4f78922b","x":-180,"y":120,"width":250,"height":60,"color":"#ffffff","type":"text","text":"Hidrogênio"},
+		{"id":"937ad6106747d194","x":120,"y":260,"width":250,"height":60,"color":"2","type":"text","text":"Nuclear/Fissão"},
+		{"id":"d588ebc7e4cddcd1","x":380,"y":120,"width":250,"height":60,"color":"5","type":"text","text":"Plasma"}
+	],
+	"edges":[
+		{"id":"605b4cca3da2aad2","fromNode":"90c997a085e22e79","fromSide":"bottom","toNode":"cc74e89a4f78922b","toSide":"top","color":"#1508c1"},
+		{"id":"ae4e5b09482f96a4","fromNode":"47243d61273af36e","fromSide":"bottom","toNode":"cc74e89a4f78922b","toSide":"top","color":"3"},
+		{"id":"e4e2fddd41918ed9","fromNode":"47243d61273af36e","fromSide":"bottom","toNode":"937ad6106747d194","toSide":"top","color":"3"},
+		{"id":"170d6118fcfbab8f","fromNode":"cc74e89a4f78922b","fromSide":"bottom","toNode":"937ad6106747d194","toSide":"top","color":"#ffffff"},
+		{"id":"3df5a60be6f9b22f","fromNode":"d588ebc7e4cddcd1","fromSide":"bottom","toNode":"937ad6106747d194","toSide":"top","color":"5"}
+	]
+}
