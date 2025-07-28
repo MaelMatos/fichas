@@ -1,7 +1,7 @@
 nome: siddarta
 riscos: 2(um horizontal em cima no nariz de ponta a ponta e um em forma de ferradura que interliga com o horizontal)
 
-Xp 4==5 15/51
+Xp 45 15/51
 1 pontos
 
 Vida: 7/25
