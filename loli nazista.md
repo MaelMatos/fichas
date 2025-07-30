@@ -18,6 +18,9 @@ Inteligência 1
 Vontade 1
 
 Inventário 2 equipamentos
+- HARKONEN
+- Luneta Aclopavel
+- 
 
 Técnicas 1
 
