@@ -25,8 +25,10 @@ Vantagens 1
 - Arena
 - Inimigos(Morto-Vivos)
 - Visão Noturna
+- Isekai
 
 Desvantagens 1
+- Devoção
 
 Gambitos 
 
