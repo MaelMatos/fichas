@@ -11,7 +11,7 @@ Dinheiro -  290
 
 Atributos 6+2
 Força 1
-Habilidade 3+1
+Habilidade 3+1+2
 Poder de Fogo 1+2
 Resistência  1
 Inteligência 1
@@ -19,8 +19,10 @@ Vontade 1
 
 Inventário
 - HARKONEN
+	- Dano 7 | Equipamento Digno | -2 HAB(Mobilidade)
 - Luneta Aclopavel
 - Armadura Leve
+	- +2 HAB
 
 # Técnicas (1)
 - Ocutação
