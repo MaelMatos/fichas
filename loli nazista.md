@@ -9,9 +9,9 @@ Nível -
 XP - 
 Dinheiro -  
 
-Atributos 6
+Atributos 6+2
 Força 1
-Habilidade 1+1
+Habilidade 3+1
 Poder de Fogo 1+2
 Resistência  1
 Inteligência 1
