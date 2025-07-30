@@ -58,11 +58,24 @@ Trevas 2
 Arcano 
 
 # História
-## Parte 1: Chamado e Irmandade
-**Abraham Stoker**, um veterano de guerra que serviu ao exercito Americano durante quase toda sua vida, ele era o Sniper mais conhecido dentro de seus circulos de trabalho, fama igualmente compartilhada com seu irmão **Arthur Stoker**, que era seu leal Spotter, isso até presenciarem a VERDADEIRA GUERRA
-chamados para a operação liberdade (no afeganistão), a dupla se consolidou como a melhor equipe de "assassinato remoto" dos EUA, através da operação anaconda em março de 2002, eles eliminaram lideres de organizações terroristas, estabelecendo também um novo recorde de distancia para um tiro letal: 2500 Metros, a partir dessa operação eles começaram a ser conhecidos como gêmeos trovão, devido a arma favorita de abraham, um canhão de aproximadamente 2 metros e 30 quilos batizado de **HARKONNEN** que mesmo com silenciadores superiores a 20CM produzia sons ensurdecedores
-## Parte 2: a queda do trovão
-durante sua ultima missão, Abraham se arrependeria de seu titulo, enquanto corriam do inimigo após executarem um dos lideres locais inimigos, ambos os irmãos foram atingidos pela explosão de um morteiro, Abraham sobreviveu para voltar pra casa, mas seu irmão não teve essa sorte, ele morreu de hemorragia após perder parte das duas pernas
-# Parte 3: a volta pra casa e o ódio aos deuses
-Arthur era um religioso fervoroso, acreditava que havia algo do outro lado que o permitia voltar seguro pra casa todos os dias, Abraham nunca se importou muito com isso, mas achava que deveria ter algo do outro lado para tudo fazer sentido, ele pensava: "talvez meu irmão estivesse certo afinal", esse pensamento mudou após a morte de seu irmão: "como o mais fiel dos seguidores poderia ser abandonado pra morrer?"
-de volta aos EUA, agora aposentado, Abraham ficou amargurado e cheio de inimigos, afinal, seu unico trabalho era matar
+# Parte 1: Chamado e Irmandade
+
+Abraham Stoker não era apenas um soldado; ele era uma lenda sussurrada nos corredores do Pentágono. Um veterano cuja vida foi o Exército Americano. Ao seu lado, sempre, estava seu irmão Arthur Stoker, mais que um Spotter, sua âncora de sanidade. Juntos, eles eram uma única arma. Mas foi no Afeganistão que eles descobriram o que era a verdadeira guerra.
+
+Durante a Operação Anaconda em março de 2002, a dupla se tornou um mito. Armado com seu fuzil anti-material experimental, um monstro de 20kg batizado de "HARKONNEN", Abraham estabeleceu um novo recorde de tiro letal: 2500 metros. O som do disparo era tão cataclísmico que nenhum supressor conseguia contê-lo, um trovão que rolava pelos vales anunciando a morte. Nascia ali a lenda dos "Gêmeos Trovão", uma tática de guerra psicológica tanto quanto de eliminação.
+
+# Parte 2: A Queda do Trovão
+
+Durante sua última incursão em território inimigo, o sucesso da missão – a eliminação de um senhor da guerra local – se tornou irrelevante. Na retirada apressada sob o céu poeirento, o acaso do campo de batalha se manifestou na forma de um morteiro. A explosão foi um borrão de som e fúria. Abraham foi jogado contra uma parede de pedra, mas a sorte de Arthur foi muito pior.
+
+Ao se arrastar até o irmão, Abraham viu a devastação: as pernas de Arthur estavam destruídas. Enquanto aplicava torniquetes e pressionava as feridas, em um esforço desesperado contra a hemorragia indiferente, ele ouvia os sussurros de Arthur. Não eram pedidos de ajuda ou gritos de dor. Eram orações. Com o sangue esvaindo de seu corpo, seu irmão, o religioso fervoroso, rezava com a mesma fé inabalável que o guiara por toda a vida, acreditando até o último suspiro que seu deus o salvaria.
+
+Abraham pressionava a carne, Arthur pressionava os céus. Mas o único som no ar era o chiado do rádio e os gritos distantes. A vida de Arthur se esvaiu em um silêncio divino. Naquele momento, observando a fé mais pura ser recebida com um vazio absoluto, Abraham não sentiu apenas a dor do luto. Sentiu o nascimento de um ódio gelado e profundo. Seu irmão não morreu por causa de um morteiro; ele morreu porque o deus a quem ele dedicou a vida inteira o observou sangrar e não fez nada.
+
+# Parte 3: A Volta Para Casa e o Desprezo aos deuses
+
+De volta aos EUA, Abraham foi recebido como um herói, mas se sentia um fantasma. Ele se aposentou do exército, mas a guerra o seguiu. Seu luto se transformou em uma guerra silenciosa e particular contra os céus. Para ele, deus não era inexistente; era um espectador cruel e indiferente, e Abraham O desprezava por isso.
+
+O mundo dos homens provou ser tão traiçoeiro quanto o divino. Um político influente, que usou a fama dos "Gêmeos Trovão" para sua própria promoção, rapidamente os descartou quando a operação final gerou controvérsia diplomática. Abraham foi transformado em bode expiatório, teve sua honra questionada em círculos fechados e parte de sua pensão retida em burocracia, um herói de guerra abandonado pelo sistema que jurou defender.
+
+Para piorar, os remanescentes da célula terrorista cujo líder ele matou não esqueceram seu rosto. Caçado por fantasmas do passado e traído por seu próprio país, Abraham se tornou um homem isolado, amargurado e perigoso. Ele vivia seus dias em uma reclusão paranoica, confiando apenas no peso familiar do HARKONNEN ao seu lado e alimentando seu desprezo por qualquer poder superior.
