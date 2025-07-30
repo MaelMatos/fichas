@@ -59,3 +59,6 @@ Arcano
 
 # História
 ## Parte 1: Chamado e Irmandade
+**Abraham Stoker**, um veterano de guerra que serviu ao exercito Americano durante quase toda sua vida, ele era o Sniper mais conhecido dentro de seus circulos de trabalho, fama igualmente compartilhada com seu irmão **Arthur Stoker**, que era seu leal Spotter, isso até presenciarem a VERDADEIRA GUERRA
+chamados para a operação liberdade (no afeganistão), a dupla se consolidou como a melhor equipe de "assassinato remoto" dos EUA, através da operação anaconda em março de 2002, eles eliminaram lideres de organizações terroristas, estabelecendo também um novo recorde de distancia para um tiro letal: 2500 Metros, a partir dessa operação eles começaram a ser conhecidos como gêmeos trovão, devido a arma favorita de abraham, um canhão de aproximadamente 2 metros e 40 quilos batizado de **HARKONNEN** que mesmo com 
+## Parte 2: a queda do trovão
