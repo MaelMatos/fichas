@@ -44,7 +44,8 @@ Inventário
 # Perícias (4)
 Combate Á Distância (1+1) 0/10, Poder de Fogo
 Acrobacia (1+1+1) 0/10, Habilidade
-Furtividade (2+1) 0/10, Habilidade
+Furtividade (1+1) 0/10, Habilidade
+Ferraria (1) 0/10, Força/Inteligencia
 
 
 # Caminhos da Magia (2)
