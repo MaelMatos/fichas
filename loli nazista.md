@@ -20,6 +20,8 @@ Vontade 1
 Inventário
 - HARKONEN
 	- Dano 7 | Equipamento Digno | -2 HAB(Mobilidade)
+	- Coletora: d2(125 GD ou 100 XP) 
+	- Abates: 0
 - Luneta Aclopavel
 - Armadura Leve
 	- +2 HAB
