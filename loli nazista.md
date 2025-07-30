@@ -10,12 +10,12 @@ XP -
 Dinheiro -  
 
 Atributos 6
-Força 
-Habilidade +1
-Poder de Fogo +2
-Resistência  
-Inteligência 
-Vontade 
+Força 1
+Habilidade 1+1
+Poder de Fogo 1+2
+Resistência  1
+Inteligência 1
+Vontade 1
 
 Inventário 2 equipamentos
 
