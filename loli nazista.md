@@ -23,6 +23,8 @@ Inventário 2 equipamentos
 - Armadura Leve
 
 Técnicas 1 (5)
+- Ocutação
+	- Custo 5 | 5 Turnos
 
 Vantagens 1
 - Arena
@@ -70,7 +72,7 @@ Terra
 Ar 
 Raio 
 Luz 
-Trevas 
+Trevas 2
 Arcano 
 
 Anotações Gerais
