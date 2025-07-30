@@ -63,5 +63,6 @@ Arcano
 chamados para a operação liberdade (no afeganistão), a dupla se consolidou como a melhor equipe de "assassinato remoto" dos EUA, através da operação anaconda em março de 2002, eles eliminaram lideres de organizações terroristas, estabelecendo também um novo recorde de distancia para um tiro letal: 2500 Metros, a partir dessa operação eles começaram a ser conhecidos como gêmeos trovão, devido a arma favorita de abraham, um canhão de aproximadamente 2 metros e 40 quilos batizado de **HARKONNEN** que mesmo com silenciadores superiores a 20CM produzia sons ensurdecedores
 ## Parte 2: a queda do trovão
 durante sua ultima missão, Abraham se arrependeria de seu titulo, enquanto corriam do inimigo após executarem um dos lideres locais inimigos, ambos os irmãos foram atingidos pela explosão de um morteiro, Abraham sobreviveu para voltar pra casa, mas seu irmão não teve essa sorte, ele morreu de hemorragia após perder parte das duas pernas
-
-Parte 3: a volta pra casa e o ódio aos deuses
+# Parte 3: a volta pra casa e o ódio aos deuses
+Arthur era um religioso fervoroso, acreditava que havia algo do outro lado que o permitia voltar seguro pra casa todos os dias, Abraham nunca se importou muito com isso, mas achava que deveria ter algo do outro lado para tudo fazer sentido, ele pensava: "talvez meu irmão estivesse certo afinal", esse pensamento mudou após a morte de seu irmão: "como o mais fiel dos seguidores poderia ser abandonado pra morrer?"
+de volta aos EUA, agora aposentado, Abraham ficou amargurado e cheio de inimigos, afinal, seu unico trabalho era matar
