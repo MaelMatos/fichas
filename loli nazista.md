@@ -18,7 +18,7 @@ Inteligência 1
 Vontade 1
 
 Inventário
-- HARKONEN
+- HARKONNEN
 	- Dano 7 | Equipamento Digno | -2 HAB(Mobilidade)
 	- Coletora: d2(125 GD ou 100 XP) 
 	- Abates: 0
