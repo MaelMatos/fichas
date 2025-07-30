@@ -17,31 +17,27 @@ Resistência  1
 Inteligência 1
 Vontade 1
 
-Inventário 2 equipamentos
+Inventário
 - HARKONEN
 - Luneta Aclopavel
 - Armadura Leve
 
-Técnicas 1 (5)
+# Técnicas (1)
 - Ocutação
 	- Custo 5 | 5 Turnos
 
-Vantagens 1
+# Vantagens (1)
 - Arena
 - Inimigos(Morto-Vivos)
 - Visão Noturna
 - Isekai
 - Telepatia(2)
 
-Desvantagens 1
+# Desvantagens (1)
 - Devoção
 - Coração Fraco(-4)
 
-Gambitos 
-
-Manobras de Combate 
-
-Perícias 4
+# Perícias (4)
 Combate Armado () 0/10, Força ou Habilidade
 Combate Desarmado () 0/10, Força ou Habilidade
 Combate Á Distância (1+1) 0/10, Poder de Fogo
@@ -65,7 +61,7 @@ Prestidigitação () 0/10, Habilidade
 Sobrevivência () 0/10, Habilidade ou Inteligência
 Liderança () 0/10, Vontade ou Inteligência
 
-Caminhos da Magia 2
+# Caminhos da Magia (2)
 Fogo 
 Água 
 Terra 
