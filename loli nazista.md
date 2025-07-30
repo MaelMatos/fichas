@@ -26,9 +26,11 @@ Vantagens 1
 - Inimigos(Morto-Vivos)
 - Visão Noturna
 - Isekai
+- Ataque Multiplo(2)
 
 Desvantagens 1
 - Devoção
+- Coração Fraco(-4)
 
 Gambitos 
 
