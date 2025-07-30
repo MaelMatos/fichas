@@ -9,8 +9,6 @@ Nível -
 XP - 
 Dinheiro -  
 
-2
-
 Atributos 6+2
 Força 1
 Habilidade 3+1
