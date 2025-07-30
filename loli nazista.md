@@ -22,12 +22,12 @@ Inventário
 	- Dano 7 | Equipamento Digno | -2 HAB(Mobilidade)
 	- Coletora: d2(125 GD ou 100 XP) 
 	- Abates: 0
-- Luneta Aclopavel
+- Luneta Acoplável
 - Armadura Leve
 	- +2 HAB
 
 # Técnicas (1)
-- Ocutação
+- Ocultação
 	- Custo 5 | 5 Turnos
 
 # Vantagens (1)
