@@ -1,13 +1,13 @@
 Nome - 
 Raça - Dampiro
 Classe - Patrulheiro
-HP| 
-Mana| 
+HP| 6/6
+Mana| 29/29
 Escudo| 
 Controle de Energia| 
 Nível -  
 XP - 
-Dinheiro -  
+Dinheiro -  290
 
 Atributos 6+2
 Força 1
