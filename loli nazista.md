@@ -20,9 +20,9 @@ Vontade 1
 Inventário 2 equipamentos
 - HARKONEN
 - Luneta Aclopavel
-- 
+- Armadura Leve
 
-Técnicas 1
+Técnicas 1 (5)
 
 Vantagens 1
 - Arena
