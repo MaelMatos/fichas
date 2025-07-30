@@ -33,6 +33,7 @@ Vantagens 1
 - Inimigos(Morto-Vivos)
 - Visão Noturna
 - Isekai
+- Telepatia(2)
 
 Desvantagens 1
 - Devoção
