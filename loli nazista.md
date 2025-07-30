@@ -9,6 +9,8 @@ Nível -
 XP - 
 Dinheiro -  
 
+2
+
 Atributos 6+2
 Força 1
 Habilidade 3+1
@@ -31,7 +33,6 @@ Vantagens 1
 - Inimigos(Morto-Vivos)
 - Visão Noturna
 - Isekai
-- Ataque Multiplo(2)
 
 Desvantagens 1
 - Devoção
