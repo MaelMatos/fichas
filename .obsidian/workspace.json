@@ -15,34 +15,16 @@
               "state": {
                 "file": "Medieval RPGzada/Sem título 1.canvas",
                 "viewState": {
-                  "x": 262.28515927846263,
-                  "y": 102.09130240144165,
+                  "x": 593.9953657290262,
+                  "y": 30.545963755241672,
                   "zoom": -0.7013542511533907
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Sem título 1"
             }
-          },
-          {
-            "id": "c3aa67e3f2cd698c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Medieval RPGzada/Sem título 1.canvas",
-                "viewState": {
-                  "x": 592.6892523364486,
-                  "y": 47.54953271028036,
-                  "zoom": -0.5609434640244758
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título 1"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3aa67e3f2cd698c",
+  "active": "96234cb403e19db9",
   "lastOpenFiles": [
-    "Medieval RPGzada/Ficha Impacto das Realidades.canvas",
     "Sem título 5.md",
     "Medieval RPGzada/Sem título 1.canvas",
+    "Medieval RPGzada/Ficha Impacto das Realidades.canvas",
     "2025-03-30.md",
     "Medieval RPGzada/loli nazista.md",
     "Medieval RPGzada/Aparencia militar.png",
