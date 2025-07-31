@@ -1,8 +1,14 @@
 {
 	"nodes":[
-		{"id":"a6798939cdcdee3a","type":"text","text":"Nome - Abraham Stoker\nRaça - Dampiro\nClasse - Patrulheiro\nNível -  \nXP - \nDinheiro -  1290","x":-320,"y":-140,"width":240,"height":180},
-		{"id":"2ecf00b7913959c5","type":"file","file":"Medieval RPGzada/Aparencia militar.png","x":-320,"y":-380,"width":240,"height":240},
-		{"id":"523ede10be25c55a","type":"text","text":"HP| 6/6\nMana| 22/22","x":-75,"y":-218,"width":250,"height":78}
+		{"id":"a6798939cdcdee3a","type":"text","text":"Nome - Abraham Stoker\nRaça - Dampiro\nClasse - Patrulheiro\nNível -  \nXP - \nDinheiro -  1290","x":-320,"y":-140,"width":240,"height":180,"color":"#ffffff"},
+		{"id":"2ecf00b7913959c5","type":"file","file":"Medieval RPGzada/Aparencia militar.png","x":-320,"y":-380,"width":240,"height":240,"color":"#ffffff"},
+		{"id":"523ede10be25c55a","type":"text","text":"HP| 6/6\nMana| 22/22","x":-80,"y":-380,"width":311,"height":78},
+		{"id":"8cf580741119c70e","x":-80,"y":-302,"width":300,"height":222,"color":"4","type":"text","text":"- Arena\n- Inimigos(Morto-Vivos)\n- Visão Noturna\n- Isekai\n- Telepatia(2)"},
+		{"id":"0b8495bfb5dce835","x":-80,"y":-80,"width":300,"height":120,"color":"1","type":"text","text":"- Devoção\n- Coração Fraco(-4)"},
+		{"id":"2d2449143dbd7960","x":220,"y":-380,"width":474,"height":420,"type":"text","text":"Atletismo(1) 0/10, Força/Habilidade  \nAcrobacia (1+1+1) 0/10, Habilidade  \nCombate Á Distância (2+1) 0/10, Poder de Fogo  \nAcrobacia (1+1+1) 0/10, Habilidade  \nFurtividade (1+1) 0/10, Habilidade  \nFerraria (1) 0/10, Força/Inteligencia  \nMedicina (0) 5/10 Inteligencia"},
+		{"id":"76d39bf4bcdb4df9","x":160,"y":40,"width":250,"height":342,"color":"6","type":"text","text":"Fogo  \nÁgua  \nTerra  \nAr  \nRaio  \nLuz  \nTrevas 2  \nArcano"},
+		{"id":"2cebfa865fe0cc20","x":414,"y":40,"width":280,"height":342,"type":"text","text":"- Ocultação\n\t- Custo 5 | 5 Turnos"},
+		{"id":"b3ad7b043b97b148","x":-320,"y":40,"width":480,"height":342,"type":"text","text":"- HARKONNEN\n    - Dano 7 | Equipamento Digno | -2 HAB(Mobilidade)\n    - Coletora: d2(125 GD ou 100 XP)\n    - Abates: 0\n- Luneta Acoplável\n- Armadura Leve\n    - +2 HAB"}
 	],
 	"edges":[]
 }
