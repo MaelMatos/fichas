@@ -23,8 +23,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Sem título 1"
             }
+          },
+          {
+            "id": "c3aa67e3f2cd698c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Medieval RPGzada/Sem título 1.canvas",
+                "viewState": {
+                  "x": 592.6892523364486,
+                  "y": 47.54953271028036,
+                  "zoom": -0.5609434640244758
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +212,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96234cb403e19db9",
+  "active": "c3aa67e3f2cd698c",
   "lastOpenFiles": [
+    "Medieval RPGzada/Ficha Impacto das Realidades.canvas",
+    "Sem título 5.md",
+    "Medieval RPGzada/Sem título 1.canvas",
     "2025-03-30.md",
     "Medieval RPGzada/loli nazista.md",
     "Medieval RPGzada/Aparencia militar.png",
-    "Medieval RPGzada/Ficha Impacto das Realidades.canvas",
-    "Medieval RPGzada/Sem título 1.canvas",
     "Pasted image 20250730212547.png",
     "MASHLE.md",
     "anotações.md",
@@ -226,8 +245,6 @@
     "naruto gOLD 20-12-2024.md",
     "naruto.md",
     "pvp naruto.md",
-    "legite medieval.md",
-    "Bushido hon.md",
     "Pasted image 20250310081958.png",
     "Pasted image 20250310081236.png",
     "duelista (1) (1).png",
