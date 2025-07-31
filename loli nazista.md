@@ -42,7 +42,7 @@ Inventário
 - Coração Fraco(-4)
 
 # Perícias (4)
-Atletismo(1) 0/10
+Atletismo(1) 0/10, Força/Habilidade
 Acrobacia (1+1+1) 0/10, Habilidade
 Combate Á Distância (2+1) 0/10, Poder de Fogo
 Acrobacia (1+1+1) 0/10, Habilidade
