@@ -7,7 +7,7 @@ Escudo|
 Controle de Energia| 
 Nível -  
 XP - 
-Dinheiro -  290
+Dinheiro -  1290
 
 Atributos 6+2
 Força 2
@@ -42,10 +42,14 @@ Inventário
 - Coração Fraco(-4)
 
 # Perícias (4)
-Combate Á Distância (1+1) 0/10, Poder de Fogo
+Atletismo(1) 0/10
+Acrobacia (1+1+1) 0/10, Habilidade
+Combate Á Distância (2+1) 0/10, Poder de Fogo
 Acrobacia (1+1+1) 0/10, Habilidade
 Furtividade (1+1) 0/10, Habilidade
 Ferraria (1) 0/10, Força/Inteligencia
+Medicina (0) 5/10 Inteligencia
+
 
 
 # Caminhos da Magia (2)
