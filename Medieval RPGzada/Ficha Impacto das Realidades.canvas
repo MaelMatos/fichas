@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"593c04bbad7e94ae","type":"group","x":-520,"y":300,"width":1180,"height":820,"color":"4","label":"Inventário Físico"},
+		{"id":"b03a06909d2cf109","type":"group","x":720,"y":400,"width":960,"height":720,"color":"5","label":"Aspectos Únicos"},
+		{"id":"3364a142a898e140","type":"group","x":720,"y":-257,"width":800,"height":617,"color":"2","label":"Técnicas, Vantagens e Desvantagens"},
+		{"id":"17148889ffe25bed","type":"group","x":-520,"y":-260,"width":600,"height":520,"color":"6","label":"Cabeçalho"},
+		{"id":"dcdbf9d2ac058c67","type":"group","x":120,"y":-260,"width":540,"height":520,"color":"1","label":"Inventário do Sistema"},
+		{"id":"fe61635b74417e51","type":"text","text":"Técnicas 1\nDisparo de Partícula +5 de dano\nOnda de Raio Desintegrador, Carregado +7 de dano\nZona Sedimentada +3 de custo, -1d4 de Hab pra quem pisar\nMarca Pulverizadora +7 de Dano, 11 de Custo, Penalizador (Rachado)\nExplosão de Poeira Estelar +7 de Dano, 15 de Custo, Impiedoso, Perigoso e Vorpal\nFluxo de Mana - Usa ação de movimento, +5 de max mana por turno, até +15\nPoder Interior - Passiva, +1d6 de Efeito\n\nVantagens 4\nGasto Controlado\nControle de Energia\nPotencial Exacerbado II\nVeterano em Combate\nRecursos Extras\n\nDesvantagens 1\nCódigo do Caçador","x":740,"y":-236,"width":760,"height":576,"color":"2"},
+		{"id":"e08bf77e617d7276","type":"text","text":"","x":140,"y":-240,"width":500,"height":480,"color":"1"},
+		{"id":"5b8391925b640c29","type":"text","text":"Wilhelm O'Brien\nRank B\nClasse - Mago\nGuilda - Caminhos Esquecidos\nTítulo - Veterano do Beta Test\nNível - 7\nXp - 6206\nHP 330|330 345|345\nEnergia 478|478 483|17\nControle de Energia 239|9\nWon 3973\nSombra 10/10\nPonto de Inspiração 0\n\nAtributos 23 7\nForça 18\nHabilidade 19 \nPoder de Fogo 20 \nResistência 20\nEnergia 27\nVontade 17","x":-220,"y":-240,"width":280,"height":480,"color":"6"},
+		{"id":"48137d287aa7626c","type":"file","file":"Wilhelm O'Brien.png","x":-500,"y":-240,"width":260,"height":260,"color":"6"},
+		{"id":"df5ffd9213fad9fe","type":"text","text":"Perícias 15\nArmas de Duas Mãos (0) 0/10\nArma de Uma Mão (0) 0/10\nFerraria (5) 3/10 \nAlquimia (4) 1/10\nEncantamento (4) 0/10\nFurto (0) 0/10\nFurtividade (0) 0/10\nNegociação (1) 0/10\nEnganação (0) 0/10\nPercepção (2) 5/10\nArmadura Leve (1) 0/10\nArmadura Pesada (0) 0/10","x":740,"y":435,"width":380,"height":365,"color":"5"},
+		{"id":"4c374baceab805c1","type":"file","file":"Fragmento Instável Lendário.png","x":140,"y":62,"width":400,"height":145},
+		{"id":"73afcf042d0b6e81","type":"file","file":"Couraça de Seda Crepuscular.png","x":-56,"y":320,"width":176,"height":303,"color":"4"},
+		{"id":"45267ae41ea32e3b","type":"file","file":"Manopla do Punho Crepuscular.png","x":140,"y":320,"width":140,"height":140,"color":"4"},
+		{"id":"0bd5a8fac25ff263","type":"text","text":"Couraça de Seda Crepuscular +3 de Hab, +2 Ene, +4 Def, Vantagem no primeiro teste de Furtividade\nManopla do Punho Arcano +3 PdF, +5 Ene, +4 de Dano, 10 em 100 de reduzir custo de feitiços em 50% após feitiços ofensivos, instantaneamente ganha 1 Stack de Carregável\nCódigo Penal\nEco de Gangnam Quebrada\nPágina Queimada dos Engramas da Ordem","x":-500,"y":320,"width":420,"height":780,"color":"4"},
+		{"id":"c076787bd4c72c0d","type":"text","text":"Caminhos do Poder 5 \nEncantamento \nConjuração \nManipulação \nRefinamento 2\nIntensidade 1","x":1140,"y":435,"width":260,"height":183,"color":"5"},
+		{"id":"f7a80662ce398099","type":"text","text":"Títulos: \nO Pioneiro do Teste\nVeterano do Beta Test","x":1420,"y":435,"width":250,"height":284,"color":"5"},
+		{"id":"03f9ebad655c76ea","type":"text","text":"Abas extras\nHaki do Armamento\nHaki da Visão\nHaki do Rei\nAkuma no Mi\nBijuu - Rank B\nPoder Ocular\nChakra\nEnergia Amaldiçoada\nRespiração","x":1140,"y":652,"width":270,"height":296,"color":"5"},
+		{"id":"05e3ae1f0e72d07d","type":"file","file":"Glândula Mucosa de Grick Jovem x5.png","x":142,"y":-236,"width":167,"height":178},
+		{"id":"049415328afe5ec9","type":"file","file":"Fragmento Ósseo Resistente x3.png","x":307,"y":-236,"width":172,"height":178},
+		{"id":"f4f51f002a165d75","type":"file","file":"Fragmento Instável x2.png","x":142,"y":-57,"width":338,"height":119},
+		{"id":"f1e3fc8ba9dae512","type":"file","file":"Olho de Verme das Catacumbas.png","x":480,"y":-236,"width":156,"height":178},
+		{"id":"ea3276c7cbaf1d27","type":"file","file":"Pedra de Mana Pequena x10.png","x":476,"y":-57,"width":160,"height":57}
+	],
+	"edges":[
+		{"id":"0e165b5fec03fb62","fromNode":"48137d287aa7626c","fromSide":"right","toNode":"5b8391925b640c29","toSide":"left"}
+	]
+}
