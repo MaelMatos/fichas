@@ -2,7 +2,7 @@ Nome - Abraham Stoker
 Raça - Dampiro
 Classe - Patrulheiro
 HP| 6/6
-Mana| 22/22
+Mana| 15/22
 Escudo| 
 Controle de Energia| 
 Nível -  
@@ -31,24 +31,26 @@ Inventário
 	- Custo 5 | 5 Turnos
 
 # Vantagens (1)
-- Arena
+- Arena II: Trincheiras
 - Inimigos(Morto-Vivos)
 - Visão Noturna
 - Isekai
-- Telepatia(2)
+- Ataque Multiplo(2)
 
 # Desvantagens (1)
 - Devoção
 - Coração Fraco(-4)
 
 # Perícias (4)
-Atletismo(1) 0/10, Força/Habilidade
-Acrobacia (1+1+1) 0/10, Habilidade
-Combate Á Distância (2+1) 0/10, Poder de Fogo
-Acrobacia (1+1+1) 0/10, Habilidade
-Furtividade (1+1) 0/10, Habilidade
-Ferraria (1) 0/10, Força/Inteligencia
-Medicina (0) 5/10 Inteligencia
+Atletismo(1) 0/10, Força/Habilidade  
+Acrobacia (1+1+1) 1/10, Habilidade  
+Combate Armado (0) 1/10, Força
+Combate Á Distância (2+1) 2/10, Poder de Fogo  
+Acrobacia (1+1+1) 0/10, Habilidade  
+Furtividade (1+1) 0/10, Habilidade  
+Ferraria (1) 0/10, Força/Inteligencia  
+Medicina (0) 6/10 Inteligencia
+Intuição (0) 1/10, Vontade
 
 
 
