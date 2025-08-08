@@ -29,9 +29,9 @@
               "state": {
                 "file": "Medieval RPGzada/Sem título 1.canvas",
                 "viewState": {
-                  "x": 530,
-                  "y": 62.16859813084068,
-                  "zoom": -0.8609225860781932
+                  "x": 789.4268145051549,
+                  "y": 244.04137700253392,
+                  "zoom": -0.977323575782031
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "b30cd460ee1db0b6",
