@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"a6798939cdcdee3a","type":"text","text":"Nome - Abraham Stoker\nRaça - Dampiro\nClasse - Patrulheiro\nNível -  2\nXP - 360\nDinheiro -  625","x":-320,"y":-140,"width":240,"height":180,"color":"#ffffff"},
+		{"id":"a6798939cdcdee3a","type":"text","text":"Nome - Abraham Stoker\nRaça - Dampiro\nClasse - Patrulheiro\nNível -  2\nXP - 360\nDinheiro -  385","x":-320,"y":-140,"width":240,"height":180,"color":"#ffffff"},
 		{"id":"2ecf00b7913959c5","type":"file","file":"Medieval RPGzada/Aparencia militar.png","x":-320,"y":-380,"width":240,"height":240,"color":"#ffffff"},
 		{"id":"8cf580741119c70e","type":"text","text":"- Arena II: Trincheiras\n- Inimigos(Morto-Vivos)\n- Visão Noturna\n- Isekai\n- Ataque Multiplo(2)","x":-80,"y":-302,"width":300,"height":222,"color":"4"},
 		{"id":"0b8495bfb5dce835","type":"text","text":"- Devoção\n- Coração Fraco(-4)","x":-80,"y":-80,"width":300,"height":120,"color":"1"},
