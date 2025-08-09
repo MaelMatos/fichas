@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"a6798939cdcdee3a","type":"text","text":"Nome - Abraham Stoker\nRaça - Dampiro\nClasse - Patrulheiro\nNível -  2\nXP - 360\nDinheiro -  225","x":-320,"y":-140,"width":240,"height":180,"color":"#ffffff"},
 		{"id":"2ecf00b7913959c5","type":"file","file":"Medieval RPGzada/Aparencia militar.png","x":-320,"y":-380,"width":240,"height":240,"color":"#ffffff"},
-		{"id":"8cf580741119c70e","type":"text","text":"- Arena II: Trincheiras\n- Inimigos(Morto-Vivos)\n- Visão Noturna\n- Isekai\n- Ataque Multiplo(2)","x":-80,"y":-302,"width":300,"height":222,"color":"4"},
+		{"id":"8cf580741119c70e","type":"text","text":"- Arena II: Trincheiras\n- Inimigos(Morto-Vivos)\n- Visão Noturna\n- Isekai\n- Ataque Oportuno\n- Ataque Multiplo(2)","x":-80,"y":-302,"width":300,"height":222,"color":"4"},
 		{"id":"0b8495bfb5dce835","type":"text","text":"- Devoção\n- Coração Fraco(-4)","x":-80,"y":-80,"width":300,"height":120,"color":"1"},
 		{"id":"2d2449143dbd7960","type":"text","text":"Atletismo(1) 0/10, Força/Habilidade  \nAcrobacia (3) 1/10, Habilidade  \nCombate Armado (0) 1/10, Força\nCombate Á Distância (6) 9/10, Poder de Fogo  \nAcrobacia (4) 1/10, Habilidade  \nFurtividade (5) 1/10, Habilidade  \nFerraria (1) 3/10, Força/Inteligencia  \nMedicina (0) 6/10 Inteligencia\nNegociação (0) 0/10\nPercepção (0) 2/10 Habilidade\nIntuição (0) 3/10, Vontade\nSobrevivencia ( 0) 1/10 Habilidade/Inteligencia","x":220,"y":-380,"width":600,"height":420},
 		{"id":"2cebfa865fe0cc20","type":"text","text":"- Ocultação\n\t- Custo 7 | 3 Turnos | +2 Hab\n- Disparo confinador\n\t- Custo 15 | Dano 12 | Penalizador: amarrado ","x":414,"y":40,"width":406,"height":800},
