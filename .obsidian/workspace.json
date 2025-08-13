@@ -25,17 +25,14 @@
             "id": "0113738592087dce",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Medieval RPGzada/Sem título 1.canvas",
-                "viewState": {
-                  "x": 654.8389922816193,
-                  "y": 247.23084850636846,
-                  "zoom": -0.977323575782031
-                }
+                "file": "MASHLE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título 1"
+              "icon": "lucide-file",
+              "title": "MASHLE"
             }
           }
         ],
@@ -210,10 +207,10 @@
   },
   "active": "0113738592087dce",
   "lastOpenFiles": [
+    "Medieval RPGzada/Sem título 1.canvas",
     "Medieval RPGzada/Ficha Impacto das Realidades.canvas",
     "Sem título 1.canvas",
     "Medieval RPGzada/loli nazista.md",
-    "Medieval RPGzada/Sem título 1.canvas",
     "Medieval RPGzada/Aparencia militar.png",
     "Sem título 5.md",
     "2025-03-30.md",

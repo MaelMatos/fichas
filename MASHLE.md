@@ -21,6 +21,9 @@ magia: 5
 ## magias
 - Plasma
 - Eletricidade
+- Água basica
+- Hidrogênio
+- Nuclear
 ## Técnicas
 - Botas solares
 	- custo (10) | +1 HAB | 2 rodadas
