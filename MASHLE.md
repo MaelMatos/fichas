@@ -49,7 +49,10 @@ magia: 5
 	- The God Of Death: Causa 10% do hp máximo do alvo como dano 
 	- Voto Restritivo: não pode ser usado com armas, +50% dano
 - Ataque combinado Ikita-Ikki: Sigilo de destruição em massa
-	- Custo  | Dano 
+	- Custo 270 | Dano 490 | Vorpal | Perigoso | Poderoso | Irrefreavel | Em área | Impiedoso | Alvo Multiplo | Preparado
+	- The God Of Death: Causa 10% do hp máximo do alvo como dano 
+	- Voto Restritivo: não pode ser usado com armas, +50% dano
+	- Pergaminho da eras: esse selo quando criado se torna um item, a eficacia dele aumenta com o decorrer do tempo
 - Área de batalha: Estrela de elétrons
 	- custo 200 | 2 Rodada
 
