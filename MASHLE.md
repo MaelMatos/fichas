@@ -48,6 +48,8 @@ magia: 5
 	- Custo 270 | Dano 382 | Vorpal | Dano Gigante | Em área
 	- The God Of Death: Causa 10% do hp máximo do alvo como dano 
 	- Voto Restritivo: não pode ser usado com armas, +50% dano
+- Ataque combinado Ikita-Ikki: Sigilo de destruição em massa
+	- Custo 
 - Área de batalha: Estrela de elétrons
 	- custo 200 | 2 Rodada
 
