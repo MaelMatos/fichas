@@ -44,6 +44,7 @@ magia: 5
 	- Dano acumulativo: aplicar o mesmo efeito faz o dano dele ser a soma dos 2 +10% do total
 	- Dor Imutavel: 
 	- Versão katana (corte mono-atomico): Teleguiado -> Irrefreavel, Alvo Mutiplo -> Amplo
+- God o Death
 - Área de batalha: Estrela de elétrons
 	- custo 200 | 2 Rodada
 
