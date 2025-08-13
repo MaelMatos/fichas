@@ -43,7 +43,7 @@ magia: 5
 	- Ionizante: o Dado de aplicar e resistir aos efeitos não conta nenhuma estatistica
 	- Dano acumulativo: aplicar o mesmo efeito faz o dano dele ser a soma dos 2 +10% do total
 	- Dor Imutavel: 
-	- 
+	- Versão katana (corte mono-atomico): Teleguiado -> Irrefreavel, Alvo Mutiplo -> Amplo
 - Área de batalha: Estrela de elétrons
 	- custo 200 | 2 Rodada
 
