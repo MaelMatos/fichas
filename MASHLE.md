@@ -45,8 +45,9 @@ magia: 5
 	- Dor Imutavel: 
 	- Versão katana (corte mono-atomico): Teleguiado -> Irrefreavel, Alvo Mutiplo -> Amplo
 - Doomsday Clock
-	- Custo 270 | Dano 255 | Vorpal | Dano Gigante | Em área
+	- Custo 270 | Dano 382 | Vorpal | Dano Gigante | Em área
 	- The God Of Death: Causa 10% do hp máximo do alvo como dano 
+	- Voto Restritivo: não pode ser usado com armas, +50% dano
 - Área de batalha: Estrela de elétrons
 	- custo 200 | 2 Rodada
 
