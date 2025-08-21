@@ -57,7 +57,8 @@ magia: 5
 	- custo 200 | 2 Rodada
 - Efeito Túnel
 	- Milagre Quântico: durante a transformação, o usuario recebe uma **Classe de Armadura** (sugestões de valor: 3+HAB+10% do "dano")
-	- 
+	- Principio de incerteza: ao sofrer um contra ataque, pode fazer um teste de HAB contra o alvo, se bem sucedido, o ataque atingirá diretamente o alvo , além de "esquivar" do contra-ataque
+	- Entrelaçamento Quantico
 
 ## inventario:
 - livro antigo selado
