@@ -57,6 +57,7 @@ magia: 5
 	- custo 200 | 2 Rodada
 - Efeito Túnel
 	- Milagre Quântico: durante a transformação, o usuario recebe uma **Classe de Armadura** (sugestões de valor: 3+HAB+10% do "dano")
+	- 
 
 ## inventario:
 - livro antigo selado
