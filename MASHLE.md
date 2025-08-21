@@ -55,6 +55,8 @@ magia: 5
 	- Pergaminho da eras: esse selo quando criado se torna um item, a eficacia dele aumenta com o decorrer do tempo
 - Área de batalha: Estrela de elétrons
 	- custo 200 | 2 Rodada
+- Efeito Túnel
+	- Milagre Quântico: durante a transformação, o usuario recebe uma **Classe de Armadura** (sugestões de valor: 3+HAB+10% do "dano")
 
 ## inventario:
 - livro antigo selado
