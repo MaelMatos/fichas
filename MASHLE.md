@@ -68,6 +68,7 @@ magia: 5
 	- Parceria: Ikki Sirius(2)
 	- Membro Elásticos(2)
 	- Equipamento(3)
+		- 
 	- Força Oculta(4)
 	- Monstruoso(~~-1~~ 0)
 	- Fumaça Especial III(4)
