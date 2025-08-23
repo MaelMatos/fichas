@@ -64,7 +64,10 @@ magia: 5
 	- Custo 50% MPMAX(766) | HP 2xCusto(1532) | FOR ? RES ? HAB ? INT ? FOC ? MAG ?
 	- Aliado Gigante
 	- Interpor
-	- 
+	- Atroz
+	- Interpor
+	- Parceria: Ikki Sirius
+	- Membro Elásticos
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
