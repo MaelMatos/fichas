@@ -68,6 +68,9 @@ magia: 5
 	- Interpor
 	- Parceria: Ikki Sirius
 	- Membro Elásticos
+	- Equipamento
+	- Força Oculta
+	- Monstruoso
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
