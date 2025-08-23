@@ -72,6 +72,7 @@ magia: 5
 	- Monstruoso
 	- Fumaça Especial
 	- Sentidos Especiais: Radar(3)
+	- Sacrificio vital()
 	- Aura De Morte
 ## inventario:
 - livro antigo selado
