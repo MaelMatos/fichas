@@ -60,31 +60,30 @@ magia: 5
 	- Milagre Quântico: durante a transformação, o usuário recebe uma **Classe de Armadura** (sugestões de valor: 3+HAB+10% do "dano"), A vantagem **Teleguiado** não pode ser usado contra a Classe de Armadura, já que ela não é uma esquiva de fato
 	- Principio de incerteza: ao sofrer um contra ataque, pode fazer um teste de HAB contra o alvo, se bem sucedido, o ataque atingirá diretamente o alvo , além de "esquivar" do contra-ataque
 	- Entrelaçamento Quântico: o usuário pode, como ação extra, fazer um teste de foco, se bem sucedido, ele criará um entrelaçamentos quântico de si mesmo, isso é, manipular átomos para replicarem seus movimentos, criar ou mover entrelaçamentos não custa mana, mas as ações dos mesmos(EX: realizar um feitiço) sim, entrelaçamentos não podem carregar itens, receber dano destrói todos os entrelaçamentos
-- Thirdth: Tânatos(250)
+- Thirdth: Tânatos
 	- Custo 50% MPMAX(766) | HP 4xCusto(3064)
-	- Interpor(3)
-	- Atroz(12)
-	- Interpor(3)
-	- Parceria: Ikki Sirius(2)
-	- Membro Elásticos(2)
-	- Equipamento(3)
+	- Interpor
+	- Atroz
+	- Interpor
+	- Parceria: Ikki Sirius
+	- Membro Elásticos
+	- Equipamento
 		- Dano 205 | Área | Impiedoso
-	- Força Oculta(4)
-	- Monstruoso(~~-1~~ 0)
-	- Fumaça Especial III(4)
-	- Sentidos Especiais: Radar(3)
-	- Sacrifício vital(4)
+	- Força Oculta
+	- Monstruoso
+	- Fumaça Especial III
+	- Sentidos Especiais: Radar
 	- Escudo(4)
-	- **Aurea Mortal(5+1)**: através de radiação magica, Causa 10 dano por turno há inimigos "próximos"
+	- **Aurea Mortal(5+5)**: através de radiação magica, Causa 30 dano por turno há inimigos "próximos"
 	- Técnicas
 		- Expurgo
-			- Custo | Dano
+			- Custo 250 | Dano 225
 			- Preparado | Alvo Múltiplo
 		- Heliopausa
-			- Custo | Defesa 
+			- Custo 500 | Defesa 495
 			- Refletir
 		- Varrer e Aniquilar
-			- Custo | Dano
+			- Custo 500 | Dano 485
 			- Vorpal
 ## inventario:
 - livro antigo selado
