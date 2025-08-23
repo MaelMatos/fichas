@@ -98,6 +98,13 @@ magia: 5
 	- perigoso(2)
 	- poderoso(2)
 	- forma de katana: crit na HAB, Dano +30 
+	- Forma Disperta
+		- Dano 200
+		-  Hélio-Source: ficar exposto ao sol recupra suas energias
+		- Aquecimento: recuperar mana com **Hélio-Source** ou causar dano de forma consecutiva aumenta o dano do arco
+		- Penetrante
+		- 1.5x Dano
+		- Custo = Dano Total
 - Susanoo
 	- Dano 30
 	- dreno de mana
