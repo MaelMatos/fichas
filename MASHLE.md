@@ -79,7 +79,8 @@ magia: 5
 	- Técnicas
 		- Expurgo
 			- Custo | Dano
-			- Preparado | Teleguiado
+			- Preparado | Alvo Múltiplo
+		- 
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
