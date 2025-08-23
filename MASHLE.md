@@ -78,7 +78,8 @@ magia: 5
 	- **Aurea Mortal(5+1)**: através de radiação magica, Causa 10 dano por turno há inimigos "próximos"
 	- Técnicas
 		- Expurgo
-			- 
+			- Custo | Dano
+			- Preparado | Teleguiado
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
