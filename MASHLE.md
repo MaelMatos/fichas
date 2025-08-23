@@ -61,7 +61,7 @@ magia: 5
 	- Principio de incerteza: ao sofrer um contra ataque, pode fazer um teste de HAB contra o alvo, se bem sucedido, o ataque atingirá diretamente o alvo , além de "esquivar" do contra-ataque
 	- Entrelaçamento Quântico: o usuário pode, como ação extra, fazer um teste de foco, se bem sucedido, ele criará um entrelaçamentos quântico de si mesmo, isso é, manipular átomos para replicarem seus movimentos, criar ou mover entrelaçamentos não custa mana, mas as ações dos mesmos(EX: realizar um feitiço) sim, entrelaçamentos não podem carregar itens, receber dano destrói todos os entrelaçamentos
 - Thirdth: Tânatos
-	- Custo 50% MPMAX(766) | HP 4xCusto(3064)
+	- Custo 50% MPMAX(8040) | HP 4xCusto(32.160) | Escudo 16.080
 	- Interpor
 	- Atroz
 	- Interpor
