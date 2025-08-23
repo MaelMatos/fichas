@@ -71,6 +71,8 @@ magia: 5
 	- Equipamento
 	- Força Oculta
 	- Monstruoso
+	- Fumaça Especial
+	- Sentidos Especiais: Radar
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
