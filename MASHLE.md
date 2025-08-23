@@ -60,7 +60,7 @@ magia: 5
 	- Milagre Quântico: durante a transformação, o usuário recebe uma **Classe de Armadura** (sugestões de valor: 3+HAB+10% do "dano"), A vantagem **Teleguiado** não pode ser usado contra a Classe de Armadura, já que ela não é uma esquiva de fato
 	- Principio de incerteza: ao sofrer um contra ataque, pode fazer um teste de HAB contra o alvo, se bem sucedido, o ataque atingirá diretamente o alvo , além de "esquivar" do contra-ataque
 	- Entrelaçamento Quântico: o usuário pode, como ação extra, fazer um teste de foco, se bem sucedido, ele criará um entrelaçamentos quântico de si mesmo, isso é, manipular átomos para replicarem seus movimentos, criar ou mover entrelaçamentos não custa mana, mas as ações dos mesmos(EX: realizar um feitiço) sim, entrelaçamentos não podem carregar itens, receber dano destrói todos os entrelaçamentos
-- Thirdth: Tânatos(300)
+- Thirdth: Tânatos(259)
 	- Custo 50% MPMAX(766) | HP 4xCusto(3064) | FOR ? RES ? HAB ? INT ? FOC ? MAG ?
 	- Interpor
 	- Atroz(12)
@@ -74,7 +74,6 @@ magia: 5
 	- Sentidos Especiais: Radar(3)
 	- Sacrificio vital(4)
 	- Escudo(4)
-	- Aura De Morte
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
