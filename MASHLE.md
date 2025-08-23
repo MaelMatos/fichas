@@ -61,18 +61,18 @@ magia: 5
 	- Principio de incerteza: ao sofrer um contra ataque, pode fazer um teste de HAB contra o alvo, se bem sucedido, o ataque atingirá diretamente o alvo , além de "esquivar" do contra-ataque
 	- Entrelaçamento Quântico: o usuário pode, como ação extra, fazer um teste de foco, se bem sucedido, ele criará um entrelaçamentos quântico de si mesmo, isso é, manipular átomos para replicarem seus movimentos, criar ou mover entrelaçamentos não custa mana, mas as ações dos mesmos(EX: realizar um feitiço) sim, entrelaçamentos não podem carregar itens, receber dano destrói todos os entrelaçamentos
 - Thirdth: Tânatos(300)
-	- Custo 50% MPMAX(766) | HP 2xCusto(1532) | FOR ? RES ? HAB ? INT ? FOC ? MAG ?
-	- Aliado Gigante
+	- Custo 50% MPMAX(766) | HP 4xCusto(3064) | FOR ? RES ? HAB ? INT ? FOC ? MAG ?
 	- Interpor
-	- Atroz
-	- Interpor
+	- Atroz(12)
+	- Interpor(3)
 	- Parceria: Ikki Sirius
 	- Membro Elásticos
 	- Equipamento
 	- Força Oculta
 	- Monstruoso
 	- Fumaça Especial
-	- Sentidos Especiais: Radar
+	- Sentidos Especiais: Radar(3)
+	- Aura De Morte
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
