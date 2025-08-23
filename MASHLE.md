@@ -70,9 +70,9 @@ magia: 5
 	- Equipamento
 	- Força Oculta
 	- Monstruoso
-	- Fumaça Especial
+	- Fumaça Especial III(4)
 	- Sentidos Especiais: Radar(3)
-	- Sacrificio vital()
+	- Sacrificio vital(4)
 	- Aura De Morte
 ## inventario:
 - livro antigo selado
