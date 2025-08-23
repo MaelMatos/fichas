@@ -68,8 +68,7 @@ magia: 5
 	- Parceria: Ikki Sirius(2)
 	- Membro Elásticos(2)
 	- Equipamento(3)
-		- (41)
-		- Área | Impiedoso | Irrefreavel
+		- Dano 205 | Área | Impiedoso
 	- Força Oculta(4)
 	- Monstruoso(~~-1~~ 0)
 	- Fumaça Especial III(4)
@@ -77,7 +76,9 @@ magia: 5
 	- Sacrifício vital(4)
 	- Escudo(4)
 	- **Aurea Mortal(5+1)**: através de radiação magica, Causa 10 dano por turno há inimigos "próximos"
-	- 
+	- Técnicas
+		- Expurgo
+			- 
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
