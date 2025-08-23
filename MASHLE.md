@@ -65,14 +65,15 @@ magia: 5
 	- Interpor
 	- Atroz(12)
 	- Interpor(3)
-	- Parceria: Ikki Sirius
-	- Membro Elásticos
-	- Equipamento
-	- Força Oculta
-	- Monstruoso
+	- Parceria: Ikki Sirius(2)
+	- Membro Elásticos(2)
+	- Equipamento(3)
+	- Força Oculta(4)
+	- Monstruoso(~~-1~~ 0)
 	- Fumaça Especial III(4)
 	- Sentidos Especiais: Radar(3)
 	- Sacrificio vital(4)
+	- Escudo(4)
 	- Aura De Morte
 ## inventario:
 - livro antigo selado
