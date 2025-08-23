@@ -74,16 +74,16 @@ magia: 5
 	- Fumaça Especial III
 	- Sentidos Especiais: Radar
 	- Escudo(4)
-	- **Aurea Mortal(5+5)**: através de radiação magica, Causa 30 dano por turno há inimigos "próximos"
+	- **Aurea Mortal(5+46)**: através de radiação magica, Causa 235 dano por turno há inimigos "próximos"
 	- Técnicas
 		- Expurgo
-			- Custo 250 | Dano 225
+			- Custo 200 | Dano 200
 			- Preparado | Alvo Múltiplo
 		- Heliopausa
-			- Custo 500 | Defesa 495
+			- Custo 400 | Defesa 400
 			- Refletir
 		- Varrer e Aniquilar
-			- Custo 500 | Dano 485
+			- Custo 400 | Dano 400
 			- Vorpal
 ## inventario:
 - livro antigo selado
