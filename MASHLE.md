@@ -82,7 +82,10 @@ magia: 5
 			- Preparado | Alvo Múltiplo
 		- Heliopausa
 			- Custo | Defesa 
-			- Refletir | 
+			- Refletir
+		- Varrer e Aniquilar
+			- Custo | Dano
+			- Vorpal
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
