@@ -80,7 +80,9 @@ magia: 5
 		- Expurgo
 			- Custo | Dano
 			- Preparado | Alvo Múltiplo
-		- 
+		- Heliopausa
+			- Custo | Defesa 
+			- Refletir | 
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
