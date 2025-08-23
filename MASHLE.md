@@ -69,7 +69,7 @@ magia: 5
 	- Membro Elásticos(2)
 	- Equipamento(3)
 		- (45)
-		- àrea | 
+		- Área | Impiedoso
 	- Força Oculta(4)
 	- Monstruoso(~~-1~~ 0)
 	- Fumaça Especial III(4)
