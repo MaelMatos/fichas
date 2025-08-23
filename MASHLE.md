@@ -4,7 +4,7 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 794/1532+173/173
+Mana: 794/1532
 Controle : 1532/1532 
 
 ## atributos (105)
@@ -61,7 +61,8 @@ magia: 5
 	- Principio de incerteza: ao sofrer um contra ataque, pode fazer um teste de HAB contra o alvo, se bem sucedido, o ataque atingirá diretamente o alvo , além de "esquivar" do contra-ataque
 	- Entrelaçamento Quântico: o usuário pode, como ação extra, fazer um teste de foco, se bem sucedido, ele criará um entrelaçamentos quântico de si mesmo, isso é, manipular átomos para replicarem seus movimentos, criar ou mover entrelaçamentos não custa mana, mas as ações dos mesmos(EX: realizar um feitiço) sim, entrelaçamentos não podem carregar itens, receber dano destrói todos os entrelaçamentos
 - Thirdth: Tânatos
-	- Custo 50% MPMAX | HP 2x
+	- Custo 50% MPMAX(766) | HP 2xCusto(1532) | FOR ? RES ? HAB ? INT ? FOC ? MAG ?
+	- 
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
