@@ -77,7 +77,7 @@ magia: 5
 	- **Aurea Mortal(5+46)**: através de radiação magica, Causa 235 dano por turno há inimigos "próximos"
 	- Técnicas
 		- Expurgo
-			- Custo 200 | Dano 200
+			- Custo 155 | Dano 155
 			- Preparado | Alvo Múltiplo
 		- Heliopausa
 			- Custo 400 | Defesa 400
