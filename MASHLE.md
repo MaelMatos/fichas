@@ -74,7 +74,8 @@ magia: 5
 	- Sentidos Especiais: Radar(3)
 	- Sacrifício vital(4)
 	- Escudo(4)
-	- **Aurea Mortal(5+1)**: através de radiação magica, Causa 5 dano por turno há inimigos "próximos"
+	- **Aurea Mortal(5+1)**: através de radiação magica, Causa 10 dano por turno há inimigos "próximos"
+	- 
 ## inventario:
 - livro antigo selado
 - moeda de prata x7
