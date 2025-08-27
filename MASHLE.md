@@ -4,7 +4,7 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 11.256/12925 + 0/3155
+Mana: 11.256/12925 + 0/3155 + (2128)
 Controle : 12925/12925 + 3155/3155
 Escudo:  3.859
 
@@ -14,7 +14,7 @@ força: 0
 resistência: 0
 habilidade: 85
 inteligência: 37
-foco: 162+17
+foco: 162+17 + (10)
 magia: 2
 
 ## pericias:
