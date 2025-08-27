@@ -10,10 +10,10 @@ Controle : 12925/12925 + 3155/3155
 ## atributos (105)
 força: 0
 resistência: 0
-habilidade: 88
-inteligência: 40
-foco: 165+17
-magia: 5
+habilidade: 85
+inteligência: 37
+foco: 162+17
+magia: 2
 
 ## pericias:
 - agilidade
