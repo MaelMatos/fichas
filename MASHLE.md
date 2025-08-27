@@ -4,8 +4,10 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 12925/12925 + 3155/3155
+Mana: 11.256/12925 + 0/3155
 Controle : 12925/12925 + 3155/3155
+Escudo:  3.859
+
 
 ## atributos (105)
 força: 0
