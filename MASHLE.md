@@ -87,8 +87,6 @@ magia: 2
 			- Vorpal
 ## inventario:
 - livro antigo selado
-- moeda de prata x7
-- moeda de ouro x3
 - Raijin
 	- Dano +30
 	- Arma-escudo
