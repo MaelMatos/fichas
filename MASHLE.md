@@ -88,8 +88,9 @@ magia: 2
 		- Varrer e Aniquilar
 			- Custo 400 | Dano 400
 			- Vorpal
-- Thirdth: Tiamat(350)
+- Thirdth: Tiamat(325)
 	- 1200 dano base | Custo 50% MPMAX -> 8040
+	- Destruição em massa planejada: ao executar um ataque, Tiamat pode efetivamente copiar esse ataque em cada uma de suas cabeças
 	- 
 ## inventario:
 - livro antigo selado
