@@ -70,7 +70,7 @@ magia: 2
 	- Interpor
 	- Parceria: Ikki Sirius
 	- Membro Elásticos
-	- Equipamento
+	- Equipamento: 
 		- Dano 205 | Área | Impiedoso
 	- Força Oculta
 	- Monstruoso
