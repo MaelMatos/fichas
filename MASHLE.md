@@ -89,7 +89,8 @@ magia: 2
 			- Custo 400 | Dano 400
 			- Vorpal
 - Thirdth: Tiamat(350)
-	- 1200 dano base | Custo 50% MPMAX -> 8040 | 
+	- 1200 dano base | Custo 50% MPMAX -> 8040
+	- 
 ## inventario:
 - livro antigo selado
 - Raijin
