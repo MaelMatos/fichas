@@ -10,6 +10,17 @@ Escudo:  3.859
 
 selo pronto
 
+## Tiamat
+HP: 16.080/16.080
+MP: 8.040/8.040
+Shield: 4.020
+
+## Tânatos
+HP: 32.160/32.160
+MP: 8.040/8.040
+Shield: 16.080
+
+
 ## atributos (105)
 força: 0
 resistência: 0
