@@ -68,7 +68,7 @@ magia: 2
 	- Interpor
 	- Atroz
 	- Interpor
-	- Parceria: Ikki Sirius
+	- Parceria: Tiamat
 	- Membro Elásticos
 	- Equipamento: 
 		- Dano 205 | Área | Impiedoso
@@ -88,16 +88,17 @@ magia: 2
 		- Varrer e Aniquilar
 			- Custo 400 | Dano 400
 			- Vorpal
-- Thirdth: Tiamat(16)
+- Thirdth: Tiamat(13)
 	- 1200 dano base | Custo 50% MPMAX -> 8040
 	- Destruição em massa planejada: ao executar um ataque, Tiamat pode efetivamente copiar esse ataque em cada uma de suas cabeças
 	- Como uma hydra: ao receber danos a cabeça, ela se duplicará
 	- absorção celeste: como ação comun, o usuario pode recuperar mana equivalente a 1 ataque basico
 	- infinito: semelhante a controle de energia, pode colocar sua mana para tranformar diretamente em mana
 	- Superação
+	- Parceria: Tânatos
 	- Técnicas
 		- Canhão de destruição em massa concedido pelos céus
-			- Custo 1000 | Dano 1000 | Ataque carregado | Area | Dano Gigante | Irrefreavel | Vorpal | Impiedoso | Penetrante | Reciclavel
+			- Custo 1000 | Dano 1000 | Ataque carregado | Area | Dano Gigante | Irrefreavel | Vorpal | Impiedoso | Penetrante | Reciclavel | Espiritual
 ## inventario:
 - livro antigo selado
 - Raijin
