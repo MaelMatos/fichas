@@ -4,8 +4,8 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 11.256/12925 + 0/3155 + (908)
-Controle : 12925/12925 + 3155/3155
+Mana: 3216/12925 + 0/3155 + (908)
+Controle : 4925/12925 + 115/3155
 Escudo:  3.859
 
 selo pronto
