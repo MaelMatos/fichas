@@ -5,7 +5,7 @@ linhas: 3
 casa:
 Vida: 0
 Mana: 3216/12925 + 0/3155 + (908)
-Controle : 925/12925 + 115/3155
+Controle : 2925/12925 + 115/3155
 Escudo:  3.859
 
 selo pronto
