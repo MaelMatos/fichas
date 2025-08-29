@@ -13,7 +13,7 @@ selo pronto
 ## atributos (105)
 força: 0
 resistência: 0
-habilidade: 85
+habilidade: 85 +(30)
 inteligência: 37
 foco: 162+17 + (10)
 magia: 2
