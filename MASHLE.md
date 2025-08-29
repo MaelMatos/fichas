@@ -104,20 +104,21 @@ magia: 2
 ## inventario:
 - livro antigo selado
 - Raijin
-	- Dano +30
+	- Dano 450
 	- Arma-escudo
 	- Retornavel
 	- espiritual(3)
 	- equipamento digno(5)
 	- perigoso(2)
 	- poderoso(2)
-	- forma de katana: crit na HAB, Dano +30 
+	- Vorpal II
+	- forma de katana: crit na HAB, Dano +300 
 	- Forma Disperta
-		- Dano 200
+		- Dano +600
 		-  Hélio-Source: ficar exposto ao sol recupra suas energias
 		- Aquecimento: recuperar mana com **Hélio-Source** ou causar dano de forma consecutiva aumenta o dano do arco
 		- Penetrante
-		- 1.5x Dano
+		- 2.5x Dano
 		- Custo = Dano Total
 - Susanoo
 	- Dano 30
