@@ -88,7 +88,7 @@ magia: 2
 		- Varrer e Aniquilar
 			- Custo 400 | Dano 400
 			- Vorpal
-- Thirdth: Tiamat(33)
+- Thirdth: Tiamat(16)
 	- 1200 dano base | Custo 50% MPMAX -> 8040
 	- Destruição em massa planejada: ao executar um ataque, Tiamat pode efetivamente copiar esse ataque em cada uma de suas cabeças
 	- Como uma hydra: ao receber danos a cabeça, ela se duplicará
@@ -97,7 +97,7 @@ magia: 2
 	- Superação
 	- Técnicas
 		- Canhão de destruição em massa concedido pelos céus
-			- Custo 1000 | Dano 1000 | Ataque carregado | Area
+			- Custo 1000 | Dano 1000 | Ataque carregado | Area | Dano Gigante | Irrefreavel | Vorpal | Impiedoso | Penetrante | Reciclavel
 ## inventario:
 - livro antigo selado
 - Raijin
