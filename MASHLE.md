@@ -4,7 +4,7 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 3864/12925 + 0/3155
+Mana: 11.904/12925 + 0/3155
 Controle : 1.173/12925 + 0/3155
 Escudo:  3.859
 
@@ -15,7 +15,7 @@ HP: 16.080/16.080
 MP: 3.540/8.040
 Shield: 4.020
 
-## Tânatos
+## ~~Tânatos~~
 HP: 32.160/32.160
 MP: 8.040/8.040
 Shield: 16.080
