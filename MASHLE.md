@@ -12,7 +12,7 @@ selo pronto
 
 ## Tiamat
 HP: 16.080/16.080
-MP: 4.040/8.040
+MP: 3.540/8.040
 Shield: 4.020
 
 ## Tânatos
