@@ -30,6 +30,8 @@ Vontade: 1
 - Voto restritivo: lembranças do passado
 - Voo(3)
 	- Custo MP/turno | Vantagem voo
+- Marca do Dragão do Trovão nível 1
+	- Você reduz os danos elétricos ou/e baseados em energia igual a sua estatística de Mana
 
 # Desvantagens
 - Má fama
