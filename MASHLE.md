@@ -5,7 +5,7 @@ linhas: 3
 casa:
 Vida: 0
 Mana: 11.904/12925 + 0/3155
-Controle : 1.173/12925 + 0/3155
+Controle : 173/12925 + 0/3155
 Escudo:  3.859
 CA: 193
 
