@@ -4,8 +4,8 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 13/12925 + 0/3155
-Controle : 173/12925 + 0/3155
+Mana: 0/12925 + 0/3155
+Controle : 0/12925 + 0/3155
 Escudo:  3.859
 CA: 193
 
@@ -13,7 +13,7 @@ selo pronto
 
 ## Tiamat
 HP: 16.080/16.080
-MP: 500/8.040
+MP: 100/8.040
 Shield: 4.020
 
 ## ~~Tânatos~~
