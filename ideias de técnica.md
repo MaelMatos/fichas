@@ -1,3 +1,0 @@
-- Taekwondo: voadora
-	- custo ? | dano | aproximação
-- 
