@@ -1,4 +1,0 @@
-**Zarthus** sempre conviveu com sua mãe, uma curandeira local, e seu pai, um ex comandante do exército que se aposentou.
-A infância de Zarthus foi cercada por treinamentos intensivos militares dados pelo seu pai, o tempo para brincar com seus amigos era escasso, mas ele não se importava, pois seu sonho era se tornar um guerreiro e ser respeitado igual ao seu pai
-era tradição que os jovens de seu povo fossem mandados para um treinamento intensivo militar entretanto sua convicção convenceu o seu pai a treinar ele durante todos os anos
-Seu pai lhe ensinou todos os tipos de treinamento militar possíveis, desde a sobrevivência básica do mundo fora da civilização até artes marciais e lhe entregou uma Maça gigante como arma, fazendo juz a força do jovem guerreiro.

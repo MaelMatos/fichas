@@ -1,2 +1,0 @@
-- quantos movimentos especiais por vantagem
-- 
