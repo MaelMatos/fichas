@@ -20,7 +20,9 @@ Vontade
 
 # Vantagens (1 a 3)
 - Vitalidade
-- 
+- Sentidos Especiais: Hematovidencia
+- Imortalidade
+- Regeneração
 
 # Desvantagens (1 a 2)
 
