@@ -31,7 +31,8 @@ Vontade
 - Atração Perigosa
 
 # Perícias (3)
-Atletismo (1)
-Combate Armado(1)
-Furtividade(2)
-Intimidação(1)
+Atletismo (+1)
+Combate Armado(1+1)
+Combate Desarmado(1)
+Furtividade(+2)
+Intimidação(2+1)
