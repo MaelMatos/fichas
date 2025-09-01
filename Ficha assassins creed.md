@@ -6,12 +6,12 @@ Energia|
 Dinheiro -
 
 # Atributos (15)
-Força +2
-Habilidade
-Poder de Fogo
-Resistência +2
-Inteligência
-Vontade
+Força 4+2
+Habilidade 2
+Poder de Fogo 1
+Resistência 5+2
+Inteligência 1
+Vontade 2
 
 # Inventário
 
