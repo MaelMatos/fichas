@@ -21,6 +21,7 @@ Vontade
 # Vantagens (1 a 3)
 - Vitalidade
 - Sentidos Especiais: Hematovidencia
+- Movimentos especiais: Sem rastros
 - Imortalidade(Condicional)
 - Regeneração
 
@@ -32,4 +33,5 @@ Vontade
 # Perícias (3)
 Atletismo (1)
 Combate Armado(1)
+Furtividade(2)
 Intimidação(1)
