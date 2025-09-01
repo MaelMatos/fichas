@@ -21,10 +21,13 @@ Vontade
 # Vantagens (1 a 3)
 - Vitalidade
 - Sentidos Especiais: Hematovidencia
-- Imortalidade
+- Imortalidade(Condicional)
 - Regeneração
 
 # Desvantagens (1 a 2)
+- Procurado
+- Segredo
+- Atração Perigosa
 
 # Perícias (3)
 Atletismo (1)
