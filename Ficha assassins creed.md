@@ -6,16 +6,18 @@ Energia|
 Dinheiro -
 
 # Atributos (15)
-Força 4+2
+Força 3+2
 Habilidade 2
 Poder de Fogo 1
 Resistência 5+2
-Inteligência 1
+Inteligência 2
 Vontade 2
 
 # Inventário
 
-# Técnicas (1 de 5 dano e custo até uma vantagem diminuindo o dano ou aumentando o custo) e (1 de 10 dano e custo seguindo as mesmas regras)(-)
+# Técnicas
+
+
 
 
 # Vantagens (1 a 3)
