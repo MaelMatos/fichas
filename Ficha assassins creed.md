@@ -14,12 +14,12 @@ Inteligência 2
 Vontade 2
 
 # Inventário
+- Espada
+	- Dano ?
 
 # Técnicas
 - Guilhotina
-	- 
-
-
+	- Custo 5 | Dano 5
 
 # Vantagens (1 a 3)
 - Vitalidade
@@ -32,6 +32,9 @@ Vontade 2
 - Procurado
 - Segredo
 - Atração Perigosa
+
+# Gambitos
+- Ira
 
 # Perícias (3)
 Atletismo (+1)
