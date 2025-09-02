@@ -16,7 +16,8 @@ Vontade 2
 # Inventário
 
 # Técnicas
-
+- Guilhotina
+	- 
 
 
 
