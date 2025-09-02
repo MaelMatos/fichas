@@ -1,8 +1,8 @@
 
 Nome Vlad XII Tepes
 Classe - Guerreiro
-Vida|
-Energia|
+Vida| 60/60
+Energia| 8/8
 Dinheiro -
 
 # Atributos (15)
