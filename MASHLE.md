@@ -2,7 +2,7 @@
 nome: Ikki sirius
 status social:
 linhas: 3
-casa:
+casa: vawhalla
 Vida: 0
 Mana: 12925/12925 + 3155/3155
 Controle : 12925/12925 + 3155/3155
