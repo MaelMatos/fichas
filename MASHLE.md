@@ -9,8 +9,6 @@ Controle : 0/12925 + 0/3155
 Escudo:  3.859
 CA: 193
 
-selo pronto
-
 ## Tiamat
 HP: 16.080/16.080
 MP: 100/8.040
