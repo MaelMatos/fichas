@@ -141,7 +141,7 @@ magia: 2
 - Sentido especial: sensor de perigo
 - superação
 - ambidestria(3)
-- inventor(3)
+- inventor IV(3)
 - Aceleração(3)
 - base de operações
 - combo(3)
