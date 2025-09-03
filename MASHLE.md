@@ -135,7 +135,7 @@ magia: 2
 		- Custo = Dano Total
 - ~~bomba de fumaça x2~~
 - ~~bomba de gás torturante~~
-- Selo de **disgraça** x20
+- Flecha de Indra x20
 
 ## vantagens:
 - Adaptador
