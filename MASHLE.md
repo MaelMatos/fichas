@@ -113,13 +113,15 @@ magia: 2
 ## inventario:
 - livro antigo selado
 - Raijin
-	- Dano 450
+	- Dano 650
 	- Arma-escudo
 	- Retornavel
 	- espiritual(3)
 	- equipamento digno(5)
 	- perigoso(2)
 	- poderoso(2)
+	- Dano gigante(4)
+	- Penetrante(1)
 	- Vorpal II
 	- dreno de mana
 	- forma de katana: crit na HAB, Dano +300 
