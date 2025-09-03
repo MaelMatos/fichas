@@ -113,7 +113,7 @@ magia: 2
 ## inventario:
 - livro antigo selado
 - Raijin
-	- Dano 650
+	- Dano 650+INT+FOC
 	- Arma-escudo
 	- Retornavel
 	- espiritual(3)
