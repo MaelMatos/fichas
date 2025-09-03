@@ -121,6 +121,7 @@ magia: 2
 	- perigoso(2)
 	- poderoso(2)
 	- Vorpal II
+	- dreno de mana
 	- forma de katana: crit na HAB, Dano +300 
 	- Forma Disperta
 		- Dano +600
@@ -129,9 +130,6 @@ magia: 2
 		- Penetrante
 		- 2.5x Dano
 		- Custo = Dano Total
-- Susanoo
-	- Dano 30
-	- dreno de mana
 - ~~bomba de fumaça x2~~
 - ~~bomba de gás torturante~~
 
