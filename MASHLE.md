@@ -4,10 +4,9 @@ status social:
 linhas: 3
 casa:
 Vida: 0
-Mana: 0/12925 + 0/3155
-Controle : 0/12925 + 0/3155
-Escudo:  3.859
-CA: 193
+Mana: 12925/12925 + 3155/3155
+Controle : 12925/12925 + 3155/3155
+Escudo: 
 
 ## Tiamat
 HP: 16.080/16.080
@@ -23,9 +22,9 @@ Shield: 16.080
 ## atributos (105)
 força: 0
 resistência: 0
-habilidade: 85 +(30)
+habilidade: 85
 inteligência: 37
-foco: 162+17 + (10)
+foco: 162+17
 magia: 2
 
 ## pericias:
