@@ -4,7 +4,7 @@ status social:
 linhas: 3
 casa: vawhalla
 Vida: 0
-Mana: 12925/12925 + 3155/3155
+Mana: 10225/12925 + 3155/3155
 Controle : 12925/12925 + 3155/3155
 Escudo: 
 
@@ -134,6 +134,7 @@ magia: 2
 		- Custo = Dano Total
 - ~~bomba de fumaça x2~~
 - ~~bomba de gás torturante~~
+- Selo de **disgraça** x20
 
 ## vantagens:
 - Adaptador
