@@ -16,7 +16,7 @@ Shield: 4.020
 ## Tânatos
 HP: 32.160/32.160
 MP: 7.640/8.040
-Shield: 16.080
+Shield: 5.686
 
 
 ## atributos (105)
