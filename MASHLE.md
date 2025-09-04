@@ -4,7 +4,7 @@ status social:
 linhas: 3
 casa: vawhalla
 Vida: 0
-Mana: 12925/12925 + 2.600/3155
+Mana: 12925/12925 + 2.900/3155
 Controle : 7/12925 + 3155/3155
 Escudo: 
 
