@@ -4,7 +4,7 @@ Raça:
 Dinheiro:   
 PV |  
 Reiryoku |   
-Schrift: 
+Schrift: F
 
 # Atributos(22)
 Força:   
