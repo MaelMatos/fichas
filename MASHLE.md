@@ -6,7 +6,7 @@ casa: vawhalla
 Vida: 0
 Mana: 11.518/12925 + 0/3155
 Controle : 838/12925 + 3155/3155
-Escudo: 
+Escudo: 4.824
 
 ## ~~Tiamat~~
 HP: 16.080/16.080
