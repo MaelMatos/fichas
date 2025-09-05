@@ -4,10 +4,9 @@ status social:
 linhas: 3
 casa: vawhalla
 Vida: 0
-Mana: 11.518/12925 + 0/3155 + (1759/1759)
-Controle : 838/12925 + 3155/3155
-Escudo: 4.824
-CA: 218
+Mana: 14.059/14.059 + 3.274/3.274
+Controle : 14.059 /14.059  + 3.274/3.274
+
 
 54
 
