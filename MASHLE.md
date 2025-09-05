@@ -9,6 +9,9 @@ Controle : 838/12925 + 3155/3155
 Escudo: 4.824
 CA: 218
 
+57
+
+
 ## ~~Tiamat~~
 HP: 16.080/16.080
 MP: 100/8.040
@@ -153,6 +156,7 @@ magia: 2
 - força oculta(4)
 - vitalidade(4)
 - equilibrio de energias(5)
+- Parceria III
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
