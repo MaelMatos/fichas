@@ -7,7 +7,7 @@ Vida: 0
 Mana: 11.518/12925 + 0/3155 + (1759)
 Controle : 838/12925 + 3155/3155
 Escudo: 4.824
-CA: 203
+CA: 218
 
 ## ~~Tiamat~~
 HP: 16.080/16.080
@@ -23,7 +23,7 @@ Shield: 5.686
 ## atributos (105)
 força: 0
 resistência: 0
-habilidade: 85 + (30)
+habilidade: 85 + (30) + (15)
 inteligência: 37
 foco: 162+17
 magia: 2
