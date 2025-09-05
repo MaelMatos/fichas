@@ -9,7 +9,7 @@ Controle : 838/12925 + 3155/3155
 Escudo: 4.824
 CA: 218
 
-57
+54
 
 
 ## ~~Tiamat~~
@@ -142,7 +142,7 @@ magia: 2
 - Flecha de Indra x12
 
 ## vantagens:
-- Adaptador
+- Adaptador III
 - Controle de energia II
 - Sentido especial: sensor de perigo
 - superação
@@ -155,8 +155,9 @@ magia: 2
 - ataque oportuno(3)
 - força oculta(4)
 - vitalidade(4)
-- equilibrio de energias(5)
+- equilibrio de energias II(5)
 - Parceria III
+- Ataque Supremo
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
