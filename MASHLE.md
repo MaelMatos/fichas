@@ -8,7 +8,7 @@ Mana: 14.059/14.059 + 3.274/3.274
 Controle : 14.059 /14.059  + 3.274/3.274
 
 
-54
+53
 
 
 ## ~~Tiamat~~
@@ -157,6 +157,7 @@ magia: 2
 - equilibrio de energias II(5)
 - Parceria III
 - Ataque Supremo
+- Escapada instantanea
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
