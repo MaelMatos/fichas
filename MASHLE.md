@@ -4,7 +4,7 @@ status social:
 linhas: 3
 casa: vawhalla
 Vida: 0
-Mana: 12925/12925 + 3155/3155
+Mana: 11.256/12925 + 0/3155
 Controle : 838/12925 + 3155/3155
 Escudo: 
 
@@ -43,7 +43,7 @@ magia: 2
 	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado | penetrante | preciso | alvo multiplo | dano gigante
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
-	- custo 30%(460)+38 turno | shield | 30 HAB 9 FOC | conversão de equipamento e técnica | espada susanoo
+	- custo 30%(4.824)+38 turno | shield | 30 HAB 9 FOC | conversão de equipamento e técnica | espada susanoo
 	- super-nova(2)
 		 - custo 70 | dano 70 | em área | cegueira
 - Bomba de hidrogênio
