@@ -143,6 +143,7 @@ magia: 2
 
 ## vantagens:
 - Adaptador III
+- Atropelamento
 - Controle de energia II
 - Sentido especial: sensor de perigo
 - superação
@@ -160,6 +161,7 @@ magia: 2
 - Ataque Supremo
 - Escapada instantanea
 - Recuperação de energia
+- Voo
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
