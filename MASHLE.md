@@ -8,7 +8,7 @@ Mana: 15.535/15.535 + 3.274/3.274
 Controle : 15.535 /15.535  + 3.274/3.274
 
 
-20
+5
 
 
 ## ~~Tiamat~~
@@ -25,7 +25,7 @@ Shield: 5.686
 ## atributos (105)
 força: 0
 resistência: 0
-habilidade: 85
+habilidade: 100
 inteligência: 37
 foco: 170+17
 magia: 2
