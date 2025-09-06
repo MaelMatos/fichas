@@ -8,7 +8,7 @@ Mana: 14.059/14.059 + 3.274/3.274
 Controle : 14.059 /14.059  + 3.274/3.274
 
 
-48
+20
 
 
 ## ~~Tiamat~~
@@ -25,9 +25,9 @@ Shield: 5.686
 ## atributos (105)
 força: 0
 resistência: 0
-habilidade: 85 + (30) + (15)
+habilidade: 85
 inteligência: 37
-foco: 162+17
+foco: 170+17
 magia: 2
 
 ## pericias:
@@ -170,4 +170,4 @@ magia: 2
 - segredo II: possui 3 linhas & faz parte da $%#@!
 
 Casa valhalla:
-efeito: proposito individual: o torna um gênio em seu atributo mais alto, testes com ele terão vantagem e a estatistica receberá um bonus de 10%
+efeito: proposito individual: o torna um gênio em seu atributo mais alto, testes com ele terão vantagem e a estatistica receberá um bonus de 50%
