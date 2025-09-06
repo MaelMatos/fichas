@@ -5,8 +5,17 @@ linhas: 3
 casa: vawhalla
 Vida: 0
 Mana: 15.535/15.535 + 10.245/19.570
-Controle : 15.535/15.535  + 19.570/19.570
+Controle : 15.535/15.535  + 7.307/19.570
 CA: 228
+
+## Tânatos
+MP: 17.553/17.553
+HP: 70.210/70.210
+Shield: 35.105
+## Tiamat
+
+
+
 
 ## atributos (105)
 força: 0
