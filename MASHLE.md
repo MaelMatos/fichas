@@ -142,26 +142,26 @@ magia: 2
 - Flecha de Indra x12
 
 ## vantagens:
-- Adaptador III
-- Atropelamento
-- Controle de energia II
-- Sentido especial: sensor de perigo
-- superação
-- ambidestria(3)
-- inventor IV(3)
-- Aceleração(3)
-- base de operações
-- combo(3)
-- ataque multiplo(3)
-- ataque oportuno(3)
-- força oculta(4)
-- vitalidade(4)
-- equilibrio de energias II(5)
-- Parceria III
-- Ataque Supremo
-- Escapada instantanea
-- Recuperação de energia
-- Voo
+* Aceleração(3)
+* Adaptador III
+* Ambidestria(3)
+* Ataque múltiplo(3)
+* Ataque oportuno(3)
+* Ataque Supremo
+* Atropelamento
+* Base de operações
+* Combo(3)
+* Controle de energia II
+* Equilíbrio de energias II(5)
+* Escapada instantânea
+* Força oculta(4)
+* Inventor IV(3)
+* Parceria III
+* Recuperação de energia
+* Sentido especial: sensor de perigo
+* Superação
+* Vitalidade(4)
+* Voo
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
