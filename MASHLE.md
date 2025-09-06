@@ -8,7 +8,7 @@ Mana: 14.059/14.059 + 3.274/3.274
 Controle : 14.059 /14.059  + 3.274/3.274
 
 
-53
+48
 
 
 ## ~~Tiamat~~
@@ -106,10 +106,11 @@ magia: 2
 	- Como uma hydra: ao receber danos a cabeça, ela se duplicará
 	- absorção celeste: como ação comun, o usuario pode recuperar mana equivalente a 1 ataque basico
 	- infinito: semelhante a controle de energia, pode colocar sua mana para tranformar diretamente em mana
+	- Sesciência: essa criatura possui grande inteligencia, permitindoa ter um turno separado de seu invocador
 	- Superação
 	- Parceria: Tânatos
 	- Ataque oportuno
-	- Doador
+	- Doador: Mana
 	- Técnicas
 		- Canhão de destruição em massa concedido pelos céus
 			- Custo 1000 | Dano 1000 | Ataque carregado | Area | Dano Gigante | Irrefreavel | Vorpal | Impiedoso | Penetrante | Reciclavel | Espiritual
@@ -158,6 +159,7 @@ magia: 2
 - Parceria III
 - Ataque Supremo
 - Escapada instantanea
+- Recuperação de energia
 
 ## desvantagens
 - Ponto fraco: lado direito do peito(coração)
