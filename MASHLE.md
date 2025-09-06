@@ -4,8 +4,8 @@ status social:
 linhas: 3
 casa: vawhalla
 Vida: 0
-Mana: 1580/15.535 + 0/19.570
-Controle : 535/15.535  + 307/19.570
+Mana: 15.535/15.535 + 18880/19.570
+Controle : 0/15.535  + 0/19.570
 CA: 228
 Shield: 10.532/10.532
 ## ~~Tiamat~~
