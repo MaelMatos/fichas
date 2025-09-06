@@ -101,7 +101,7 @@ magia: 2
 	- Como uma hydra: ao receber danos a cabeça, ela se duplicará
 	- absorção celeste: como ação comun, o usuario pode recuperar mana equivalente a 1 ataque basico
 	- infinito: semelhante a controle de energia, pode colocar sua mana para tranformar diretamente em mana
-	- Sesciência: essa criatura possui grande inteligencia, permitindoa ter um turno separado de seu invocador
+	- Sesciência: essa criatura possui grande inteligencia, permitindo-a ter um turno separado de seu invocador
 	- Superação
 	- Parceria: Tânatos
 	- Ataque oportuno
