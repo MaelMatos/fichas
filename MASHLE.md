@@ -4,13 +4,8 @@ status social:
 linhas: 3
 casa: vawhalla
 Vida: 0
-Mana: 15.535/15.535 + 3.274/3.274
-Controle : 15.535 /15.535  + 3.274/3.274
-
-
-5
-
-
+Mana: 15.535/15.535 + 19.570/19.570
+Controle : 15.535/15.535  + 19.570/19.570
 ## ~~Tiamat~~
 HP: 16.080/16.080
 MP: 100/8.040
@@ -27,7 +22,7 @@ força: 0
 resistência: 0
 habilidade: 100
 inteligência: 37
-foco: 170+17
+foco: 170+85
 magia: 2
 
 ## pericias:
@@ -46,7 +41,7 @@ magia: 2
 	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado | penetrante | preciso | alvo multiplo | dano gigante
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
-	- custo 5%( ) MPMAX+10 turno | shield 30%() MPMAX | 30 HAB 9 FOC | conversão de equipamento e técnica | Manifestação de qualquer fenomeno eletrico
+	- custo 5%(1.755) MPMAX+10 turno | shield 30%() MPMAX | 30 HAB 9 FOC | conversão de equipamento e técnica | Manifestação de qualquer fenomeno eletrico
 	- super-nova(2)
 		 - custo 70 | dano 70 | em área | cegueira
 - Bomba de hidrogênio
