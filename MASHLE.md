@@ -4,11 +4,15 @@ status social:
 linhas: 3
 casa: vawhalla
 Vida: 0
-Mana: 15.535/15.535 + 13.150/19.570
+Mana: 15.535/15.535 + 12.820/19.570
 Controle : 15.535/15.535  + 19.570/19.570
 CA: 228
 
 103.430
+
+120
+
+
 
 ## atributos (105)
 força: 0
