@@ -64,7 +64,7 @@ magia: 2
 	- Voto Restritivo: não pode ser usado com armas, +50% dano
 	- Pergaminho da eras: esse selo quando criado se torna um item, a eficacia dele aumenta com o decorrer do tempo
 - Área de batalha: Estrela de elétrons
-	- custo 200 | 2 Rodada
+	- custo 10% MPMAX(3.510) | 4 Rodada
 - Secondith: Efeito Túnel
 	- Custo 200/turno
 	- Milagre Quântico: durante a transformação, o usuário recebe uma **Classe de Armadura** (83+HAB), A vantagem **Teleguiado** não pode ser usado contra a Classe de Armadura, já que ela não é uma esquiva de fato
