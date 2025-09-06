@@ -13,9 +13,9 @@ CA: 228
 ## atributos (105)
 força: 0
 resistência: 0
-habilidade: 100 + (30) +(15)
+habilidade: 100 + (30) +(15) = 145
 inteligência: 37
-foco: 170+85
+foco: 170+85 = 255
 magia: 2
 
 ## pericias:
