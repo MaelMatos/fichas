@@ -41,7 +41,7 @@ magia: 2
 	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado | penetrante | preciso | alvo multiplo | dano gigante
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
-	- custo 5%(1.755) MPMAX+10 turno | shield 30%() MPMAX | 30 HAB 9 FOC | conversão de equipamento e técnica | Manifestação de qualquer fenomeno eletrico
+	- custo 5%(1.755) MPMAX+10 turno | shield 30%(10.532) MPMAX | 30 HAB 9 FOC | conversão de equipamento e técnica | Manifestação de qualquer fenomeno eletrico
 	- super-nova(2)
 		 - custo 70 | dano 70 | em área | cegueira
 - Bomba de hidrogênio
@@ -71,7 +71,7 @@ magia: 2
 	- Principio de incerteza: ao sofrer um contra ataque, pode fazer um teste de HAB contra o alvo, se bem sucedido, o ataque atingirá diretamente o alvo , além de "esquivar" do contra-ataque
 	- Entrelaçamento Quântico: o usuário pode, como ação extra, fazer um teste de foco, se bem sucedido, ele criará um entrelaçamentos quântico de si mesmo, isso é, manipular átomos para replicarem seus movimentos, criar ou mover entrelaçamentos não custa mana, mas as ações dos mesmos(EX: realizar um feitiço) sim, entrelaçamentos não podem carregar itens, receber dano destrói todos os entrelaçamentos
 - Thirdth: Tânatos
-	- Custo 50% MPMAX(8040) | HP 4xCusto(32.160) | Escudo 16.080
+	- Custo 50% MPMAX(17.553) | HP 4xCusto(70.210) | Escudo 35.105
 	- Interpor
 	- Atroz
 	- Interpor
@@ -96,7 +96,7 @@ magia: 2
 			- Custo 400 | Dano 400
 			- Vorpal
 - Thirdth: Tiamat
-	- 1215 dano base | Custo 50% MPMAX -> 8040
+	- 1215 dano base | Custo 50% MPMAX -> 17.553
 	- Destruição em massa planejada: ao executar um ataque, Tiamat pode efetivamente copiar esse ataque em cada uma de suas cabeças
 	- Como uma hydra: ao receber danos a cabeça, ela se duplicará
 	- absorção celeste: como ação comun, o usuario pode recuperar mana equivalente a 1 ataque basico
