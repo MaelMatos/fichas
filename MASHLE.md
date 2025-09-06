@@ -46,7 +46,7 @@ magia: 2
 	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado | penetrante | preciso | alvo multiplo | dano gigante
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
-	- custo 30%(4.824)+38 turno | shield | 30 HAB 9 FOC | conversão de equipamento e técnica | espada susanoo
+	- custo 30%(4.824)+38 turno | shield | 30 HAB 9 FOC | conversão de equipamento e técnica | Manifestação de qualquer fenomeno eletrico
 	- super-nova(2)
 		 - custo 70 | dano 70 | em área | cegueira
 - Bomba de hidrogênio
