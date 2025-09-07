@@ -65,8 +65,8 @@ magia: 2
 	- Pergaminho da eras: esse selo quando criado se torna um item, a eficacia dele aumenta com o decorrer do tempo
 - Área de batalha: Estrela de elétrons
 	- custo 10% MPMAX(3.510) | 4 Rodada
-	- Pela duração da área, todos dentro dela são confinados, além disso todas as formas de danos são anuladas em seus alvos, ao invés disso, esse dano é acumulado no centro da área, em um objeto que se assemelha com o demon core, no fim da duração, antes da barreira desaparecer, o nucleo detonará, causando o dano total acumulado a todos dentro da área,
-	- Efeitos penalizadores são garantidos para o núcleo
+	- Pela duração da área, todos dentro dela são confinados de forma que ela se torne inescapavel e intransponivel, além disso todas as formas de danos são anuladas em seus alvos, ao invés disso, esse dano é acumulado no centro da área, em um objeto inamovível que se assemelha com o demon core, no fim da duração, antes da barreira desaparecer, o nucleo detonará, causando o dano total acumulado a todos dentro da área,
+	- Efeitos penalizadores são garantidos para o núcleo, de forma que ele receba, por consequencia acumule, sempre o dano maximo possivel
 - Secondith: Efeito Túnel
 	- Custo 200/turno
 	- Milagre Quântico: durante a transformação, o usuário recebe uma **Classe de Armadura** (83+HAB), A vantagem **Teleguiado** não pode ser usado contra a Classe de Armadura, já que ela não é uma esquiva de fato
