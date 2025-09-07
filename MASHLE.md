@@ -137,7 +137,9 @@ magia: 2
 		- Custo = Dano Total
 - ~~bomba de fumaça x2~~
 - ~~bomba de gás torturante~~
-- Flecha de Indra x12
+- Flecha de Indra x11
+- Flecha Requiem
+- Selo nuclear
 
 ## vantagens:
 * Aceleração(3)
