@@ -1,2 +1,2 @@
 Espada Estinge:
-uma odachi feita de cristal negro produzida por alta engenharia mágica e a magia de espadas, 
+uma odachi feita de cristal negro produzida por alta engenharia mágica e a magia de espadas, ela possui um selo de vitalidade ao longo de sua lamina, tal selo a torna indestrutivel enquanto o selo receber mana, alem
