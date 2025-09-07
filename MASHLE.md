@@ -138,8 +138,7 @@ magia: 2
 - ~~bomba de fumaça x2~~
 - ~~bomba de gás torturante~~
 - Flecha de Indra x11
-- Flecha Requiem
-- Selo nuclear
+- Flecha de cristal negro com sigilo de destruição em massa
 
 ## vantagens:
 * Aceleração(3)
