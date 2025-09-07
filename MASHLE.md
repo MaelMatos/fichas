@@ -130,7 +130,7 @@ magia: 2
 	- forma de katana: crit na HAB(HAB+FOC), Dano +1000, Perigoso II
 	- Forma Disperta
 		- Dano +2800
-		-  Hélio-Source: ficar exposto ao sol recupra suas energias
+		-  Hélio-Source: ficar exposto ao sol 10% da MPMAX()
 		- Aquecimento: recuperar mana com **Hélio-Source** ou causar dano de forma consecutiva aumenta o dano do arco
 		- Penetrante
 		- 3x Dano
