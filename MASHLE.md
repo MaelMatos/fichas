@@ -52,7 +52,7 @@ magia: 2
 	- Custo 220 | Dano 175 | Enfraquecimento | Queimadura | Sangramento | Hemorragico | Incinerado | Alvo Multiplo | Vorpal | Teleguiado | Escalavel
 	- Ionizante: o Dado de aplicar e resistir aos efeitos não conta nenhuma estatistica
 	- Dano acumulativo: aplicar o mesmo efeito faz o dano dele ser a soma dos 2 +10% do total
-	- Dor Imutavel: 
+	- Dor Imutavel: Efeitos não podem ser curados
 	- Versão katana (corte mono-atomico): Teleguiado -> Irrefreavel, Alvo Mutiplo -> Amplo
 - Doomsday Clock
 	- Custo 270 | Dano 255 | Vorpal | Dano Gigante | Em área
