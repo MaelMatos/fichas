@@ -115,21 +115,21 @@ magia: 2
 ## inventario:
 - livro antigo selado
 - Raijin
-	- Dano 930+INT+FOC
+	- Dano 1930+INT+FOC
 	- Arma-escudo
 	- Retornavel
 	- espiritual(3)
 	- equipamento digno(5)
 	- perigoso(2)
 	- poderoso(2)
-	- Dano gigante(4)
+	- Dano gigante(4)(2/2)(sem debuff)
 	- Penetrante(1)
 	- Teleguiado(3)
-	- Vorpal II
+	- Vorpal III
 	- dreno de mana
-	- forma de katana: crit na HAB, Dano +300 
+	- forma de katana: crit na HAB(HAB+FOC), Dano +1000, Perigoso II
 	- Forma Disperta
-		- Dano +1100
+		- Dano +2800
 		-  Hélio-Source: ficar exposto ao sol recupra suas energias
 		- Aquecimento: recuperar mana com **Hélio-Source** ou causar dano de forma consecutiva aumenta o dano do arco
 		- Penetrante
