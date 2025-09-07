@@ -134,7 +134,7 @@ magia: 2
 		- Aquecimento: recuperar mana com **Hélio-Source** ou causar dano de forma consecutiva aumenta o dano do arco
 		- Penetrante
 		- 3x Dano
-		- Custo = Dano Total
+		- Custo = Dano Base/4
 - ~~bomba de fumaça x2~~
 - ~~bomba de gás torturante~~
 - Flecha de Indra x11
