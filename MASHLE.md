@@ -4,14 +4,14 @@ status social:
 linhas: 3
 casa: vawhalla
 Vida: 0
-Mana: 15.535/15.535 + 19.570/19.570
-Controle : 15.535/15.535  + 19.570/19.570
+Mana: 31.070/31.070 + 39.140/39.140
+Controle : 31.070/31.070  + 39.140/39.140
 CA: 228
-Shield: 10.532/10.532
+Shield: 21.064/21.064
 ## ~~Tiamat~~
-MP: 553/17.553
-HP: 17.553/17.553
-Shield: 8.776/8.776
+MP: 35.106/35.106
+HP: 35.106/35.106
+Shield: 17.552/17.552
 
 
 
@@ -41,7 +41,7 @@ magia: 2
 	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado | penetrante | preciso | alvo multiplo | dano gigante
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
-	- custo 5%(1.755) MPMAX+10 turno | shield 30%(10.532) MPMAX | 30 HAB 9 FOC | conversão de equipamento e técnica | Manifestação de qualquer fenomeno eletrico
+	- custo 5%(3.510) MPMAX+10 turno | shield 30%(21.064) MPMAX | 30 HAB 9 FOC | conversão de equipamento e técnica | Manifestação de qualquer fenomeno eletrico
 	- super-nova(2)
 		 - custo 70 | dano 70 | em área | cegueira
 - Bomba de hidrogênio
@@ -64,7 +64,7 @@ magia: 2
 	- Voto Restritivo: não pode ser usado com armas, +50% dano
 	- Pergaminho da eras: esse selo quando criado se torna um item, a eficacia dele aumenta com o decorrer do tempo
 - Área de batalha: Estrela de elétrons
-	- custo 10% MPMAX(3.510) | 4 Rodada
+	- custo 10% MPMAX(7.020) | 4 Rodada
 	- Pela duração da área, todos dentro dela são confinados de forma que ela se torne inescapavel e intransponivel, além disso todas as formas de danos são anuladas em seus alvos, ao invés disso, esse dano é acumulado no centro da área, em um objeto inamovível que se assemelha com o demon core, no fim da duração, antes da barreira desaparecer, o nucleo detonará, causando o dano total acumulado a todos dentro da área,
 	- Efeitos penalizadores são garantidos para o núcleo, de forma que ele receba, por consequencia acumule, sempre o dano maximo possivel
 - Secondith: Efeito Túnel
@@ -73,7 +73,7 @@ magia: 2
 	- Principio de incerteza: ao sofrer um contra ataque, pode fazer um teste de HAB contra o alvo, se bem sucedido, o ataque atingirá diretamente o alvo , além de "esquivar" do contra-ataque
 	- Entrelaçamento Quântico: o usuário pode, como ação extra, fazer um teste de foco, se bem sucedido, ele criará um entrelaçamentos quântico de si mesmo, isso é, manipular átomos para replicarem seus movimentos, criar ou mover entrelaçamentos não custa mana, mas as ações dos mesmos(EX: realizar um feitiço) sim, entrelaçamentos não podem carregar itens, receber dano destrói todos os entrelaçamentos
 - Thirdth: Tânatos
-	- Custo 50% MPMAX(17.553) | HP 4xCusto(70.210) | Escudo 35.105
+	- Custo 50% MPMAX(35.106) | HP 4xCusto(140.420) | Escudo 70.210
 	- Interpor
 	- Atroz
 	- Energia Vital
@@ -87,7 +87,9 @@ magia: 2
 	- Fumaça Especial III
 	- Sentidos Especiais: Radar
 	- Escudo(4)
-	- **Aurea Mortal(5+86)**: através de radiação magica, Causa 435 dano por turno há inimigos "próximos"
+	- **Aurea Mortal(5+86)**: através de radiação magica, Causa 425 dano por turno há inimigos "próximos"
+	- Mimetismo do criador: esse third usas as estatisticas de seu mestre em rolamentos
+	- Substituição reversa: na forma de um teleporte, o mestre pode trocar de lugar com seu third, pode ser usado como reação a um ataque, assim o third irá contra atacar ao invés do usuário
 	- Técnicas
 		- Expurgo
 			- Custo 155 | Dano 155
@@ -99,12 +101,14 @@ magia: 2
 			- Custo 400 | Dano 400
 			- Vorpal
 - Thirdth: Tiamat
-	- 1410 dano base | Custo 50% MPMAX -> 17.553
+	- 1400 dano base | Custo 50% MPMAX -> 35.106
 	- Destruição em massa planejada: ao executar um ataque, Tiamat pode efetivamente copiar esse ataque em cada uma de suas cabeças
 	- Como uma hydra: ao receber danos a cabeça, ela se duplicará
 	- absorção celeste: como ação comun, o usuario pode recuperar mana equivalente a 1 ataque basico
 	- infinito: semelhante a controle de energia, pode colocar sua mana para tranformar diretamente em mana
 	- Sesciência: essa criatura possui grande inteligencia, permitindo-a ter um turno separado de seu invocador
+	- Mimetismo do criador: esse third usas as estatisticas de seu mestre em rolamentos
+	- Substituição reversa: na forma de um teleporte, o mestre pode trocar de lugar com seu third, pode ser usado como reação a um ataque, assim o third irá contra atacar ao invés do usuário
 	- Superação
 	- Parceria: Tânatos
 	- Ataque oportuno
@@ -130,7 +134,7 @@ magia: 2
 	- forma de katana: crit na HAB(HAB+FOC), Dano +1000, Perigoso II
 	- Forma Disperta
 		- Dano +2800
-		-  Hélio-Source: ficar exposto ao sol 10% da MPMAX(3.510) por turno, ficar com a mana completa concede um escudo de 30% do MPMAX(10.532)
+		-  Hélio-Source: ficar exposto ao sol 10% da MPMAX(7.020) por turno, ficar com a mana completa concede um escudo de 30% do MPMAX(21.060)
 		- Aquecimento: recuperar mana com **Hélio-Source** ou causar dano de forma consecutiva aumenta o dano do arco
 		- Penetrante
 		- 3x Dano
