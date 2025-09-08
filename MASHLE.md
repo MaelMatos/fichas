@@ -87,7 +87,7 @@ magia: 2
 	- Fumaça Especial III
 	- Sentidos Especiais: Radar
 	- Escudo(4)
-	- **Aurea Mortal(5+46)**: através de radiação magica, Causa 235 dano por turno há inimigos "próximos"
+	- **Aurea Mortal(5+86)**: através de radiação magica, Causa 435 dano por turno há inimigos "próximos"
 	- Técnicas
 		- Expurgo
 			- Custo 155 | Dano 155
