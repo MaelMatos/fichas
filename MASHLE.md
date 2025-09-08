@@ -99,7 +99,7 @@ magia: 2
 			- Custo 400 | Dano 400
 			- Vorpal
 - Thirdth: Tiamat
-	- 1210 dano base | Custo 50% MPMAX -> 17.553
+	- 1410 dano base | Custo 50% MPMAX -> 17.553
 	- Destruição em massa planejada: ao executar um ataque, Tiamat pode efetivamente copiar esse ataque em cada uma de suas cabeças
 	- Como uma hydra: ao receber danos a cabeça, ela se duplicará
 	- absorção celeste: como ação comun, o usuario pode recuperar mana equivalente a 1 ataque basico
