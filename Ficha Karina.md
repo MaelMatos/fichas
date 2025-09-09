@@ -17,10 +17,16 @@ Reiryoku(energia):
 # Inventário
 
 # Vantagens(1)
+- Base de Operações
+- Inimigo: Hollow
 - Sentidos especiais: Radar
+- Toque de Energia
 
 # Desvantagens (1)
+- Coração Fraco
+- Frágil
 - Ponto Fraco II: The Firewall não funciona abaixo do usuário
+- Tamanho Especial
 
 # Gambitos
 - Obediência
