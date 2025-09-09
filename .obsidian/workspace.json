@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MASHLE.md",
+                "file": "Ficha Karina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MASHLE"
+              "title": "Ficha Karina"
             }
           },
           {
@@ -222,8 +222,8 @@
   },
   "active": "540d0946c76c07ae",
   "lastOpenFiles": [
-    "katana.md",
     "MASHLE.md",
+    "katana.md",
     "legite medieval.md",
     "Ficha Karina.md",
     "ficha_mashle.md",
