@@ -34,6 +34,6 @@ Reiryoku(energia):
 # Técnicas
 
 # Pericias(6)
-Kenjutsu(marcial): 
-Kido(magia): 
-Reatsu(poder):
+Kenjutsu(marcial): 2
+Kido(magia): 1
+Reatsu(poder): 3
