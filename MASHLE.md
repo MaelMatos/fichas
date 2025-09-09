@@ -163,7 +163,7 @@ magia: 2
 - Flecha de cristal negro com sigilo de destruição em massa
 	- dano 2000 | selo atual 1.3x | +0.1x a cada 2 selos destruicao em massa usados (limit 15.0x)
 - Poção de descanso longo x3
-- selo de vitalidade
+
 
 ## vantagens:
 * Aceleração(3)
