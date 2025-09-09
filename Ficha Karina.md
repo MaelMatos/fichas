@@ -7,12 +7,12 @@ Reiryoku |
 Schrift: The Firewall: cria uma área de reishi ao seu redor que danifica os tecidos físicos e espirituais, semelhante a radiação para queles que a adentram sem permissão explicita.
 
 # Atributos(22)
-Força:   
+Força: 5  
 Habilidade:   
-Resistencia:    
+Resistencia: 5   
 Poder de Fogo:    
-Vontade:   
-Reiryoku(energia):   
+Vontade: 2  
+Reiryoku(energia): 5  
 
 # Inventário
 
