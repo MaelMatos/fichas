@@ -7,8 +7,9 @@ Vida: 0
 Mana: 27.890/31.070 + 26.890/39.140
 Controle : 1.070/31.070  + 5.638/39.140
 Shield: 21.064/21.064 + 21.064/21.064
-CA: 432
+CA: 3573
 katana 5730
+## Forma ativa com voto
 
 5.378 cada turno
 
