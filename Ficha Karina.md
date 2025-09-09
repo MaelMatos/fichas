@@ -33,6 +33,8 @@ Reiryoku(energia): 4
 - Obediência
 
 # Técnicas
+- Redirecionar Defesas
+	- 
 
 
 # Pericias(6)
