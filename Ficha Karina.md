@@ -35,6 +35,8 @@ Reiryoku(energia): 4
 # Técnicas
 - Scheinwerfer
 	- Custo 5 | focaliza The Firewall, em uma direção, aumentando o dano(x2) e o alcance
+- Invocação do Arco Sagrado
+	- Custa 5 | 3 Dano
 
 
 # Pericias(6)
