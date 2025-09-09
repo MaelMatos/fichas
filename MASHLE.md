@@ -10,7 +10,7 @@ Shield: 21.064/21.064 + 21.064/21.064
 CA: 3573
 katana 5730
 ## Forma ativa com voto
-HP: 
+HP: 199.377/199.377
 resistencia:627 
 habilidade:3490
 inteligencia:3000
@@ -20,11 +20,11 @@ força:350
 
 5.378 cada turno
 
-## Tânatos
+## ~~Tânatos~~
 MP: 34.151/35.106
 HP: 30.124/140.420
 SHield: 0/70.210
-## Tiamat
+## ~~Tiamat~~
 MP: 2.606/35.106
 HP: 33.114/35.106
 Shield: 17.552/17.552
@@ -81,7 +81,7 @@ magia: 2
 	- The God Of Death: Causa 10% do hp máximo do alvo como dano 
 	- Voto Restritivo: não pode ser usado com armas, +50% dano
 	- Pergaminho da eras: esse selo quando criado se torna um item, a eficacia dele aumenta com o decorrer do tempo
-- Área de batalha: Estrela de elétrons
+- Área de batalha: Projeto Manhatham
 	- custo 10% MPMAX(7.020) | 4 Rodada
 	- Pela duração da área, todos dentro dela são confinados de forma que ela se torne inescapavel e intransponivel, além disso todas as formas de danos são anuladas em seus alvos, ao invés disso, esse dano é acumulado no centro da área, em um objeto inamovível que se assemelha com o demon core, no fim da duração, antes da barreira desaparecer, o nucleo detonará, causando o dano total acumulado a todos dentro da área,
 	- Efeitos penalizadores são garantidos para o núcleo, de forma que ele receba, por consequencia acumule, sempre o dano maximo possivel
