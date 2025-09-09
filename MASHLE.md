@@ -5,7 +5,7 @@ linhas: 3
 casa: vawhalla
 Vida: 0
 Mana: 31.070/31.070 + 39.140/39.140
-Controle : 1.070/31.070  + 5.638/39.140
+Controle : 0/31.070  + 0/39.140
 Shield: 21.064/21.064 + 21.064/21.064
 CA: 3573
 katana 5730
