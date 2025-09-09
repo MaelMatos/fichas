@@ -10,7 +10,7 @@ Shield: 21.064/21.064 + 21.064/21.064
 CA: 3573
 katana 5730
 ## Forma ativa com voto
-HP: 199.377/199.377
+HP: 179.439/179.439
 resistencia:627 
 habilidade:3490
 inteligencia:3000
