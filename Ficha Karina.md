@@ -33,8 +33,8 @@ Reiryoku(energia): 4
 - Obediência
 
 # Técnicas
-- Redirecionar Defesas
-	- 
+- Scheinwerfer
+	- Custo 5 | focaliza The Firewall, em uma direção, aumentando o dano(x2) e o alcance
 
 
 # Pericias(6)
