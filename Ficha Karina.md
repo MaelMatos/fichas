@@ -2,7 +2,7 @@
 Nome:   
 Raça: Quincy
 Dinheiro: 740
-PV |  
+PV |  41/41
 Reiryoku |   
 Schrift: The Firewall: cria uma área de reishi ao seu redor que danifica os tecidos físicos e espirituais, semelhante a radiação para queles que a adentram sem permissão explicita.
 
