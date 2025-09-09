@@ -4,11 +4,15 @@ status social:
 linhas: 3
 casa: vawhalla
 Vida: 0
-Mana: 31.070/31.070 + 39.140/39.140
+Mana: 0/31.070 + 0/39.140
 Controle : 31.070/31.070  + 39.140/39.140
-CA: 228
 Shield: 21.064/21.064
-## ~~Tiamat~~
+
+## Tânatos
+MP: 35.106/35.106
+HP: 140.420/140.420
+SHield: 
+## Tiamat
 MP: 35.106/35.106
 HP: 35.106/35.106
 Shield: 17.552/17.552
