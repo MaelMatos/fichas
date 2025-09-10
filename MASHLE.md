@@ -9,7 +9,7 @@ Controle : 0/31.070  + 0/39.140
 Shield: 21.064/21.064 + 0/21.064
 CA: 3573
 katana 5730
-## Forma ativa com voto
+## ~~Forma ativa com voto~~
 HP: 179.439/179.439
 resistencia:627 
 habilidade:3490
