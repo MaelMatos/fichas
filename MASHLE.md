@@ -11,7 +11,7 @@ CA: 34983
 katana 5730
 
 210.555 hp
-36.580
+35.148
 
 ## Morrigan 
 HP: 4.000.545/4.211.100
@@ -176,7 +176,7 @@ magia: 2
 - Flecha de Indra x11
 - Flecha de cristal negro com sigilo de destruição em massa
 	- dano 2000 | selo atual 1.3x | +0.1x a cada 2 selos destruicao em massa usados (limit 15.0x)
-- Poção de descanso longo x3
+- Poção de descanso longo x2
 
 
 ## vantagens:
