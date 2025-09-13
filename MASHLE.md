@@ -26,7 +26,7 @@ foco:255
 magia: 252
 força:350
 
-5.378 cada turno
+
 
 ## ~~Tânatos~~
 MP: 34.151/35.106
@@ -67,7 +67,7 @@ magia: 2
 	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado | penetrante | preciso | alvo multiplo | dano gigante
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
-	- custo 5%(23.395) MPMAX+10 turno | shield 30%(140.370) MPMAX | 30 HAB 9 FOC | conversão de equipamento e técnica | Manifestação de qualquer fenomeno elétrico
+	- custo 5%(23.395) MPMAX+10 turno | shield 30%(140.370) MPMAX | 30 HAB 9 FOC | conversão de equipamento e técnica | Manifestação de qualquer fenômeno elétrico
 	- super-nova(2)
 		 - custo 70 | dano 70 | em área | cegueira
 - Bomba de hidrogênio
