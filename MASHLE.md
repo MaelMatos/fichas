@@ -4,9 +4,9 @@ status social:
 linhas: 3
 casa: vawhalla
 Vida: 0
-Mana: 0/31.070 + 39.140/39.140
+Mana:10000/31.070 + 39.140/39.140
 Controle : 0/31.070  + 0/39.140
-Shield: 0/21.064 + 0/21.064
+Shield: 21.064/21.064 + 0/21.064
 CA: 34983
 katana 5730
 
