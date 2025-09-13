@@ -4,18 +4,17 @@ status social:
 linhas: 3
 casa: vawhalla
 Vida: 0
-Mana: 234.202/234.202 + 233.698/233.698 +
-Controle : 234.202/234.202 + 233.698/233.698
+Mana: 0/234.202 + 0/233.698 +
+Controle : 233.750/234.202 + 0/233.698
 Shield: 21.064/21.064 + 0/21.064
 CA: 34983
 katana 5730
 
 ## Morrigan 
-HP: 
-MP:
-Shield:
+HP: 4.211.100/4.211.100
+MP: 1.403.700/1.403.700
+Shield: 2.105.550/2.105.550
 
-467.900
 
 ## ~~Forma ativa com voto~~
 HP: 179.439/179.439
