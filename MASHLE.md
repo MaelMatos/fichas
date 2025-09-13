@@ -67,7 +67,7 @@ magia: 2
 	- custo (70) | dano 70 | ataque carregado | vorpal | teleguiado | penetrante | preciso | alvo multiplo | dano gigante
 	- versão de katana(Lamina da destruição): teleguiado->aproximação, ataque carregado->reciclavel
 - Transformação do Dragão do Relâmpago 
-	- custo 5%(3.510) MPMAX+10 turno | shield 30%(21.064) MPMAX | 30 HAB 9 FOC | conversão de equipamento e técnica | Manifestação de qualquer fenomeno eletrico
+	- custo 5%(23.395) MPMAX+10 turno | shield 30%(140.370) MPMAX | 30 HAB 9 FOC | conversão de equipamento e técnica | Manifestação de qualquer fenomeno elétrico
 	- super-nova(2)
 		 - custo 70 | dano 70 | em área | cegueira
 - Bomba de hidrogênio
@@ -160,7 +160,7 @@ magia: 2
 	- forma de katana: crit na HAB(HAB+FOC), Dano +1000, Perigoso II
 	- Forma Disperta
 		- Dano +2800
-		-  Hélio-Source: ficar exposto ao sol 10% da MPMAX(7.020) por turno, ficar com a mana completa concede um escudo de 30% do MPMAX(21.060)
+		-  Hélio-Source: ficar exposto ao sol 10% da MPMAX(46.790) por turno, ficar com a mana completa concede um escudo de 30% do MPMAX(140.370)
 		- Aquecimento: recuperar mana com **Hélio-Source** ou causar dano de forma consecutiva aumenta o dano do arco
 		- Penetrante
 		- 3x Dano
