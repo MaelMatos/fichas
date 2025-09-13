@@ -145,7 +145,7 @@ magia: 2
 	- equipamento digno(5)
 	- perigoso(2)
 	- poderoso(2)
-	- Dano gigante(4)(2/2)(sem debuff)
+	- Dano gigante(4)(1/2)(sem debuff)
 	- Penetrante(1)
 	- Teleguiado(3)
 	- Vorpal III
