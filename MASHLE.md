@@ -10,8 +10,9 @@ Shield: 21.064/21.064 + 0/21.064
 CA: 34983
 katana 5730
 
-210.555 hp
-35.148
+210.555 hp 5%  Morrigan
+10k regen Morrigan
+35.148 reenergização varinha
 
 ## Morrigan 
 HP: 4.000.545/4.211.100
