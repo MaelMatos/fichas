@@ -6,7 +6,7 @@ casa: vawhalla
 Vida: 0
 Mana: 234.202/234.202 + 13.000/233.698 +
 Controle : 233.750/234.202 + 0/233.698
-Shield: 0/21.064 + 0/21.064
+Shield: 210.555/210.555 + 0/21.064
 CA: 34983
 katana 5730
 
@@ -53,7 +53,7 @@ Shield: 17.552/17.552
 ## atributos (105)
 força: 0
 resistência: 0
-habilidade: 100 + (30) +(15) = 145
+habilidade: 100 + (300) +(15) = 415
 inteligência: 37
 foco: 470+235 = 
 magia: 2
