@@ -12,11 +12,11 @@ katana 235530
 
 210.555 hp 5%  Morrigan
 10k regen Morrigan
-34.000 reenergização varinha
+34.000 reenergização varinha-> 204k
 
 
 ## Morrigan 
-HP: 2.947.770/2.947.770
+HP: 1.947.770/2.947.770
 Hp1: 421.110/421.110
 Hp2: 421.110/421.110
 Hp3: 421.110/421.110
