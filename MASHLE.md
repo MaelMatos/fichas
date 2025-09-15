@@ -12,7 +12,7 @@ katana 5730
 
 210.555 hp 5%  Morrigan
 10k regen Morrigan
-35.148 reenergização varinha
+34.000 reenergização varinha
 
 ## Morrigan 
 HP: 2.947.770/2.947.770
@@ -168,9 +168,9 @@ magia: 2
 	- dreno de mana
 	- forma de katana: crit na HAB(HAB+FOC), Dano +1000, Perigoso II
 	- Forma Disperta
-		- Dano +2800
+		- Dano +7300
 		-  Hélio-Source: ficar exposto ao sol 10% da MPMAX(46.790) por turno, ficar com a mana completa concede um escudo de 30% do MPMAX(140.370)
-		- Aquecimento: recuperar mana com **Hélio-Source** ou causar dano de forma consecutiva aumenta o dano do arco
+		- Aquecimento: recuperar mana com **Hélio-Source** ou causar dano de forma consecutiva aumenta o dano do arco em 1,2x
 		- Penetrante
 		- 3x Dano
 		- Custo = Dano Base/4
