@@ -55,7 +55,7 @@ força: 0
 resistência: 0
 habilidade: 100 + (30) +(15) = 145
 inteligência: 37
-foco: 470+235 = 255
+foco: 470+235 = 
 magia: 2
 
 ## pericias:
