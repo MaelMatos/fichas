@@ -210,3 +210,37 @@ magia: 2
 
 Casa valhalla:
 efeito: proposito individual: o torna um gênio em seu atributo mais alto, testes com ele terão vantagem e a estatistica receberá um bonus de 50%
+
+
+## Thirds: Morrigan(11)
+- Custo 150% MPMAX | HP 6x Custo | MP 2x Custo | Escudo 3x Custo | 2300 dano base
+- Interpor
+- Atroz
+- Energia Vital
+- Parceria III
+- Membro Elásticos
+- Equipamento: 
+        - Dano 205 | Área | Impiedoso
+- Força Oculta
+- Monstruoso
+- Fumaça Especial III
+- Escudo(4)
+- Superação
+- sacrificio vital
+- Ataque oportuno
+- Doador: Mana
+- **Aurea Mortal**: através de radiação magica, Causa 425 dano por turno há inimigos "próximos"
+- **Mimetismo do criador**: esse third usas as estatisticas de seu mestre em rolamentos
+- **Substituição reversa**: na forma de um teleporte, o mestre pode trocar de lugar com seu third, pode ser usado como reação a um ataque, assim o third irá contra atacar ao invés do usuário
+- **Destruição em massa planejada**: ao executar um ataque, Morrigan pode efetivamente copiar esse ataque em cada uma de suas cabeças
+- **Como uma hydra**: ao receber danos a cabeça, ela se duplicará
+- **absorção celeste**: como ação comun, o usuario pode recuperar mana equivalente a 1 ataque basico
+- **infinito**: semelhante a controle de energia, pode colocar sua mana para tranformar diretamente em mana
+- **Sesciência**: essa criatura possui grande inteligencia, permitindo-a ter um turno separado de seu invocador
+- **Corações**: 30% da vida de Morrigan está em cada um de seus 3 corações, receber dano que a deixaria abaixo dessa vida não causa dano se não atingir os corações 
+- **Seppuku**: como ação extra, Morrigan pode sacrificar 5% do HPMAX(30% dos corações não inclusos) para destruir uma de suas cabeças, ativando como uma hydra
+- **Parasitagem**: Morrigan tem um efeito de regeneração, que tem sua vida recuperada numa proporção 1:1 do custo pago por turno do usuário em MP
+- **Decaimento avançado**: ser exposto por mais de 3 turnos a **Aura mortal** aplica enfraquecimento, que aumenta o efeito a cada turno,
+- Técnicas
+    - Canhão de destruição em massa concedido pelos céus
+        - Custo 1000 | Dano 1000 | Ataque carregado | Area | Dano Gigante | Irrefreavel | Vorpal | Impiedoso | Penetrante | Reciclavel | Espiritual
