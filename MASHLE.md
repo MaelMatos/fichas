@@ -7,8 +7,8 @@ Vida: 0
 Mana: 0/234.202 + 0/233.698 +
 Controle : 0/234.202 + 0/233.698
 Shield: 210.555/210.555 + 0/21.064
-CA: 
-katana 235530-
+CA: 4283
+katana 339.163
 
 210.555 hp 5%  Morrigan
 10k regen Morrigan
