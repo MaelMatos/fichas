@@ -179,7 +179,7 @@ magia: 2
 - ~~bomba de gás torturante~~
 - Flecha de Indra x10
 - Flecha de cristal negro com sigilo de destruição em massa
-	- dano 2000 | selo atual 1.3x | +0.1x a cada 2 selos destruicao em massa usados (limit 15.0x)
+	- dano 2000 | selo atual 1.4x | +0.1x a cada 2 selos destruicao em massa usados (limit 15.0x)
 - Poção de descanso longo x2
 
 
