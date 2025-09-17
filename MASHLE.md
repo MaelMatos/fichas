@@ -8,7 +8,7 @@ Mana: 234.202/234.202 + 233.698/233.698 +
 Controle : 0/234.202 + 0/233.698
 Shield: 210.555/210.555 + 140.370/140.370
 CA: 4283
-katana 703.287
+katana 31.700
 
 210.555 hp 5%  Morrigan
 10k regen Morrigan
