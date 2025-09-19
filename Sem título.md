@@ -1,1 +1,1 @@
-mudando um pouco de assunto, quais elementos posso colocar no hueco mundo? pensei em deixar um grande laboratorio no meio do deserto em
+mudando um pouco de assunto, quais elementos posso colocar no hueco mundo? pensei em deixar um grande laboratorio no meio do deserto do hueco mundo, lá dentro teria tubos com seres amalgamos de hollows e almas comuns, bem como uma papelada com algumas anotações de aizen sobre o que posteriormente se tornarão os espadas e o 
