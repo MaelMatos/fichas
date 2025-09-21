@@ -25,10 +25,13 @@ Energia
 - Sangramento em ataques de espada(Estilo de luta)
 - Determinação Inabalavel(Raça)
 - Genialidade(Raça)
+- 
 
 # Desvantagens 1
+ - Má Fama
 
 # Gambitos
+- Gula
 
 # Perícias +1
 Combate Armado () 0/10, Força ou Habilidade
