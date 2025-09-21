@@ -9,12 +9,12 @@ Movimento - (7m base, 14m em disparada)
 
 # Atributos 10
 Força 1+1
-Habilidade 2+3
+Habilidade 3+3
 Poder de Fogo 1
 Resistência +1
 Inteligência 3
 Vontade 2
-Energia 1
+Energia 3
 
 # Inventário 2
 
