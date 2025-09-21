@@ -28,7 +28,7 @@ Energia
 - Memoria Espandida(Free)
 
 # Desvantagens 1
- - Má Fama
+ - Procurado
 
 # Gambitos
 - Gula
