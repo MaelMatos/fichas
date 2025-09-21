@@ -45,7 +45,7 @@ Entretenimento () 0/10, Vontade
 Intimidação () 0/10, Vontade ou Força
 Investigação () 0/10, Inteligência
 Intuição () 0/10, Vontade
-[Akuma no Mi] () 0/10, Vontade, Força ou Poder de Fogo
+[Akuma no Mi] (1) 0/10, Vontade, Força ou Poder de Fogo
 [Haki do Armamento] () 0/10, Vontade ou Inteligência
 [Haki da Visão] () 0/10, Vontade ou Habilidade
 [Haki do Rei] () 0/10, Vontade
