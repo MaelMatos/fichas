@@ -53,8 +53,8 @@ Alquimia () 0/10, Inteligência
 Criação () 0/10, Força ou Inteligência
 Timonaria () 0/10, Habilidade ou Força
 Medicina () 0/10, Inteligência
-Prestidigitação () 0/10, Habilidade
-Sobrevivência () 0/10, Habilidade ou Inteligência
+Prestidigitação (+1) 0/10, Habilidade
+Sobrevivência (+1) 0/10, Habilidade ou Inteligência
 Liderança () 0/10, Vontade ou Inteligência
 
 Anotações Gerais
