@@ -21,7 +21,8 @@ Energia
 # Técnicas 2
   
 # Vantagens 1
-- 
+- Equipamento(Estilo de luta)
+- Sangramento em ataques de espada(Estilo de luta)
 
 # Desvantagens 1
 
