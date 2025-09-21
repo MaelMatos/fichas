@@ -9,19 +9,20 @@ Movimento - (7m base, 14m em disparada)
 
 # Atributos 10
 Força 2
-Habilidade 6
+Habilidade 6+3
 Poder de Fogo 1
 Resistência 1
 Inteligência 3
-Vontade 2
+Vontade 2+3
 Energia 3
 
 # Inventário 2
 - Faca Dekai+
-	- Dano | Equipamento Digno
+	- Dano 7 | Equipamento Digno
 - Roupa de cozinheiro(Armadura Leve)
-- Diario
-	- Instrutor
+	- +3 HAB
+- Chapéu de pensar
+	- +3 VON
 
 
 # Técnicas 2
