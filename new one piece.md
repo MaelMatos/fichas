@@ -8,13 +8,13 @@ Berries - 
 Movimento - (7m base, 14m em disparada)
 
 # Atributos 10
-Força +1
-Habilidade +3
-Poder de Fogo 
+Força 1+1
+Habilidade 2+3
+Poder de Fogo 1
 Resistência +1
-Inteligência 
-Vontade 
-Energia
+Inteligência 3
+Vontade 2
+Energia 1
 
 # Inventário 2
 
