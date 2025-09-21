@@ -25,7 +25,7 @@ Energia
 - Sangramento em ataques de espada(Estilo de luta)
 - Determinação Inabalavel(Raça)
 - Genialidade(Raça)
-- 
+- Memoria Espandida(Free)
 
 # Desvantagens 1
  - Má Fama
