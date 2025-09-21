@@ -43,7 +43,7 @@ Acrobacia () 0/10, Habilidade
 Furtividade () 0/10, Habilidade
 Percepção () 0/10, Habilidade
 Enganação () 0/10, Vontade
-Persuasão (1) 0/10, Vontade
+Persuasão () 0/10, Vontade
 Negociação () 0/10, Vontade
 Entretenimento () 0/10, Vontade
 Intimidação () 0/10, Vontade ou Força
@@ -53,7 +53,7 @@ Intuição () 0/10, Vontade
 [Haki do Armamento] () 0/10, Vontade ou Inteligência
 [Haki da Visão] () 0/10, Vontade ou Habilidade
 [Haki do Rei] () 0/10, Vontade
-Alquimia () 0/10, Inteligência
+Alquimia (1) 0/10, Inteligência
 Criação (1) 0/10, Força ou Inteligência
 Timonaria () 0/10, Habilidade ou Força
 Medicina () 0/10, Inteligência
