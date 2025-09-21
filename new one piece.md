@@ -1,7 +1,7 @@
 Nome - 
 Raça - 
 Estilo de Combate - Ittoryu
-Profissão - 
+Profissão - Cozinheiro
 HP | 
 Energia | 
 Berries - 
@@ -23,12 +23,14 @@ Energia
 # Vantagens 1
 - Equipamento(Estilo de luta)
 - Sangramento em ataques de espada(Estilo de luta)
+- Determinação Inabalavel(Raça)
+- Genialidade(Raça)
 
 # Desvantagens 1
 
 # Gambitos
 
-# Perícias 
+# Perícias +1
 Combate Armado () 0/10, Força ou Habilidade
 Combate Desarmado () 0/10, Força ou Habilidade
 Combate Á Distância () 0/10, Poder de Fogo
