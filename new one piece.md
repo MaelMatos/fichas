@@ -1,6 +1,6 @@
 Nome - 
 Raça - 
-Estilo de Combate - 
+Estilo de Combate - Ittoryu
 Profissão - 
 HP | 
 Energia | 
@@ -8,10 +8,10 @@ Berries - 
 Movimento - (7m base, 14m em disparada)
 
 # Atributos 10
-Força 
-Habilidade 
+Força +1
+Habilidade +3
 Poder de Fogo 
-Resistência 
+Resistência +1
 Inteligência 
 Vontade 
 Energia
@@ -21,6 +21,7 @@ Energia
 # Técnicas 2
   
 # Vantagens 1
+- 
 
 # Desvantagens 1
 
