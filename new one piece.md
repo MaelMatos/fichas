@@ -17,9 +17,12 @@ Vontade 2
 Energia 3
 
 # Inventário 2
+- Faca Dekai+
+	- Dano | Equipamento Digno
 
 
 # Técnicas 2
+- 
   
 # Vantagens 1
 - Equipamento(Estilo de luta)
