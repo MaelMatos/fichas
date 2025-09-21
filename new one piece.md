@@ -1,0 +1,56 @@
+Nome - 
+Raça - 
+Estilo de Combate - 
+Profissão - 
+HP | 
+Energia | 
+Berries - 
+Movimento - (7m base, 14m em disparada)
+
+# Atributos 10
+Força 
+Habilidade 
+Poder de Fogo 
+Resistência 
+Inteligência 
+Vontade 
+Energia
+
+# Inventário 2
+
+# Técnicas 2
+  
+# Vantagens 1
+
+# Desvantagens 1
+
+# Gambitos
+
+# Perícias 
+Combate Armado () 0/10, Força ou Habilidade
+Combate Desarmado () 0/10, Força ou Habilidade
+Combate Á Distância () 0/10, Poder de Fogo
+Atletismo () 0/10, Força ou Habilidade
+Acrobacia () 0/10, Habilidade
+Furtividade () 0/10, Habilidade
+Percepção () 0/10, Habilidade
+Enganação () 0/10, Vontade
+Persuasão () 0/10, Vontade
+Negociação () 0/10, Vontade
+Entretenimento () 0/10, Vontade
+Intimidação () 0/10, Vontade ou Força
+Investigação () 0/10, Inteligência
+Intuição () 0/10, Vontade
+[Akuma no Mi] () 0/10, Vontade, Força ou Poder de Fogo
+[Haki do Armamento] () 0/10, Vontade ou Inteligência
+[Haki da Visão] () 0/10, Vontade ou Habilidade
+[Haki do Rei] () 0/10, Vontade
+Alquimia () 0/10, Inteligência
+Criação () 0/10, Força ou Inteligência
+Timonaria () 0/10, Habilidade ou Força
+Medicina () 0/10, Inteligência
+Prestidigitação () 0/10, Habilidade
+Sobrevivência () 0/10, Habilidade ou Inteligência
+Liderança () 0/10, Vontade ou Inteligência
+
+Anotações Gerais
