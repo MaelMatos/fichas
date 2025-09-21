@@ -2,16 +2,16 @@ Nome - Linguini Hiruma
 Raça - Humano
 Estilo de Combate - Ittoryu
 Profissão - Cozinheiro
-HP | 
-Energia | 
+HP | 7/7
+Energia | 21/21
 Berries - 
 Movimento - (7m base, 14m em disparada)
 
 # Atributos 10
-Força 1+1
-Habilidade 3+3
+Força 2
+Habilidade 6
 Poder de Fogo 1
-Resistência +1
+Resistência 1
 Inteligência 3
 Vontade 2
 Energia 3
@@ -19,10 +19,16 @@ Energia 3
 # Inventário 2
 - Faca Dekai+
 	- Dano | Equipamento Digno
+- Roupa de cozinheiro(Armadura Leve)
+- Diario
+	- Instrutor
 
 
 # Técnicas 2
-- 
+- oia a faca
+	- Custo 5 | Dano 5
+- linha de corte
+	- Custo 10 | Ponto fraco
   
 # Vantagens 1
 - Equipamento(Estilo de luta)
