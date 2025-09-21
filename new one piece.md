@@ -17,7 +17,7 @@ Vontade 2
 Energia 1
 
 # Inventário 2
-- 
+
 
 # Técnicas 2
   
@@ -25,7 +25,7 @@ Energia 1
 - Equipamento(Estilo de luta)
 - Sangramento em ataques de espada(Estilo de luta)
 - Determinação Inabalavel(Raça)
-- Genialidade(Raça)
+- Genialidade: Akuma no Mi(Raça)
 - Memoria Espandida(Free)
 
 # Desvantagens 1
@@ -49,10 +49,7 @@ Entretenimento () 0/10, Vontade
 Intimidação () 0/10, Vontade ou Força
 Investigação () 0/10, Inteligência
 Intuição () 0/10, Vontade
-[Akuma no Mi] (2) 0/10, Vontade, Força ou Poder de Fogo
-[Haki do Armamento] () 0/10, Vontade ou Inteligência
-[Haki da Visão] () 0/10, Vontade ou Habilidade
-[Haki do Rei] () 0/10, Vontade
+Akuma no Mi (2) 0/10, Vontade, Força ou Poder de Fogo
 Alquimia (1) 0/10, Inteligência
 Criação (1) 0/10, Força ou Inteligência
 Timonaria () 0/10, Habilidade ou Força
