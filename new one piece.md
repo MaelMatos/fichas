@@ -1,5 +1,5 @@
 Nome - 
-Raça - 
+Raça - Humano
 Estilo de Combate - Ittoryu
 Profissão - Cozinheiro
 HP | 
@@ -33,7 +33,7 @@ Energia 1
 # Gambitos
 - Gula
 
-# Perícias +1
+# Perícias 4+1
 Combate Armado () 0/10, Força ou Habilidade
 Combate Desarmado () 0/10, Força ou Habilidade
 Combate Á Distância () 0/10, Poder de Fogo
@@ -60,4 +60,4 @@ Prestidigitação (+1) 0/10, Habilidade
 Sobrevivência (+1) 0/10, Habilidade ou Inteligência
 Liderança () 0/10, Vontade ou Inteligência
 
-Anotações Gerais
+# História
