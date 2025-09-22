@@ -2,8 +2,8 @@ Nome - Linguini Hiruma
 Raça - Humano
 Estilo de Combate - Ittoryu
 Profissão - Cozinheiro
-HP | 4/7
-Energia | 11/21
+HP | 3/7
+Energia | 1/21
 Berries - 
 Movimento - (7m base, 14m em disparada)
 
@@ -47,7 +47,7 @@ Energia 3
 - Gula
 
 # Perícias 4+1
-Combate Armado (1) 1/10, Força ou Habilidade
+Combate Armado (1) 2/10, Força ou Habilidade
 Combate Desarmado () 0/10, Força ou Habilidade
 Combate Á Distância () 0/10, Poder de Fogo
 Atletismo () 0/10, Força ou Habilidade
