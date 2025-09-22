@@ -6,6 +6,7 @@ HP | 3/7
 Energia | 1/21
 Berries - 
 Movimento - (7m base, 14m em disparada)
++1
 
 # Atributos 10
 Força 2
