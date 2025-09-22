@@ -39,6 +39,7 @@ Energia 3
 - Determinação Inabalavel(Raça)
 - Genialidade: Akuma no Mi(Raça)
 - Memoria Espandida(Free)
+- Adaptador(Akuma no Mi)
 
 # Desvantagens 1
  - Procurado
