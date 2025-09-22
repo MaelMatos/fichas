@@ -30,6 +30,8 @@ Energia 3
 	- Custo 5 | Dano 5
 - linha de corte
 	- Custo 10 | Ponto fraco
+- Soco na maldade
+	- Custo 10 | Dano 10
   
 # Vantagens 1
 - Equipamento(Estilo de luta)
