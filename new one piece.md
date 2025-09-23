@@ -1,11 +1,13 @@
 Nome - Linguini Hiruma
+Alcunha - 
+Recompensa -
 Raça - Humano
 Estilo de Combate - Ittoryu
 Profissão - Cozinheiro
 HP | 3/7
 Energia | 1/21
 Berries - 
-Movimento - (7m base, 14m em disparada)
+Movimento - (7m base, 14+HABm(23) em disparada)
 +1
 
 # Atributos 10
