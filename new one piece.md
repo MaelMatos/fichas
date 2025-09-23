@@ -1,6 +1,6 @@
 Nome - Linguini Hiruma
 Alcunha - 
-Recompensa -
+Recompensa - 
 Raça - Humano
 Estilo de Combate - Ittoryu
 Profissão - Cozinheiro
