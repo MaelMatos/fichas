@@ -6,7 +6,7 @@ Estilo de Combate - Ittoryu
 Profissão - Cozinheiro
 HP | 3/7
 Energia | 1/21
-Berries - 
+Berries - 60
 Movimento - (7m base, 14+HABm(23) em disparada)
 +1
 
