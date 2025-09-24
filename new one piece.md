@@ -8,7 +8,7 @@ HP | 3/7
 Energia | 1/21
 Berries - 60
 Movimento - (7m base, 14+HABm(23) em disparada)
-+1
+
 
 # Atributos 10
 Força 2
@@ -16,7 +16,7 @@ Habilidade 6+3
 Poder de Fogo 1
 Resistência 1
 Inteligência 3
-Vontade 2+3
+Vontade 4+3
 Energia 3
 
 # Inventário 2
@@ -65,7 +65,7 @@ Entretenimento () 0/10, Vontade
 Intimidação () 0/10, Vontade ou Força
 Investigação () 0/10, Inteligência
 Intuição () 0/10, Vontade
-Akuma no Mi (3) 4/10, Vontade, Força ou Poder de Fogo
+Akuma no Mi (4) 4/10, Vontade, Força ou Poder de Fogo
 Alquimia (1) 1/10, Inteligência
 Criação (1) 0/10, Força ou Inteligência
 Timonaria () 0/10, Habilidade ou Força
