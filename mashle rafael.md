@@ -14,9 +14,9 @@ Mana:
 Habilidade: 
 Vontade: 
 # Pericias(5)
-Marcial: 
-Mágica: 
-Poder:
+Marcial: 2
+Mágica: 2
+Poder: 1
 # Técnicas(1 de 10 e 1 de 20)
 # Magias
 - Éter(Absoluto)
@@ -26,6 +26,7 @@ Poder:
 # Vantagens(1)
 - Genialidade(Classe)
 - ~~3 Magias iniciais(Classe)~~
+- 
 
 # Desvantagens(1)
 - Sem Estilo de Luta(Classe)
