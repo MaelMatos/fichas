@@ -3,8 +3,8 @@ Nome: Agami-no-Siddarta
 Classe: Two-Liner
 Dinheiro:
 
-HP: 
-MP: 
+HP: 8/8
+MP: 35/35
 
 # Atributos(22)
 Força: 4
@@ -18,6 +18,10 @@ Marcial: 2
 Mágica: 2
 Poder: 1
 # Técnicas(1 de 10 e 1 de 20)
+- Ver com o coração
+	- Custo 10/rodada | Vantagem Radar com curto alcance
+- Estrela Vorpal
+	- Custo 20 | Dano 10 | Reciclavel | Vorpal
 # Magias
 - Éter(Absoluto)
 - ~~Criação~~
