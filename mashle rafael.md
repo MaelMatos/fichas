@@ -23,11 +23,11 @@ Poder:
 - ~~Criação~~
 - ~~Algemas~~
 - ~~99, 98, 97...~~
-# Vantagens
+# Vantagens(1)
 - Genialidade(Classe)
 - ~~3 Magias iniciais(Classe)~~
 
-# Desvantagens
+# Desvantagens(1)
 - Sem Estilo de Luta(Classe)
 - Orgulhoso(Classe)
 
