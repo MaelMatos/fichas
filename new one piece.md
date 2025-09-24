@@ -12,7 +12,7 @@ Movimento - (7m base, 14+HABm(23) em disparada)
 
 # Atributos 10
 Força 2
-Habilidade 6+3 +(4) = 13
+Habilidade 6+3
 Poder de Fogo 1
 Resistência 1
 Inteligência 3
@@ -41,8 +41,10 @@ Energia 3
 - Sangramento em ataques de espada(Estilo de luta)
 - Determinação Inabalavel(Raça)
 - Genialidade: Akuma no Mi(Raça)
+- Suprimentos duram 2x(Profissão)
 - Memoria Espandida(Free)
 - Adaptador(Akuma no Mi)
+- Gasto Controlado(3)
 
 # Desvantagens 1
  - Procurado
