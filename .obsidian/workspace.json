@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f138d1ecd610955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mashle rafael.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mashle rafael"
-            }
-          },
-          {
             "id": "a60d71f84d43731d",
             "type": "leaf",
             "state": {
@@ -34,8 +20,23 @@
               "icon": "lucide-file",
               "title": "new one piece"
             }
+          },
+          {
+            "id": "4449228b660194c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mashle rafael.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mashle rafael"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,12 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f138d1ecd610955",
+  "active": "4449228b660194c1",
   "lastOpenFiles": [
     "new one piece.md",
+    "Medieval RPGzada/loli nazista.md",
+    "Medieval RPGzada/Ficha Impacto das Realidades.canvas",
+    "mashle rafael.md",
     "katana.md",
     "Sem título.md",
-    "mashle rafael.md",
     "2025-03-30.md",
     "imagens/Pasted image 20240915182321.png",
     "imagens/Pasted image 20240922213221.png",
@@ -244,7 +247,6 @@
     "Pasted image 20241013163319.png",
     "Pasted image 20250310081236.png",
     "Medieval RPGzada/Sem título 1.canvas",
-    "Medieval RPGzada/Ficha Impacto das Realidades.canvas",
     "Medieval RPGzada/Aparencia militar.png",
     "Medieval RPGzada",
     "imagens"

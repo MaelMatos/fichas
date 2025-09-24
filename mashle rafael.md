@@ -3,6 +3,8 @@ Nome: Agami-no-Siddarta
 Classe: Two-Liner
 Dinheiro:
 
+3
+
 HP: 8/8
 MP: 35/35
 
@@ -38,6 +40,7 @@ Poder: 1
 - Sem Estilo de Luta(Classe)
 - Orgulhoso(Classe)
 - Insanidade: Fantasia(Free)
+- Alvo(3)
 
 # Gambitos
 - Pacifismo
