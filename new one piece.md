@@ -21,7 +21,7 @@ Energia 3
 
 # Inventário 2
 - Faca Dekai+
-	- Dano 7 | Equipamento Digno
+	- Dano 9 | Equipamento Digno
 - Roupa de cozinheiro(Armadura Leve)
 	- +3 HAB
 - Chapéu de pensar
