@@ -4,15 +4,15 @@ Recompensa -
 Raça - Humano
 Estilo de Combate - Ittoryu
 Profissão - Cozinheiro
-HP | 3/7
-Energia | 1/21
+HP | 7/7
+Energia | 21/21
 Berries - 60
 Movimento - (7m base, 14+HABm(23) em disparada)
 
 
 # Atributos 10
 Força 2
-Habilidade 6+3 +(4)
+Habilidade 6+3 +(4) = 13
 Poder de Fogo 1
 Resistência 1
 Inteligência 3
