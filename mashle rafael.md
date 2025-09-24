@@ -20,6 +20,9 @@ Poder:
 # Técnicas(1 de 10 e 1 de 20)
 # Magias
 - Éter(Absoluto)
+- ~~Criação~~
+- ~~Algemas~~
+- ~~99, 98, 97...~~
 # Vantagens
 - Genialidade(Classe)
 - ~~3 Magias iniciais(Classe)~~
