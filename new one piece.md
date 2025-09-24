@@ -5,7 +5,7 @@ Raça - Humano
 Estilo de Combate - Ittoryu
 Profissão - Cozinheiro
 HP | 7/7
-Energia | 21/21
+Energia | 11/21
 Berries - 60
 Movimento - (7m base, 14+HABm(23) em disparada)
 
