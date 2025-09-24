@@ -1,6 +1,6 @@
 # Info
-Nome: Siddarta 
-Classe:
+Nome: Agami-no-Siddarta 
+Classe: Two-Liner
 Dinheiro:
 
 HP: 
@@ -17,9 +17,13 @@ Vontade:
 Marcial: 
 Mágica: 
 Poder:
+# Técnicas(1 de 10 e 1 de 20)
 # Magias
-
+- Éter(Absoluto)
 # Vantagens
+- Genialidade(Classe)
+- ~~3 Magias iniciais(Classe)~~
+- 
 
 # Desvantagens
 
