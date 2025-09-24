@@ -35,8 +35,7 @@
               "title": "new one piece"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a60d71f84d43731d",
+  "active": "2f138d1ecd610955",
   "lastOpenFiles": [
+    "new one piece.md",
     "katana.md",
     "Sem título.md",
     "mashle rafael.md",
@@ -218,7 +218,6 @@
     "a/resultado.md",
     "a/57.md",
     "a/fujitora.md",
-    "new one piece.md",
     "MASHLE.md",
     "ficha_mashle.md",
     "Ficha Karina.md",

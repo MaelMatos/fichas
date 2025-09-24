@@ -7,12 +7,12 @@ HP:
 MP: 
 
 # Atributos(22)
-Força: 
-Resistência: 
-Magia: 
-Mana: 
-Habilidade: 
-Vontade: 
+Força: 3
+Resistência: 3
+Magia: 3
+Mana: 3
+Habilidade: 3
+Vontade: 3
 # Pericias(5)
 Marcial: 2
 Mágica: 2
@@ -27,6 +27,8 @@ Poder: 1
 - Genialidade(Classe)
 - ~~3 Magias iniciais(Classe)~~
 - Isekai(Free)
+- Determinação Inabalavel(História)
+- Base de Operações 
 
 # Desvantagens(1)
 - Sem Estilo de Luta(Classe)
