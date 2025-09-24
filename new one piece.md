@@ -58,7 +58,7 @@ Furtividade () 0/10, Habilidade
 Percepção () 0/10, Habilidade
 Enganação () 0/10, Vontade
 Persuasão () 0/10, Vontade
-Negociação () 0/10, Vontade
+Negociação () 1/10, Vontade
 Entretenimento () 0/10, Vontade
 Intimidação () 0/10, Vontade ou Força
 Investigação () 0/10, Inteligência
@@ -69,7 +69,7 @@ Criação (1) 0/10, Força ou Inteligência
 Timonaria () 0/10, Habilidade ou Força
 Medicina () 0/10, Inteligência
 Prestidigitação (+1) 0/10, Habilidade
-Sobrevivência (+1) 0/10, Habilidade ou Inteligência
+Sobrevivência (+1) 1/10, Habilidade ou Inteligência
 Liderança () 0/10, Vontade ou Inteligência
 
 # História
