@@ -8,11 +8,9 @@ HP | 7/7
 Energia | 1/21
 Berries - 60
 Movimento - (7m base, 14+HABm(23) em disparada)
-
-
 # Atributos 10
 Força 2
-Habilidade 6+3
+Habilidade 6+3 + (2)
 Poder de Fogo 1
 Resistência 1
 Inteligência 3
@@ -26,8 +24,6 @@ Energia 3
 	- +3 HAB
 - Chapéu de pensar
 	- +3 VON
-
-
 # Técnicas 2
 - oia a faca
 	- Custo 5 | Dano 5
