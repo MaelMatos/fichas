@@ -26,13 +26,15 @@ Poder: 1
 # Vantagens(1)
 - Genialidade(Classe)
 - ~~3 Magias iniciais(Classe)~~
-- 
+- Isekai(Free)
 
 # Desvantagens(1)
 - Sem Estilo de Luta(Classe)
 - Orgulhoso(Classe)
+- Insanidade: Fantasia(Free)
 
 # Gambitos
+- Inveja
 
 
 # Votos
