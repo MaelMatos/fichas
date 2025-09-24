@@ -23,10 +23,14 @@ Poder:
 # Vantagens
 - Genialidade(Classe)
 - ~~3 Magias iniciais(Classe)~~
-- 
 
 # Desvantagens
+- Sem Estilo de Luta(Classe)
+- Orgulhoso(Classe)
 
 # Gambitos
 
+
 # Votos
+- Justiça Cega: enquanto está com os olhos fechados acumula **Poder**, ao abrir os olhos libera esse poder em duas fases, uma imediata na forma de uma onda de choque que pode ser direcionada, e outra na amplificação de suas características pessoais físicas e mágicas
+- Escolhido Pelo Destino: é absolutamente incapaz de aprender e/ou usar qualquer magia que não seja a do éter e seus derivados, mas essa magia não pode ser anulada por método algum, além de ter seus poderes amplificados sempre que o usuário puder aprender uma nova magia(Ex: eu estudo a magia de fogo, ao invés de aprende-la, minha magia de quintessência/éter fica mais forte, isso só funciona uma vez por magia)
