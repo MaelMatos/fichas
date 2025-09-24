@@ -7,11 +7,11 @@ HP:
 MP: 
 
 # Atributos(22)
-Força: 3
-Resistência: 3
+Força: 4
+Resistência: 2
 Magia: 3
-Mana: 3
-Habilidade: 3
+Mana: 5
+Habilidade: 5
 Vontade: 3
 # Pericias(5)
 Marcial: 2
