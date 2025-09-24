@@ -51,7 +51,7 @@ Energia 3
 - Gula
 
 # Perícias 4+1
-Combate Armado (1) 3/10, Força ou Habilidade
+Combate Armado (1) 5/10, Força ou Habilidade
 Combate Desarmado () 0/10, Força ou Habilidade
 Combate Á Distância () 0/10, Poder de Fogo
 Atletismo () 0/10, Força ou Habilidade
@@ -65,7 +65,7 @@ Entretenimento () 0/10, Vontade
 Intimidação () 0/10, Vontade ou Força
 Investigação () 0/10, Inteligência
 Intuição () 0/10, Vontade
-Akuma no Mi (4) 4/10, Vontade, Força ou Poder de Fogo
+Akuma no Mi (4) 5/10, Vontade, Força ou Poder de Fogo
 Alquimia (1) 1/10, Inteligência
 Criação (1) 0/10, Força ou Inteligência
 Timonaria () 0/10, Habilidade ou Força
