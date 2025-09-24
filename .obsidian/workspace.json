@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "afc72d7a12ba9200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mashle rafael.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mashle rafael"
+            }
+          },
+          {
             "id": "a60d71f84d43731d",
             "type": "leaf",
             "state": {
@@ -74,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,10 +258,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f138d1ecd610955",
+  "active": "afc72d7a12ba9200",
   "lastOpenFiles": [
-    "Sem título.md",
     "new one piece.md",
+    "mashle rafael.md",
+    "Sem título.md",
     "MASHLE.md",
     "ficha_mashle.md",
     "Ficha Karina.md",
@@ -271,7 +286,6 @@
     "combate.md",
     "dinastia.md",
     "dragon ball 2.md",
-    "dragon_ball.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Pasted image 20250829202010.png",
