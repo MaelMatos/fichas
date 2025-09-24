@@ -12,7 +12,7 @@ Movimento - (7m base, 14+HABm(23) em disparada)
 
 # Atributos 10
 Força 2
-Habilidade 6+3
+Habilidade 6+3 +(4)
 Poder de Fogo 1
 Resistência 1
 Inteligência 3
