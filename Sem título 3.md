@@ -6,24 +6,27 @@ Antisinergia:
 
 # Frutas
 ## Citricas
-Efeito: 
+Efeito: Vantagem Ataque Multiplo
 Sinergia: 
 Antisinergia:
 ## Banana
-Efeito: 
+Efeito: Vantagem Combo
 Sinergia: 
 Antisinergia:
 
 ## Maçã
-Efeito: 
+Efeito: Vantagem Corpo de ferro
 Sinergia: 
 Antisinergia:
 
 ## Uva
+Efeito: Vantagem Vitalidade
+Sinergia: 
+Antisinergia:
+## Tomate
 Efeito: 
 Sinergia: 
 Antisinergia:
-
 # Legumes
 
 # Verduras
