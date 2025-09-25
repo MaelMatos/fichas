@@ -1,4 +1,4 @@
-Nome - Linguini Hiruma
+Nome - Linguini "Colleman" Hiruma
 Alcunha - 
 Recompensa - 
 Raça - Humano
