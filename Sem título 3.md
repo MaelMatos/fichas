@@ -24,12 +24,50 @@ Efeito: Vantagem Vitalidade
 Sinergia: 
 Antisinergia:
 ## Tomate
-Efeito: 
+Efeito: 3 Usos de Perigoso
 Sinergia: 
 Antisinergia:
 # Legumes
+## Cenoura
+Efeito: 2 Usos de Força Oculta em PDF
+Sinergia: 
+Antisinergia:
+
+## Batata
+Efeito: 2 Usos de Força Oculta em VON
+Sinergia: 
+Antisinergia:
+
+## Abobora
+Efeito: 2 Usos de Força Oculta em RES
+Sinergia: 
+Antisinergia:
+
+## Feijão
+Efeito: 2 Usos de Força Oculta em FOR
+Sinergia: 
+Antisinergia:
 
 # Verduras
+## Brocolis
+Efeito: Aumento Substancial % Todas estatisticas
+Sinergia: 
+Antisinergia: 
+
+## Espinafre
+Efeito: Aumento % FOR
+Sinergia: 
+Antisinergia: 
+
+## Couve
+Efeito: Aumento % RES
+Sinergia: 
+Antisinergia: 
+
+## Alface
+Efeito: Aumento % EN
+Sinergia: 
+Antisinergia: 
 
 # Carne
 ## Bovina
@@ -77,6 +115,11 @@ Antisinergia:
 Efeito: Retira Efeitos e Condições
 Sinergia: 
 Antisinergia:
+
+## Menta
+Efeito: Vantagem Recuperação de Energia
+Sinergia: 
+Antisinergia: 
 # Bebidas
 ## Agua
 Efeito: Bonus de Sinergia
@@ -113,3 +156,22 @@ Efeito: Aplica condição bêbado, Aumento de RES, VON, INT, EN
 Sinergia: 
 Antisinergia:
 # Grãos
+## Arroz
+Efeito: +50% MPMAX
+Sinergia: Feijão
+Antisinergia: 
+
+## Gergelim
+Efeito: Aumento no dano final
+Sinergia: 
+Antisinergia: 
+
+## Trigo
+Efeito: Bonus de Sinergia
+Sinergia: 
+Antisinergia: 
+
+## Milho
+Efeito: Vantagem escudo
+Sinergia: 
+Antisinergia: 
