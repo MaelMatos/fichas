@@ -63,9 +63,9 @@ Entretenimento () 0/10, Vontade
 Intimidação () 0/10, Vontade ou Força
 Investigação () 0/10, Inteligência
 Intuição () 0/10, Vontade
-Akuma no Mi (4) 6/10, Vontade, Força ou Poder de Fogo
+Akuma no Mi (5) 6/10, Vontade, Força ou Poder de Fogo
 Alquimia (1) 1/10, Inteligência
-Criação (1) 1/10, Força ou Inteligência
+Criação (4) 1/10, Força ou Inteligência
 Timonaria () 0/10, Habilidade ou Força
 Medicina () 0/10, Inteligência
 Prestidigitação (+1) 0/10, Habilidade
