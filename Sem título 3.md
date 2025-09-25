@@ -52,6 +52,8 @@ Efeito: Vantagens em acerto
 Sinergia: 
 Antisinergia:
 # Bebidas
+## Agua
+
 ## Café
 Efeito: Recuperação MP
 Sinergia: Açucar, Leite
@@ -63,17 +65,17 @@ Sinergia:
 Antisinergia:
 
 ## Cerveja
-Efeito: 
+Efeito: Aplica condição bêbado, Recuperação total MP e HP
 Sinergia: 
 Antisinergia:
 
 ## Destilados(Vodka, whisky, licor, etc)
-Efeito: 
+Efeito: Aplica condição bêbado, Redução de dano recebido
 Sinergia: 
 Antisinergia:
 
 ## Vinhos(Sidra, Saquê, etc)
-Efeito: 
+Efeito: Aplica condição bêbado, Aumento de RES, VON, INT, EN
 Sinergia: 
 Antisinergia:
 # Grãos
