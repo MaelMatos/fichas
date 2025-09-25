@@ -9,14 +9,14 @@ Energia | 21/21
 Berries - 2260
 Movimento - (7m base, 14+HABm(23) em disparada)
 
-6
+
 # Atributos 10
 Força 2
 Habilidade 6+3 
 Poder de Fogo 1
 Resistência 1
 Inteligência 3
-Vontade 4+3
+Vontade 10+3
 Energia 3
 
 # Inventário 2
