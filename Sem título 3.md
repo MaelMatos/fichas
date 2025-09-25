@@ -1,0 +1,79 @@
+
+Efeito: 
+Sinergia: 
+Antisinergia:
+
+
+# Frutas
+
+# Legumes
+
+# Verduras
+
+# Carne
+## Bovina
+Efeito: Recuperar HP
+Sinergia: 
+Antisinergia:
+
+## Suina
+Efeito: Shield
+Sinergia: 
+Antisinergia:
+
+## Aves
+Efeito: Aumento de FOR
+Sinergia: 
+Antisinergia:
+
+## Frutos do Mar
+Efeito: Aumento de INT
+Sinergia: 
+Antisinergia:
+
+## Ovos
+Efeito: Bonus de Sinergia
+Sinergia: 
+Antisinergia:
+
+# Temperos
+## Açucar
+Efeito: Aumento de HAB
+Sinergia: 
+Antisinergia:
+
+## Sal
+Efeito: Bonus de sinergia
+Sinergia: 
+Antisinergia:
+
+## Pimenta
+Efeito: Vantagens em acerto
+Sinergia: 
+Antisinergia:
+# Bebidas
+## Café
+Efeito: Recuperação MP
+Sinergia: Açucar, Leite
+Antisinergia:
+
+## Leite
+Efeito: Aumento de RES
+Sinergia: 
+Antisinergia:
+
+## Cerveja
+Efeito: 
+Sinergia: 
+Antisinergia:
+
+## Destilados(Vodka, whisky, licor, etc)
+Efeito: 
+Sinergia: 
+Antisinergia:
+
+## Vinhos(Sidra, Saquê, etc)
+Efeito: 
+Sinergia: 
+Antisinergia:
+# Grãos
