@@ -5,6 +5,24 @@ Antisinergia:
 
 
 # Frutas
+## Citricas
+Efeito: 
+Sinergia: 
+Antisinergia:
+## Banana
+Efeito: 
+Sinergia: 
+Antisinergia:
+
+## Maçã
+Efeito: 
+Sinergia: 
+Antisinergia:
+
+## Uva
+Efeito: 
+Sinergia: 
+Antisinergia:
 
 # Legumes
 
@@ -51,8 +69,21 @@ Antisinergia:
 Efeito: Vantagens em acerto
 Sinergia: 
 Antisinergia:
+
+## Gengibre
+Efeito: Retira Efeitos e Condições
+Sinergia: 
+Antisinergia:
 # Bebidas
 ## Agua
+Efeito: Bonus de Sinergia
+Sinergia: 
+Antisinergia:
+
+## Chá
+Efeito: Aumenta drasticamente uma estatística aleatória
+Sinergia: 
+Antisinergia:
 
 ## Café
 Efeito: Recuperação MP
